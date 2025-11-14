@@ -44,8 +44,8 @@ def analyze_problem(problem_data, threshold):
                 if best_time is None or time_minutes < best_time:
                     best_time = time_minutes
 
-                # Check if mastered (independent + fast)
-                if time_minutes <= threshold:
+                # Check if mastered (independent + fast + optimal)
+                if time_minutes <= threshold and attempt.get('optimal', False):
                     tier = 3
 
     return tier, best_time
@@ -208,7 +208,7 @@ def generate_readme(data, threshold):
     tier3_pct = (stats['tier3'] / stats['total'] * 100) if stats['total'] > 0 else 0
     lines.extend([
         '### Tier 3: Mastered 🏆',
-        f'Problems solved independently in ≤{threshold} minutes',
+        f'Problems solved independently in ≤{threshold} minutes with optimal solution',
         '',
         generate_progress_bar(stats['tier3'], stats['total'], '🏆'),
         '',

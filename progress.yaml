@@ -936,6 +936,7 @@ problems:
     - date: '2025-11-13T22:15:03.357623'
       notes: Second attempt with O(k) optimized solution using x & (x-1). Much faster
         than first attempt (1:27 vs 4:00).
+      optimal: true
       solved: true
       submissions: 1
       time_minutes: 2
@@ -1115,7 +1116,15 @@ problems:
     name: Replace and remove
     problem_number: '6.04'
   reverse_bits:
-    attempts: []
+    attempts:
+    - date: '2025-11-14T13:42:48.900818'
+      notes: Brute force O(n) solution - iterate through all 64 bits
+      optimal: false
+      solved: true
+      submissions: 1
+      time_minutes: 3
+      used_hints: false
+      used_solution: false
     chapter: 04_primitive_types
     chapter_name: Primitive Types
     file: epi_judge_python/reverse_bits.py
@@ -1411,6 +1420,7 @@ problems:
   swap_bits:
     attempts:
     - date: '2025-11-14T13:21:05.574520'
+      optimal: true
       solved: true
       submissions: 2
       time_minutes: 6

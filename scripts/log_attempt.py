@@ -19,8 +19,10 @@ import click
               help='Whether you used hints')
 @click.option('--used-solution/--no-used-solution', 'used_solution', default=False,
               help='Whether you looked at the solution')
+@click.option('--optimal/--no-optimal', 'optimal', default=False,
+              help='Whether the solution is optimal (correct complexity)')
 @click.option('--notes', default='', help='Optional notes about the attempt')
-def main(problem_id, time_minutes, submissions, solved, used_hints, used_solution, notes):
+def main(problem_id, time_minutes, submissions, solved, used_hints, used_solution, optimal, notes):
     """Log an attempt for PROBLEM_ID to progress.yaml.
 
     Example:
@@ -58,6 +60,7 @@ def main(problem_id, time_minutes, submissions, solved, used_hints, used_solutio
         'solved': solved,
         'used_hints': used_hints,
         'used_solution': used_solution,
+        'optimal': optimal,
     }
 
     if notes:
@@ -85,6 +88,8 @@ def main(problem_id, time_minutes, submissions, solved, used_hints, used_solutio
         click.echo(f"  Used hints: yes")
     if used_solution:
         click.echo(f"  Used solution: yes")
+    if optimal:
+        click.echo(f"  Optimal: yes")
     if notes:
         click.echo(f"  Notes: {notes}")
 

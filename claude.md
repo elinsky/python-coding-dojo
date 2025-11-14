@@ -13,7 +13,9 @@ Personal progress tracking system for Elements of Programming Interviews in Pyth
 Three-tier progression tracked in `progress.yaml`:
 - **Tier 1 (👍)**: Solved (with or without help)
 - **Tier 2 (💪)**: Independent (no hints, no solution)
-- **Tier 3 (🏆)**: Mastered (independent + ≤20 min, configurable)
+- **Tier 3 (🏆)**: Mastered (independent + ≤20 min + optimal solution)
+
+"Optimal" means correct time/space complexity matching the book's solution.
 
 ## Workflow
 
