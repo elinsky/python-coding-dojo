@@ -283,7 +283,7 @@ Problems solved independently in ≤20 minutes
 | # | Problem | Status | Best Time |
 |---|---------|--------|-----------|
 | 4.00 | Bootcamp: Primitive Types | ✓ |  |
-| 4.01 | Computing the parity of a word | 🏆 | 4 min |
+| 4.01 | Computing the parity of a word | 🏆 | 2 min |
 | 4.02 | Swap bits |  |  |
 | 4.03 | Reverse bits |  |  |
 | 4.04 | Find a closest integer with the same weight |  |  |

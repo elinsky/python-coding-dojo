@@ -933,6 +933,14 @@ problems:
       time_minutes: 4
       used_hints: false
       used_solution: false
+    - date: '2025-11-13T22:15:03.357623'
+      notes: Second attempt with O(k) optimized solution using x & (x-1). Much faster
+        than first attempt (1:27 vs 4:00).
+      solved: true
+      submissions: 1
+      time_minutes: 2
+      used_hints: false
+      used_solution: false
     chapter: 04_primitive_types
     chapter_name: Primitive Types
     file: epi_judge_python/parity.py
