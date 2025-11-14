@@ -1,0 +1,1499 @@
+problems:
+  a_b_sqrt2:
+    attempts: []
+    chapter: 14_binary_search_trees
+    chapter_name: Binary Search Trees
+    file: epi_judge_python/a_b_sqrt2.py
+    name: Enumerate extended integers
+    problem_number: '14.07'
+  absent_value_array:
+    attempts: []
+    chapter: 11_searching
+    chapter_name: Searching
+    file: epi_judge_python/absent_value_array.py
+    name: Find the missing IP address
+    problem_number: '11.09'
+  adding_credits:
+    attempts: []
+    chapter: 14_binary_search_trees
+    chapter_name: Binary Search Trees
+    file: epi_judge_python/adding_credits.py
+    name: Add credits
+    problem_number: '14.11'
+  advance_by_offsets:
+    attempts: []
+    chapter: 05_arrays
+    chapter_name: Arrays
+    file: epi_judge_python/advance_by_offsets.py
+    name: Advancing through an array
+    problem_number: '5.04'
+  alternating_array:
+    attempts: []
+    chapter: 05_arrays
+    chapter_name: Arrays
+    file: epi_judge_python/alternating_array.py
+    name: Computing an alternation
+    problem_number: '5.08'
+  anagrams:
+    attempts: []
+    chapter: 12_hash_tables
+    chapter_name: Hash Tables
+    file: epi_judge_python/anagrams.py
+    name: 'Bootcamp: Hash Tables'
+    problem_number: '12.00'
+  apply_permutation:
+    attempts: []
+    chapter: 05_arrays
+    chapter_name: Arrays
+    file: epi_judge_python/apply_permutation.py
+    name: Permute the elements of an array
+    problem_number: '5.10'
+  arbitrage:
+    attempts: []
+    chapter: 24_honors_class
+    chapter_name: Honors Class
+    file: epi_judge_python/arbitrage.py
+    name: Test if arbitrage is possible
+    problem_number: '24.35'
+  binomial_coefficients:
+    attempts: []
+    chapter: 16_dynamic_programming
+    chapter_name: Dynamic Programming
+    file: epi_judge_python/binomial_coefficients.py
+    name: Compute the binomial coefficients
+    problem_number: '16.04'
+  bonus:
+    attempts: []
+    chapter: 24_honors_class
+    chapter_name: Honors Class
+    file: epi_judge_python/bonus.py
+    name: Compute fair bonuses
+    problem_number: '24.13'
+  bst_from_preorder:
+    attempts: []
+    chapter: 14_binary_search_trees
+    chapter_name: Binary Search Trees
+    file: epi_judge_python/bst_from_preorder.py
+    name: Reconstruct a BST from traversal data
+    problem_number: '14.05'
+  bst_from_sorted_array:
+    attempts: []
+    chapter: 14_binary_search_trees
+    chapter_name: Binary Search Trees
+    file: epi_judge_python/bst_from_sorted_array.py
+    name: Build a minimum height BST from a sorted array
+    problem_number: '14.08'
+  bst_merge:
+    attempts: []
+    chapter: 24_honors_class
+    chapter_name: Honors Class
+    file: epi_judge_python/bst_merge.py
+    name: Merge two BSTs
+    problem_number: '24.21'
+  bst_to_sorted_list:
+    attempts: []
+    chapter: 24_honors_class
+    chapter_name: Honors Class
+    file: epi_judge_python/bst_to_sorted_list.py
+    name: Convert a BST to a sorted doubly linked list
+    problem_number: '24.20'
+  buy_and_sell_stock:
+    attempts: []
+    chapter: 05_arrays
+    chapter_name: Arrays
+    file: epi_judge_python/buy_and_sell_stock.py
+    name: Buy and sell a stock once
+    problem_number: '5.06'
+  buy_and_sell_stock_k_times:
+    attempts: []
+    chapter: 24_honors_class
+    chapter_name: Honors Class
+    file: epi_judge_python/buy_and_sell_stock_k_times.py
+    name: Buy and sell a stock at most k times
+    problem_number: '24.03'
+  buy_and_sell_stock_twice:
+    attempts: []
+    chapter: 05_arrays
+    chapter_name: Arrays
+    file: epi_judge_python/buy_and_sell_stock_twice.py
+    name: Buy and sell a stock twice
+    problem_number: '5.07'
+  calendar_rendering:
+    attempts: []
+    chapter: 13_sorting
+    chapter_name: Sorting
+    file: epi_judge_python/calendar_rendering.py
+    name: Render a calendar
+    problem_number: '13.06'
+  circular_queue:
+    attempts: []
+    chapter: 08_stacks_and_queues
+    chapter_name: Stacks and Queues
+    file: epi_judge_python/circular_queue.py
+    name: Implement a circular queue
+    problem_number: '8.07'
+  closest_int_same_weight:
+    attempts: []
+    chapter: 04_primitive_types
+    chapter_name: Primitive Types
+    file: epi_judge_python/closest_int_same_weight.py
+    name: Find a closest integer with the same weight
+    problem_number: '4.04'
+  collatz_checker:
+    attempts: []
+    chapter: 12_hash_tables
+    chapter_name: Hash Tables
+    file: epi_judge_python/collatz_checker.py
+    name: Test the Collatz conjecture
+    problem_number: '12.11'
+  combinations:
+    attempts: []
+    chapter: 15_recursion
+    chapter_name: Recursion
+    file: epi_judge_python/combinations.py
+    name: Generate all subsets of size k
+    problem_number: '15.06'
+  convert_base:
+    attempts: []
+    chapter: 06_strings
+    chapter_name: Strings
+    file: epi_judge_python/convert_base.py
+    name: Base conversion
+    problem_number: '6.02'
+  copy_posting_list:
+    attempts: []
+    chapter: 24_honors_class
+    chapter_name: Honors Class
+    file: epi_judge_python/copy_posting_list.py
+    name: Copy a postings list
+    problem_number: '24.10'
+  count_bits:
+    attempts:
+    - date: '2025-11-13T19:21:48.654952'
+      notes: First try, needed hint on XOR trick
+      solved: true
+      submissions: 3
+      time_minutes: 15
+      used_hints: true
+      used_solution: false
+    chapter: 04_primitive_types
+    chapter_name: Primitive Types
+    file: epi_judge_python/count_bits.py
+    name: 'Bootcamp: Primitive Types'
+    problem_number: '4.00'
+  count_inversions:
+    attempts: []
+    chapter: 24_honors_class
+    chapter_name: Honors Class
+    file: epi_judge_python/count_inversions.py
+    name: Count inversions
+    problem_number: '24.24'
+  deadlock_detection:
+    attempts: []
+    chapter: 18_graphs
+    chapter_name: Graphs
+    file: epi_judge_python/deadlock_detection.py
+    name: Deadlock detection
+    problem_number: '18.04'
+  defective_jugs:
+    attempts: []
+    chapter: 24_honors_class
+    chapter_name: Honors Class
+    file: epi_judge_python/defective_jugs.py
+    name: Measure with defective jugs
+    problem_number: '24.26'
+  delete_from_list:
+    attempts: []
+    chapter: 07_linked_lists
+    chapter_name: Linked Lists
+    file: epi_judge_python/delete_from_list.py
+    name: 'Bootcamp: Linked Lists'
+    problem_number: '7.00'
+  delete_kth_last_from_list:
+    attempts: []
+    chapter: 07_linked_lists
+    chapter_name: Linked Lists
+    file: epi_judge_python/delete_kth_last_from_list.py
+    name: Remove the kth last element from a list
+    problem_number: '7.07'
+  delete_node_from_list:
+    attempts: []
+    chapter: 07_linked_lists
+    chapter_name: Linked Lists
+    file: epi_judge_python/delete_node_from_list.py
+    name: Delete a node from a singly linked list
+    problem_number: '7.06'
+  descendant_and_ancestor_in_bst:
+    attempts: []
+    chapter: 14_binary_search_trees
+    chapter_name: Binary Search Trees
+    file: epi_judge_python/descendant_and_ancestor_in_bst.py
+    name: Test if three BST nodes are totally ordered
+    problem_number: '14.09'
+  directory_path_normalization:
+    attempts: []
+    chapter: 08_stacks_and_queues
+    chapter_name: Stacks and Queues
+    file: epi_judge_python/directory_path_normalization.py
+    name: Normalize pathnames
+    problem_number: '8.04'
+  do_lists_overlap:
+    attempts: []
+    chapter: 07_linked_lists
+    chapter_name: Linked Lists
+    file: epi_judge_python/do_lists_overlap.py
+    name: Test for overlapping lists---lists may have cycles
+    problem_number: '7.05'
+  do_terminated_lists_overlap:
+    attempts: []
+    chapter: 07_linked_lists
+    chapter_name: Linked Lists
+    file: epi_judge_python/do_terminated_lists_overlap.py
+    name: Test for overlapping lists---lists are cycle-free
+    problem_number: '7.04'
+  drawing_skyline:
+    attempts: []
+    chapter: 24_honors_class
+    chapter_name: Honors Class
+    file: epi_judge_python/drawing_skyline.py
+    name: Draw the skyline
+    problem_number: '24.25'
+  dutch_national_flag:
+    attempts: []
+    chapter: 05_arrays
+    chapter_name: Arrays
+    file: epi_judge_python/dutch_national_flag.py
+    name: The Dutch national flag problem
+    problem_number: '5.01'
+  element_appearing_once:
+    attempts: []
+    chapter: 24_honors_class
+    chapter_name: Honors Class
+    file: epi_judge_python/element_appearing_once.py
+    name: Find an element that appears only once
+    problem_number: '24.17'
+  enumerate_balanced_parentheses:
+    attempts: []
+    chapter: 15_recursion
+    chapter_name: Recursion
+    file: epi_judge_python/enumerate_balanced_parentheses.py
+    name: Generate strings of matched parens
+    problem_number: '15.07'
+  enumerate_palindromic_decompositions:
+    attempts: []
+    chapter: 15_recursion
+    chapter_name: Recursion
+    file: epi_judge_python/enumerate_palindromic_decompositions.py
+    name: Generate palindromic decompositions
+    problem_number: '15.08'
+  enumerate_trees:
+    attempts: []
+    chapter: 15_recursion
+    chapter_name: Recursion
+    file: epi_judge_python/enumerate_trees.py
+    name: Generate binary trees
+    problem_number: '15.09'
+  euclidean_gcd:
+    attempts: []
+    chapter: 15_recursion
+    chapter_name: Recursion
+    file: epi_judge_python/euclidean_gcd.py
+    name: 'Bootcamp: Recursion'
+    problem_number: '15.00'
+  evaluate_rpn:
+    attempts: []
+    chapter: 08_stacks_and_queues
+    chapter_name: Stacks and Queues
+    file: epi_judge_python/evaluate_rpn.py
+    name: Evaluate RPN expressions
+    problem_number: '8.02'
+  even_odd_array:
+    attempts: []
+    chapter: 05_arrays
+    chapter_name: Arrays
+    file: epi_judge_python/even_odd_array.py
+    name: 'Bootcamp: Arrays'
+    problem_number: '5.00'
+  even_odd_list_merge:
+    attempts: []
+    chapter: 07_linked_lists
+    chapter_name: Linked Lists
+    file: epi_judge_python/even_odd_list_merge.py
+    name: Implement even-odd merge
+    problem_number: '7.10'
+  fibonacci:
+    attempts: []
+    chapter: 16_dynamic_programming
+    chapter_name: Dynamic Programming
+    file: epi_judge_python/fibonacci.py
+    name: 'Bootcamp: Dynamic Programming'
+    problem_number: '16.00'
+  find_salary_threshold:
+    attempts: []
+    chapter: 13_sorting
+    chapter_name: Sorting
+    file: epi_judge_python/find_salary_threshold.py
+    name: Compute a salary threshold
+    problem_number: '13.12'
+  first_missing_positive_entry:
+    attempts: []
+    chapter: 24_honors_class
+    chapter_name: Honors Class
+    file: epi_judge_python/first_missing_positive_entry.py
+    name: Find the first missing positive entry
+    problem_number: '24.02'
+  gcd:
+    attempts: []
+    chapter: 24_honors_class
+    chapter_name: Honors Class
+    file: epi_judge_python/gcd.py
+    name: Compute the greatest common divisor
+    problem_number: '24.01'
+  graph_clone:
+    attempts: []
+    chapter: 18_graphs
+    chapter_name: Graphs
+    file: epi_judge_python/graph_clone.py
+    name: Clone a graph
+    problem_number: '18.05'
+  gray_code:
+    attempts: []
+    chapter: 15_recursion
+    chapter_name: Recursion
+    file: epi_judge_python/gray_code.py
+    name: Compute a Gray code
+    problem_number: '15.11'
+  group_equal_entries:
+    attempts: []
+    chapter: 13_sorting
+    chapter_name: Sorting
+    file: epi_judge_python/group_equal_entries.py
+    name: Partitioning and sorting an array with many repeated entries
+    problem_number: '13.09'
+  h_index:
+    attempts: []
+    chapter: 13_sorting
+    chapter_name: Sorting
+    file: epi_judge_python/h_index.py
+    name: Computing the h-index
+    problem_number: '13.03'
+  hanoi:
+    attempts: []
+    chapter: 15_recursion
+    chapter_name: Recursion
+    file: epi_judge_python/hanoi.py
+    name: The Towers of Hanoi problem
+    problem_number: '15.01'
+  huffman_coding:
+    attempts: []
+    chapter: 24_honors_class
+    chapter_name: Honors Class
+    file: epi_judge_python/huffman_coding.py
+    name: Implement Huffman coding
+    problem_number: '24.30'
+  insert_operators_in_string:
+    attempts: []
+    chapter: 24_honors_class
+    chapter_name: Honors Class
+    file: epi_judge_python/insert_operators_in_string.py
+    name: Synthesize an expression
+    problem_number: '24.23'
+  int_as_array_increment:
+    attempts: []
+    chapter: 05_arrays
+    chapter_name: Arrays
+    file: epi_judge_python/int_as_array_increment.py
+    name: Increment an arbitrary-precision integer
+    problem_number: '5.02'
+  int_as_array_multiply:
+    attempts: []
+    chapter: 05_arrays
+    chapter_name: Arrays
+    file: epi_judge_python/int_as_array_multiply.py
+    name: Multiply two arbitrary-precision integers
+    problem_number: '5.03'
+  int_as_list_add:
+    attempts: []
+    chapter: 07_linked_lists
+    chapter_name: Linked Lists
+    file: epi_judge_python/int_as_list_add.py
+    name: Add list-based integers
+    problem_number: '7.13'
+  int_square_root:
+    attempts: []
+    chapter: 11_searching
+    chapter_name: Searching
+    file: epi_judge_python/int_square_root.py
+    name: Compute the integer square root
+    problem_number: '11.04'
+  intersect_sorted_arrays:
+    attempts: []
+    chapter: 13_sorting
+    chapter_name: Sorting
+    file: epi_judge_python/intersect_sorted_arrays.py
+    name: Compute the intersection of two sorted arrays
+    problem_number: '13.01'
+  interval_add:
+    attempts: []
+    chapter: 13_sorting
+    chapter_name: Sorting
+    file: epi_judge_python/interval_add.py
+    name: Merging intervals
+    problem_number: '13.07'
+  intervals_union:
+    attempts: []
+    chapter: 13_sorting
+    chapter_name: Sorting
+    file: epi_judge_python/intervals_union.py
+    name: Compute the union of intervals
+    problem_number: '13.08'
+  is_anonymous_letter_constructible:
+    attempts: []
+    chapter: 12_hash_tables
+    chapter_name: Hash Tables
+    file: epi_judge_python/is_anonymous_letter_constructible.py
+    name: Is an anonymous letter constructible?
+    problem_number: '12.02'
+  is_array_dominated:
+    attempts: []
+    chapter: 13_sorting
+    chapter_name: Sorting
+    file: epi_judge_python/is_array_dominated.py
+    name: Team photo day---1
+    problem_number: '13.10'
+  is_circuit_wirable:
+    attempts: []
+    chapter: 18_graphs
+    chapter_name: Graphs
+    file: epi_judge_python/is_circuit_wirable.py
+    name: Making wired connections
+    problem_number: '18.06'
+  is_list_cyclic:
+    attempts: []
+    chapter: 07_linked_lists
+    chapter_name: Linked Lists
+    file: epi_judge_python/is_list_cyclic.py
+    name: Test for cyclicity
+    problem_number: '7.03'
+  is_list_palindromic:
+    attempts: []
+    chapter: 07_linked_lists
+    chapter_name: Linked Lists
+    file: epi_judge_python/is_list_palindromic.py
+    name: Test whether a singly linked list is palindromic
+    problem_number: '7.11'
+  is_number_palindromic:
+    attempts: []
+    chapter: 04_primitive_types
+    chapter_name: Primitive Types
+    file: epi_judge_python/is_number_palindromic.py
+    name: Check if a decimal integer is a palindrome
+    problem_number: '4.09'
+  is_string_decomposable_into_words:
+    attempts: []
+    chapter: 16_dynamic_programming
+    chapter_name: Dynamic Programming
+    file: epi_judge_python/is_string_decomposable_into_words.py
+    name: Building a search index for domains
+    problem_number: '16.07'
+  is_string_in_matrix:
+    attempts: []
+    chapter: 16_dynamic_programming
+    chapter_name: Dynamic Programming
+    file: epi_judge_python/is_string_in_matrix.py
+    name: Search for a sequence in a 2D array
+    problem_number: '16.05'
+  is_string_palindromic:
+    attempts: []
+    chapter: 06_strings
+    chapter_name: Strings
+    file: epi_judge_python/is_string_palindromic.py
+    name: 'Bootcamp: Strings'
+    problem_number: '6.00'
+  is_string_palindromic_punctuation:
+    attempts: []
+    chapter: 06_strings
+    chapter_name: Strings
+    file: epi_judge_python/is_string_palindromic_punctuation.py
+    name: Test palindromicity
+    problem_number: '6.05'
+  is_string_permutable_to_palindrome:
+    attempts: []
+    chapter: 12_hash_tables
+    chapter_name: Hash Tables
+    file: epi_judge_python/is_string_permutable_to_palindrome.py
+    name: Test for palindromic permutations
+    problem_number: '12.01'
+  is_tree_a_bst:
+    attempts: []
+    chapter: 14_binary_search_trees
+    chapter_name: Binary Search Trees
+    file: epi_judge_python/is_tree_a_bst.py
+    name: Test if a binary tree satisfies the BST property
+    problem_number: '14.01'
+  is_tree_balanced:
+    attempts: []
+    chapter: 09_binary_trees
+    chapter_name: Binary Trees
+    file: epi_judge_python/is_tree_balanced.py
+    name: Test if a binary tree is height-balanced
+    problem_number: '9.01'
+  is_tree_symmetric:
+    attempts: []
+    chapter: 09_binary_trees
+    chapter_name: Binary Trees
+    file: epi_judge_python/is_tree_symmetric.py
+    name: Test if a binary tree is symmetric
+    problem_number: '9.02'
+  is_valid_parenthesization:
+    attempts: []
+    chapter: 08_stacks_and_queues
+    chapter_name: Stacks and Queues
+    file: epi_judge_python/is_valid_parenthesization.py
+    name: Is a string well-formed?
+    problem_number: '8.03'
+  is_valid_sudoku:
+    attempts: []
+    chapter: 05_arrays
+    chapter_name: Arrays
+    file: epi_judge_python/is_valid_sudoku.py
+    name: The Sudoku checker problem
+    problem_number: '5.17'
+  k_closest_stars:
+    attempts: []
+    chapter: 10_heaps
+    chapter_name: Heaps
+    file: epi_judge_python/k_closest_stars.py
+    name: Compute the k closest stars
+    problem_number: '10.04'
+  k_largest_in_heap:
+    attempts: []
+    chapter: 10_heaps
+    chapter_name: Heaps
+    file: epi_judge_python/k_largest_in_heap.py
+    name: Compute the k largest elements in a max-heap
+    problem_number: '10.06'
+  k_largest_values_in_bst:
+    attempts: []
+    chapter: 14_binary_search_trees
+    chapter_name: Binary Search Trees
+    file: epi_judge_python/k_largest_values_in_bst.py
+    name: Find the k largest elements in a BST
+    problem_number: '14.03'
+  knapsack:
+    attempts: []
+    chapter: 16_dynamic_programming
+    chapter_name: Dynamic Programming
+    file: epi_judge_python/knapsack.py
+    name: The knapsack problem
+    problem_number: '16.06'
+  kth_largest_element_in_long_array:
+    attempts: []
+    chapter: 24_honors_class
+    chapter_name: Honors Class
+    file: epi_judge_python/kth_largest_element_in_long_array.py
+    name: Find the kth largest element---large n, small k
+    problem_number: '24.16'
+  kth_largest_element_in_two_sorted_arrays:
+    attempts: []
+    chapter: 24_honors_class
+    chapter_name: Honors Class
+    file: epi_judge_python/kth_largest_element_in_two_sorted_arrays.py
+    name: Search in two sorted arrays
+    problem_number: '24.15'
+  kth_largest_in_array:
+    attempts: []
+    chapter: 11_searching
+    chapter_name: Searching
+    file: epi_judge_python/kth_largest_in_array.py
+    name: Find the kth largest element
+    problem_number: '11.08'
+  kth_node_in_tree:
+    attempts: []
+    chapter: 09_binary_trees
+    chapter_name: Binary Trees
+    file: epi_judge_python/kth_node_in_tree.py
+    name: Compute the kth node in an inorder traversal
+    problem_number: '9.08'
+  largest_rectangle_under_skyline:
+    attempts: []
+    chapter: 17_greedy_algorithms_and_invariants
+    chapter_name: Greedy Algorithms and Invariants
+    file: epi_judge_python/largest_rectangle_under_skyline.py
+    name: Compute the largest rectangle under the skyline
+    problem_number: '17.08'
+  left_right_justify_text:
+    attempts: []
+    chapter: 24_honors_class
+    chapter_name: Honors Class
+    file: epi_judge_python/left_right_justify_text.py
+    name: Justify text
+    problem_number: '24.08'
+  levenshtein_distance:
+    attempts: []
+    chapter: 16_dynamic_programming
+    chapter_name: Dynamic Programming
+    file: epi_judge_python/levenshtein_distance.py
+    name: Compute the Levenshtein distance
+    problem_number: '16.02'
+  line_through_most_points:
+    attempts: []
+    chapter: 24_honors_class
+    chapter_name: Honors Class
+    file: epi_judge_python/line_through_most_points.py
+    name: Find the line through the most points
+    problem_number: '24.18'
+  list_cyclic_right_shift:
+    attempts: []
+    chapter: 07_linked_lists
+    chapter_name: Linked Lists
+    file: epi_judge_python/list_cyclic_right_shift.py
+    name: Implement cyclic right shift for singly linked lists
+    problem_number: '7.09'
+  longest_contained_interval:
+    attempts: []
+    chapter: 12_hash_tables
+    chapter_name: Hash Tables
+    file: epi_judge_python/longest_contained_interval.py
+    name: Find the length of a longest contained interval
+    problem_number: '12.09'
+  longest_increasing_subarray:
+    attempts: []
+    chapter: 24_honors_class
+    chapter_name: Honors Class
+    file: epi_judge_python/longest_increasing_subarray.py
+    name: Compute the longest contiguous increasing subarray
+    problem_number: '24.05'
+  longest_nondecreasing_subsequence:
+    attempts: []
+    chapter: 16_dynamic_programming
+    chapter_name: Dynamic Programming
+    file: epi_judge_python/longest_nondecreasing_subsequence.py
+    name: Find the longest nondecreasing subsequence
+    problem_number: '16.12'
+  longest_subarray_with_distinct_values:
+    attempts: []
+    chapter: 12_hash_tables
+    chapter_name: Hash Tables
+    file: epi_judge_python/longest_subarray_with_distinct_values.py
+    name: Find the longest subarray with distinct entries
+    problem_number: '12.08'
+  longest_subarray_with_sum_constraint:
+    attempts: []
+    chapter: 24_honors_class
+    chapter_name: Honors Class
+    file: epi_judge_python/longest_subarray_with_sum_constraint.py
+    name: Find the longest subarray with sum constraint
+    problem_number: '24.33'
+  longest_substring_with_matching_parentheses:
+    attempts: []
+    chapter: 24_honors_class
+    chapter_name: Honors Class
+    file: epi_judge_python/longest_substring_with_matching_parentheses.py
+    name: Compute the longest substring with matching parens
+    problem_number: '24.11'
+  look_and_say:
+    attempts: []
+    chapter: 06_strings
+    chapter_name: Strings
+    file: epi_judge_python/look_and_say.py
+    name: The look-and-say problem
+    problem_number: '6.07'
+  lowest_common_ancestor:
+    attempts: []
+    chapter: 09_binary_trees
+    chapter_name: Binary Trees
+    file: epi_judge_python/lowest_common_ancestor.py
+    name: Compute the lowest common ancestor in a binary tree
+    problem_number: '9.03'
+  lowest_common_ancestor_close_ancestor:
+    attempts: []
+    chapter: 12_hash_tables
+    chapter_name: Hash Tables
+    file: epi_judge_python/lowest_common_ancestor_close_ancestor.py
+    name: Compute the LCA, optimizing for close ancestors
+    problem_number: '12.04'
+  lowest_common_ancestor_in_bst:
+    attempts: []
+    chapter: 14_binary_search_trees
+    chapter_name: Binary Search Trees
+    file: epi_judge_python/lowest_common_ancestor_in_bst.py
+    name: Compute the LCA in a BST
+    problem_number: '14.04'
+  lowest_common_ancestor_with_parent:
+    attempts: []
+    chapter: 09_binary_trees
+    chapter_name: Binary Trees
+    file: epi_judge_python/lowest_common_ancestor_with_parent.py
+    name: Compute the LCA when nodes have parent pointers
+    problem_number: '9.04'
+  lru_cache:
+    attempts: []
+    chapter: 12_hash_tables
+    chapter_name: Hash Tables
+    file: epi_judge_python/lru_cache.py
+    name: Implement an ISBN cache
+    problem_number: '12.03'
+  majority_element:
+    attempts: []
+    chapter: 17_greedy_algorithms_and_invariants
+    chapter_name: Greedy Algorithms and Invariants
+    file: epi_judge_python/majority_element.py
+    name: Find the majority element
+    problem_number: '17.05'
+  making_change:
+    attempts: []
+    chapter: 17_greedy_algorithms_and_invariants
+    chapter_name: Greedy Algorithms and Invariants
+    file: epi_judge_python/making_change.py
+    name: 'Bootcamp: Greedy Algorithms and Invariants'
+    problem_number: '17.00'
+  matrix_connected_regions:
+    attempts: []
+    chapter: 18_graphs
+    chapter_name: Graphs
+    file: epi_judge_python/matrix_connected_regions.py
+    name: Paint a Boolean matrix
+    problem_number: '18.02'
+  matrix_enclosed_regions:
+    attempts: []
+    chapter: 18_graphs
+    chapter_name: Graphs
+    file: epi_judge_python/matrix_enclosed_regions.py
+    name: Compute enclosed regions
+    problem_number: '18.03'
+  matrix_rotation:
+    attempts: []
+    chapter: 05_arrays
+    chapter_name: Arrays
+    file: epi_judge_python/matrix_rotation.py
+    name: Rotate a 2D array
+    problem_number: '5.19'
+  max_of_sliding_window:
+    attempts: []
+    chapter: 24_honors_class
+    chapter_name: Honors Class
+    file: epi_judge_python/max_of_sliding_window.py
+    name: Compute the maximum of a sliding window
+    problem_number: '24.12'
+  max_product_all_but_one:
+    attempts: []
+    chapter: 24_honors_class
+    chapter_name: Honors Class
+    file: epi_judge_python/max_product_all_but_one.py
+    name: Compute the maximum product of all entries but one
+    problem_number: '24.04'
+  max_safe_height:
+    attempts: []
+    chapter: 24_honors_class
+    chapter_name: Honors Class
+    file: epi_judge_python/max_safe_height.py
+    name: Determine the critical height
+    problem_number: '24.28'
+  max_square_submatrix:
+    attempts: []
+    chapter: 24_honors_class
+    chapter_name: Honors Class
+    file: epi_judge_python/max_square_submatrix.py
+    name: Find the maximum 2D subarray
+    problem_number: '24.29'
+  max_teams_in_photograph:
+    attempts: []
+    chapter: 18_graphs
+    chapter_name: Graphs
+    file: epi_judge_python/max_teams_in_photograph.py
+    name: Team photo day---2
+    problem_number: '18.08'
+  max_trapped_water:
+    attempts: []
+    chapter: 17_greedy_algorithms_and_invariants
+    chapter_name: Greedy Algorithms and Invariants
+    file: epi_judge_python/max_trapped_water.py
+    name: Compute the maximum water trapped by a pair of vertical lines
+    problem_number: '17.07'
+  max_water_trappable:
+    attempts: []
+    chapter: 24_honors_class
+    chapter_name: Honors Class
+    file: epi_judge_python/max_water_trappable.py
+    name: Trapping water
+    problem_number: '24.31'
+  maximum_subarray_in_circular_array:
+    attempts: []
+    chapter: 24_honors_class
+    chapter_name: Honors Class
+    file: epi_judge_python/maximum_subarray_in_circular_array.py
+    name: Compute the maximum subarray sum in a circular array
+    problem_number: '24.27'
+  minimum_distance_3_sorted_arrays:
+    attempts: []
+    chapter: 14_binary_search_trees
+    chapter_name: Binary Search Trees
+    file: epi_judge_python/minimum_distance_3_sorted_arrays.py
+    name: Find the closest entries in three sorted arrays
+    problem_number: '14.06'
+  minimum_points_covering_intervals:
+    attempts: []
+    chapter: 17_greedy_algorithms_and_invariants
+    chapter_name: Greedy Algorithms and Invariants
+    file: epi_judge_python/minimum_points_covering_intervals.py
+    name: The interval covering problem
+    problem_number: '17.03'
+  minimum_waiting_time:
+    attempts: []
+    chapter: 17_greedy_algorithms_and_invariants
+    chapter_name: Greedy Algorithms and Invariants
+    file: epi_judge_python/minimum_waiting_time.py
+    name: Schedule to minimize waiting time
+    problem_number: '17.02'
+  minimum_weight_path_in_a_triangle:
+    attempts: []
+    chapter: 16_dynamic_programming
+    chapter_name: Dynamic Programming
+    file: epi_judge_python/minimum_weight_path_in_a_triangle.py
+    name: Find the minimum weight path in a triangle
+    problem_number: '16.08'
+  n_queens:
+    attempts: []
+    chapter: 15_recursion
+    chapter_name: Recursion
+    file: epi_judge_python/n_queens.py
+    name: Generate all nonattacking placements of n-Queens
+    problem_number: '15.03'
+  nearest_repeated_entries:
+    attempts: []
+    chapter: 12_hash_tables
+    chapter_name: Hash Tables
+    file: epi_judge_python/nearest_repeated_entries.py
+    name: Find the nearest repeated entries in an array
+    problem_number: '12.05'
+  next_permutation:
+    attempts: []
+    chapter: 05_arrays
+    chapter_name: Arrays
+    file: epi_judge_python/next_permutation.py
+    name: Compute the next permutation
+    problem_number: '5.11'
+  nonuniform_random_number:
+    attempts: []
+    chapter: 05_arrays
+    chapter_name: Arrays
+    file: epi_judge_python/nonuniform_random_number.py
+    name: Generate nonuniform random numbers
+    problem_number: '5.16'
+  number_of_score_combinations:
+    attempts: []
+    chapter: 16_dynamic_programming
+    chapter_name: Dynamic Programming
+    file: epi_judge_python/number_of_score_combinations.py
+    name: Count the number of score combinations
+    problem_number: '16.01'
+  number_of_traversals_matrix:
+    attempts: []
+    chapter: 16_dynamic_programming
+    chapter_name: Dynamic Programming
+    file: epi_judge_python/number_of_traversals_matrix.py
+    name: Count the number of ways to traverse a 2D array
+    problem_number: '16.03'
+  number_of_traversals_staircase:
+    attempts: []
+    chapter: 16_dynamic_programming
+    chapter_name: Dynamic Programming
+    file: epi_judge_python/number_of_traversals_staircase.py
+    name: Count the number of moves to climb stairs
+    problem_number: '16.10'
+  offline_sampling:
+    attempts: []
+    chapter: 05_arrays
+    chapter_name: Arrays
+    file: epi_judge_python/offline_sampling.py
+    name: Sample offline data
+    problem_number: '5.12'
+  online_median:
+    attempts: []
+    chapter: 10_heaps
+    chapter_name: Heaps
+    file: epi_judge_python/online_median.py
+    name: Compute the median of online data
+    problem_number: '10.05'
+  online_sampling:
+    attempts: []
+    chapter: 05_arrays
+    chapter_name: Arrays
+    file: epi_judge_python/online_sampling.py
+    name: Sample online data
+    problem_number: '5.13'
+  parity:
+    attempts: []
+    chapter: 04_primitive_types
+    chapter_name: Primitive Types
+    file: epi_judge_python/parity.py
+    name: Computing the parity of a word
+    problem_number: '4.01'
+  pascal_triangle:
+    attempts: []
+    chapter: 05_arrays
+    chapter_name: Arrays
+    file: epi_judge_python/pascal_triangle.py
+    name: Compute rows in Pascal's Triangle
+    problem_number: '5.20'
+  path_sum:
+    attempts: []
+    chapter: 09_binary_trees
+    chapter_name: Binary Trees
+    file: epi_judge_python/path_sum.py
+    name: Find a root to leaf path with specified sum
+    problem_number: '9.06'
+  permutations:
+    attempts: []
+    chapter: 15_recursion
+    chapter_name: Recursion
+    file: epi_judge_python/permutations.py
+    name: Generate permutations
+    problem_number: '15.04'
+  phone_number_mnemonic:
+    attempts: []
+    chapter: 15_recursion
+    chapter_name: Recursion
+    file: epi_judge_python/phone_number_mnemonic.py
+    name: Compute all mnemonics for a phone number
+    problem_number: '15.02'
+  picking_up_coins:
+    attempts: []
+    chapter: 16_dynamic_programming
+    chapter_name: Dynamic Programming
+    file: epi_judge_python/picking_up_coins.py
+    name: Pick up coins for maximum gain
+    problem_number: '16.09'
+  pivot_list:
+    attempts: []
+    chapter: 07_linked_lists
+    chapter_name: Linked Lists
+    file: epi_judge_python/pivot_list.py
+    name: Implement list pivoting
+    problem_number: '7.12'
+  power_set:
+    attempts: []
+    chapter: 15_recursion
+    chapter_name: Recursion
+    file: epi_judge_python/power_set.py
+    name: Generate the power set
+    problem_number: '15.05'
+  power_x_y:
+    attempts: []
+    chapter: 04_primitive_types
+    chapter_name: Primitive Types
+    file: epi_judge_python/power_x_y.py
+    name: Compute pow(x,y)
+    problem_number: '4.07'
+  pretty_printing:
+    attempts: []
+    chapter: 16_dynamic_programming
+    chapter_name: Dynamic Programming
+    file: epi_judge_python/pretty_printing.py
+    name: The pretty printing problem
+    problem_number: '16.11'
+  prime_sieve:
+    attempts: []
+    chapter: 05_arrays
+    chapter_name: Arrays
+    file: epi_judge_python/prime_sieve.py
+    name: Enumerate all primes to n
+    problem_number: '5.09'
+  primitive_divide:
+    attempts: []
+    chapter: 04_primitive_types
+    chapter_name: Primitive Types
+    file: epi_judge_python/primitive_divide.py
+    name: Compute quotient without arithmetical operators
+    problem_number: '4.06'
+  primitive_multiply:
+    attempts: []
+    chapter: 04_primitive_types
+    chapter_name: Primitive Types
+    file: epi_judge_python/primitive_multiply.py
+    name: Compute product without arithmetical operators
+    problem_number: '4.05'
+  queue_from_stacks:
+    attempts: []
+    chapter: 08_stacks_and_queues
+    chapter_name: Stacks and Queues
+    file: epi_judge_python/queue_from_stacks.py
+    name: Implement a queue using stacks
+    problem_number: '8.08'
+  queue_with_max:
+    attempts: []
+    chapter: 08_stacks_and_queues
+    chapter_name: Stacks and Queues
+    file: epi_judge_python/queue_with_max.py
+    name: Implement a queue with max API
+    problem_number: '8.09'
+  random_permutation:
+    attempts: []
+    chapter: 05_arrays
+    chapter_name: Arrays
+    file: epi_judge_python/random_permutation.py
+    name: Compute a random permutation
+    problem_number: '5.14'
+  random_subset:
+    attempts: []
+    chapter: 05_arrays
+    chapter_name: Arrays
+    file: epi_judge_python/random_subset.py
+    name: Compute a random subset
+    problem_number: '5.15'
+  range_lookup_in_bst:
+    attempts: []
+    chapter: 14_binary_search_trees
+    chapter_name: Binary Search Trees
+    file: epi_judge_python/range_lookup_in_bst.py
+    name: The range lookup problem
+    problem_number: '14.10'
+  real_square_root:
+    attempts: []
+    chapter: 11_searching
+    chapter_name: Searching
+    file: epi_judge_python/real_square_root.py
+    name: Compute the real square root
+    problem_number: '11.05'
+  rectangle_intersection:
+    attempts: []
+    chapter: 04_primitive_types
+    chapter_name: Primitive Types
+    file: epi_judge_python/rectangle_intersection.py
+    name: Rectangle intersection
+    problem_number: '4.11'
+  refueling_schedule:
+    attempts: []
+    chapter: 17_greedy_algorithms_and_invariants
+    chapter_name: Greedy Algorithms and Invariants
+    file: epi_judge_python/refueling_schedule.py
+    name: The gasup problem
+    problem_number: '17.06'
+  regular_expression:
+    attempts: []
+    chapter: 24_honors_class
+    chapter_name: Honors Class
+    file: epi_judge_python/regular_expression.py
+    name: Implement regular expression matching
+    problem_number: '24.22'
+  remove_duplicates:
+    attempts: []
+    chapter: 13_sorting
+    chapter_name: Sorting
+    file: epi_judge_python/remove_duplicates.py
+    name: Remove first-name duplicates
+    problem_number: '13.04'
+  remove_duplicates_from_sorted_list:
+    attempts: []
+    chapter: 07_linked_lists
+    chapter_name: Linked Lists
+    file: epi_judge_python/remove_duplicates_from_sorted_list.py
+    name: Remove duplicates from a sorted list
+    problem_number: '7.08'
+  replace_and_remove:
+    attempts: []
+    chapter: 06_strings
+    chapter_name: Strings
+    file: epi_judge_python/replace_and_remove.py
+    name: Replace and remove
+    problem_number: '6.04'
+  reverse_bits:
+    attempts: []
+    chapter: 04_primitive_types
+    chapter_name: Primitive Types
+    file: epi_judge_python/reverse_bits.py
+    name: Reverse bits
+    problem_number: '4.03'
+  reverse_digits:
+    attempts: []
+    chapter: 04_primitive_types
+    chapter_name: Primitive Types
+    file: epi_judge_python/reverse_digits.py
+    name: Reverse digits
+    problem_number: '4.08'
+  reverse_sublist:
+    attempts: []
+    chapter: 07_linked_lists
+    chapter_name: Linked Lists
+    file: epi_judge_python/reverse_sublist.py
+    name: Reverse a single sublist
+    problem_number: '7.02'
+  reverse_words:
+    attempts: []
+    chapter: 06_strings
+    chapter_name: Strings
+    file: epi_judge_python/reverse_words.py
+    name: Reverse all the words in a sentence
+    problem_number: '6.06'
+  road_network:
+    attempts: []
+    chapter: 24_honors_class
+    chapter_name: Honors Class
+    file: epi_judge_python/road_network.py
+    name: Road network
+    problem_number: '24.34'
+  roman_to_integer:
+    attempts: []
+    chapter: 06_strings
+    chapter_name: Strings
+    file: epi_judge_python/roman_to_integer.py
+    name: Convert from Roman to decimal
+    problem_number: '6.08'
+  rook_attack:
+    attempts: []
+    chapter: 24_honors_class
+    chapter_name: Honors Class
+    file: epi_judge_python/rook_attack.py
+    name: Identify positions attacked by rooks
+    problem_number: '24.07'
+  rotate_array:
+    attempts: []
+    chapter: 24_honors_class
+    chapter_name: Honors Class
+    file: epi_judge_python/rotate_array.py
+    name: Rotate an array
+    problem_number: '24.06'
+  run_length_compression:
+    attempts: []
+    chapter: 06_strings
+    chapter_name: Strings
+    file: epi_judge_python/run_length_compression.py
+    name: Implement run-length encoding
+    problem_number: '6.11'
+  search_entry_equal_to_index:
+    attempts: []
+    chapter: 11_searching
+    chapter_name: Searching
+    file: epi_judge_python/search_entry_equal_to_index.py
+    name: Search a sorted array for entry equal to its index
+    problem_number: '11.02'
+  search_first_greater_value_in_bst:
+    attempts: []
+    chapter: 14_binary_search_trees
+    chapter_name: Binary Search Trees
+    file: epi_judge_python/search_first_greater_value_in_bst.py
+    name: Find the first key greater than a given value in a BST
+    problem_number: '14.02'
+  search_first_key:
+    attempts: []
+    chapter: 11_searching
+    chapter_name: Searching
+    file: epi_judge_python/search_first_key.py
+    name: Search a sorted array for first occurrence of k
+    problem_number: '11.01'
+  search_for_min_max_in_array:
+    attempts: []
+    chapter: 11_searching
+    chapter_name: Searching
+    file: epi_judge_python/search_for_min_max_in_array.py
+    name: Find the min and max simultaneously
+    problem_number: '11.07'
+  search_for_missing_element:
+    attempts: []
+    chapter: 11_searching
+    chapter_name: Searching
+    file: epi_judge_python/search_for_missing_element.py
+    name: Find the duplicate and missing elements
+    problem_number: '11.10'
+  search_frequent_items:
+    attempts: []
+    chapter: 24_honors_class
+    chapter_name: Honors Class
+    file: epi_judge_python/search_frequent_items.py
+    name: The heavy hitter problem
+    problem_number: '24.32'
+  search_in_bst:
+    attempts: []
+    chapter: 14_binary_search_trees
+    chapter_name: Binary Search Trees
+    file: epi_judge_python/search_in_bst.py
+    name: 'Bootcamp: Binary Search Trees'
+    problem_number: '14.00'
+  search_maze:
+    attempts: []
+    chapter: 18_graphs
+    chapter_name: Graphs
+    file: epi_judge_python/search_maze.py
+    name: Search a maze
+    problem_number: '18.01'
+  search_row_col_sorted_matrix:
+    attempts: []
+    chapter: 11_searching
+    chapter_name: Searching
+    file: epi_judge_python/search_row_col_sorted_matrix.py
+    name: Search in a 2D sorted array
+    problem_number: '11.06'
+  search_shifted_sorted_array:
+    attempts: []
+    chapter: 11_searching
+    chapter_name: Searching
+    file: epi_judge_python/search_shifted_sorted_array.py
+    name: Search a cyclically sorted array
+    problem_number: '11.03'
+  search_unknown_length_array:
+    attempts: []
+    chapter: 24_honors_class
+    chapter_name: Honors Class
+    file: epi_judge_python/search_unknown_length_array.py
+    name: Search a sorted array of unknown length
+    problem_number: '24.14'
+  smallest_nonconstructible_value:
+    attempts: []
+    chapter: 13_sorting
+    chapter_name: Sorting
+    file: epi_judge_python/smallest_nonconstructible_value.py
+    name: Smallest nonconstructible value
+    problem_number: '13.05'
+  smallest_subarray_covering_all_values:
+    attempts: []
+    chapter: 12_hash_tables
+    chapter_name: Hash Tables
+    file: epi_judge_python/smallest_subarray_covering_all_values.py
+    name: Find smallest subarray sequentially covering all values
+    problem_number: '12.07'
+  smallest_subarray_covering_set:
+    attempts: []
+    chapter: 12_hash_tables
+    chapter_name: Hash Tables
+    file: epi_judge_python/smallest_subarray_covering_set.py
+    name: Find the smallest subarray covering all values
+    problem_number: '12.06'
+  snake_string:
+    attempts: []
+    chapter: 06_strings
+    chapter_name: Strings
+    file: epi_judge_python/snake_string.py
+    name: Write a string sinusoidally
+    problem_number: '6.10'
+  sort_almost_sorted_array:
+    attempts: []
+    chapter: 10_heaps
+    chapter_name: Heaps
+    file: epi_judge_python/sort_almost_sorted_array.py
+    name: Sort an almost-sorted array
+    problem_number: '10.03'
+  sort_increasing_decreasing_array:
+    attempts: []
+    chapter: 10_heaps
+    chapter_name: Heaps
+    file: epi_judge_python/sort_increasing_decreasing_array.py
+    name: Sort an increasing-decreasing array
+    problem_number: '10.02'
+  sort_list:
+    attempts: []
+    chapter: 13_sorting
+    chapter_name: Sorting
+    file: epi_judge_python/sort_list.py
+    name: Implement a fast sorting algorithm for lists
+    problem_number: '13.11'
+  sorted_array_remove_dups:
+    attempts: []
+    chapter: 05_arrays
+    chapter_name: Arrays
+    file: epi_judge_python/sorted_array_remove_dups.py
+    name: Delete duplicates from a sorted array
+    problem_number: '5.05'
+  sorted_arrays_merge:
+    attempts: []
+    chapter: 10_heaps
+    chapter_name: Heaps
+    file: epi_judge_python/sorted_arrays_merge.py
+    name: Merge sorted files
+    problem_number: '10.01'
+  sorted_list_to_bst:
+    attempts: []
+    chapter: 24_honors_class
+    chapter_name: Honors Class
+    file: epi_judge_python/sorted_list_to_bst.py
+    name: Convert a sorted doubly linked list into a BST
+    problem_number: '24.19'
+  sorted_lists_merge:
+    attempts: []
+    chapter: 07_linked_lists
+    chapter_name: Linked Lists
+    file: epi_judge_python/sorted_lists_merge.py
+    name: Merge two sorted lists
+    problem_number: '7.01'
+  spiral_ordering:
+    attempts: []
+    chapter: 05_arrays
+    chapter_name: Arrays
+    file: epi_judge_python/spiral_ordering.py
+    name: Compute the spiral ordering of a 2D array
+    problem_number: '5.18'
+  spreadsheet_encoding:
+    attempts: []
+    chapter: 06_strings
+    chapter_name: Strings
+    file: epi_judge_python/spreadsheet_encoding.py
+    name: Compute the spreadsheet column encoding
+    problem_number: '6.03'
+  stack_with_max:
+    attempts: []
+    chapter: 08_stacks_and_queues
+    chapter_name: Stacks and Queues
+    file: epi_judge_python/stack_with_max.py
+    name: Implement a stack with max API
+    problem_number: '8.01'
+  string_decompositions_into_dictionary_words:
+    attempts: []
+    chapter: 12_hash_tables
+    chapter_name: Hash Tables
+    file: epi_judge_python/string_decompositions_into_dictionary_words.py
+    name: Compute all string decompositions
+    problem_number: '12.10'
+  string_integer_interconversion:
+    attempts: []
+    chapter: 06_strings
+    chapter_name: Strings
+    file: epi_judge_python/string_integer_interconversion.py
+    name: Interconvert strings and integers
+    problem_number: '6.01'
+  string_transformability:
+    attempts: []
+    chapter: 18_graphs
+    chapter_name: Graphs
+    file: epi_judge_python/string_transformability.py
+    name: Transform one string to another
+    problem_number: '18.07'
+  substring_match:
+    attempts: []
+    chapter: 06_strings
+    chapter_name: Strings
+    file: epi_judge_python/substring_match.py
+    name: Find the first occurrence of a substring
+    problem_number: '6.12'
+  successor_in_tree:
+    attempts: []
+    chapter: 09_binary_trees
+    chapter_name: Binary Trees
+    file: epi_judge_python/successor_in_tree.py
+    name: Compute the successor
+    problem_number: '9.09'
+  sudoku_solve:
+    attempts: []
+    chapter: 15_recursion
+    chapter_name: Recursion
+    file: epi_judge_python/sudoku_solve.py
+    name: Implement a Sudoku solver
+    problem_number: '15.10'
+  sum_root_to_leaf:
+    attempts: []
+    chapter: 09_binary_trees
+    chapter_name: Binary Trees
+    file: epi_judge_python/sum_root_to_leaf.py
+    name: Sum the root-to-leaf paths in a binary tree
+    problem_number: '9.05'
+  sunset_view:
+    attempts: []
+    chapter: 08_stacks_and_queues
+    chapter_name: Stacks and Queues
+    file: epi_judge_python/sunset_view.py
+    name: Compute buildings with a sunset view
+    problem_number: '8.05'
+  swap_bits:
+    attempts: []
+    chapter: 04_primitive_types
+    chapter_name: Primitive Types
+    file: epi_judge_python/swap_bits.py
+    name: Swap bits
+    problem_number: '4.02'
+  task_pairing:
+    attempts: []
+    chapter: 17_greedy_algorithms_and_invariants
+    chapter_name: Greedy Algorithms and Invariants
+    file: epi_judge_python/task_pairing.py
+    name: Compute an optimum assignment of tasks
+    problem_number: '17.01'
+  three_sum:
+    attempts: []
+    chapter: 17_greedy_algorithms_and_invariants
+    chapter_name: Greedy Algorithms and Invariants
+    file: epi_judge_python/three_sum.py
+    name: The 3-sum problem
+    problem_number: '17.04'
+  tree_connect_leaves:
+    attempts: []
+    chapter: 09_binary_trees
+    chapter_name: Binary Trees
+    file: epi_judge_python/tree_connect_leaves.py
+    name: Compute the leaves of a binary tree
+    problem_number: '9.13'
+  tree_exterior:
+    attempts: []
+    chapter: 09_binary_trees
+    chapter_name: Binary Trees
+    file: epi_judge_python/tree_exterior.py
+    name: Compute the exterior of a binary tree
+    problem_number: '9.14'
+  tree_from_preorder_inorder:
+    attempts: []
+    chapter: 09_binary_trees
+    chapter_name: Binary Trees
+    file: epi_judge_python/tree_from_preorder_inorder.py
+    name: Reconstruct a binary tree from traversal data
+    problem_number: '9.11'
+  tree_from_preorder_with_null:
+    attempts: []
+    chapter: 09_binary_trees
+    chapter_name: Binary Trees
+    file: epi_judge_python/tree_from_preorder_with_null.py
+    name: Reconstruct a binary tree from a preorder traversal with markers
+    problem_number: '9.12'
+  tree_inorder:
+    attempts: []
+    chapter: 09_binary_trees
+    chapter_name: Binary Trees
+    file: epi_judge_python/tree_inorder.py
+    name: Implement an inorder traversal without recursion
+    problem_number: '9.07'
+  tree_level_order:
+    attempts: []
+    chapter: 08_stacks_and_queues
+    chapter_name: Stacks and Queues
+    file: epi_judge_python/tree_level_order.py
+    name: Compute binary tree nodes in order of increasing depth
+    problem_number: '8.06'
+  tree_right_sibling:
+    attempts: []
+    chapter: 09_binary_trees
+    chapter_name: Binary Trees
+    file: epi_judge_python/tree_right_sibling.py
+    name: Compute the right sibling tree
+    problem_number: '9.15'
+  tree_with_parent_inorder:
+    attempts: []
+    chapter: 09_binary_trees
+    chapter_name: Binary Trees
+    file: epi_judge_python/tree_with_parent_inorder.py
+    name: Implement an inorder traversal with constant space
+    problem_number: '9.10'
+  two_sorted_arrays_merge:
+    attempts: []
+    chapter: 13_sorting
+    chapter_name: Sorting
+    file: epi_judge_python/two_sorted_arrays_merge.py
+    name: Merge two sorted arrays
+    problem_number: '13.02'
+  uniform_random_number:
+    attempts: []
+    chapter: 04_primitive_types
+    chapter_name: Primitive Types
+    file: epi_judge_python/uniform_random_number.py
+    name: Generate uniform random numbers
+    problem_number: '4.10'
+  valid_ip_addresses:
+    attempts: []
+    chapter: 06_strings
+    chapter_name: Strings
+    file: epi_judge_python/valid_ip_addresses.py
+    name: Compute all valid IP addresses
+    problem_number: '6.09'
+  zip_list:
+    attempts: []
+    chapter: 24_honors_class
+    chapter_name: Honors Class
+    file: epi_judge_python/zip_list.py
+    name: Implement list zipping
+    problem_number: '24.09'
