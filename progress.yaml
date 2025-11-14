@@ -1409,7 +1409,13 @@ problems:
     name: Compute buildings with a sunset view
     problem_number: '8.05'
   swap_bits:
-    attempts: []
+    attempts:
+    - date: '2025-11-14T13:21:05.574520'
+      solved: true
+      submissions: 2
+      time_minutes: 6
+      used_hints: false
+      used_solution: false
     chapter: 04_primitive_types
     chapter_name: Primitive Types
     file: epi_judge_python/swap_bits.py
