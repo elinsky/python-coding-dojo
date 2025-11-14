@@ -924,7 +924,15 @@ problems:
     name: Sample online data
     problem_number: '5.13'
   parity:
-    attempts: []
+    attempts:
+    - date: '2025-11-13T22:05:17.860728'
+      notes: First try correct, used O(n) approach (iterate all bits). Knew there
+        was a faster O(k) approach but couldn't recall the primitive.
+      solved: true
+      submissions: 1
+      time_minutes: 4
+      used_hints: false
+      used_solution: false
     chapter: 04_primitive_types
     chapter_name: Primitive Types
     file: epi_judge_python/parity.py
