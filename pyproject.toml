@@ -11,6 +11,7 @@ dependencies = [
 [project.scripts]
 generate-problems = "scripts.generate_problem_metadata:main"
 log-attempt = "scripts.log_attempt:main"
+update-readme = "scripts.update_readme:main"
 
 [tool.setuptools.packages.find]
 where = ["."]
