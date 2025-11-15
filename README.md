@@ -59,6 +59,12 @@ Problems solved independently in ≤20 minutes with optimal solution
 
 | Chapter | Problems | Solved | Independent ⭐ | Mastered 🏆 |
 |---------|----------|--------|---------------|-------------|
+| 4: Primitive Types | 12 | 4 (33%) | 3 (25%) | 2 (17%) |
+| 5: Arrays | 21 | 0 (0%) | 0 (0%) | 0 (0%) |
+| 6: Strings | 13 | 0 (0%) | 0 (0%) | 0 (0%) |
+| 7: Linked Lists | 14 | 0 (0%) | 0 (0%) | 0 (0%) |
+| 8: Stacks and Queues | 9 | 0 (0%) | 0 (0%) | 0 (0%) |
+| 9: Binary Trees | 15 | 0 (0%) | 0 (0%) | 0 (0%) |
 | 10: Heaps | 6 | 0 (0%) | 0 (0%) | 0 (0%) |
 | 11: Searching | 10 | 0 (0%) | 0 (0%) | 0 (0%) |
 | 12: Hash Tables | 12 | 0 (0%) | 0 (0%) | 0 (0%) |
@@ -69,15 +75,135 @@ Problems solved independently in ≤20 minutes with optimal solution
 | 17: Greedy Algorithms and Invariants | 9 | 0 (0%) | 0 (0%) | 0 (0%) |
 | 18: Graphs | 8 | 0 (0%) | 0 (0%) | 0 (0%) |
 | 24: Honors Class | 35 | 0 (0%) | 0 (0%) | 0 (0%) |
-| 4: Primitive Types | 12 | 4 (33%) | 3 (25%) | 2 (17%) |
-| 5: Arrays | 21 | 0 (0%) | 0 (0%) | 0 (0%) |
-| 6: Strings | 13 | 0 (0%) | 0 (0%) | 0 (0%) |
-| 7: Linked Lists | 14 | 0 (0%) | 0 (0%) | 0 (0%) |
-| 8: Stacks and Queues | 9 | 0 (0%) | 0 (0%) | 0 (0%) |
-| 9: Binary Trees | 15 | 0 (0%) | 0 (0%) | 0 (0%) |
 | **Total** | **213** | **4** | **3** | **2** |
 
 ## All Problems
+
+### Chapter 4: Primitive Types
+
+| # | Problem | Status | Best Time |
+|---|---------|--------|-----------|
+| 4.00 | Bootcamp: Primitive Types | ✓ |  |
+| 4.01 | Computing the parity of a word | 🏆 | 2 min |
+| 4.02 | Swap bits | 🏆 | 6 min |
+| 4.03 | Reverse bits | ⭐ | 3 min |
+| 4.04 | Find a closest integer with the same weight |  |  |
+| 4.05 | Compute product without arithmetical operators |  |  |
+| 4.06 | Compute quotient without arithmetical operators |  |  |
+| 4.07 | Compute pow(x,y) |  |  |
+| 4.08 | Reverse digits |  |  |
+| 4.09 | Check if a decimal integer is a palindrome |  |  |
+| 4.10 | Generate uniform random numbers |  |  |
+| 4.11 | Rectangle intersection |  |  |
+
+---
+
+### Chapter 5: Arrays
+
+| # | Problem | Status | Best Time |
+|---|---------|--------|-----------|
+| 5.00 | Bootcamp: Arrays |  |  |
+| 5.01 | The Dutch national flag problem |  |  |
+| 5.02 | Increment an arbitrary-precision integer |  |  |
+| 5.03 | Multiply two arbitrary-precision integers |  |  |
+| 5.04 | Advancing through an array |  |  |
+| 5.05 | Delete duplicates from a sorted array |  |  |
+| 5.06 | Buy and sell a stock once |  |  |
+| 5.07 | Buy and sell a stock twice |  |  |
+| 5.08 | Computing an alternation |  |  |
+| 5.09 | Enumerate all primes to n |  |  |
+| 5.10 | Permute the elements of an array |  |  |
+| 5.11 | Compute the next permutation |  |  |
+| 5.12 | Sample offline data |  |  |
+| 5.13 | Sample online data |  |  |
+| 5.14 | Compute a random permutation |  |  |
+| 5.15 | Compute a random subset |  |  |
+| 5.16 | Generate nonuniform random numbers |  |  |
+| 5.17 | The Sudoku checker problem |  |  |
+| 5.18 | Compute the spiral ordering of a 2D array |  |  |
+| 5.19 | Rotate a 2D array |  |  |
+| 5.20 | Compute rows in Pascal's Triangle |  |  |
+
+---
+
+### Chapter 6: Strings
+
+| # | Problem | Status | Best Time |
+|---|---------|--------|-----------|
+| 6.00 | Bootcamp: Strings |  |  |
+| 6.01 | Interconvert strings and integers |  |  |
+| 6.02 | Base conversion |  |  |
+| 6.03 | Compute the spreadsheet column encoding |  |  |
+| 6.04 | Replace and remove |  |  |
+| 6.05 | Test palindromicity |  |  |
+| 6.06 | Reverse all the words in a sentence |  |  |
+| 6.07 | The look-and-say problem |  |  |
+| 6.08 | Convert from Roman to decimal |  |  |
+| 6.09 | Compute all valid IP addresses |  |  |
+| 6.10 | Write a string sinusoidally |  |  |
+| 6.11 | Implement run-length encoding |  |  |
+| 6.12 | Find the first occurrence of a substring |  |  |
+
+---
+
+### Chapter 7: Linked Lists
+
+| # | Problem | Status | Best Time |
+|---|---------|--------|-----------|
+| 7.00 | Bootcamp: Linked Lists |  |  |
+| 7.01 | Merge two sorted lists |  |  |
+| 7.02 | Reverse a single sublist |  |  |
+| 7.03 | Test for cyclicity |  |  |
+| 7.04 | Test for overlapping lists---lists are cycle-free |  |  |
+| 7.05 | Test for overlapping lists---lists may have cycles |  |  |
+| 7.06 | Delete a node from a singly linked list |  |  |
+| 7.07 | Remove the kth last element from a list |  |  |
+| 7.08 | Remove duplicates from a sorted list |  |  |
+| 7.09 | Implement cyclic right shift for singly linked lists |  |  |
+| 7.10 | Implement even-odd merge |  |  |
+| 7.11 | Test whether a singly linked list is palindromic |  |  |
+| 7.12 | Implement list pivoting |  |  |
+| 7.13 | Add list-based integers |  |  |
+
+---
+
+### Chapter 8: Stacks and Queues
+
+| # | Problem | Status | Best Time |
+|---|---------|--------|-----------|
+| 8.01 | Implement a stack with max API |  |  |
+| 8.02 | Evaluate RPN expressions |  |  |
+| 8.03 | Is a string well-formed? |  |  |
+| 8.04 | Normalize pathnames |  |  |
+| 8.05 | Compute buildings with a sunset view |  |  |
+| 8.06 | Compute binary tree nodes in order of increasing depth |  |  |
+| 8.07 | Implement a circular queue |  |  |
+| 8.08 | Implement a queue using stacks |  |  |
+| 8.09 | Implement a queue with max API |  |  |
+
+---
+
+### Chapter 9: Binary Trees
+
+| # | Problem | Status | Best Time |
+|---|---------|--------|-----------|
+| 9.01 | Test if a binary tree is height-balanced |  |  |
+| 9.02 | Test if a binary tree is symmetric |  |  |
+| 9.03 | Compute the lowest common ancestor in a binary tree |  |  |
+| 9.04 | Compute the LCA when nodes have parent pointers |  |  |
+| 9.05 | Sum the root-to-leaf paths in a binary tree |  |  |
+| 9.06 | Find a root to leaf path with specified sum |  |  |
+| 9.07 | Implement an inorder traversal without recursion |  |  |
+| 9.08 | Compute the kth node in an inorder traversal |  |  |
+| 9.09 | Compute the successor |  |  |
+| 9.10 | Implement an inorder traversal with constant space |  |  |
+| 9.11 | Reconstruct a binary tree from traversal data |  |  |
+| 9.12 | Reconstruct a binary tree from a preorder traversal with markers |  |  |
+| 9.13 | Compute the leaves of a binary tree |  |  |
+| 9.14 | Compute the exterior of a binary tree |  |  |
+| 9.15 | Compute the right sibling tree |  |  |
+
+---
 
 ### Chapter 10: Heaps
 
@@ -278,131 +404,5 @@ Problems solved independently in ≤20 minutes with optimal solution
 
 ---
 
-### Chapter 4: Primitive Types
 
-| # | Problem | Status | Best Time |
-|---|---------|--------|-----------|
-| 4.00 | Bootcamp: Primitive Types | ✓ |  |
-| 4.01 | Computing the parity of a word | 🏆 | 2 min |
-| 4.02 | Swap bits | 🏆 | 6 min |
-| 4.03 | Reverse bits | ⭐ | 3 min |
-| 4.04 | Find a closest integer with the same weight |  |  |
-| 4.05 | Compute product without arithmetical operators |  |  |
-| 4.06 | Compute quotient without arithmetical operators |  |  |
-| 4.07 | Compute pow(x,y) |  |  |
-| 4.08 | Reverse digits |  |  |
-| 4.09 | Check if a decimal integer is a palindrome |  |  |
-| 4.10 | Generate uniform random numbers |  |  |
-| 4.11 | Rectangle intersection |  |  |
-
----
-
-### Chapter 5: Arrays
-
-| # | Problem | Status | Best Time |
-|---|---------|--------|-----------|
-| 5.00 | Bootcamp: Arrays |  |  |
-| 5.01 | The Dutch national flag problem |  |  |
-| 5.02 | Increment an arbitrary-precision integer |  |  |
-| 5.03 | Multiply two arbitrary-precision integers |  |  |
-| 5.04 | Advancing through an array |  |  |
-| 5.05 | Delete duplicates from a sorted array |  |  |
-| 5.06 | Buy and sell a stock once |  |  |
-| 5.07 | Buy and sell a stock twice |  |  |
-| 5.08 | Computing an alternation |  |  |
-| 5.09 | Enumerate all primes to n |  |  |
-| 5.10 | Permute the elements of an array |  |  |
-| 5.11 | Compute the next permutation |  |  |
-| 5.12 | Sample offline data |  |  |
-| 5.13 | Sample online data |  |  |
-| 5.14 | Compute a random permutation |  |  |
-| 5.15 | Compute a random subset |  |  |
-| 5.16 | Generate nonuniform random numbers |  |  |
-| 5.17 | The Sudoku checker problem |  |  |
-| 5.18 | Compute the spiral ordering of a 2D array |  |  |
-| 5.19 | Rotate a 2D array |  |  |
-| 5.20 | Compute rows in Pascal's Triangle |  |  |
-
----
-
-### Chapter 6: Strings
-
-| # | Problem | Status | Best Time |
-|---|---------|--------|-----------|
-| 6.00 | Bootcamp: Strings |  |  |
-| 6.01 | Interconvert strings and integers |  |  |
-| 6.02 | Base conversion |  |  |
-| 6.03 | Compute the spreadsheet column encoding |  |  |
-| 6.04 | Replace and remove |  |  |
-| 6.05 | Test palindromicity |  |  |
-| 6.06 | Reverse all the words in a sentence |  |  |
-| 6.07 | The look-and-say problem |  |  |
-| 6.08 | Convert from Roman to decimal |  |  |
-| 6.09 | Compute all valid IP addresses |  |  |
-| 6.10 | Write a string sinusoidally |  |  |
-| 6.11 | Implement run-length encoding |  |  |
-| 6.12 | Find the first occurrence of a substring |  |  |
-
----
-
-### Chapter 7: Linked Lists
-
-| # | Problem | Status | Best Time |
-|---|---------|--------|-----------|
-| 7.00 | Bootcamp: Linked Lists |  |  |
-| 7.01 | Merge two sorted lists |  |  |
-| 7.02 | Reverse a single sublist |  |  |
-| 7.03 | Test for cyclicity |  |  |
-| 7.04 | Test for overlapping lists---lists are cycle-free |  |  |
-| 7.05 | Test for overlapping lists---lists may have cycles |  |  |
-| 7.06 | Delete a node from a singly linked list |  |  |
-| 7.07 | Remove the kth last element from a list |  |  |
-| 7.08 | Remove duplicates from a sorted list |  |  |
-| 7.09 | Implement cyclic right shift for singly linked lists |  |  |
-| 7.10 | Implement even-odd merge |  |  |
-| 7.11 | Test whether a singly linked list is palindromic |  |  |
-| 7.12 | Implement list pivoting |  |  |
-| 7.13 | Add list-based integers |  |  |
-
----
-
-### Chapter 8: Stacks and Queues
-
-| # | Problem | Status | Best Time |
-|---|---------|--------|-----------|
-| 8.01 | Implement a stack with max API |  |  |
-| 8.02 | Evaluate RPN expressions |  |  |
-| 8.03 | Is a string well-formed? |  |  |
-| 8.04 | Normalize pathnames |  |  |
-| 8.05 | Compute buildings with a sunset view |  |  |
-| 8.06 | Compute binary tree nodes in order of increasing depth |  |  |
-| 8.07 | Implement a circular queue |  |  |
-| 8.08 | Implement a queue using stacks |  |  |
-| 8.09 | Implement a queue with max API |  |  |
-
----
-
-### Chapter 9: Binary Trees
-
-| # | Problem | Status | Best Time |
-|---|---------|--------|-----------|
-| 9.01 | Test if a binary tree is height-balanced |  |  |
-| 9.02 | Test if a binary tree is symmetric |  |  |
-| 9.03 | Compute the lowest common ancestor in a binary tree |  |  |
-| 9.04 | Compute the LCA when nodes have parent pointers |  |  |
-| 9.05 | Sum the root-to-leaf paths in a binary tree |  |  |
-| 9.06 | Find a root to leaf path with specified sum |  |  |
-| 9.07 | Implement an inorder traversal without recursion |  |  |
-| 9.08 | Compute the kth node in an inorder traversal |  |  |
-| 9.09 | Compute the successor |  |  |
-| 9.10 | Implement an inorder traversal with constant space |  |  |
-| 9.11 | Reconstruct a binary tree from traversal data |  |  |
-| 9.12 | Reconstruct a binary tree from a preorder traversal with markers |  |  |
-| 9.13 | Compute the leaves of a binary tree |  |  |
-| 9.14 | Compute the exterior of a binary tree |  |  |
-| 9.15 | Compute the right sibling tree |  |  |
-
----
-
-
-*Last updated: 2025-11-14*
+*Last updated: 2025-11-15*

@@ -224,10 +224,10 @@ def generate_readme(data, threshold):
         '|---------|----------|--------|---------------|-------------|',
     ])
 
-    # Sort chapters by chapter number
+    # Sort chapters by chapter number (convert to int for proper ordering)
     sorted_chapters = sorted(
         stats['chapters'].items(),
-        key=lambda x: x[1]['chapter_num']
+        key=lambda x: int(x[1]['chapter_num']) if x[1]['chapter_num'].isdigit() else 0
     )
 
     for chapter_name, chapter_stats in sorted_chapters:
