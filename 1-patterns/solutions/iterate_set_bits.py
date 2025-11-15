@@ -2,14 +2,14 @@ import sys
 import os
 
 # Add 3-problems to path to import test_framework
-sys.path.insert(0, os.path.join(os.path.dirname(__file__), '..', '3-problems'))
+sys.path.insert(0, os.path.join(os.path.dirname(__file__), '..', '..', '3-problems'))
 
 from test_framework import generic_test
 
 
 def count_set_bits(x: int) -> int:
     """
-    Pattern Practice: Iterate Through Set Bits Only
+    Pattern: Iterate Through Set Bits Only
 
     Goal: Count how many bits are set (efficient version)
 
@@ -17,8 +17,11 @@ def count_set_bits(x: int) -> int:
     Problems that use it: Parity, count set bits, check power of 2
     Key insight: Skip over 0-bits entirely; O(number of set bits) not O(total bits)
     """
-    # TODO - Implement the pattern here
-    return 0
+    count = 0
+    while x:
+        count += 1
+        x &= (x - 1)  # Clear lowest set bit
+    return count
 
 
 if __name__ == '__main__':

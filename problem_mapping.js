@@ -8,7 +8,7 @@ problem_mapping = {
         },
         "4.01 Computing the parity of a word": {
             "Python: parity.py": {
-                "passed": 10000,
+                "passed": 0,
                 "total": 10000
             }
         },
@@ -32,7 +32,7 @@ problem_mapping = {
         },
         "4.05 Compute product without arithmetical operators": {
             "Python: primitive_multiply.py": {
-                "passed": 0,
+                "passed": 3,
                 "total": 10006
             }
         },
