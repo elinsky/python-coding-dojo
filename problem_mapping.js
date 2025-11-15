@@ -20,7 +20,7 @@ problem_mapping = {
         },
         "4.03 Reverse bits": {
             "Python: reverse_bits.py": {
-                "passed": 10000,
+                "passed": 0,
                 "total": 10000
             }
         },
