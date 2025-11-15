@@ -13,6 +13,9 @@ x | (1 << i)
 # How do you toggle bit at position i?
 x ^ (1 << i)
 
+# How do you swap bits at positions i and j?
+x ^ ((1 << i) | (1 << j))  # Toggle both bits simultaneously
+
 # Q: How do I clear bit at position i?
 # A: AND with NOT of (1 shifted left by i)
 x & ~(1 << i)
@@ -35,6 +38,17 @@ x ^ y == y ^ x
 # Q: How do I find which bits differ between x and y?
 # A: XOR them
 x ^ y
+```
+
+### Consecutive Bit Operations
+```python
+# Q: How do I find positions where consecutive bits differ?
+# A: XOR with right-shifted self
+x ^ (x >> 1)  # Each set bit marks where neighbors differ
+
+# Example: x = 0b110 (6)
+#   x >> 1 = 0b011 (3)
+#   x ^ (x >> 1) = 0b101 (positions 0 and 2 have different neighbors)
 ```
 
 ### Lowest Set Bit Operations
@@ -99,6 +113,13 @@ x & (x - 1) == 0
 ## Common Patterns & Algorithms
 
 ### Iteration Patterns
+
+**Scan bit positions from right to left (fixed width)**
+```python
+for i in range(64):  # or range(32) for 32-bit
+    bit = (x >> i) & 1
+    # Process bit at position i
+```
 
 **Iterate through all bits (right to left)**
 ```python
