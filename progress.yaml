@@ -133,7 +133,16 @@ problems:
     name: Implement a circular queue
     problem_number: '8.07'
   closest_int_same_weight:
-    attempts: []
+    attempts:
+    - date: '2025-11-15T11:20:57.015344'
+      notes: Started with wrong approach (clearing LSB). Needed hint about consecutive
+        differing bits.
+      optimal: true
+      solved: true
+      submissions: 2
+      time_minutes: 22
+      used_hints: true
+      used_solution: false
     chapter: 04_primitive_types
     chapter_name: Primitive Types
     file: epi_judge_python/closest_int_same_weight.py

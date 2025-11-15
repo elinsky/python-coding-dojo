@@ -7,7 +7,7 @@ My journey through Elements of Programming Interviews in Python.
 ### Tier 1: Solved 👍
 Problems solved (with or without help)
 
-👍👍👍👍⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+👍👍👍👍👍⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
@@ -19,7 +19,7 @@ Problems solved (with or without help)
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 
-**4 / 213** (1.9%)
+**5 / 213** (2.3%)
 
 ### Tier 2: Solved Independently 💪
 Problems solved without hints or looking at solutions
@@ -59,7 +59,7 @@ Problems solved independently in ≤20 minutes with optimal solution
 
 | Chapter | Problems | Solved | Independent ⭐ | Mastered 🏆 |
 |---------|----------|--------|---------------|-------------|
-| 4: Primitive Types | 12 | 4 (33%) | 3 (25%) | 2 (17%) |
+| 4: Primitive Types | 12 | 5 (42%) | 3 (25%) | 2 (17%) |
 | 5: Arrays | 21 | 0 (0%) | 0 (0%) | 0 (0%) |
 | 6: Strings | 13 | 0 (0%) | 0 (0%) | 0 (0%) |
 | 7: Linked Lists | 14 | 0 (0%) | 0 (0%) | 0 (0%) |
@@ -75,7 +75,7 @@ Problems solved independently in ≤20 minutes with optimal solution
 | 17: Greedy Algorithms and Invariants | 9 | 0 (0%) | 0 (0%) | 0 (0%) |
 | 18: Graphs | 8 | 0 (0%) | 0 (0%) | 0 (0%) |
 | 24: Honors Class | 35 | 0 (0%) | 0 (0%) | 0 (0%) |
-| **Total** | **213** | **4** | **3** | **2** |
+| **Total** | **213** | **5** | **3** | **2** |
 
 ## All Problems
 
@@ -87,7 +87,7 @@ Problems solved independently in ≤20 minutes with optimal solution
 | 4.01 | Computing the parity of a word | 🏆 | 2 min |
 | 4.02 | Swap bits | 🏆 | 6 min |
 | 4.03 | Reverse bits | ⭐ | 3 min |
-| 4.04 | Find a closest integer with the same weight |  |  |
+| 4.04 | Find a closest integer with the same weight | ✓ |  |
 | 4.05 | Compute product without arithmetical operators |  |  |
 | 4.06 | Compute quotient without arithmetical operators |  |  |
 | 4.07 | Compute pow(x,y) |  |  |

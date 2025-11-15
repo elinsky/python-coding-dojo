@@ -26,7 +26,7 @@ problem_mapping = {
         },
         "4.04 Find a closest integer with the same weight": {
             "Python: closest_int_same_weight.py": {
-                "passed": 0,
+                "passed": 10000,
                 "total": 10000
             }
         },
