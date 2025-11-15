@@ -1,0 +1,32 @@
+int	bool
+0	true	0 is considered alternating (edge case)
+1	true	0b1 has only one bit (alternating)
+2	true	0b10 alternates (10)
+3	false	0b11 has consecutive 1s
+4	false	0b100 has consecutive 0s
+5	true	0b101 alternates (101)
+6	false	0b110 has consecutive 1s
+7	false	0b111 has consecutive 1s
+8	false	0b1000 has consecutive 0s
+9	false	0b1001 has consecutive 0s
+10	true	0b1010 alternates (1010)
+11	false	0b1011 has consecutive 1s
+12	false	0b1100 has consecutive bits
+13	false	0b1101 has consecutive 1s
+14	false	0b1110 has consecutive 1s
+15	false	0b1111 has consecutive 1s
+16	false	0b10000 has consecutive 0s
+17	false	0b10001 has consecutive 0s
+20	false	0b10100 has consecutive 0s
+21	true	0b10101 alternates (10101)
+42	true	0b101010 alternates (101010)
+43	false	0b101011 has consecutive 1s
+53	false	0b110101 has consecutive 1s
+63	false	0b111111 has consecutive 1s
+64	false	0b1000000 has consecutive 0s
+85	true	0b1010101 alternates (1010101)
+86	false	0b1010110 has consecutive 1s
+170	true	0b10101010 alternates (10101010)
+171	false	0b10101011 has consecutive 1s
+341	true	0b101010101 alternates (101010101)
+682	true	0b1010101010 alternates (1010101010)
