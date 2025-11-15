@@ -63,14 +63,14 @@ def generate_metadata(repo_root: Path) -> dict:
             problem_id = extract_problem_id(python_file)
 
             # Verify file exists
-            file_path = repo_root / 'epi_judge_python' / python_file
+            file_path = repo_root / '3-problems' / python_file
             if not file_path.exists():
                 print(f"Warning: File not found: {file_path}")
                 continue
 
             # Add to problems dict
             problems[problem_id] = {
-                'file': f'epi_judge_python/{python_file}',
+                'file': f'3-problems/{python_file}',
                 'chapter': f'{chapter_num.lower()}_' + chapter_name.lower().replace(' ', '_').replace('-', '_'),
                 'chapter_name': chapter_name,
                 'problem_number': problem_number,
