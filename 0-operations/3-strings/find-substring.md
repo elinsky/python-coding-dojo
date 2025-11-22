@@ -2,7 +2,7 @@
 
 **Q:** How do I find the first occurrence of substring in s?
 
-**A:** Use find() method (returns -1 if not found)
+**A:** Use find() method (returns -1 if not found) - O(n*m) time
 
 ```python
 s.find(substring)

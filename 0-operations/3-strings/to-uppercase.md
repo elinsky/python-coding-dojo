@@ -2,7 +2,7 @@
 
 **Q:** How do I convert string s to uppercase?
 
-**A:** Use upper() method
+**A:** Use upper() method - O(n) time
 
 ```python
 s.upper()

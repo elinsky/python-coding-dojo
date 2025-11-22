@@ -2,7 +2,7 @@
 
 **Q:** How do I remove leading and trailing whitespace from string s?
 
-**A:** Use strip() method
+**A:** Use strip() method - O(n) time
 
 ```python
 s.strip()

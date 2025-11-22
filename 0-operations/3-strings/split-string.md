@@ -2,7 +2,7 @@
 
 **Q:** How do I split string s by delimiter?
 
-**A:** Use split() method
+**A:** Use split() method - O(n) time
 
 ```python
 s.split(delimiter)

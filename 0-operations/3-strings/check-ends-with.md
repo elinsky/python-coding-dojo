@@ -2,7 +2,7 @@
 
 **Q:** How do I check if string s ends with a given suffix?
 
-**A:** Use endswith() method
+**A:** Use endswith() method - O(k) time where k=len(suffix)
 
 ```python
 s.endswith(suffix)

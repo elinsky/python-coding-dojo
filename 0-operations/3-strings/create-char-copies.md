@@ -2,7 +2,7 @@
 
 **Q:** How do I create a string of n copies of character c?
 
-**A:** Use string multiplication
+**A:** Use string multiplication - O(n) time
 
 ```python
 c * n
