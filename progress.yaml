@@ -5,6 +5,7 @@ problems:
     chapter_name: Binary Search Trees
     file: 3-problems/a_b_sqrt2.py
     name: Enumerate extended integers
+    priority: P4
     problem_number: '14.07'
   absent_value_array:
     attempts: []
@@ -12,6 +13,7 @@ problems:
     chapter_name: Searching
     file: 3-problems/absent_value_array.py
     name: Find the missing IP address
+    priority: P2
     problem_number: '11.09'
   adding_credits:
     attempts: []
@@ -47,6 +49,7 @@ problems:
     chapter_name: Arrays
     file: 3-problems/apply_permutation.py
     name: Permute the elements of an array
+    priority: P4
     problem_number: '5.10'
   arbitrage:
     attempts: []
@@ -75,6 +78,7 @@ problems:
     chapter_name: Binary Search Trees
     file: 3-problems/bst_from_preorder.py
     name: Reconstruct a BST from traversal data
+    priority: P3
     problem_number: '14.05'
   bst_from_sorted_array:
     attempts: []
@@ -82,6 +86,7 @@ problems:
     chapter_name: Binary Search Trees
     file: 3-problems/bst_from_sorted_array.py
     name: Build a minimum height BST from a sorted array
+    priority: P3
     problem_number: '14.08'
   bst_merge:
     attempts: []
@@ -103,6 +108,7 @@ problems:
     chapter_name: Arrays
     file: 3-problems/buy_and_sell_stock.py
     name: Buy and sell a stock once
+    priority: P0
     problem_number: '5.06'
   buy_and_sell_stock_k_times:
     attempts: []
@@ -131,6 +137,7 @@ problems:
     chapter_name: Stacks and Queues
     file: 3-problems/circular_queue.py
     name: Implement a circular queue
+    priority: P2
     problem_number: '8.07'
   closest_int_same_weight:
     attempts:
@@ -161,6 +168,7 @@ problems:
     chapter_name: Recursion
     file: 3-problems/combinations.py
     name: Generate all subsets of size k
+    priority: P4
     problem_number: '15.06'
   convert_base:
     attempts: []
@@ -168,6 +176,7 @@ problems:
     chapter_name: Strings
     file: 3-problems/convert_base.py
     name: Base conversion
+    priority: P1
     problem_number: '6.02'
   copy_posting_list:
     attempts: []
@@ -224,6 +233,7 @@ problems:
     chapter_name: Linked Lists
     file: 3-problems/delete_kth_last_from_list.py
     name: Remove the kth last element from a list
+    priority: P2
     problem_number: '7.07'
   delete_node_from_list:
     attempts: []
@@ -245,6 +255,7 @@ problems:
     chapter_name: Stacks and Queues
     file: 3-problems/directory_path_normalization.py
     name: Normalize pathnames
+    priority: P4
     problem_number: '8.04'
   do_lists_overlap:
     attempts: []
@@ -259,6 +270,7 @@ problems:
     chapter_name: Linked Lists
     file: 3-problems/do_terminated_lists_overlap.py
     name: Test for overlapping lists---lists are cycle-free
+    priority: P2
     problem_number: '7.04'
   drawing_skyline:
     attempts: []
@@ -273,6 +285,7 @@ problems:
     chapter_name: Arrays
     file: 3-problems/dutch_national_flag.py
     name: The Dutch national flag problem
+    priority: P0
     problem_number: '5.01'
   element_appearing_once:
     attempts: []
@@ -301,6 +314,7 @@ problems:
     chapter_name: Recursion
     file: 3-problems/enumerate_trees.py
     name: Generate binary trees
+    priority: P3
     problem_number: '15.09'
   euclidean_gcd:
     attempts: []
@@ -315,6 +329,7 @@ problems:
     chapter_name: Stacks and Queues
     file: 3-problems/evaluate_rpn.py
     name: Evaluate RPN expressions
+    priority: P2
     problem_number: '8.02'
   even_odd_array:
     attempts: []
@@ -329,6 +344,7 @@ problems:
     chapter_name: Linked Lists
     file: 3-problems/even_odd_list_merge.py
     name: Implement even-odd merge
+    priority: P3
     problem_number: '7.10'
   fibonacci:
     attempts: []
@@ -364,6 +380,7 @@ problems:
     chapter_name: Graphs
     file: 3-problems/graph_clone.py
     name: Clone a graph
+    priority: P4
     problem_number: '18.05'
   gray_code:
     attempts: []
@@ -392,6 +409,7 @@ problems:
     chapter_name: Recursion
     file: 3-problems/hanoi.py
     name: The Towers of Hanoi problem
+    priority: P0
     problem_number: '15.01'
   huffman_coding:
     attempts: []
@@ -413,6 +431,7 @@ problems:
     chapter_name: Arrays
     file: 3-problems/int_as_array_increment.py
     name: Increment an arbitrary-precision integer
+    priority: P2
     problem_number: '5.02'
   int_as_array_multiply:
     attempts: []
@@ -420,6 +439,7 @@ problems:
     chapter_name: Arrays
     file: 3-problems/int_as_array_multiply.py
     name: Multiply two arbitrary-precision integers
+    priority: P4
     problem_number: '5.03'
   int_as_list_add:
     attempts: []
@@ -434,6 +454,7 @@ problems:
     chapter_name: Searching
     file: 3-problems/int_square_root.py
     name: Compute the integer square root
+    priority: P1
     problem_number: '11.04'
   intersect_sorted_arrays:
     attempts: []
@@ -441,6 +462,7 @@ problems:
     chapter_name: Sorting
     file: 3-problems/intersect_sorted_arrays.py
     name: Compute the intersection of two sorted arrays
+    priority: P0
     problem_number: '13.01'
   interval_add:
     attempts: []
@@ -448,6 +470,7 @@ problems:
     chapter_name: Sorting
     file: 3-problems/interval_add.py
     name: Merging intervals
+    priority: P3
     problem_number: '13.07'
   intervals_union:
     attempts: []
@@ -455,6 +478,7 @@ problems:
     chapter_name: Sorting
     file: 3-problems/intervals_union.py
     name: Compute the union of intervals
+    priority: P4
     problem_number: '13.08'
   is_anonymous_letter_constructible:
     attempts: []
@@ -462,6 +486,7 @@ problems:
     chapter_name: Hash Tables
     file: 3-problems/is_anonymous_letter_constructible.py
     name: Is an anonymous letter constructible?
+    priority: P0
     problem_number: '12.02'
   is_array_dominated:
     attempts: []
@@ -469,6 +494,7 @@ problems:
     chapter_name: Sorting
     file: 3-problems/is_array_dominated.py
     name: Team photo day---1
+    priority: P3
     problem_number: '13.10'
   is_circuit_wirable:
     attempts: []
@@ -483,6 +509,7 @@ problems:
     chapter_name: Linked Lists
     file: 3-problems/is_list_cyclic.py
     name: Test for cyclicity
+    priority: P1
     problem_number: '7.03'
   is_list_palindromic:
     attempts: []
@@ -490,6 +517,7 @@ problems:
     chapter_name: Linked Lists
     file: 3-problems/is_list_palindromic.py
     name: Test whether a singly linked list is palindromic
+    priority: P4
     problem_number: '7.11'
   is_number_palindromic:
     attempts: []
@@ -497,6 +525,7 @@ problems:
     chapter_name: Primitive Types
     file: 3-problems/is_number_palindromic.py
     name: Check if a decimal integer is a palindrome
+    priority: P4
     problem_number: '4.09'
   is_string_decomposable_into_words:
     attempts: []
@@ -504,6 +533,7 @@ problems:
     chapter_name: Dynamic Programming
     file: 3-problems/is_string_decomposable_into_words.py
     name: Building a search index for domains
+    priority: P3
     problem_number: '16.07'
   is_string_in_matrix:
     attempts: []
@@ -511,6 +541,7 @@ problems:
     chapter_name: Dynamic Programming
     file: 3-problems/is_string_in_matrix.py
     name: Search for a sequence in a 2D array
+    priority: P3
     problem_number: '16.05'
   is_string_palindromic:
     attempts: []
@@ -525,6 +556,7 @@ problems:
     chapter_name: Strings
     file: 3-problems/is_string_palindromic_punctuation.py
     name: Test palindromicity
+    priority: P2
     problem_number: '6.05'
   is_string_permutable_to_palindrome:
     attempts: []
@@ -532,6 +564,7 @@ problems:
     chapter_name: Hash Tables
     file: 3-problems/is_string_permutable_to_palindrome.py
     name: Test for palindromic permutations
+    priority: P2
     problem_number: '12.01'
   is_tree_a_bst:
     attempts: []
@@ -539,6 +572,7 @@ problems:
     chapter_name: Binary Search Trees
     file: 3-problems/is_tree_a_bst.py
     name: Test if a binary tree satisfies the BST property
+    priority: P0
     problem_number: '14.01'
   is_tree_balanced:
     attempts: []
@@ -546,6 +580,7 @@ problems:
     chapter_name: Binary Trees
     file: 3-problems/is_tree_balanced.py
     name: Test if a binary tree is height-balanced
+    priority: P0
     problem_number: '9.01'
   is_tree_symmetric:
     attempts: []
@@ -553,6 +588,7 @@ problems:
     chapter_name: Binary Trees
     file: 3-problems/is_tree_symmetric.py
     name: Test if a binary tree is symmetric
+    priority: P2
     problem_number: '9.02'
   is_valid_parenthesization:
     attempts: []
@@ -560,6 +596,7 @@ problems:
     chapter_name: Stacks and Queues
     file: 3-problems/is_valid_parenthesization.py
     name: Is a string well-formed?
+    priority: P3
     problem_number: '8.03'
   is_valid_sudoku:
     attempts: []
@@ -567,6 +604,7 @@ problems:
     chapter_name: Arrays
     file: 3-problems/is_valid_sudoku.py
     name: The Sudoku checker problem
+    priority: P2
     problem_number: '5.17'
   k_closest_stars:
     attempts: []
@@ -574,6 +612,7 @@ problems:
     chapter_name: Heaps
     file: 3-problems/k_closest_stars.py
     name: Compute the k closest stars
+    priority: P1
     problem_number: '10.04'
   k_largest_in_heap:
     attempts: []
@@ -581,6 +620,7 @@ problems:
     chapter_name: Heaps
     file: 3-problems/k_largest_in_heap.py
     name: Compute the k largest elements in a max-heap
+    priority: P4
     problem_number: '10.06'
   k_largest_values_in_bst:
     attempts: []
@@ -588,6 +628,7 @@ problems:
     chapter_name: Binary Search Trees
     file: 3-problems/k_largest_values_in_bst.py
     name: Find the k largest elements in a BST
+    priority: P1
     problem_number: '14.03'
   knapsack:
     attempts: []
@@ -595,6 +636,7 @@ problems:
     chapter_name: Dynamic Programming
     file: 3-problems/knapsack.py
     name: The knapsack problem
+    priority: P2
     problem_number: '16.06'
   kth_largest_element_in_long_array:
     attempts: []
@@ -616,6 +658,7 @@ problems:
     chapter_name: Searching
     file: 3-problems/kth_largest_in_array.py
     name: Find the kth largest element
+    priority: P1
     problem_number: '11.08'
   kth_node_in_tree:
     attempts: []
@@ -630,6 +673,7 @@ problems:
     chapter_name: Greedy Algorithms and Invariants
     file: 3-problems/largest_rectangle_under_skyline.py
     name: Compute the largest rectangle under the skyline
+    priority: P4
     problem_number: '17.08'
   left_right_justify_text:
     attempts: []
@@ -644,6 +688,7 @@ problems:
     chapter_name: Dynamic Programming
     file: 3-problems/levenshtein_distance.py
     name: Compute the Levenshtein distance
+    priority: P1
     problem_number: '16.02'
   line_through_most_points:
     attempts: []
@@ -665,6 +710,7 @@ problems:
     chapter_name: Hash Tables
     file: 3-problems/longest_contained_interval.py
     name: Find the length of a longest contained interval
+    priority: P4
     problem_number: '12.09'
   longest_increasing_subarray:
     attempts: []
@@ -679,6 +725,7 @@ problems:
     chapter_name: Dynamic Programming
     file: 3-problems/longest_nondecreasing_subsequence.py
     name: Find the longest nondecreasing subsequence
+    priority: P4
     problem_number: '16.12'
   longest_subarray_with_distinct_values:
     attempts: []
@@ -707,6 +754,7 @@ problems:
     chapter_name: Strings
     file: 3-problems/look_and_say.py
     name: The look-and-say problem
+    priority: P3
     problem_number: '6.07'
   lowest_common_ancestor:
     attempts: []
@@ -721,6 +769,7 @@ problems:
     chapter_name: Hash Tables
     file: 3-problems/lowest_common_ancestor_close_ancestor.py
     name: Compute the LCA, optimizing for close ancestors
+    priority: P3
     problem_number: '12.04'
   lowest_common_ancestor_in_bst:
     attempts: []
@@ -728,6 +777,7 @@ problems:
     chapter_name: Binary Search Trees
     file: 3-problems/lowest_common_ancestor_in_bst.py
     name: Compute the LCA in a BST
+    priority: P2
     problem_number: '14.04'
   lowest_common_ancestor_with_parent:
     attempts: []
@@ -735,6 +785,7 @@ problems:
     chapter_name: Binary Trees
     file: 3-problems/lowest_common_ancestor_with_parent.py
     name: Compute the LCA when nodes have parent pointers
+    priority: P1
     problem_number: '9.04'
   lru_cache:
     attempts: []
@@ -742,6 +793,7 @@ problems:
     chapter_name: Hash Tables
     file: 3-problems/lru_cache.py
     name: Implement an ISBN cache
+    priority: P1
     problem_number: '12.03'
   majority_element:
     attempts: []
@@ -749,6 +801,7 @@ problems:
     chapter_name: Greedy Algorithms and Invariants
     file: 3-problems/majority_element.py
     name: Find the majority element
+    priority: P2
     problem_number: '17.05'
   making_change:
     attempts: []
@@ -763,6 +816,7 @@ problems:
     chapter_name: Graphs
     file: 3-problems/matrix_connected_regions.py
     name: Paint a Boolean matrix
+    priority: P2
     problem_number: '18.02'
   matrix_enclosed_regions:
     attempts: []
@@ -770,6 +824,7 @@ problems:
     chapter_name: Graphs
     file: 3-problems/matrix_enclosed_regions.py
     name: Compute enclosed regions
+    priority: P3
     problem_number: '18.03'
   matrix_rotation:
     attempts: []
@@ -819,6 +874,7 @@ problems:
     chapter_name: Greedy Algorithms and Invariants
     file: 3-problems/max_trapped_water.py
     name: Compute the maximum water trapped by a pair of vertical lines
+    priority: P3
     problem_number: '17.07'
   max_water_trappable:
     attempts: []
@@ -868,6 +924,7 @@ problems:
     chapter_name: Recursion
     file: 3-problems/n_queens.py
     name: Generate all nonattacking placements of n-Queens
+    priority: P2
     problem_number: '15.03'
   nearest_repeated_entries:
     attempts: []
@@ -875,6 +932,7 @@ problems:
     chapter_name: Hash Tables
     file: 3-problems/nearest_repeated_entries.py
     name: Find the nearest repeated entries in an array
+    priority: P1
     problem_number: '12.05'
   next_permutation:
     attempts: []
@@ -896,6 +954,7 @@ problems:
     chapter_name: Dynamic Programming
     file: 3-problems/number_of_score_combinations.py
     name: Count the number of score combinations
+    priority: P0
     problem_number: '16.01'
   number_of_traversals_matrix:
     attempts: []
@@ -903,6 +962,7 @@ problems:
     chapter_name: Dynamic Programming
     file: 3-problems/number_of_traversals_matrix.py
     name: Count the number of ways to traverse a 2D array
+    priority: P2
     problem_number: '16.03'
   number_of_traversals_staircase:
     attempts: []
@@ -917,6 +977,7 @@ problems:
     chapter_name: Arrays
     file: 3-problems/offline_sampling.py
     name: Sample offline data
+    priority: P1
     problem_number: '5.12'
   online_median:
     attempts: []
@@ -924,6 +985,7 @@ problems:
     chapter_name: Heaps
     file: 3-problems/online_median.py
     name: Compute the median of online data
+    priority: P3
     problem_number: '10.05'
   online_sampling:
     attempts: []
@@ -955,6 +1017,7 @@ problems:
     chapter_name: Primitive Types
     file: 3-problems/parity.py
     name: Computing the parity of a word
+    priority: P0
     problem_number: '4.01'
   pascal_triangle:
     attempts: []
@@ -976,6 +1039,7 @@ problems:
     chapter_name: Recursion
     file: 3-problems/permutations.py
     name: Generate permutations
+    priority: P3
     problem_number: '15.04'
   phone_number_mnemonic:
     attempts: []
@@ -983,6 +1047,7 @@ problems:
     chapter_name: Recursion
     file: 3-problems/phone_number_mnemonic.py
     name: Compute all mnemonics for a phone number
+    priority: P1
     problem_number: '15.02'
   picking_up_coins:
     attempts: []
@@ -1011,6 +1076,7 @@ problems:
     chapter_name: Primitive Types
     file: 3-problems/power_x_y.py
     name: Compute pow(x,y)
+    priority: P1
     problem_number: '4.07'
   pretty_printing:
     attempts: []
@@ -1025,6 +1091,7 @@ problems:
     chapter_name: Arrays
     file: 3-problems/prime_sieve.py
     name: Enumerate all primes to n
+    priority: P3
     problem_number: '5.09'
   primitive_divide:
     attempts: []
@@ -1046,6 +1113,7 @@ problems:
     chapter_name: Stacks and Queues
     file: 3-problems/queue_from_stacks.py
     name: Implement a queue using stacks
+    priority: P3
     problem_number: '8.08'
   queue_with_max:
     attempts: []
@@ -1067,6 +1135,7 @@ problems:
     chapter_name: Arrays
     file: 3-problems/random_subset.py
     name: Compute a random subset
+    priority: P4
     problem_number: '5.15'
   range_lookup_in_bst:
     attempts: []
@@ -1081,6 +1150,7 @@ problems:
     chapter_name: Searching
     file: 3-problems/real_square_root.py
     name: Compute the real square root
+    priority: P3
     problem_number: '11.05'
   rectangle_intersection:
     attempts: []
@@ -1088,6 +1158,7 @@ problems:
     chapter_name: Primitive Types
     file: 3-problems/rectangle_intersection.py
     name: Rectangle intersection
+    priority: P3
     problem_number: '4.11'
   refueling_schedule:
     attempts: []
@@ -1095,6 +1166,7 @@ problems:
     chapter_name: Greedy Algorithms and Invariants
     file: 3-problems/refueling_schedule.py
     name: The gasup problem
+    priority: P1
     problem_number: '17.06'
   regular_expression:
     attempts: []
@@ -1123,6 +1195,7 @@ problems:
     chapter_name: Strings
     file: 3-problems/replace_and_remove.py
     name: Replace and remove
+    priority: P1
     problem_number: '6.04'
   reverse_bits:
     attempts:
@@ -1138,6 +1211,7 @@ problems:
     chapter_name: Primitive Types
     file: 3-problems/reverse_bits.py
     name: Reverse bits
+    priority: P3
     problem_number: '4.03'
   reverse_digits:
     attempts: []
@@ -1145,6 +1219,7 @@ problems:
     chapter_name: Primitive Types
     file: 3-problems/reverse_digits.py
     name: Reverse digits
+    priority: P2
     problem_number: '4.08'
   reverse_sublist:
     attempts: []
@@ -1152,6 +1227,7 @@ problems:
     chapter_name: Linked Lists
     file: 3-problems/reverse_sublist.py
     name: Reverse a single sublist
+    priority: P1
     problem_number: '7.02'
   reverse_words:
     attempts: []
@@ -1159,6 +1235,7 @@ problems:
     chapter_name: Strings
     file: 3-problems/reverse_words.py
     name: Reverse all the words in a sentence
+    priority: P2
     problem_number: '6.06'
   road_network:
     attempts: []
@@ -1173,6 +1250,7 @@ problems:
     chapter_name: Strings
     file: 3-problems/roman_to_integer.py
     name: Convert from Roman to decimal
+    priority: P3
     problem_number: '6.08'
   rook_attack:
     attempts: []
@@ -1194,6 +1272,7 @@ problems:
     chapter_name: Strings
     file: 3-problems/run_length_compression.py
     name: Implement run-length encoding
+    priority: P4
     problem_number: '6.11'
   search_entry_equal_to_index:
     attempts: []
@@ -1208,6 +1287,7 @@ problems:
     chapter_name: Binary Search Trees
     file: 3-problems/search_first_greater_value_in_bst.py
     name: Find the first key greater than a given value in a BST
+    priority: P1
     problem_number: '14.02'
   search_first_key:
     attempts: []
@@ -1215,6 +1295,7 @@ problems:
     chapter_name: Searching
     file: 3-problems/search_first_key.py
     name: Search a sorted array for first occurrence of k
+    priority: P0
     problem_number: '11.01'
   search_for_min_max_in_array:
     attempts: []
@@ -1222,6 +1303,7 @@ problems:
     chapter_name: Searching
     file: 3-problems/search_for_min_max_in_array.py
     name: Find the min and max simultaneously
+    priority: P4
     problem_number: '11.07'
   search_for_missing_element:
     attempts: []
@@ -1229,6 +1311,7 @@ problems:
     chapter_name: Searching
     file: 3-problems/search_for_missing_element.py
     name: Find the duplicate and missing elements
+    priority: P3
     problem_number: '11.10'
   search_frequent_items:
     attempts: []
@@ -1250,6 +1333,7 @@ problems:
     chapter_name: Graphs
     file: 3-problems/search_maze.py
     name: Search a maze
+    priority: P0
     problem_number: '18.01'
   search_row_col_sorted_matrix:
     attempts: []
@@ -1257,6 +1341,7 @@ problems:
     chapter_name: Searching
     file: 3-problems/search_row_col_sorted_matrix.py
     name: Search in a 2D sorted array
+    priority: P4
     problem_number: '11.06'
   search_shifted_sorted_array:
     attempts: []
@@ -1264,6 +1349,7 @@ problems:
     chapter_name: Searching
     file: 3-problems/search_shifted_sorted_array.py
     name: Search a cyclically sorted array
+    priority: P2
     problem_number: '11.03'
   search_unknown_length_array:
     attempts: []
@@ -1278,6 +1364,7 @@ problems:
     chapter_name: Sorting
     file: 3-problems/smallest_nonconstructible_value.py
     name: Smallest nonconstructible value
+    priority: P2
     problem_number: '13.05'
   smallest_subarray_covering_all_values:
     attempts: []
@@ -1292,6 +1379,7 @@ problems:
     chapter_name: Hash Tables
     file: 3-problems/smallest_subarray_covering_set.py
     name: Find the smallest subarray covering all values
+    priority: P3
     problem_number: '12.06'
   snake_string:
     attempts: []
@@ -1306,6 +1394,7 @@ problems:
     chapter_name: Heaps
     file: 3-problems/sort_almost_sorted_array.py
     name: Sort an almost-sorted array
+    priority: P2
     problem_number: '10.03'
   sort_increasing_decreasing_array:
     attempts: []
@@ -1327,6 +1416,7 @@ problems:
     chapter_name: Arrays
     file: 3-problems/sorted_array_remove_dups.py
     name: Delete duplicates from a sorted array
+    priority: P3
     problem_number: '5.05'
   sorted_arrays_merge:
     attempts: []
@@ -1334,6 +1424,7 @@ problems:
     chapter_name: Heaps
     file: 3-problems/sorted_arrays_merge.py
     name: Merge sorted files
+    priority: P0
     problem_number: '10.01'
   sorted_list_to_bst:
     attempts: []
@@ -1348,6 +1439,7 @@ problems:
     chapter_name: Linked Lists
     file: 3-problems/sorted_lists_merge.py
     name: Merge two sorted lists
+    priority: P0
     problem_number: '7.01'
   spiral_ordering:
     attempts: []
@@ -1355,6 +1447,7 @@ problems:
     chapter_name: Arrays
     file: 3-problems/spiral_ordering.py
     name: Compute the spiral ordering of a 2D array
+    priority: P1
     problem_number: '5.18'
   spreadsheet_encoding:
     attempts: []
@@ -1369,6 +1462,7 @@ problems:
     chapter_name: Stacks and Queues
     file: 3-problems/stack_with_max.py
     name: Implement a stack with max API
+    priority: P0
     problem_number: '8.01'
   string_decompositions_into_dictionary_words:
     attempts: []
@@ -1383,6 +1477,7 @@ problems:
     chapter_name: Strings
     file: 3-problems/string_integer_interconversion.py
     name: Interconvert strings and integers
+    priority: P0
     problem_number: '6.01'
   string_transformability:
     attempts: []
@@ -1390,6 +1485,7 @@ problems:
     chapter_name: Graphs
     file: 3-problems/string_transformability.py
     name: Transform one string to another
+    priority: P1
     problem_number: '18.07'
   substring_match:
     attempts: []
@@ -1411,6 +1507,7 @@ problems:
     chapter_name: Recursion
     file: 3-problems/sudoku_solve.py
     name: Implement a Sudoku solver
+    priority: P4
     problem_number: '15.10'
   sum_root_to_leaf:
     attempts: []
@@ -1453,6 +1550,7 @@ problems:
     chapter_name: Greedy Algorithms and Invariants
     file: 3-problems/three_sum.py
     name: The 3-sum problem
+    priority: P0
     problem_number: '17.04'
   tree_connect_leaves:
     attempts: []
@@ -1460,6 +1558,7 @@ problems:
     chapter_name: Binary Trees
     file: 3-problems/tree_connect_leaves.py
     name: Compute the leaves of a binary tree
+    priority: P4
     problem_number: '9.13'
   tree_exterior:
     attempts: []
@@ -1474,6 +1573,7 @@ problems:
     chapter_name: Binary Trees
     file: 3-problems/tree_from_preorder_inorder.py
     name: Reconstruct a binary tree from traversal data
+    priority: P3
     problem_number: '9.11'
   tree_from_preorder_with_null:
     attempts: []
@@ -1481,6 +1581,7 @@ problems:
     chapter_name: Binary Trees
     file: 3-problems/tree_from_preorder_with_null.py
     name: Reconstruct a binary tree from a preorder traversal with markers
+    priority: P2
     problem_number: '9.12'
   tree_inorder:
     attempts: []
@@ -1495,6 +1596,7 @@ problems:
     chapter_name: Stacks and Queues
     file: 3-problems/tree_level_order.py
     name: Compute binary tree nodes in order of increasing depth
+    priority: P1
     problem_number: '8.06'
   tree_right_sibling:
     attempts: []
@@ -1516,6 +1618,7 @@ problems:
     chapter_name: Sorting
     file: 3-problems/two_sorted_arrays_merge.py
     name: Merge two sorted arrays
+    priority: P1
     problem_number: '13.02'
   uniform_random_number:
     attempts: []
@@ -1530,6 +1633,7 @@ problems:
     chapter_name: Strings
     file: 3-problems/valid_ip_addresses.py
     name: Compute all valid IP addresses
+    priority: P4
     problem_number: '6.09'
   zip_list:
     attempts: []

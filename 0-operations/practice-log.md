@@ -7,3 +7,6 @@ Track time spent practicing operations flashcards.
 
 ## Arrays
 - 2025-11-22: completed (all operations)
+
+## Strings
+- 2025-11-22: completed (all operations)

@@ -116,12 +116,18 @@ def calculate_stats(problems, threshold):
         'tier1': 0,
         'tier2': 0,
         'tier3': 0,
-        'total': len(problems),
+        'total': 0,
         'chapters': defaultdict(lambda: {'tier1': 0, 'tier2': 0, 'tier3': 0, 'total': 0, 'chapter_num': ''}),
         'problems_by_tier': {}
     }
 
     for problem_id, problem_data in problems.items():
+        # Skip bootcamp problems (problem numbers ending in .00)
+        problem_num = problem_data.get('problem_number', '')
+        if problem_num.endswith('.00'):
+            continue
+
+        stats['total'] += 1
         tier, best_time = analyze_problem(problem_data, threshold)
 
         # Store problem analysis
@@ -274,8 +280,8 @@ def generate_readme(data, threshold):
         lines.extend([
             f'### Chapter {chapter_num}: {chapter_name}',
             '',
-            '| # | Problem | Status | Best Time |',
-            '|---|---------|--------|-----------|',
+            '| # | Problem | Priority | Status | Best Time |',
+            '|---|---------|----------|--------|-----------|',
         ])
 
         # Get problems for this chapter and sort by problem number
@@ -289,6 +295,21 @@ def generate_readme(data, threshold):
 
             problem_num = metadata.get('problem_number', '')
             problem_name = metadata.get('name', problem_id)
+
+            # Skip bootcamp problems (problem numbers ending in .00)
+            if problem_num.endswith('.00'):
+                continue
+
+            # Get priority for this problem (from metadata) and map to emoji
+            priority_str = metadata.get('priority', '')
+            priority_emoji_map = {
+                'P0': '🔴',
+                'P1': '🟠',
+                'P2': '🟡',
+                'P3': '🟢',
+                'P4': '🔵'
+            }
+            priority = priority_emoji_map.get(priority_str, '')
 
             # Determine status icon
             if tier == 0:
@@ -305,7 +326,7 @@ def generate_readme(data, threshold):
             if tier >= 2 and best_time is not None:
                 time_str = f'{best_time} min'
 
-            lines.append(f'| {problem_num} | {problem_name} | {status} | {time_str} |')
+            lines.append(f'| {problem_num} | {problem_name} | {priority} | {status} | {time_str} |')
 
         lines.extend(['', '---', ''])
 
