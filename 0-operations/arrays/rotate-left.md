@@ -2,7 +2,7 @@
 
 **Q:** How do I rotate array left by k positions?
 
-**A:** Concatenate slice from k with slice to k
+**A:** Concatenate slice from k with slice to k - O(n) time
 
 ```python
 A[k:] + A[:k]

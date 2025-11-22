@@ -2,7 +2,7 @@
 
 **Q:** How do I sort an array in-place?
 
-**A:** Use sort() method
+**A:** Use sort() method - O(n log n) time
 
 ```python
 A.sort()               # ascending

@@ -2,7 +2,7 @@
 
 **Q:** How do I perform binary search on sorted array?
 
-**A:** Use bisect module
+**A:** Use bisect module - O(log n) time
 
 ```python
 import bisect

@@ -2,7 +2,7 @@
 
 **Q:** How do I fill array of size n with value x?
 
-**A:** Use multiplication operator
+**A:** Use multiplication operator - O(n) time
 
 ```python
 [x] * n  # creates [x, x, x, ..., x]

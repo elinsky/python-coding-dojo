@@ -2,7 +2,7 @@
 
 **Q:** How do I create 2D array m×n initialized to 0?
 
-**A:** Use list comprehension (NOT [[0]*n]*m)
+**A:** Use list comprehension (NOT [[0]*n]*m) - O(m*n) time
 
 ```python
 [[0] * n for _ in range(m)]  # correct

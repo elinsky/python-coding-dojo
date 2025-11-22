@@ -2,7 +2,7 @@
 
 **Q:** How do I create array using list comprehension?
 
-**A:** [expression for item in iterable if condition]
+**A:** [expression for item in iterable if condition] - O(n) time
 
 ```python
 [x**2 for x in range(10)]       # squares

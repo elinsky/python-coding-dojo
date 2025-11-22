@@ -2,7 +2,7 @@
 
 **Q:** How do I get a reversed copy?
 
-**A:** Use slicing with -1 step or reversed()
+**A:** Use slicing with -1 step or reversed() - O(n) time
 
 ```python
 A[::-1]           # returns reversed copy
