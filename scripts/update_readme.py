@@ -12,14 +12,16 @@ def analyze_problem(problem_data, threshold):
     """Analyze a problem's attempts and return its tier and best time.
 
     Returns:
-        tuple: (tier, best_time)
-            tier: 0 (unsolved), 1 (solved), 2 (independent), 3 (mastered)
+        tuple: (tier, best_time, has_attempts)
+            tier: 0 (attempted/unsolved), 1 (solved), 2 (independent), 3 (mastered)
             best_time: minimum time in minutes for tier 2+ attempts, None otherwise
+            has_attempts: True if problem has any attempts, False otherwise
     """
     attempts = problem_data.get('attempts', [])
 
+    # Never attempted
     if not attempts:
-        return 0, None
+        return 0, None, False
 
     # Track best independent time
     best_time = None
@@ -48,7 +50,7 @@ def analyze_problem(problem_data, threshold):
                 if time_minutes <= threshold and attempt.get('optimal', False):
                     tier = 3
 
-    return tier, best_time
+    return tier, best_time, True
 
 
 def generate_progress_bar(count, total, emoji):
@@ -90,12 +92,14 @@ def calculate_stats(problems, threshold):
 
     Returns:
         dict: {
+            'tier0': int,
             'tier1': int,
             'tier2': int,
             'tier3': int,
             'total': int,
             'chapters': {
                 chapter_name: {
+                    'tier0': int,
                     'tier1': int,
                     'tier2': int,
                     'tier3': int,
@@ -107,17 +111,19 @@ def calculate_stats(problems, threshold):
                 problem_id: {
                     'tier': int,
                     'best_time': int or None,
+                    'has_attempts': bool,
                     'metadata': dict
                 }
             }
         }
     """
     stats = {
+        'tier0': 0,
         'tier1': 0,
         'tier2': 0,
         'tier3': 0,
         'total': 0,
-        'chapters': defaultdict(lambda: {'tier1': 0, 'tier2': 0, 'tier3': 0, 'total': 0, 'chapter_num': ''}),
+        'chapters': defaultdict(lambda: {'tier0': 0, 'tier1': 0, 'tier2': 0, 'tier3': 0, 'total': 0, 'chapter_num': ''}),
         'problems_by_tier': {}
     }
 
@@ -128,16 +134,19 @@ def calculate_stats(problems, threshold):
             continue
 
         stats['total'] += 1
-        tier, best_time = analyze_problem(problem_data, threshold)
+        tier, best_time, has_attempts = analyze_problem(problem_data, threshold)
 
         # Store problem analysis
         stats['problems_by_tier'][problem_id] = {
             'tier': tier,
             'best_time': best_time,
+            'has_attempts': has_attempts,
             'metadata': problem_data
         }
 
         # Update overall stats
+        if tier >= 0 and has_attempts:
+            stats['tier0'] += 1
         if tier >= 1:
             stats['tier1'] += 1
         if tier >= 2:
@@ -153,6 +162,8 @@ def calculate_stats(problems, threshold):
         chapter_stats['total'] += 1
         chapter_stats['chapter_num'] = chapter_num
 
+        if tier >= 0 and has_attempts:
+            chapter_stats['tier0'] += 1
         if tier >= 1:
             chapter_stats['tier1'] += 1
         if tier >= 2:
@@ -185,6 +196,18 @@ def generate_readme(data, threshold):
         '## Overall Progress',
         '',
     ]
+
+    # Tier 0: Attempted
+    tier0_pct = (stats['tier0'] / stats['total'] * 100) if stats['total'] > 0 else 0
+    lines.extend([
+        '### Tier 0: Attempted ✓',
+        'Problems attempted but not yet solved',
+        '',
+        generate_progress_bar(stats['tier0'], stats['total'], '✓'),
+        '',
+        f"**{stats['tier0']} / {stats['total']}** ({tier0_pct:.1f}%)",
+        '',
+    ])
 
     # Tier 1: Solved
     tier1_pct = (stats['tier1'] / stats['total'] * 100) if stats['total'] > 0 else 0
@@ -226,8 +249,8 @@ def generate_readme(data, threshold):
     lines.extend([
         '## Progress by Chapter',
         '',
-        '| Chapter | Problems | Solved | Independent ⭐ | Mastered 🏆 |',
-        '|---------|----------|--------|---------------|-------------|',
+        '| Chapter | Problems | Attempted ✓ | Solved | Independent 💪 | Mastered 🏆 |',
+        '|---------|----------|-------------|--------|---------------|-------------|',
     ])
 
     # Sort chapters by chapter number (convert to int for proper ordering)
@@ -239,28 +262,33 @@ def generate_readme(data, threshold):
     for chapter_name, chapter_stats in sorted_chapters:
         chapter_num = chapter_stats['chapter_num']
         total = chapter_stats['total']
+        tier0 = chapter_stats['tier0']
         tier1 = chapter_stats['tier1']
         tier2 = chapter_stats['tier2']
         tier3 = chapter_stats['tier3']
 
+        tier0_pct = (tier0 / total * 100) if total > 0 else 0
         tier1_pct = (tier1 / total * 100) if total > 0 else 0
         tier2_pct = (tier2 / total * 100) if total > 0 else 0
         tier3_pct = (tier3 / total * 100) if total > 0 else 0
 
         lines.append(
             f'| {chapter_num}: {chapter_name} | {total} | '
+            f'{tier0} ({tier0_pct:.0f}%) | '
             f'{tier1} ({tier1_pct:.0f}%) | '
             f'{tier2} ({tier2_pct:.0f}%) | '
             f'{tier3} ({tier3_pct:.0f}%) |'
         )
 
     # Total row
+    tier0_pct = (stats['tier0'] / stats['total'] * 100) if stats['total'] > 0 else 0
     tier1_pct = (stats['tier1'] / stats['total'] * 100) if stats['total'] > 0 else 0
     tier2_pct = (stats['tier2'] / stats['total'] * 100) if stats['total'] > 0 else 0
     tier3_pct = (stats['tier3'] / stats['total'] * 100) if stats['total'] > 0 else 0
 
     lines.append(
         f"| **Total** | **{stats['total']}** | "
+        f"**{stats['tier0']}** | "
         f"**{stats['tier1']}** | "
         f"**{stats['tier2']}** | "
         f"**{stats['tier3']}** |"
@@ -292,6 +320,7 @@ def generate_readme(data, threshold):
             metadata = problem_info['metadata']
             tier = problem_info['tier']
             best_time = problem_info['best_time']
+            has_attempts = problem_info['has_attempts']
 
             problem_num = metadata.get('problem_number', '')
             problem_name = metadata.get('name', problem_id)
@@ -312,12 +341,14 @@ def generate_readme(data, threshold):
             priority = priority_emoji_map.get(priority_str, '')
 
             # Determine status icon
-            if tier == 0:
+            if tier == 0 and not has_attempts:
                 status = ''
-            elif tier == 1:
+            elif tier == 0 and has_attempts:
                 status = '✓'
+            elif tier == 1:
+                status = '👍'
             elif tier == 2:
-                status = '⭐'
+                status = '💪'
             else:  # tier == 3
                 status = '🏆'
 
@@ -346,7 +377,7 @@ def main(threshold, output):
     """Generate README.md from progress.yaml.
 
     Analyzes all problem attempts and generates a comprehensive README with:
-    - Three-tier emoji progress bars (👍 → 💪 → 🏆)
+    - Four-tier emoji progress bars (✓ → 👍 → 💪 → 🏆)
     - Chapter-by-chapter statistics
     - Complete problem list with status icons
     """
@@ -377,6 +408,7 @@ def main(threshold, output):
     problems = data.get('problems', {})
     stats = calculate_stats(problems, threshold)
     click.echo(f"\nProgress Summary:")
+    click.echo(f"  Attempted: {stats['tier0']} / {stats['total']}")
     click.echo(f"  Solved: {stats['tier1']} / {stats['total']}")
     click.echo(f"  Independent: {stats['tier2']} / {stats['total']}")
     click.echo(f"  Mastered: {stats['tier3']} / {stats['total']}")

@@ -4,6 +4,23 @@ My journey through Elements of Programming Interviews in Python.
 
 ## Overall Progress
 
+### Tier 0: Attempted ✓
+Problems attempted but not yet solved
+
+✓✓✓✓✓⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜
+
+**5 / 204** (2.5%)
+
 ### Tier 1: Solved 👍
 Problems solved (with or without help)
 
@@ -57,25 +74,25 @@ Problems solved independently in ≤20 minutes with optimal solution
 
 ## Progress by Chapter
 
-| Chapter | Problems | Solved | Independent ⭐ | Mastered 🏆 |
-|---------|----------|--------|---------------|-------------|
-| 4: Primitive Types | 11 | 4 (36%) | 3 (27%) | 2 (18%) |
-| 5: Arrays | 20 | 0 (0%) | 0 (0%) | 0 (0%) |
-| 6: Strings | 12 | 0 (0%) | 0 (0%) | 0 (0%) |
-| 7: Linked Lists | 13 | 0 (0%) | 0 (0%) | 0 (0%) |
-| 8: Stacks and Queues | 9 | 0 (0%) | 0 (0%) | 0 (0%) |
-| 9: Binary Trees | 15 | 0 (0%) | 0 (0%) | 0 (0%) |
-| 10: Heaps | 6 | 0 (0%) | 0 (0%) | 0 (0%) |
-| 11: Searching | 10 | 0 (0%) | 0 (0%) | 0 (0%) |
-| 12: Hash Tables | 11 | 0 (0%) | 0 (0%) | 0 (0%) |
-| 13: Sorting | 12 | 0 (0%) | 0 (0%) | 0 (0%) |
-| 14: Binary Search Trees | 11 | 0 (0%) | 0 (0%) | 0 (0%) |
-| 15: Recursion | 11 | 0 (0%) | 0 (0%) | 0 (0%) |
-| 16: Dynamic Programming | 12 | 0 (0%) | 0 (0%) | 0 (0%) |
-| 17: Greedy Algorithms and Invariants | 8 | 0 (0%) | 0 (0%) | 0 (0%) |
-| 18: Graphs | 8 | 0 (0%) | 0 (0%) | 0 (0%) |
-| 24: Honors Class | 35 | 0 (0%) | 0 (0%) | 0 (0%) |
-| **Total** | **204** | **4** | **3** | **2** |
+| Chapter | Problems | Attempted ✓ | Solved | Independent 💪 | Mastered 🏆 |
+|---------|----------|-------------|--------|---------------|-------------|
+| 4: Primitive Types | 11 | 4 (36%) | 4 (36%) | 3 (27%) | 2 (18%) |
+| 5: Arrays | 20 | 1 (5%) | 0 (0%) | 0 (0%) | 0 (0%) |
+| 6: Strings | 12 | 0 (0%) | 0 (0%) | 0 (0%) | 0 (0%) |
+| 7: Linked Lists | 13 | 0 (0%) | 0 (0%) | 0 (0%) | 0 (0%) |
+| 8: Stacks and Queues | 9 | 0 (0%) | 0 (0%) | 0 (0%) | 0 (0%) |
+| 9: Binary Trees | 15 | 0 (0%) | 0 (0%) | 0 (0%) | 0 (0%) |
+| 10: Heaps | 6 | 0 (0%) | 0 (0%) | 0 (0%) | 0 (0%) |
+| 11: Searching | 10 | 0 (0%) | 0 (0%) | 0 (0%) | 0 (0%) |
+| 12: Hash Tables | 11 | 0 (0%) | 0 (0%) | 0 (0%) | 0 (0%) |
+| 13: Sorting | 12 | 0 (0%) | 0 (0%) | 0 (0%) | 0 (0%) |
+| 14: Binary Search Trees | 11 | 0 (0%) | 0 (0%) | 0 (0%) | 0 (0%) |
+| 15: Recursion | 11 | 0 (0%) | 0 (0%) | 0 (0%) | 0 (0%) |
+| 16: Dynamic Programming | 12 | 0 (0%) | 0 (0%) | 0 (0%) | 0 (0%) |
+| 17: Greedy Algorithms and Invariants | 8 | 0 (0%) | 0 (0%) | 0 (0%) | 0 (0%) |
+| 18: Graphs | 8 | 0 (0%) | 0 (0%) | 0 (0%) | 0 (0%) |
+| 24: Honors Class | 35 | 0 (0%) | 0 (0%) | 0 (0%) | 0 (0%) |
+| **Total** | **204** | **5** | **4** | **3** | **2** |
 
 ## All Problems
 
@@ -85,8 +102,8 @@ Problems solved independently in ≤20 minutes with optimal solution
 |---|---------|----------|--------|-----------|
 | 4.01 | Computing the parity of a word | 🔴 | 🏆 | 2 min |
 | 4.02 | Swap bits |  | 🏆 | 6 min |
-| 4.03 | Reverse bits | 🟢 | ⭐ | 3 min |
-| 4.04 | Find a closest integer with the same weight |  | ✓ |  |
+| 4.03 | Reverse bits | 🟢 | 💪 | 3 min |
+| 4.04 | Find a closest integer with the same weight |  | 👍 |  |
 | 4.05 | Compute product without arithmetical operators |  |  |  |
 | 4.06 | Compute quotient without arithmetical operators |  |  |  |
 | 4.07 | Compute pow(x,y) | 🟠 |  |  |
@@ -101,7 +118,7 @@ Problems solved independently in ≤20 minutes with optimal solution
 
 | # | Problem | Priority | Status | Best Time |
 |---|---------|----------|--------|-----------|
-| 5.01 | The Dutch national flag problem | 🔴 |  |  |
+| 5.01 | The Dutch national flag problem | 🔴 | ✓ |  |
 | 5.02 | Increment an arbitrary-precision integer | 🟡 |  |  |
 | 5.03 | Multiply two arbitrary-precision integers | 🔵 |  |  |
 | 5.04 | Advancing through an array |  |  |  |
