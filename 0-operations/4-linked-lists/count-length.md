@@ -1,6 +1,6 @@
 # Count List Length
 
-**Q:** How do I count the length of a linked list? What is the time complexity?
+**Q:** How do I count the length of a linked list (requires multiple lines)? What is the time complexity?
 
 **A:** Traverse and increment counter. Time: O(n) where n is the length of the list
 
