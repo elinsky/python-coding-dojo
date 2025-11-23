@@ -103,7 +103,14 @@ problems:
     name: Convert a BST to a sorted doubly linked list
     problem_number: '24.20'
   buy_and_sell_stock:
-    attempts: []
+    attempts:
+    - date: '2025-11-22T19:15:46.885950'
+      optimal: true
+      solved: true
+      submissions: 1
+      time_minutes: 5
+      used_hints: false
+      used_solution: false
     chapter: 05_arrays
     chapter_name: Arrays
     file: 3-problems/buy_and_sell_stock.py

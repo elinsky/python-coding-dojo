@@ -7,7 +7,24 @@ My journey through Elements of Programming Interviews in Python.
 ### Tier 0: Attempted ✓
 Problems attempted but not yet solved
 
-✓✓✓✓✓⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+✓✓✓✓✓✓⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜
+
+**6 / 204** (2.9%)
+
+### Tier 1: Solved 👍
+Problems solved (with or without help)
+
+👍👍👍👍👍⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
@@ -21,10 +38,10 @@ Problems attempted but not yet solved
 
 **5 / 204** (2.5%)
 
-### Tier 1: Solved 👍
-Problems solved (with or without help)
+### Tier 2: Solved Independently 💪
+Problems solved without hints or looking at solutions
 
-👍👍👍👍⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+💪💪💪💪⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
@@ -38,10 +55,10 @@ Problems solved (with or without help)
 
 **4 / 204** (2.0%)
 
-### Tier 2: Solved Independently 💪
-Problems solved without hints or looking at solutions
+### Tier 3: Mastered 🏆
+Problems solved independently in ≤20 minutes with optimal solution
 
-💪💪💪⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+🏆🏆🏆⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
@@ -54,23 +71,6 @@ Problems solved without hints or looking at solutions
 ⬜⬜⬜⬜
 
 **3 / 204** (1.5%)
-
-### Tier 3: Mastered 🏆
-Problems solved independently in ≤20 minutes with optimal solution
-
-🏆🏆⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
-⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
-⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
-⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
-⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
-⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
-⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
-⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
-⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
-⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
-⬜⬜⬜⬜
-
-**2 / 204** (1.0%)
 
 ## Problem-Solving Workflow
 
@@ -126,6 +126,7 @@ flowchart TD
     style DrillLaterT0 fill:#fff4e1
 ```
 
+
 ### Learning Framework
 
 ```mermaid
@@ -157,6 +158,7 @@ flowchart LR
     style Solve fill:#e1e5ff
     style Later fill:#ffe1e1
 ```
+
 
 ### Learning Strategy Framework
 
@@ -204,12 +206,13 @@ flowchart TB
     style Rule75 fill:#d4e6f1
 ```
 
+
 ## Progress by Chapter
 
 | Chapter | Problems | Attempted ✓ | Solved | Independent 💪 | Mastered 🏆 |
 |---------|----------|-------------|--------|---------------|-------------|
 | 4: Primitive Types | 11 | 4 (36%) | 4 (36%) | 3 (27%) | 2 (18%) |
-| 5: Arrays | 20 | 1 (5%) | 0 (0%) | 0 (0%) | 0 (0%) |
+| 5: Arrays | 20 | 2 (10%) | 1 (5%) | 1 (5%) | 1 (5%) |
 | 6: Strings | 12 | 0 (0%) | 0 (0%) | 0 (0%) | 0 (0%) |
 | 7: Linked Lists | 13 | 0 (0%) | 0 (0%) | 0 (0%) | 0 (0%) |
 | 8: Stacks and Queues | 9 | 0 (0%) | 0 (0%) | 0 (0%) | 0 (0%) |
@@ -224,7 +227,7 @@ flowchart TB
 | 17: Greedy Algorithms and Invariants | 8 | 0 (0%) | 0 (0%) | 0 (0%) | 0 (0%) |
 | 18: Graphs | 8 | 0 (0%) | 0 (0%) | 0 (0%) | 0 (0%) |
 | 24: Honors Class | 35 | 0 (0%) | 0 (0%) | 0 (0%) | 0 (0%) |
-| **Total** | **204** | **5** | **4** | **3** | **2** |
+| **Total** | **204** | **6** | **5** | **4** | **3** |
 
 ## All Problems
 
@@ -255,7 +258,7 @@ flowchart TB
 | 5.03 | Multiply two arbitrary-precision integers | 🔵 |  |  |
 | 5.04 | Advancing through an array |  |  |  |
 | 5.05 | Delete duplicates from a sorted array | 🟢 |  |  |
-| 5.06 | Buy and sell a stock once | 🔴 |  |  |
+| 5.06 | Buy and sell a stock once | 🔴 | 🏆 | 5 min |
 | 5.07 | Buy and sell a stock twice |  |  |  |
 | 5.08 | Computing an alternation |  |  |  |
 | 5.09 | Enumerate all primes to n | 🟢 |  |  |

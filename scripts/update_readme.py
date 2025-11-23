@@ -174,6 +174,24 @@ def calculate_stats(problems, threshold):
     return stats
 
 
+def load_diagram(diagram_filename):
+    """Load a diagram from docs/diagrams/ directory.
+
+    Args:
+        diagram_filename: Name of the diagram file (e.g., '01_problem_solving_workflow.md')
+
+    Returns:
+        str: Contents of the diagram file, or empty string if file not found
+    """
+    repo_root = Path(__file__).parent.parent
+    diagram_path = repo_root / 'docs' / 'diagrams' / diagram_filename
+
+    if diagram_path.exists():
+        with open(diagram_path, 'r') as f:
+            return f.read()
+    return ''
+
+
 def generate_readme(data, threshold):
     """Generate complete README content.
 
@@ -242,6 +260,22 @@ def generate_readme(data, threshold):
         generate_progress_bar(stats['tier3'], stats['total'], '🏆'),
         '',
         f"**{stats['tier3']} / {stats['total']}** ({tier3_pct:.1f}%)",
+        '',
+    ])
+
+    # Add workflow diagrams
+    lines.extend([
+        '## Problem-Solving Workflow',
+        '',
+        load_diagram('01_problem_solving_workflow.md'),
+        '',
+        '### Learning Framework',
+        '',
+        load_diagram('02_learning_framework.md'),
+        '',
+        '### Learning Strategy Framework',
+        '',
+        load_diagram('03_learning_strategy_framework.md'),
         '',
     ])
 
