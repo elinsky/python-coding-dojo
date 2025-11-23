@@ -1,8 +1,8 @@
 # Track Both Head and Tail
 
-**Q:** How do I track both head and tail of a growing list?
+**Q:** How do I track both head and tail of a growing list? What is the time complexity?
 
-**A:** Keep two pointers, update tail when appending
+**A:** Keep two pointers, update tail when appending. Time: O(1)
 
 ```python
 head = tail = ListNode()
