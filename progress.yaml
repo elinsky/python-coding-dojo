@@ -1448,7 +1448,14 @@ problems:
     name: Convert a sorted doubly linked list into a BST
     problem_number: '24.19'
   sorted_lists_merge:
-    attempts: []
+    attempts:
+    - date: '2025-11-23T16:57:27.651716'
+      optimal: true
+      solved: true
+      submissions: 1
+      time_minutes: 3
+      used_hints: false
+      used_solution: false
     chapter: 07_linked_lists
     chapter_name: Linked Lists
     file: 3-problems/sorted_lists_merge.py
