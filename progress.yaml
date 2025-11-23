@@ -280,7 +280,14 @@ problems:
     name: Draw the skyline
     problem_number: '24.25'
   dutch_national_flag:
-    attempts: []
+    attempts:
+    - date: '2025-11-22T18:08:24.962323'
+      optimal: false
+      solved: false
+      submissions: 0
+      time_minutes: null
+      used_hints: false
+      used_solution: false
     chapter: 05_arrays
     chapter_name: Arrays
     file: 3-problems/dutch_national_flag.py
