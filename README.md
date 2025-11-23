@@ -7,7 +7,24 @@ My journey through Elements of Programming Interviews in Python.
 ### Tier 0: Attempted ✓
 Problems attempted but not yet solved
 
-✓✓✓✓✓✓⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+✓✓✓✓✓✓✓⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜
+
+**7 / 204** (3.4%)
+
+### Tier 1: Solved 👍
+Problems solved (with or without help)
+
+👍👍👍👍👍👍⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
@@ -21,10 +38,10 @@ Problems attempted but not yet solved
 
 **6 / 204** (2.9%)
 
-### Tier 1: Solved 👍
-Problems solved (with or without help)
+### Tier 2: Solved Independently 💪
+Problems solved without hints or looking at solutions
 
-👍👍👍👍👍⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+💪💪💪💪💪⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
@@ -38,10 +55,10 @@ Problems solved (with or without help)
 
 **5 / 204** (2.5%)
 
-### Tier 2: Solved Independently 💪
-Problems solved without hints or looking at solutions
+### Tier 3: Mastered 🏆
+Problems solved independently in ≤20 minutes with optimal solution
 
-💪💪💪💪⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+🏆🏆🏆🏆⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
@@ -54,23 +71,6 @@ Problems solved without hints or looking at solutions
 ⬜⬜⬜⬜
 
 **4 / 204** (2.0%)
-
-### Tier 3: Mastered 🏆
-Problems solved independently in ≤20 minutes with optimal solution
-
-🏆🏆🏆⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
-⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
-⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
-⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
-⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
-⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
-⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
-⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
-⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
-⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
-⬜⬜⬜⬜
-
-**3 / 204** (1.5%)
 
 ## Problem-Solving Workflow
 
@@ -213,7 +213,7 @@ flowchart TB
 |---------|----------|-------------|--------|---------------|-------------|
 | 4: Primitive Types | 11 | 4 (36%) | 4 (36%) | 3 (27%) | 2 (18%) |
 | 5: Arrays | 20 | 2 (10%) | 1 (5%) | 1 (5%) | 1 (5%) |
-| 6: Strings | 12 | 0 (0%) | 0 (0%) | 0 (0%) | 0 (0%) |
+| 6: Strings | 12 | 1 (8%) | 1 (8%) | 1 (8%) | 1 (8%) |
 | 7: Linked Lists | 13 | 0 (0%) | 0 (0%) | 0 (0%) | 0 (0%) |
 | 8: Stacks and Queues | 9 | 0 (0%) | 0 (0%) | 0 (0%) | 0 (0%) |
 | 9: Binary Trees | 15 | 0 (0%) | 0 (0%) | 0 (0%) | 0 (0%) |
@@ -227,7 +227,7 @@ flowchart TB
 | 17: Greedy Algorithms and Invariants | 8 | 0 (0%) | 0 (0%) | 0 (0%) | 0 (0%) |
 | 18: Graphs | 8 | 0 (0%) | 0 (0%) | 0 (0%) | 0 (0%) |
 | 24: Honors Class | 35 | 0 (0%) | 0 (0%) | 0 (0%) | 0 (0%) |
-| **Total** | **204** | **6** | **5** | **4** | **3** |
+| **Total** | **204** | **7** | **6** | **5** | **4** |
 
 ## All Problems
 
@@ -280,7 +280,7 @@ flowchart TB
 
 | # | Problem | Priority | Status | Best Time |
 |---|---------|----------|--------|-----------|
-| 6.01 | Interconvert strings and integers | 🔴 |  |  |
+| 6.01 | Interconvert strings and integers | 🔴 | 🏆 | 19 min |
 | 6.02 | Base conversion | 🟠 |  |  |
 | 6.03 | Compute the spreadsheet column encoding |  |  |  |
 | 6.04 | Replace and remove | 🟠 |  |  |

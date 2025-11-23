@@ -210,7 +210,7 @@ problem_mapping = {
         },
         "6.01 Interconvert strings and integers": {
             "Python: string_integer_interconversion.py": {
-                "passed": 0,
+                "passed": 15002,
                 "total": 15002
             }
         },
