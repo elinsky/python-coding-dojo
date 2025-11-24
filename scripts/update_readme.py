@@ -114,6 +114,10 @@ def calculate_stats(problems, threshold):
                     'has_attempts': bool,
                     'metadata': dict
                 }
+            },
+            'priority_stats': {
+                'P0': {'total': int, 'attempted': int, 'mastered': int},
+                ...
             }
         }
     """
@@ -124,7 +128,14 @@ def calculate_stats(problems, threshold):
         'tier3': 0,
         'total': 0,
         'chapters': defaultdict(lambda: {'tier0': 0, 'tier1': 0, 'tier2': 0, 'tier3': 0, 'total': 0, 'chapter_num': ''}),
-        'problems_by_tier': {}
+        'problems_by_tier': {},
+        'priority_stats': {
+            'P0': {'total': 0, 'attempted': 0, 'mastered': 0},
+            'P1': {'total': 0, 'attempted': 0, 'mastered': 0},
+            'P2': {'total': 0, 'attempted': 0, 'mastered': 0},
+            'P3': {'total': 0, 'attempted': 0, 'mastered': 0},
+            'P4': {'total': 0, 'attempted': 0, 'mastered': 0},
+        }
     }
 
     for problem_id, problem_data in problems.items():
@@ -170,6 +181,16 @@ def calculate_stats(problems, threshold):
             chapter_stats['tier2'] += 1
         if tier >= 3:
             chapter_stats['tier3'] += 1
+
+        # Update priority-based stats for goals
+        priority = problem_data.get('priority', '')
+        if priority in stats['priority_stats']:
+            priority_stat = stats['priority_stats'][priority]
+            priority_stat['total'] += 1
+            if has_attempts:
+                priority_stat['attempted'] += 1
+            if tier >= 3:  # Mastered
+                priority_stat['mastered'] += 1
 
     return stats
 
@@ -263,6 +284,56 @@ def generate_readme(data, threshold):
         '',
     ])
 
+    # Add goals section
+    lines.extend([
+        '## Goals',
+        '',
+        'Progress toward priority-based learning goals.',
+        '',
+    ])
+
+    # Priority emoji mapping
+    priority_emoji_map = {
+        'P0': '🔴',
+        'P1': '🟠',
+        'P2': '🟡',
+        'P3': '🟢',
+        'P4': '🔵'
+    }
+
+    # Generate goal progress for each priority level
+    for priority in ['P0', 'P1', 'P2', 'P3', 'P4']:
+        emoji = priority_emoji_map[priority]
+        pstats = stats['priority_stats'][priority]
+        total = pstats['total']
+        attempted = pstats['attempted']
+        mastered = pstats['mastered']
+
+        if total == 0:
+            continue  # Skip priorities with no problems
+
+        # Goal 1: Attempt all problems at this priority
+        attempt_pct = (attempted / total * 100) if total > 0 else 0
+        lines.extend([
+            f'### {emoji} {priority}: Attempt All ({attempted}/{total} - {attempt_pct:.0f}%)',
+            '',
+            generate_progress_bar(attempted, total, '✓'),
+            '',
+            f"**{attempted} / {total}** problems attempted",
+            '',
+        ])
+
+        # Goal 2: Master all problems at this priority
+        master_pct = (mastered / total * 100) if total > 0 else 0
+        lines.extend([
+            f'### {emoji} {priority}: Master All ({mastered}/{total} - {master_pct:.0f}%)',
+            '',
+            generate_progress_bar(mastered, total, '🏆'),
+            '',
+            f"**{mastered} / {total}** problems mastered",
+            '',
+        ])
+
     # Add workflow diagrams
     lines.extend([
         '## Problem-Solving Workflow',
@@ -283,7 +354,7 @@ def generate_readme(data, threshold):
     lines.extend([
         '## Progress by Chapter',
         '',
-        '| Chapter | Problems | Attempted ✓ | Solved | Independent 💪 | Mastered 🏆 |',
+        '| Chapter | Problems | Attempted ✓ | Solved 👍 | Independent 💪 | Mastered 🏆 |',
         '|---------|----------|-------------|--------|---------------|-------------|',
     ])
 

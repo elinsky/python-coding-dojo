@@ -589,7 +589,16 @@ problems:
     priority: P0
     problem_number: '14.01'
   is_tree_balanced:
-    attempts: []
+    attempts:
+    - date: '2025-11-23T19:22:44.812626'
+      notes: Passed all tests but found edge case bug (doesn't check height difference
+        at each node)
+      optimal: false
+      solved: false
+      submissions: 1
+      time_minutes: 8
+      used_hints: false
+      used_solution: false
     chapter: 09_binary_trees
     chapter_name: Binary Trees
     file: 3-problems/is_tree_balanced.py

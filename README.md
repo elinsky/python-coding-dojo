@@ -7,7 +7,7 @@ My journey through Elements of Programming Interviews in Python.
 ### Tier 0: Attempted ✓
 Problems attempted but not yet solved
 
-✓✓✓✓✓✓✓✓✓⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+✓✓✓✓✓✓✓✓✓✓⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
@@ -19,7 +19,7 @@ Problems attempted but not yet solved
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜
 
-**9 / 204** (4.4%)
+**10 / 204** (4.9%)
 
 ### Tier 1: Solved 👍
 Problems solved (with or without help)
@@ -71,6 +71,76 @@ Problems solved independently in ≤20 minutes with optimal solution
 ⬜⬜⬜⬜
 
 **5 / 204** (2.5%)
+
+## Goals
+
+Progress toward priority-based learning goals.
+
+### 🔴 P0: Attempt All (7/16 - 44%)
+
+✓✓✓✓✓✓✓⬜⬜⬜⬜⬜⬜⬜⬜⬜
+
+**7 / 16** problems attempted
+
+### 🔴 P0: Master All (4/16 - 25%)
+
+🏆🏆🏆🏆⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+
+**4 / 16** problems mastered
+
+### 🟠 P1: Attempt All (0/21 - 0%)
+
+⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+⬜
+
+**0 / 21** problems attempted
+
+### 🟠 P1: Master All (0/21 - 0%)
+
+⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+⬜
+
+**0 / 21** problems mastered
+
+### 🟡 P2: Attempt All (0/22 - 0%)
+
+⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜
+
+**0 / 22** problems attempted
+
+### 🟡 P2: Master All (0/22 - 0%)
+
+⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜
+
+**0 / 22** problems mastered
+
+### 🟢 P3: Attempt All (1/25 - 4%)
+
+✓⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜
+
+**1 / 25** problems attempted
+
+### 🟢 P3: Master All (0/25 - 0%)
+
+⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜
+
+**0 / 25** problems mastered
+
+### 🔵 P4: Attempt All (0/20 - 0%)
+
+⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+
+**0 / 20** problems attempted
+
+### 🔵 P4: Master All (0/20 - 0%)
+
+⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+
+**0 / 20** problems mastered
 
 ## Problem-Solving Workflow
 
@@ -209,14 +279,14 @@ flowchart TB
 
 ## Progress by Chapter
 
-| Chapter | Problems | Attempted ✓ | Solved | Independent 💪 | Mastered 🏆 |
+| Chapter | Problems | Attempted ✓ | Solved 👍 | Independent 💪 | Mastered 🏆 |
 |---------|----------|-------------|--------|---------------|-------------|
 | 4: Primitive Types | 11 | 4 (36%) | 4 (36%) | 3 (27%) | 2 (18%) |
 | 5: Arrays | 20 | 2 (10%) | 1 (5%) | 1 (5%) | 1 (5%) |
 | 6: Strings | 12 | 1 (8%) | 1 (8%) | 1 (8%) | 1 (8%) |
 | 7: Linked Lists | 13 | 1 (8%) | 1 (8%) | 1 (8%) | 1 (8%) |
 | 8: Stacks and Queues | 9 | 1 (11%) | 1 (11%) | 1 (11%) | 0 (0%) |
-| 9: Binary Trees | 15 | 0 (0%) | 0 (0%) | 0 (0%) | 0 (0%) |
+| 9: Binary Trees | 15 | 1 (7%) | 0 (0%) | 0 (0%) | 0 (0%) |
 | 10: Heaps | 6 | 0 (0%) | 0 (0%) | 0 (0%) | 0 (0%) |
 | 11: Searching | 10 | 0 (0%) | 0 (0%) | 0 (0%) | 0 (0%) |
 | 12: Hash Tables | 11 | 0 (0%) | 0 (0%) | 0 (0%) | 0 (0%) |
@@ -227,7 +297,7 @@ flowchart TB
 | 17: Greedy Algorithms and Invariants | 8 | 0 (0%) | 0 (0%) | 0 (0%) | 0 (0%) |
 | 18: Graphs | 8 | 0 (0%) | 0 (0%) | 0 (0%) | 0 (0%) |
 | 24: Honors Class | 35 | 0 (0%) | 0 (0%) | 0 (0%) | 0 (0%) |
-| **Total** | **204** | **9** | **8** | **7** | **5** |
+| **Total** | **204** | **10** | **8** | **7** | **5** |
 
 ## All Problems
 
@@ -335,7 +405,7 @@ flowchart TB
 
 | # | Problem | Priority | Status | Best Time |
 |---|---------|----------|--------|-----------|
-| 9.01 | Test if a binary tree is height-balanced | 🔴 |  |  |
+| 9.01 | Test if a binary tree is height-balanced | 🔴 | ✓ |  |
 | 9.02 | Test if a binary tree is symmetric | 🟡 |  |  |
 | 9.03 | Compute the lowest common ancestor in a binary tree |  |  |  |
 | 9.04 | Compute the LCA when nodes have parent pointers | 🟠 |  |  |
