@@ -1,0 +1,30 @@
+---
+## Bibliography
+bibliography: MyBibliography.bib
+reference-section-title: References
+nocite: |
+  @Young2010
+---
+
+# 201805191330 Visualization plus other senses makes ideas stickier
+#learning #memory
+[[201805191035]] [[201805191043]] [[201809080937]]
+
+Process:
+
+1) Identify the concept
+2) Pick a mental image
+3) Is the process static or does it move through time?
+4) Add another sensation
+5) Add emotions if possible
+6) Refine and repeat until you can bring the image up in a few seconds
+
+Tips:
+
+- This is generally easier to do with concrete info.  Abstract info tends to benefit more from metaphor.
+
+## Cross-connections
+
+[[202509061743 GTD Vision - Mental Focus Mechanism]] - This multisensory visualization technique enhances GTD's mental focus mechanism. When you add emotions and multiple senses to your vision, you strengthen the pattern-recognition programming that Allen describes, making you more likely to notice opportunities aligned with your vision.
+
+[[202509011605 Real daydreaming technique]] - Wishcraft's real daydreaming technique applies these same principles - using present-tense, sequential, sensory-rich visualization to make visions "sticky" enough to pursue.

@@ -1,0 +1,36 @@
+---
+## Bibliography
+bibliography: MyBibliography.bib
+reference-section-title: References
+nocite: |
+  @Young2010
+---
+
+# 201805191048 'Construct, Model, Highway' mental model for how your brain manages memory
+#mental_model
+[[201805191115]]
+
+Construct, Model, Highway mental model for how your brain manages memory.
+
+Construct
+
+- Set of tightly linked knowledge
+- Ex: Algebra
+- Metaphor: City with buildings connected by roads.
+- All the buildings (ideas or nodes) in the city are tightly connected to others via roads (links, associations, relationships)
+- The more you build out a construct, the better you understand the concept
+
+Model
+
+- Simplified and compressed version of reality.  A simplified construct.  AKA mental model
+- You use a mental model to significantly accelerate learning of a new subject or to add a significant expansion to an existing construct.
+- Metaphor: Pioneers starting a new city.
+- Models aren't perfect.  But they are still useful.  As you learn more, you can correct old models and build better ones.
+
+Highway
+
+- Relationships between constructs
+- Metaphor: Highway connecting two cities
+- Highways increase your creativity.
+- Allows you to apply lessons across disciplines
+- Ex: linking an idea in biology to one in business

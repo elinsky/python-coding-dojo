@@ -1,0 +1,23 @@
+---
+## Bibliography
+bibliography: MyBibliography.bib
+reference-section-title: References
+---
+
+# 201809071617 Use the 5 year old method to test understanding and develop insight
+
+How [@Young2018, W4]:
+
+- Explain something by speaking out loud (actually out loud).  Explain as if you were talking to a 5 year old.  Drastically simplify.  Be careful of parroting though.  If you use the same words as the source material, your understanding is likely still shallow.  Try to avoid looking at the source material.
+- This is usually shorter than the Feynman method.  This should take 1-3 minutes in contrast to 20 minutes.
+
+Why?
+
+- How articulate you can express the idea is usually a good metric of who well you understand it.
+- And if you have trouble explaining something, the gaps highlight what you need to relearn.
+
+Application ideas:
+
+- It can be used as a quick double check on any idea you just learned.
+- After reading a section of a chapter, apply this method.  If you struggle, go back and reread the section.
+- Great for passive forms of coverage.

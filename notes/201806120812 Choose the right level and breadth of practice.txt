@@ -1,0 +1,32 @@
+---
+## Bibliography
+bibliography: MyBibliography.bib
+reference-section-title: References
+---
+
+# 201806120812 Choose the right level and breadth of practice
+#deliberate_practice #learning
+[[201912030745]] [[201912040805]] [[201806101539]]
+
+Choose the right level and breadth of practice [@Young2018, W3]
+Level:
+
+- High
+	- Natural, robust, complicated
+	- Ex: Play a game of chess
+	- Points out weaknesses which subsequently informs low-level practice
+	- Helps you incorporate low-level skills holistically
+- Low
+	- Specific, simple, rote activities
+	- Ex: Chess drills
+    - Use to reinforce weak points
+
+Breadth:
+
+- Narrow
+	- Doesn't cover everything
+- Broad
+	- Covers most areas of use
+	- Higher level practice tends to be broader
+	- Generally the broader the better.
+	- You may need multiple practice activities to get enough breadth

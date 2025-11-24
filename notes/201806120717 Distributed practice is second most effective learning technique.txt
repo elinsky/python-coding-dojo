@@ -1,0 +1,15 @@
+---
+## Bibliography
+bibliography: MyBibliography.bib
+reference-section-title: References
+---
+
+# 201806120717 Distributed practice is second most effective learning technique
+#distributed_learning #deliberate_practice #learning #memory
+[[201806120800]] [[201912030745]] [[201806101539]]
+
+Distributed practice is second most effective learning technique [@Young2018, W3].  It is the practice of spacing out your practice.  Instead of spending 5 hours on one day practicing, you would be better off spending 1 hour on 5 days practicing.
+
+For notecards, you can use spaced repetition software to schedule your practice. §[[201806110819]]
+
+Distributed practice isn't just limited to notecards for detail-oriented subjects.  It also works well for highly practical skills like drawing, and highly conceptual ones like mathematics or marketing.

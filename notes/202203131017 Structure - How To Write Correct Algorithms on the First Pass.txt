@@ -1,0 +1,8 @@
+# 202203131017 Structure - How To Write Correct Algorithms on the First Pass
+##S #programming #algorithms
+
+_In this note, I'd like to summarize my thoughts and experience on how to write correct algorithms. In particular, I'm interested in how to solve a LeetCode-style problems. I'd like to get better at writing the program correctly the first time. And correcly handling edge cases, special cases, and degenerate cases in a simpler and more elegant manner. Examples would be knowing when to use >= vs > in a loop. Or knowing when to use a closed vs open interval._
+
+* [[202203120808 Invariants (Programming)]]
+* [[202203120847 Bound Functions AKA Loop Variants (Programming)]]
+* [[202203120916 Preconditions and Postconditions (Programming)]]

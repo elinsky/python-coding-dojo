@@ -1,0 +1,25 @@
+---
+## Bibliography
+bibliography: MyBibliography.bib
+reference-section-title: References
+---
+
+# 201806120744 75% Rule - spend 75% of your learning time on active techniques. 25% on gaining insight
+#learning #deliberate_practice #memory #active_recall #fluency_illusion
+[[201806110744]] [[201912030745]] [[201806101539]]
+
+Start with coverage [@Young2018, W3]:
+
+- Reading
+- Video watching
+
+Application:
+
+- 75% Practice - Outside of your normal input material (books, lectures, online courses) 75% of your learning time should be with active learning techniques.
+	- Practice
+	- Projects
+	- Problems
+	- Active Recall
+	- Flashcards
+	- Spending time rereading notes only contributes to the fluency illusion.
+- 25% Intuition - The other 25% should be spent on gaining insight with the Feynman Technique and the 5 Year Old Method.

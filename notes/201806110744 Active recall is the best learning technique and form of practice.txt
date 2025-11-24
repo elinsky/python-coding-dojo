@@ -1,0 +1,25 @@
+---
+## Bibliography
+bibliography: MyBibliography.bib
+reference-section-title: References
+---
+
+# 201806110744 Active recall is the best learning technique and form of practice
+#memory #learning #deliberate_practice
+[[201806101539]] [[201806120744]] [[201806120800]]
+
+Active recall is the process of recalling information without looking it up [@Young2018, W3].  It strengthens your memory because it reinforces the neural pathways of that memory.  It is effective because it closely matches how you would actually recall that information outside of deliberate practice.  Active recall can be used to both strengthen your memory, and as a part of the learning process.
+
+Examples:
+
+- Question Book Method §[[201806110755]]
+- Flashcards §[[201806110819]]
+- Feynman Technique  [[201809071652]]
+- Application of the actual skill §[[201805191130]]
+- Blind Explanations §[[201806110825]]
+- "What if?" questions §[[201806110832]]
+- Problem sets
+- Holding a conversation about a conceptual idea and arguing your opinion
+- Mock case studies
+
+Trap:  It is a mistake to prevent yourself from starting active recall because you don't feel like you really know the material yet.  The purpose of active recall isn't to test your current level of ability; it is to improve it.  You will get questions wrong.

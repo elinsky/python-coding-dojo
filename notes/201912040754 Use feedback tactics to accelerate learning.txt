@@ -1,0 +1,23 @@
+---
+## Bibliography
+bibliography: MyBibliography.bib
+reference-section-title: References
+nocite: |
+  @young2019ultralearning
+---
+
+# 201912040754 Use feedback tactics to accelerate learning
+#learning
+[[201805191125]]
+
+Levels of feedback quality:
+
+* Feedback on only the outcome (ex: applause level after a speech)
+* Feedback on the behavior that produced an outcome (ex: you tell a joke and see that it flops)
+* Feedback on the behavior and outcome plus a prescription for improvement.  Often this is given by a coach.
+
+Feedback tactics:
+
+* Metalearning - Is your overall learning strategy working?  Measure this by your learning rate over time.  Is it time to mix up the strategy?
+* High intensity, rapid feedback - Find a way to get an order of magnitude MORE feedback than the average person learning your skill.  Ex: Language immersion.  Ex:  Giving 1-2 new speeches per day (even when they aren't well rehearsed yet).
+* Hit the difficulty sweet spot - Good feedback should be unpredictable.  50% correct is the optimal rate for learning.

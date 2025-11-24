@@ -1,0 +1,15 @@
+---
+## Bibliography
+bibliography: MyBibliography.bib
+reference-section-title: References
+nocite: |
+  @young2019ultralearning
+---
+
+# 201912030829 Use the direct then drill strategy to accelerate skill improvement
+#learning
+[[201912040805]] [[201912030827]]
+
+Start with direct practice.  Assess yourself early in the learning process.  This will give you high-level feedback on your skill-level.  Then decompose the skill into component parts.  Choose the area that you are weakest in.  Devise a drilling tactic for this component.  Drill until rapid improvement stops.  Then repeat the process by going back to high-level direct practice.
+
+Ex: Calculus.  You could start by taking the final exam.  Decompose calculus into the requisite skills.  Some algebra skills you need to be good at calculus include: factoring, completing the square, basic functions and transformations, simplifying expressions, and formula manipulation.  Determine where you are weak, and drill that area.

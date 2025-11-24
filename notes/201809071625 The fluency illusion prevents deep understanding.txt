@@ -1,0 +1,18 @@
+---
+## Bibliography
+bibliography: MyBibliography.bib
+reference-section-title: References
+---
+
+# 201809071625 The fluency illusion prevents deep understanding
+[[201909021710]] [[201809071652]]
+
+The fluency illusion is when you believe you have a deep understanding of something, but really only have a shallow one [@Young2018, W4].  You have the illusion of explanatory depth.
+
+Ex:  Most people think they know what a bicycle looks like, yet most people cannot draw one.
+
+Re-reading notes contributes to the fluency illusion.  The familiarity makes us think we understand something that we actually can't recall.
+
+We think we undeewrstand because explanations can have varying degrees of depth.  Whereas facts are all or nothing.  It is much easier to self-assess your level of knowledge.  We also have a strong bias to think we understand things.  Self assessment tends to say, "I have a shallow understanding.  That's good enough."
+
+We can combat the fluency illusion with practice; specifically practice at the level of use.  For more conceptual topics, the Feynman technique can also work.

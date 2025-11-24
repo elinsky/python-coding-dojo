@@ -1,0 +1,13 @@
+---
+## Bibliography
+bibliography: MyBibliography.bib
+reference-section-title: References
+---
+
+# 201912040733 Apply the time slicing tactic to develop a drill
+#learning
+[[201912030827]]
+
+Take a skill that is a sequence of actions.  Isolate a slice in time and practice that slice [@young2019ultralearning, p.113].
+
+Ex: Layups

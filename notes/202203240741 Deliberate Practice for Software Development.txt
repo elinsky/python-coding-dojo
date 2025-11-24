@@ -1,0 +1,129 @@
+# 202203240741 Deliberate Practice for Software Development
+#programming #deliberate_practice #learning
+
+
+
+[@smith2015deliberate_practice]
+
+
+Motivation
+
+* You engage in deliberate practice in order to improve your performance in a specific skill.
+* Process
+    * Time it
+    * Select problem
+    * read problem statement. take notes. make sure you understand requirements.
+    * Solve problem on paper
+    * Expand solution into pseudocode
+    * Translate pseudocode into real code
+    * Test locally and debug
+    * Check answer by submitting or looking up answer. Debug and recheck until correct.
+    * Stop timer
+* After finishing
+    * How can you improve? [[201806120729 Consciously determine and select the area of practice that will result in the most rapid skill gain]]
+    * Refactor
+    * Sub skills that you need to practice?
+
+[[201806120812 Choose the right level and breadth of practice]]
+
+Levels of Practice, from High to Low:
+
+* High Level - Design and build a complete working application.
+* High Level - Build a working application from specifications.
+* Medium Level - Solve programming problems.
+* Low Level - Practice language syntax with flashcards.
+
+
+Decomposing Programming Problems into Sub-Components to Practice
+
+* Reading Programming Problems and Identifying the Algorithm to use (but don't actually solve).
+* Given an algorithm (e.g. [[202203130907 Sliding Window Technique]]), write out the pseudocode for it.
+* Practice language syntax with flashcards.
+
+
+## Model Debugging
+
+[[201805191125 Model debugging - Practice to test out your knowledge for gaps in understanding]]
+
+* Test your knowledge by:
+    * Doing a wide variety of programming problems.
+    * Identifying where your skill gaps are.
+        * Are you having issues with syntax?
+        * Is it an issue with identifying the right algorithm to use?
+        * Is it an issue with remembering the pseudocode for the algorithm?
+    * This can help you design specific practice routines.
+
+
+## Explain like they are 5
+
+[[201809071617 Use the 5 year old method to test understanding and develop insight]]
+
+This can work for algorithms. Explain out loud, how does an algorithm work?
+
+
+## Direct Then Drill
+
+[[201912030829 Use the direct then drill strategy to accelerate skill improvement]]
+
+1. Do LeetCode problems.
+2. Identify sub-skills you are weak in.
+3. Devise strategies to get better at the subskills.
+
+## Decompose Skill into Temporal Components (Time Slicing)
+
+[[201912040733 Apply the time slicing tactic to develop a drill]]
+
+Decompose LeetCode problems into the parts of the temporal process. Find ways to practice each.
+
+1. Identify the algorithm
+2. Write the pseudocode for the algorithm
+3. Implement the algorithm, given the correct algorithm and pseudocode.
+
+## Decompose Skill into Cognitive Components
+
+* Understanding language syntax
+* Writing loops that terminate [[202203120847 Bound Functions AKA Loop Variants (Programming)]]
+
+## (Same section as last?) Mental Models / Representations
+
+[[201805191048 'Construct, Model, Highway' mental model for how your brain manages memory]]
+https://www.redgreencode.com/mental-representations-competitive-programming-practice/
+
+* Common Problem Types
+* Mathematical Thinking
+* Program Logic (writing the program. This is different than coming up with the pseudocode solution).
+* Language Fluency.
+
+
+https://www.redgreencode.com/how-to-attack-a-programming-puzzle/
+Maybe I should consider doing problems over and over again, a la spaced repetition.
+You could bucket problems into:
+* **Too easy**: I can already solve it well enough when I first see it, so it’s not worth spending any more time on.
+* **Too specialized**: It may be a good problem for its own sake, but it’s not applicable to other problems.
+* **Too similar**: I’m already learning a problem like this.
+* **For future practice**: It’s a good quality problem that I want to learn.
+* **Currently practicing**: I’m practicing this problem on a schedule.
+* **Mastered**: I practiced this problem enough that I know it well, so I don’t need to spend any more time on it.
+
+Very good, and thought provoking https://www.redgreencode.com/lessons-from-the-2020-leetcode-monthly-challenges/
+
+
+Also very good: https://www.redgreencode.com/2021-in-review-thoughts-on-solving-programming-puzzles/
+* Create a model solution for a LeetCode problem.
+* Start spaced repetition practice after having a model solution.
+* The model solution should have multiple layers of abstraction to it.
+* The most general is an explanation of the algorithm in natural language.
+* Then pseudocode.
+* Then real implementation.
+
+Very good https://leetcode.com/discuss/general-discussion/1124635/How-to-LeetCode:-What-I-Learned-from-a-Year-of-LeetCoding-Challenge-Problems    
+
+
+STEPS
+
+1. Read Problem
+2. Solve on Paper
+    3. The result of this is a natural language explanation of how to solve.
+    4. You can use concrete worked examples to figure this out.
+    5. The result here could be a few lines of text. Roughly one line per step, but still far from pseudocode.
+6. Write pseudocode.

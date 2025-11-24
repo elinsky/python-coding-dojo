@@ -1,0 +1,25 @@
+---
+## Bibliography
+bibliography: MyBibliography.bib
+reference-section-title: References
+nocite: |
+  @Young2010
+---
+
+# 201805191125 Model debugging - Practice to test out your knowledge for gaps in understanding
+#learning #memory #deliberate_practice
+[[201805191103]] [[201805191035]] [[201806110755]] [[201806120729]] [[201809071652]] [[201809081108]] [[201909021710]] [[201912040754]]
+
+- You will make bad connections and misunderstand ideas.
+- Debugging is the practice of fixing bad links and correcting misunderstandings.
+- Metaphor: Construction crew repairing roads and buildings.  Doing maintenance work.
+- How?
+	- Deliberate practice!
+	- Can also read contrarian opinions
+	- Shotgun approach
+		- Run through a wide variety of questions, not the same type over and over.
+		- Check answers after each question.  Create tight feedback loops.
+		- Use incorrect answers as an indicator that you need to go back to the text to correct your understanding.
+		- Need to separate 'simple typo errors' from 'don't understand the concept' errors.
+		- Leverages the interleaving effect
+	- Apply distributed learning / the spacing effect

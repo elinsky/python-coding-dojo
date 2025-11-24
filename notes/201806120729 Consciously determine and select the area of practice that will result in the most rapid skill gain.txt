@@ -1,0 +1,24 @@
+---
+## Bibliography
+bibliography: MyBibliography.bib
+reference-section-title: References
+---
+
+# 201806120729 Consciously determine and select the area of practice that will result in the most rapid skill gain
+#learning #memory #deliberate_practice
+[[201806120800]] [[201806101539]]
+
+Consciously determine and select the area of practice that will result in the most rapid skill gain [@Young2018, W3]:
+ 
+- Emphasize what your weak spots
+- Emphasize core principles over ancillary or accessory ones
+- Emphasize what you will most likely use later
+
+Practical Tips
+
+- One approach is the shotgun method. §[[201805191125]]
+- Do hard questions first
+- Among hard questions, favor those with more breadth
+- Take a final exam immediately after reading the book or watching the lectures
+    - This will point out your weak spots
+    - Don't view this as a test; view it as a learning tool and a continuation of the learning process.

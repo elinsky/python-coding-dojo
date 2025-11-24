@@ -1,0 +1,28 @@
+---
+## Bibliography
+bibliography: MyBibliography.bib
+reference-section-title: References
+---
+
+# 202010310942 How To Learn a New Programming Algorithm
+#deliberate_practice #programming #algorithms
+
+The following steps outline a strategy for learning a new programming algorithm @smith2015learn_algorithm]
+
+1. Select an algorithm
+2. Find a good explanation with a reference implementation
+    1. You can find resources where you only have the explanation, or you only have the reference algorithm.  **But save yourself some time and use a source that has both**.
+3. Read the explanation and take notes on the implementation
+4. Draw your own pictures to explain the algorithm
+    1.  Is this the same as working through an example visually? 
+5. Write your own reference implementation of the algorithm
+    1.  You can change the code a bit if you want.
+6.  Write pseudocode for your reference implementation
+    1. Why?  Well your code is just one level of abstraction of the algorithm.  It contains a lot of language specific syntax and details.
+    2. **Write multiple pseudocode versions of your algorithm, each at a different level of abstraction.**  Start writing the high level abstraction (1-2 sentences describing the algorithm).  This is the easiest version to remember.  Write a second, more detailed version of the pseudocode that handles the high level strategy.  Finally, write a third version that handles some of the tricky parts.   
+    3. Why?  You don't want to just memorize a reference implementation.  Why not?  Well, in the real world, you don't really need to write reference implementations.  There are libraries for that.  So memorizing reference implementations aren't the point.  The point is to learn the key ideas behind the algorithm.  Examples of key ideas are: 'two pointer' approach to solving.  or maybe 'divide and conquer'.  Also, the reference implementations include stuff like language specific syntax.  And they also assume that the problem takes a specific representation.  E.g. a graph could be represented multiple ways.
+7. See if you can implement the algorithm from scratch. (I think I got this process wrong in the past.  I think my approach has been: 1. read about the algorithm.  2. try to implement from scratch).  (Or it has been 1. read.  2. try leetcode).
+
+## See Also
+
+* [[202101060746 How to Learn a Machine Learning Algorithm]]

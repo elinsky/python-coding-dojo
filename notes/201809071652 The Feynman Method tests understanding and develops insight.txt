@@ -1,0 +1,38 @@
+---
+## Bibliography
+bibliography: MyBibliography.bib
+reference-section-title: References
+---
+
+# 201809071652 The Feynman Method tests understanding and develops insight
+#learning
+[[201805191125]] [[201809071625]] [[201806110744]]
+
+How [@young2019ultralearning, p. 192][@Young2018, W4]:
+
+1) Write down the idea you are trying to understand.
+2) Explain it **as if you were teaching it to someone else**.  Breaking it into component parts helps.  Analyze from multiple perspectives.  Try to visualize or use concrete examples.
+	- Often you have trouble with insight because you either are missing pieces or can't hold all the pieces in your head because they aren't chunked up yet.
+	- Break the idea down.  Build it back up.  Then test it with examples.
+3) When you get stuck, go back to your reference material for help.
+
+- It should take roughly 20 minutes to do the Feynman method.
+
+There are 2 variants of the Feynman Technique
+
+- Broad Intuition
+	- Ex: I don't understand voltage.
+	- If possible, look for analogies or visualizations (ex: Kanban and cars on the highway)
+- Mastering Details
+	- Ex: Understanding this paragraph
+	- Ex: Understanding why these 2 values cancel out in problem 5a
+	- Be as specific as possible.  Do not define it too broadly.
+	- Here you want to write MORE than what's explained in the textbook.
+
+Additional uses of the Feynman technique:
+
+- Self-testing conceptual knowledge.
+- Ideas you don't understand at all.
+- Trying to understand technical or abstract ideas.
+- Creating deeper intuition.
+- Eliminate the fluency illusion
