@@ -7,7 +7,7 @@ My journey through Elements of Programming Interviews in Python.
 ### Tier 0: Attempted ✓
 Problems attempted but not yet solved
 
-✓✓✓✓✓✓✓✓✓✓✓⬜⬜⬜⬜⬜⬜⬜⬜⬜
+✓✓✓✓✓✓✓✓✓✓✓✓⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
@@ -19,12 +19,12 @@ Problems attempted but not yet solved
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜
 
-**11 / 204** (5.4%)
+**12 / 204** (5.9%)
 
 ### Tier 1: Solved 👍
 Problems solved (with or without help)
 
-👍👍👍👍👍👍👍👍👍⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+👍👍👍👍👍👍👍👍👍👍⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
@@ -36,12 +36,12 @@ Problems solved (with or without help)
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜
 
-**9 / 204** (4.4%)
+**10 / 204** (4.9%)
 
 ### Tier 2: Solved Independently 💪
 Problems solved without hints or looking at solutions
 
-💪💪💪💪💪💪💪⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+💪💪💪💪💪💪💪💪⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
@@ -53,12 +53,12 @@ Problems solved without hints or looking at solutions
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜
 
-**7 / 204** (3.4%)
+**8 / 204** (3.9%)
 
 ### Tier 3: Mastered 🏆
 Problems solved independently in ≤20 minutes with optimal solution
 
-🏆🏆🏆🏆🏆⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+🏆🏆🏆🏆🏆🏆⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
@@ -70,23 +70,23 @@ Problems solved independently in ≤20 minutes with optimal solution
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜
 
-**5 / 204** (2.5%)
+**6 / 204** (2.9%)
 
 ## Goals
 
 Progress toward priority-based learning goals.
 
-### 🔴 P0: Attempt All (8/16 - 50%)
+### 🔴 P0: Attempt All (9/16 - 56%)
 
-✓✓✓✓✓✓✓✓⬜⬜⬜⬜⬜⬜⬜⬜
+✓✓✓✓✓✓✓✓✓⬜⬜⬜⬜⬜⬜⬜
 
-**8 / 16** problems attempted
+**9 / 16** problems attempted
 
-### 🔴 P0: Master All (4/16 - 25%)
+### 🔴 P0: Master All (5/16 - 31%)
 
-🏆🏆🏆🏆⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+🏆🏆🏆🏆🏆⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 
-**4 / 16** problems mastered
+**5 / 16** problems mastered
 
 ### 🟠 P1: Attempt All (0/21 - 0%)
 
@@ -288,7 +288,7 @@ flowchart TB
 | 8: Stacks and Queues | 9 | 1 (11%) | 1 (11%) | 1 (11%) | 0 (0%) |
 | 9: Binary Trees | 15 | 1 (7%) | 0 (0%) | 0 (0%) | 0 (0%) |
 | 10: Heaps | 6 | 1 (17%) | 1 (17%) | 0 (0%) | 0 (0%) |
-| 11: Searching | 10 | 0 (0%) | 0 (0%) | 0 (0%) | 0 (0%) |
+| 11: Searching | 10 | 1 (10%) | 1 (10%) | 1 (10%) | 1 (10%) |
 | 12: Hash Tables | 11 | 0 (0%) | 0 (0%) | 0 (0%) | 0 (0%) |
 | 13: Sorting | 12 | 0 (0%) | 0 (0%) | 0 (0%) | 0 (0%) |
 | 14: Binary Search Trees | 11 | 0 (0%) | 0 (0%) | 0 (0%) | 0 (0%) |
@@ -297,7 +297,7 @@ flowchart TB
 | 17: Greedy Algorithms and Invariants | 8 | 0 (0%) | 0 (0%) | 0 (0%) | 0 (0%) |
 | 18: Graphs | 8 | 0 (0%) | 0 (0%) | 0 (0%) | 0 (0%) |
 | 24: Honors Class | 35 | 0 (0%) | 0 (0%) | 0 (0%) | 0 (0%) |
-| **Total** | **204** | **11** | **9** | **7** | **5** |
+| **Total** | **204** | **12** | **10** | **8** | **6** |
 
 ## All Problems
 
@@ -440,7 +440,7 @@ flowchart TB
 
 | # | Problem | Priority | Status | Best Time |
 |---|---------|----------|--------|-----------|
-| 11.01 | Search a sorted array for first occurrence of k | 🔴 |  |  |
+| 11.01 | Search a sorted array for first occurrence of k | 🔴 | 🏆 | 6 min |
 | 11.02 | Search a sorted array for entry equal to its index |  |  |  |
 | 11.03 | Search a cyclically sorted array | 🟡 |  |  |
 | 11.04 | Compute the integer square root | 🟠 |  |  |

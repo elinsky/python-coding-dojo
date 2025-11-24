@@ -1313,7 +1313,14 @@ problems:
     priority: P1
     problem_number: '14.02'
   search_first_key:
-    attempts: []
+    attempts:
+    - date: '2025-11-23T20:48:18.525801'
+      optimal: true
+      solved: true
+      submissions: 1
+      time_minutes: 6
+      used_hints: false
+      used_solution: false
     chapter: 11_searching
     chapter_name: Searching
     file: 3-problems/search_first_key.py
