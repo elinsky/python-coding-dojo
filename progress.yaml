@@ -1442,7 +1442,14 @@ problems:
     priority: P3
     problem_number: '5.05'
   sorted_arrays_merge:
-    attempts: []
+    attempts:
+    - date: '2025-11-23T20:32:12.909429'
+      optimal: true
+      solved: true
+      submissions: 1
+      time_minutes: 20
+      used_hints: true
+      used_solution: false
     chapter: 10_heaps
     chapter_name: Heaps
     file: 3-problems/sorted_arrays_merge.py

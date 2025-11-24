@@ -7,7 +7,7 @@ My journey through Elements of Programming Interviews in Python.
 ### Tier 0: Attempted ✓
 Problems attempted but not yet solved
 
-✓✓✓✓✓✓✓✓✓✓⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+✓✓✓✓✓✓✓✓✓✓✓⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
@@ -19,12 +19,12 @@ Problems attempted but not yet solved
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜
 
-**10 / 204** (4.9%)
+**11 / 204** (5.4%)
 
 ### Tier 1: Solved 👍
 Problems solved (with or without help)
 
-👍👍👍👍👍👍👍👍⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+👍👍👍👍👍👍👍👍👍⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
@@ -36,7 +36,7 @@ Problems solved (with or without help)
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜
 
-**8 / 204** (3.9%)
+**9 / 204** (4.4%)
 
 ### Tier 2: Solved Independently 💪
 Problems solved without hints or looking at solutions
@@ -76,11 +76,11 @@ Problems solved independently in ≤20 minutes with optimal solution
 
 Progress toward priority-based learning goals.
 
-### 🔴 P0: Attempt All (7/16 - 44%)
+### 🔴 P0: Attempt All (8/16 - 50%)
 
-✓✓✓✓✓✓✓⬜⬜⬜⬜⬜⬜⬜⬜⬜
+✓✓✓✓✓✓✓✓⬜⬜⬜⬜⬜⬜⬜⬜
 
-**7 / 16** problems attempted
+**8 / 16** problems attempted
 
 ### 🔴 P0: Master All (4/16 - 25%)
 
@@ -287,7 +287,7 @@ flowchart TB
 | 7: Linked Lists | 13 | 1 (8%) | 1 (8%) | 1 (8%) | 1 (8%) |
 | 8: Stacks and Queues | 9 | 1 (11%) | 1 (11%) | 1 (11%) | 0 (0%) |
 | 9: Binary Trees | 15 | 1 (7%) | 0 (0%) | 0 (0%) | 0 (0%) |
-| 10: Heaps | 6 | 0 (0%) | 0 (0%) | 0 (0%) | 0 (0%) |
+| 10: Heaps | 6 | 1 (17%) | 1 (17%) | 0 (0%) | 0 (0%) |
 | 11: Searching | 10 | 0 (0%) | 0 (0%) | 0 (0%) | 0 (0%) |
 | 12: Hash Tables | 11 | 0 (0%) | 0 (0%) | 0 (0%) | 0 (0%) |
 | 13: Sorting | 12 | 0 (0%) | 0 (0%) | 0 (0%) | 0 (0%) |
@@ -297,7 +297,7 @@ flowchart TB
 | 17: Greedy Algorithms and Invariants | 8 | 0 (0%) | 0 (0%) | 0 (0%) | 0 (0%) |
 | 18: Graphs | 8 | 0 (0%) | 0 (0%) | 0 (0%) | 0 (0%) |
 | 24: Honors Class | 35 | 0 (0%) | 0 (0%) | 0 (0%) | 0 (0%) |
-| **Total** | **204** | **10** | **8** | **7** | **5** |
+| **Total** | **204** | **11** | **9** | **7** | **5** |
 
 ## All Problems
 
@@ -427,7 +427,7 @@ flowchart TB
 
 | # | Problem | Priority | Status | Best Time |
 |---|---------|----------|--------|-----------|
-| 10.01 | Merge sorted files | 🔴 |  |  |
+| 10.01 | Merge sorted files | 🔴 | 👍 |  |
 | 10.02 | Sort an increasing-decreasing array |  |  |  |
 | 10.03 | Sort an almost-sorted array | 🟡 |  |  |
 | 10.04 | Compute the k closest stars | 🟠 |  |  |
