@@ -495,7 +495,14 @@ problems:
     priority: P4
     problem_number: '13.08'
   is_anonymous_letter_constructible:
-    attempts: []
+    attempts:
+    - date: '2025-11-23T21:28:30.441197'
+      optimal: false
+      solved: true
+      submissions: 1
+      time_minutes: 4
+      used_hints: false
+      used_solution: false
     chapter: 12_hash_tables
     chapter_name: Hash Tables
     file: 3-problems/is_anonymous_letter_constructible.py

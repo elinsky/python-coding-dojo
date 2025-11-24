@@ -7,7 +7,7 @@ My journey through Elements of Programming Interviews in Python.
 ### Tier 0: Attempted ✓
 Problems attempted but not yet solved
 
-✓✓✓✓✓✓✓✓✓✓✓✓⬜⬜⬜⬜⬜⬜⬜⬜
+✓✓✓✓✓✓✓✓✓✓✓✓✓⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
@@ -19,12 +19,12 @@ Problems attempted but not yet solved
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜
 
-**12 / 204** (5.9%)
+**13 / 204** (6.4%)
 
 ### Tier 1: Solved 👍
 Problems solved (with or without help)
 
-👍👍👍👍👍👍👍👍👍👍⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+👍👍👍👍👍👍👍👍👍👍👍⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
@@ -36,12 +36,12 @@ Problems solved (with or without help)
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜
 
-**10 / 204** (4.9%)
+**11 / 204** (5.4%)
 
 ### Tier 2: Solved Independently 💪
 Problems solved without hints or looking at solutions
 
-💪💪💪💪💪💪💪💪⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+💪💪💪💪💪💪💪💪💪⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
@@ -53,7 +53,7 @@ Problems solved without hints or looking at solutions
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜
 
-**8 / 204** (3.9%)
+**9 / 204** (4.4%)
 
 ### Tier 3: Mastered 🏆
 Problems solved independently in ≤20 minutes with optimal solution
@@ -76,11 +76,11 @@ Problems solved independently in ≤20 minutes with optimal solution
 
 Progress toward priority-based learning goals.
 
-### 🔴 P0: Attempt All (9/16 - 56%)
+### 🔴 P0: Attempt All (10/16 - 62%)
 
-✓✓✓✓✓✓✓✓✓⬜⬜⬜⬜⬜⬜⬜
+✓✓✓✓✓✓✓✓✓✓⬜⬜⬜⬜⬜⬜
 
-**9 / 16** problems attempted
+**10 / 16** problems attempted
 
 ### 🔴 P0: Master All (5/16 - 31%)
 
@@ -289,7 +289,7 @@ flowchart TB
 | 9: Binary Trees | 15 | 1 (7%) | 0 (0%) | 0 (0%) | 0 (0%) |
 | 10: Heaps | 6 | 1 (17%) | 1 (17%) | 0 (0%) | 0 (0%) |
 | 11: Searching | 10 | 1 (10%) | 1 (10%) | 1 (10%) | 1 (10%) |
-| 12: Hash Tables | 11 | 0 (0%) | 0 (0%) | 0 (0%) | 0 (0%) |
+| 12: Hash Tables | 11 | 1 (9%) | 1 (9%) | 1 (9%) | 0 (0%) |
 | 13: Sorting | 12 | 0 (0%) | 0 (0%) | 0 (0%) | 0 (0%) |
 | 14: Binary Search Trees | 11 | 0 (0%) | 0 (0%) | 0 (0%) | 0 (0%) |
 | 15: Recursion | 11 | 0 (0%) | 0 (0%) | 0 (0%) | 0 (0%) |
@@ -297,7 +297,7 @@ flowchart TB
 | 17: Greedy Algorithms and Invariants | 8 | 0 (0%) | 0 (0%) | 0 (0%) | 0 (0%) |
 | 18: Graphs | 8 | 0 (0%) | 0 (0%) | 0 (0%) | 0 (0%) |
 | 24: Honors Class | 35 | 0 (0%) | 0 (0%) | 0 (0%) | 0 (0%) |
-| **Total** | **204** | **12** | **10** | **8** | **6** |
+| **Total** | **204** | **13** | **11** | **9** | **6** |
 
 ## All Problems
 
@@ -458,7 +458,7 @@ flowchart TB
 | # | Problem | Priority | Status | Best Time |
 |---|---------|----------|--------|-----------|
 | 12.01 | Test for palindromic permutations | 🟡 |  |  |
-| 12.02 | Is an anonymous letter constructible? | 🔴 |  |  |
+| 12.02 | Is an anonymous letter constructible? | 🔴 | 💪 | 4 min |
 | 12.03 | Implement an ISBN cache | 🟠 |  |  |
 | 12.04 | Compute the LCA, optimizing for close ancestors | 🟢 |  |  |
 | 12.05 | Find the nearest repeated entries in an array | 🟠 |  |  |
