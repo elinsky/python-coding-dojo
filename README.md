@@ -7,7 +7,7 @@ My journey through Elements of Programming Interviews in Python.
 ### Tier 0: Attempted ✓
 Problems attempted but not yet solved
 
-✓✓✓✓✓✓✓✓✓✓✓✓✓✓⬜⬜⬜⬜⬜⬜
+✓✓✓✓✓✓✓✓✓✓✓✓✓✓✓⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
@@ -19,12 +19,12 @@ Problems attempted but not yet solved
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜
 
-**14 / 204** (6.9%)
+**15 / 204** (7.4%)
 
 ### Tier 1: Solved 👍
 Problems solved (with or without help)
 
-👍👍👍👍👍👍👍👍👍👍👍👍⬜⬜⬜⬜⬜⬜⬜⬜
+👍👍👍👍👍👍👍👍👍👍👍👍👍⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
@@ -36,7 +36,7 @@ Problems solved (with or without help)
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜
 
-**12 / 204** (5.9%)
+**13 / 204** (6.4%)
 
 ### Tier 2: Solved Independently 💪
 Problems solved without hints or looking at solutions
@@ -76,11 +76,11 @@ Problems solved independently in ≤20 minutes with optimal solution
 
 Progress toward priority-based learning goals.
 
-### 🔴 P0: Attempt All (11/16 - 69%)
+### 🔴 P0: Attempt All (12/16 - 75%)
 
-✓✓✓✓✓✓✓✓✓✓✓⬜⬜⬜⬜⬜
+✓✓✓✓✓✓✓✓✓✓✓✓⬜⬜⬜⬜
 
-**11 / 16** problems attempted
+**12 / 16** problems attempted
 
 ### 🔴 P0: Master All (6/16 - 38%)
 
@@ -291,13 +291,13 @@ flowchart TB
 | 11: Searching | 10 | 1 (10%) | 1 (10%) | 1 (10%) | 1 (10%) |
 | 12: Hash Tables | 11 | 1 (9%) | 1 (9%) | 1 (9%) | 0 (0%) |
 | 13: Sorting | 12 | 1 (8%) | 1 (8%) | 1 (8%) | 1 (8%) |
-| 14: Binary Search Trees | 11 | 0 (0%) | 0 (0%) | 0 (0%) | 0 (0%) |
+| 14: Binary Search Trees | 11 | 1 (9%) | 1 (9%) | 0 (0%) | 0 (0%) |
 | 15: Recursion | 11 | 0 (0%) | 0 (0%) | 0 (0%) | 0 (0%) |
 | 16: Dynamic Programming | 12 | 0 (0%) | 0 (0%) | 0 (0%) | 0 (0%) |
 | 17: Greedy Algorithms and Invariants | 8 | 0 (0%) | 0 (0%) | 0 (0%) | 0 (0%) |
 | 18: Graphs | 8 | 0 (0%) | 0 (0%) | 0 (0%) | 0 (0%) |
 | 24: Honors Class | 35 | 0 (0%) | 0 (0%) | 0 (0%) | 0 (0%) |
-| **Total** | **204** | **14** | **12** | **10** | **7** |
+| **Total** | **204** | **15** | **13** | **10** | **7** |
 
 ## All Problems
 
@@ -494,7 +494,7 @@ flowchart TB
 
 | # | Problem | Priority | Status | Best Time |
 |---|---------|----------|--------|-----------|
-| 14.01 | Test if a binary tree satisfies the BST property | 🔴 |  |  |
+| 14.01 | Test if a binary tree satisfies the BST property | 🔴 | 👍 |  |
 | 14.02 | Find the first key greater than a given value in a BST | 🟠 |  |  |
 | 14.03 | Find the k largest elements in a BST | 🟠 |  |  |
 | 14.04 | Compute the LCA in a BST | 🟡 |  |  |

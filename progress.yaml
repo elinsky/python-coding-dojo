@@ -595,7 +595,14 @@ problems:
     priority: P2
     problem_number: '12.01'
   is_tree_a_bst:
-    attempts: []
+    attempts:
+    - date: '2025-11-23T22:21:37.791037'
+      optimal: true
+      solved: true
+      submissions: 4
+      time_minutes: 26
+      used_hints: true
+      used_solution: false
     chapter: 14_binary_search_trees
     chapter_name: Binary Search Trees
     file: 3-problems/is_tree_a_bst.py
