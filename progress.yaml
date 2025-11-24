@@ -471,7 +471,14 @@ problems:
     priority: P1
     problem_number: '11.04'
   intersect_sorted_arrays:
-    attempts: []
+    attempts:
+    - date: '2025-11-23T21:51:09.915099'
+      optimal: true
+      solved: true
+      submissions: 3
+      time_minutes: 7
+      used_hints: false
+      used_solution: false
     chapter: 13_sorting
     chapter_name: Sorting
     file: 3-problems/intersect_sorted_arrays.py

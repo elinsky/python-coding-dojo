@@ -7,7 +7,7 @@ My journey through Elements of Programming Interviews in Python.
 ### Tier 0: Attempted ✓
 Problems attempted but not yet solved
 
-✓✓✓✓✓✓✓✓✓✓✓✓✓⬜⬜⬜⬜⬜⬜⬜
+✓✓✓✓✓✓✓✓✓✓✓✓✓✓⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
@@ -19,12 +19,12 @@ Problems attempted but not yet solved
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜
 
-**13 / 204** (6.4%)
+**14 / 204** (6.9%)
 
 ### Tier 1: Solved 👍
 Problems solved (with or without help)
 
-👍👍👍👍👍👍👍👍👍👍👍⬜⬜⬜⬜⬜⬜⬜⬜⬜
+👍👍👍👍👍👍👍👍👍👍👍👍⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
@@ -36,12 +36,12 @@ Problems solved (with or without help)
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜
 
-**11 / 204** (5.4%)
+**12 / 204** (5.9%)
 
 ### Tier 2: Solved Independently 💪
 Problems solved without hints or looking at solutions
 
-💪💪💪💪💪💪💪💪💪⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+💪💪💪💪💪💪💪💪💪💪⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
@@ -53,12 +53,12 @@ Problems solved without hints or looking at solutions
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜
 
-**9 / 204** (4.4%)
+**10 / 204** (4.9%)
 
 ### Tier 3: Mastered 🏆
 Problems solved independently in ≤20 minutes with optimal solution
 
-🏆🏆🏆🏆🏆🏆⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+🏆🏆🏆🏆🏆🏆🏆⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
@@ -70,23 +70,23 @@ Problems solved independently in ≤20 minutes with optimal solution
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜
 
-**6 / 204** (2.9%)
+**7 / 204** (3.4%)
 
 ## Goals
 
 Progress toward priority-based learning goals.
 
-### 🔴 P0: Attempt All (10/16 - 62%)
+### 🔴 P0: Attempt All (11/16 - 69%)
 
-✓✓✓✓✓✓✓✓✓✓⬜⬜⬜⬜⬜⬜
+✓✓✓✓✓✓✓✓✓✓✓⬜⬜⬜⬜⬜
 
-**10 / 16** problems attempted
+**11 / 16** problems attempted
 
-### 🔴 P0: Master All (5/16 - 31%)
+### 🔴 P0: Master All (6/16 - 38%)
 
-🏆🏆🏆🏆🏆⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+🏆🏆🏆🏆🏆🏆⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 
-**5 / 16** problems mastered
+**6 / 16** problems mastered
 
 ### 🟠 P1: Attempt All (0/21 - 0%)
 
@@ -290,14 +290,14 @@ flowchart TB
 | 10: Heaps | 6 | 1 (17%) | 1 (17%) | 0 (0%) | 0 (0%) |
 | 11: Searching | 10 | 1 (10%) | 1 (10%) | 1 (10%) | 1 (10%) |
 | 12: Hash Tables | 11 | 1 (9%) | 1 (9%) | 1 (9%) | 0 (0%) |
-| 13: Sorting | 12 | 0 (0%) | 0 (0%) | 0 (0%) | 0 (0%) |
+| 13: Sorting | 12 | 1 (8%) | 1 (8%) | 1 (8%) | 1 (8%) |
 | 14: Binary Search Trees | 11 | 0 (0%) | 0 (0%) | 0 (0%) | 0 (0%) |
 | 15: Recursion | 11 | 0 (0%) | 0 (0%) | 0 (0%) | 0 (0%) |
 | 16: Dynamic Programming | 12 | 0 (0%) | 0 (0%) | 0 (0%) | 0 (0%) |
 | 17: Greedy Algorithms and Invariants | 8 | 0 (0%) | 0 (0%) | 0 (0%) | 0 (0%) |
 | 18: Graphs | 8 | 0 (0%) | 0 (0%) | 0 (0%) | 0 (0%) |
 | 24: Honors Class | 35 | 0 (0%) | 0 (0%) | 0 (0%) | 0 (0%) |
-| **Total** | **204** | **13** | **11** | **9** | **6** |
+| **Total** | **204** | **14** | **12** | **10** | **7** |
 
 ## All Problems
 
@@ -475,7 +475,7 @@ flowchart TB
 
 | # | Problem | Priority | Status | Best Time |
 |---|---------|----------|--------|-----------|
-| 13.01 | Compute the intersection of two sorted arrays | 🔴 |  |  |
+| 13.01 | Compute the intersection of two sorted arrays | 🔴 | 🏆 | 7 min |
 | 13.02 | Merge two sorted arrays | 🟠 |  |  |
 | 13.03 | Computing the h-index |  |  |  |
 | 13.04 | Remove first-name duplicates |  |  |  |
