@@ -1478,7 +1478,14 @@ problems:
     name: Compute the spreadsheet column encoding
     problem_number: '6.03'
   stack_with_max:
-    attempts: []
+    attempts:
+    - date: '2025-11-23T18:10:30.205547'
+      optimal: false
+      solved: true
+      submissions: 1
+      time_minutes: 3
+      used_hints: false
+      used_solution: false
     chapter: 08_stacks_and_queues
     chapter_name: Stacks and Queues
     file: 3-problems/stack_with_max.py

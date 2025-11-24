@@ -7,7 +7,24 @@ My journey through Elements of Programming Interviews in Python.
 ### Tier 0: Attempted ✓
 Problems attempted but not yet solved
 
-✓✓✓✓✓✓✓✓⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+✓✓✓✓✓✓✓✓✓⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜
+
+**9 / 204** (4.4%)
+
+### Tier 1: Solved 👍
+Problems solved (with or without help)
+
+👍👍👍👍👍👍👍👍⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
@@ -21,10 +38,10 @@ Problems attempted but not yet solved
 
 **8 / 204** (3.9%)
 
-### Tier 1: Solved 👍
-Problems solved (with or without help)
+### Tier 2: Solved Independently 💪
+Problems solved without hints or looking at solutions
 
-👍👍👍👍👍👍👍⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+💪💪💪💪💪💪💪⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
@@ -37,23 +54,6 @@ Problems solved (with or without help)
 ⬜⬜⬜⬜
 
 **7 / 204** (3.4%)
-
-### Tier 2: Solved Independently 💪
-Problems solved without hints or looking at solutions
-
-💪💪💪💪💪💪⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
-⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
-⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
-⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
-⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
-⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
-⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
-⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
-⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
-⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
-⬜⬜⬜⬜
-
-**6 / 204** (2.9%)
 
 ### Tier 3: Mastered 🏆
 Problems solved independently in ≤20 minutes with optimal solution
@@ -215,7 +215,7 @@ flowchart TB
 | 5: Arrays | 20 | 2 (10%) | 1 (5%) | 1 (5%) | 1 (5%) |
 | 6: Strings | 12 | 1 (8%) | 1 (8%) | 1 (8%) | 1 (8%) |
 | 7: Linked Lists | 13 | 1 (8%) | 1 (8%) | 1 (8%) | 1 (8%) |
-| 8: Stacks and Queues | 9 | 0 (0%) | 0 (0%) | 0 (0%) | 0 (0%) |
+| 8: Stacks and Queues | 9 | 1 (11%) | 1 (11%) | 1 (11%) | 0 (0%) |
 | 9: Binary Trees | 15 | 0 (0%) | 0 (0%) | 0 (0%) | 0 (0%) |
 | 10: Heaps | 6 | 0 (0%) | 0 (0%) | 0 (0%) | 0 (0%) |
 | 11: Searching | 10 | 0 (0%) | 0 (0%) | 0 (0%) | 0 (0%) |
@@ -227,7 +227,7 @@ flowchart TB
 | 17: Greedy Algorithms and Invariants | 8 | 0 (0%) | 0 (0%) | 0 (0%) | 0 (0%) |
 | 18: Graphs | 8 | 0 (0%) | 0 (0%) | 0 (0%) | 0 (0%) |
 | 24: Honors Class | 35 | 0 (0%) | 0 (0%) | 0 (0%) | 0 (0%) |
-| **Total** | **204** | **8** | **7** | **6** | **5** |
+| **Total** | **204** | **9** | **8** | **7** | **5** |
 
 ## All Problems
 
@@ -319,7 +319,7 @@ flowchart TB
 
 | # | Problem | Priority | Status | Best Time |
 |---|---------|----------|--------|-----------|
-| 8.01 | Implement a stack with max API | 🔴 |  |  |
+| 8.01 | Implement a stack with max API | 🔴 | 💪 | 3 min |
 | 8.02 | Evaluate RPN expressions | 🟡 |  |  |
 | 8.03 | Is a string well-formed? | 🟢 |  |  |
 | 8.04 | Normalize pathnames | 🔵 |  |  |
