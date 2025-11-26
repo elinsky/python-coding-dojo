@@ -7,7 +7,7 @@ My journey through Elements of Programming Interviews in Python.
 ### Tier 0: Attempted ✓
 Problems attempted but not yet solved
 
-✓✓✓✓✓✓✓✓✓✓✓✓✓✓✓⬜⬜⬜⬜⬜
+✓✓✓✓✓✓✓✓✓✓✓✓✓✓✓✓⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
@@ -19,7 +19,7 @@ Problems attempted but not yet solved
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜
 
-**15 / 204** (7.4%)
+**16 / 204** (7.8%)
 
 ### Tier 1: Solved 👍
 Problems solved (with or without help)
@@ -76,11 +76,11 @@ Problems solved independently in ≤20 minutes with optimal solution
 
 Progress toward priority-based learning goals.
 
-### 🔴 P0: Attempt All (12/16 - 75%)
+### 🔴 P0: Attempt All (13/16 - 81%)
 
-✓✓✓✓✓✓✓✓✓✓✓✓⬜⬜⬜⬜
+✓✓✓✓✓✓✓✓✓✓✓✓✓⬜⬜⬜
 
-**12 / 16** problems attempted
+**13 / 16** problems attempted
 
 ### 🔴 P0: Master All (6/16 - 38%)
 
@@ -292,12 +292,12 @@ flowchart TB
 | 12: Hash Tables | 11 | 1 (9%) | 1 (9%) | 1 (9%) | 0 (0%) |
 | 13: Sorting | 12 | 1 (8%) | 1 (8%) | 1 (8%) | 1 (8%) |
 | 14: Binary Search Trees | 11 | 1 (9%) | 1 (9%) | 0 (0%) | 0 (0%) |
-| 15: Recursion | 11 | 0 (0%) | 0 (0%) | 0 (0%) | 0 (0%) |
+| 15: Recursion | 11 | 1 (9%) | 0 (0%) | 0 (0%) | 0 (0%) |
 | 16: Dynamic Programming | 12 | 0 (0%) | 0 (0%) | 0 (0%) | 0 (0%) |
 | 17: Greedy Algorithms and Invariants | 8 | 0 (0%) | 0 (0%) | 0 (0%) | 0 (0%) |
 | 18: Graphs | 8 | 0 (0%) | 0 (0%) | 0 (0%) | 0 (0%) |
 | 24: Honors Class | 35 | 0 (0%) | 0 (0%) | 0 (0%) | 0 (0%) |
-| **Total** | **204** | **15** | **13** | **10** | **7** |
+| **Total** | **204** | **16** | **13** | **10** | **7** |
 
 ## All Problems
 
@@ -512,7 +512,7 @@ flowchart TB
 
 | # | Problem | Priority | Status | Best Time |
 |---|---------|----------|--------|-----------|
-| 15.01 | The Towers of Hanoi problem | 🔴 |  |  |
+| 15.01 | The Towers of Hanoi problem | 🔴 | ✓ |  |
 | 15.02 | Compute all mnemonics for a phone number | 🟠 |  |  |
 | 15.03 | Generate all nonattacking placements of n-Queens | 🟡 |  |  |
 | 15.04 | Generate permutations | 🟢 |  |  |
@@ -618,4 +618,4 @@ flowchart TB
 ---
 
 
-*Last updated: 2025-11-23*
+*Last updated: 2025-11-25*

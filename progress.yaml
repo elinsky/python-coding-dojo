@@ -418,7 +418,11 @@ problems:
     name: Computing the h-index
     problem_number: '13.03'
   hanoi:
-    attempts: []
+    attempts:
+    - date: '2025-11-25'
+      solved: false
+      used_hints: true
+      used_solution: true
     chapter: 15_recursion
     chapter_name: Recursion
     file: 3-problems/hanoi.py
