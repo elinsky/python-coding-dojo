@@ -14,8 +14,46 @@ Coordinate = collections.namedtuple('Coordinate', ('x', 'y'))
 
 def search_maze(maze: List[List[int]], s: Coordinate,
                 e: Coordinate) -> List[Coordinate]:
-    # TODO - you fill in here.
-    return []
+    # so model the maze as a graph
+    # then do a search. maybe DFS or BFS.
+    # not sure if it matters which
+    # how do you model the problem as a maze tho?
+    # and i forget the logic for DFS vs BFS
+    # you could build a tree, but that would take up a lot of space
+    # also, the tree would have loops. so i guess its more of a graph than a tree
+    # oh yeah, so i need to keep track of where we've been, so i need a hashmap maybe?
+    visited = set()
+    path = []
+
+    def is_valid(coord: Coordinate) -> bool:
+        if not (0 <= coord.x < len(maze)):  # if x not in bounds
+            return False
+        if not (0 <= coord.y < len(maze[0])): # if y not in bounds
+            return False
+        if maze[coord.x][coord.y] == BLACK:
+            return False
+        return True
+
+
+    def helper(current: Coordinate):
+        visited.add(current)
+        path.append(current)
+        if current == e:
+            return True
+        up = Coordinate(current.x, current.y + 1)
+        down = Coordinate(current.x, current.y - 1)
+        left = Coordinate(current.x - 1, current.y)
+        right = Coordinate(current.x + 1, current.y)
+
+        for neighbor in [up, down, left, right]:
+            if is_valid(neighbor) and neighbor not in visited:
+                if helper(neighbor):
+                    return True
+        path.pop()
+        return False
+
+    helper(s)
+    return path
 
 
 def path_element_is_feasible(maze, prev, cur):

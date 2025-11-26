@@ -1387,7 +1387,16 @@ problems:
     name: 'Bootcamp: Binary Search Trees'
     problem_number: '14.00'
   search_maze:
-    attempts: []
+    attempts:
+    - date: '2025-11-26'
+      notes: 'DFS with backtracking using visited set. Time: O(V+E) = O(n*m). Space:
+        O(n*m) for visited set + path + recursion stack. Book''s in-place approach
+        (marking cells BLACK) eliminates the visited set but same asymptotic complexity.'
+      optimal: true
+      solved: true
+      time_minutes: 19
+      used_hints: true
+      used_solution: false
     chapter: 18_graphs
     chapter_name: Graphs
     file: 3-problems/search_maze.py
