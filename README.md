@@ -7,7 +7,7 @@ My journey through Elements of Programming Interviews in Python.
 ### Tier 0: Attempted ✓
 Problems attempted but not yet solved
 
-✓✓✓✓✓✓✓✓✓✓✓✓✓✓✓✓✓✓⬜⬜
+✓✓✓✓✓✓✓✓✓✓✓✓✓✓✓✓✓✓✓⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
@@ -19,12 +19,12 @@ Problems attempted but not yet solved
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜
 
-**18 / 204** (8.8%)
+**19 / 204** (9.3%)
 
 ### Tier 1: Solved 👍
 Problems solved (with or without help)
 
-👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍⬜⬜⬜⬜⬜
+👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
@@ -36,7 +36,7 @@ Problems solved (with or without help)
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜
 
-**15 / 204** (7.4%)
+**16 / 204** (7.8%)
 
 ### Tier 2: Solved Independently 💪
 Problems solved without hints or looking at solutions
@@ -76,11 +76,11 @@ Problems solved independently in ≤20 minutes with optimal solution
 
 Progress toward priority-based learning goals.
 
-### 🔴 P0: Attempt All (15/16 - 94%)
+### 🔴 P0: Attempt All (16/16 - 100%)
 
-✓✓✓✓✓✓✓✓✓✓✓✓✓✓✓⬜
+✓✓✓✓✓✓✓✓✓✓✓✓✓✓✓✓
 
-**15 / 16** problems attempted
+**16 / 16** problems attempted
 
 ### 🔴 P0: Master All (6/16 - 38%)
 
@@ -295,9 +295,9 @@ flowchart TB
 | 15: Recursion | 11 | 1 (9%) | 0 (0%) | 0 (0%) | 0 (0%) |
 | 16: Dynamic Programming | 12 | 1 (8%) | 1 (8%) | 0 (0%) | 0 (0%) |
 | 17: Greedy Algorithms and Invariants | 8 | 1 (12%) | 1 (12%) | 0 (0%) | 0 (0%) |
-| 18: Graphs | 8 | 0 (0%) | 0 (0%) | 0 (0%) | 0 (0%) |
+| 18: Graphs | 8 | 1 (12%) | 1 (12%) | 0 (0%) | 0 (0%) |
 | 24: Honors Class | 35 | 0 (0%) | 0 (0%) | 0 (0%) | 0 (0%) |
-| **Total** | **204** | **18** | **15** | **10** | **7** |
+| **Total** | **204** | **19** | **16** | **10** | **7** |
 
 ## All Problems
 
@@ -564,7 +564,7 @@ flowchart TB
 
 | # | Problem | Priority | Status | Best Time |
 |---|---------|----------|--------|-----------|
-| 18.01 | Search a maze | 🔴 |  |  |
+| 18.01 | Search a maze | 🔴 | 👍 |  |
 | 18.02 | Paint a Boolean matrix | 🟡 |  |  |
 | 18.03 | Compute enclosed regions | 🟢 |  |  |
 | 18.04 | Deadlock detection |  |  |  |
