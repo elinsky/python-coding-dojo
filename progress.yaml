@@ -997,7 +997,11 @@ problems:
     name: Generate nonuniform random numbers
     problem_number: '5.16'
   number_of_score_combinations:
-    attempts: []
+    attempts:
+    - date: '2025-11-25'
+      solved: true
+      used_hints: true
+      used_solution: true
     chapter: 16_dynamic_programming
     chapter_name: Dynamic Programming
     file: 3-problems/number_of_score_combinations.py
