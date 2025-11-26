@@ -1634,7 +1634,16 @@ problems:
     name: Compute an optimum assignment of tasks
     problem_number: '17.01'
   three_sum:
-    attempts: []
+    attempts:
+    - date: '2025-11-25'
+      notes: 'First solution (no memo) in 19 min: O(n^3) time, O(n) space. Final solution
+        with memoization in 33 min: O(n*t) time, O(t) space. Optimal is O(n^2) using
+        two-sum reduction.'
+      optimal: false
+      solved: true
+      time_minutes: 33
+      used_hints: true
+      used_solution: false
     chapter: 17_greedy_algorithms_and_invariants
     chapter_name: Greedy Algorithms and Invariants
     file: 3-problems/three_sum.py

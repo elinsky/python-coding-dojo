@@ -7,7 +7,7 @@ My journey through Elements of Programming Interviews in Python.
 ### Tier 0: Attempted ✓
 Problems attempted but not yet solved
 
-✓✓✓✓✓✓✓✓✓✓✓✓✓✓✓✓✓⬜⬜⬜
+✓✓✓✓✓✓✓✓✓✓✓✓✓✓✓✓✓✓⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
@@ -19,12 +19,12 @@ Problems attempted but not yet solved
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜
 
-**17 / 204** (8.3%)
+**18 / 204** (8.8%)
 
 ### Tier 1: Solved 👍
 Problems solved (with or without help)
 
-👍👍👍👍👍👍👍👍👍👍👍👍👍👍⬜⬜⬜⬜⬜⬜
+👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
@@ -36,7 +36,7 @@ Problems solved (with or without help)
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜
 
-**14 / 204** (6.9%)
+**15 / 204** (7.4%)
 
 ### Tier 2: Solved Independently 💪
 Problems solved without hints or looking at solutions
@@ -76,11 +76,11 @@ Problems solved independently in ≤20 minutes with optimal solution
 
 Progress toward priority-based learning goals.
 
-### 🔴 P0: Attempt All (14/16 - 88%)
+### 🔴 P0: Attempt All (15/16 - 94%)
 
-✓✓✓✓✓✓✓✓✓✓✓✓✓✓⬜⬜
+✓✓✓✓✓✓✓✓✓✓✓✓✓✓✓⬜
 
-**14 / 16** problems attempted
+**15 / 16** problems attempted
 
 ### 🔴 P0: Master All (6/16 - 38%)
 
@@ -294,10 +294,10 @@ flowchart TB
 | 14: Binary Search Trees | 11 | 1 (9%) | 1 (9%) | 0 (0%) | 0 (0%) |
 | 15: Recursion | 11 | 1 (9%) | 0 (0%) | 0 (0%) | 0 (0%) |
 | 16: Dynamic Programming | 12 | 1 (8%) | 1 (8%) | 0 (0%) | 0 (0%) |
-| 17: Greedy Algorithms and Invariants | 8 | 0 (0%) | 0 (0%) | 0 (0%) | 0 (0%) |
+| 17: Greedy Algorithms and Invariants | 8 | 1 (12%) | 1 (12%) | 0 (0%) | 0 (0%) |
 | 18: Graphs | 8 | 0 (0%) | 0 (0%) | 0 (0%) | 0 (0%) |
 | 24: Honors Class | 35 | 0 (0%) | 0 (0%) | 0 (0%) | 0 (0%) |
-| **Total** | **204** | **17** | **14** | **10** | **7** |
+| **Total** | **204** | **18** | **15** | **10** | **7** |
 
 ## All Problems
 
@@ -552,7 +552,7 @@ flowchart TB
 | 17.01 | Compute an optimum assignment of tasks |  |  |  |
 | 17.02 | Schedule to minimize waiting time |  |  |  |
 | 17.03 | The interval covering problem |  |  |  |
-| 17.04 | The 3-sum problem | 🔴 |  |  |
+| 17.04 | The 3-sum problem | 🔴 | 👍 |  |
 | 17.05 | Find the majority element | 🟡 |  |  |
 | 17.06 | The gasup problem | 🟠 |  |  |
 | 17.07 | Compute the maximum water trapped by a pair of vertical lines | 🟢 |  |  |
@@ -618,4 +618,4 @@ flowchart TB
 ---
 
 
-*Last updated: 2025-11-25*
+*Last updated: 2025-11-26*
