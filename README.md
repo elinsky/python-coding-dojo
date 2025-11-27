@@ -4,11 +4,11 @@ My journey through Elements of Programming Interviews in Python.
 
 ## Overall Progress
 
-### Tier 0: Attempted ✓
+### Tier 0: Attempted ☑️
 Problems attempted but not yet solved
 
-✓✓✓✓✓✓✓✓✓✓✓✓✓✓✓✓✓✓✓✓
-✓⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️
+☑️⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
@@ -78,7 +78,7 @@ Progress toward priority-based learning goals.
 
 ### 🔴 P0: Attempt All (16/16 - 100%)
 
-✓✓✓✓✓✓✓✓✓✓✓✓✓✓✓✓
+☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️
 
 **16 / 16** problems attempted
 
@@ -90,7 +90,7 @@ Progress toward priority-based learning goals.
 
 ### 🟠 P1: Attempt All (2/21 - 10%)
 
-✓✓⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+☑️☑️⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜
 
 **2 / 21** problems attempted
@@ -118,7 +118,7 @@ Progress toward priority-based learning goals.
 
 ### 🟢 P3: Attempt All (1/25 - 4%)
 
-✓⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+☑️⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜
 
 **1 / 25** problems attempted
@@ -279,7 +279,7 @@ flowchart TB
 
 ## Progress by Chapter
 
-| Chapter | Problems | Attempted ✓ | Solved 👍 | Independent 💪 | Mastered 🏆 |
+| Chapter | Problems | Attempted ☑️ | Solved 👍 | Independent 💪 | Mastered 🏆 |
 |---------|----------|-------------|--------|---------------|-------------|
 | 4: Primitive Types | 11 | 5 (45%) | 5 (45%) | 3 (27%) | 2 (18%) |
 | 5: Arrays | 20 | 3 (15%) | 2 (10%) | 2 (10%) | 2 (10%) |
@@ -323,7 +323,7 @@ flowchart TB
 
 | # | Problem | Priority | Status | Best Time |
 |---|---------|----------|--------|-----------|
-| 5.01 | The Dutch national flag problem | 🔴 | ✓ |  |
+| 5.01 | The Dutch national flag problem | 🔴 | ☑️ |  |
 | 5.02 | Increment an arbitrary-precision integer | 🟡 |  |  |
 | 5.03 | Multiply two arbitrary-precision integers | 🔵 |  |  |
 | 5.04 | Advancing through an array |  |  |  |
@@ -405,7 +405,7 @@ flowchart TB
 
 | # | Problem | Priority | Status | Best Time |
 |---|---------|----------|--------|-----------|
-| 9.01 | Test if a binary tree is height-balanced | 🔴 | ✓ |  |
+| 9.01 | Test if a binary tree is height-balanced | 🔴 | ☑️ |  |
 | 9.02 | Test if a binary tree is symmetric | 🟡 |  |  |
 | 9.03 | Compute the lowest common ancestor in a binary tree |  |  |  |
 | 9.04 | Compute the LCA when nodes have parent pointers | 🟠 |  |  |
@@ -512,7 +512,7 @@ flowchart TB
 
 | # | Problem | Priority | Status | Best Time |
 |---|---------|----------|--------|-----------|
-| 15.01 | The Towers of Hanoi problem | 🔴 | ✓ |  |
+| 15.01 | The Towers of Hanoi problem | 🔴 | ☑️ |  |
 | 15.02 | Compute all mnemonics for a phone number | 🟠 |  |  |
 | 15.03 | Generate all nonattacking placements of n-Queens | 🟡 |  |  |
 | 15.04 | Generate permutations | 🟢 |  |  |

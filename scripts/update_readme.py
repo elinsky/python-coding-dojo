@@ -239,10 +239,10 @@ def generate_readme(data, threshold):
     # Tier 0: Attempted
     tier0_pct = (stats['tier0'] / stats['total'] * 100) if stats['total'] > 0 else 0
     lines.extend([
-        '### Tier 0: Attempted ✓',
+        '### Tier 0: Attempted ☑️',
         'Problems attempted but not yet solved',
         '',
-        generate_progress_bar(stats['tier0'], stats['total'], '✓'),
+        generate_progress_bar(stats['tier0'], stats['total'], '☑️'),
         '',
         f"**{stats['tier0']} / {stats['total']}** ({tier0_pct:.1f}%)",
         '',
@@ -317,7 +317,7 @@ def generate_readme(data, threshold):
         lines.extend([
             f'### {emoji} {priority}: Attempt All ({attempted}/{total} - {attempt_pct:.0f}%)',
             '',
-            generate_progress_bar(attempted, total, '✓'),
+            generate_progress_bar(attempted, total, '☑️'),
             '',
             f"**{attempted} / {total}** problems attempted",
             '',
@@ -354,7 +354,7 @@ def generate_readme(data, threshold):
     lines.extend([
         '## Progress by Chapter',
         '',
-        '| Chapter | Problems | Attempted ✓ | Solved 👍 | Independent 💪 | Mastered 🏆 |',
+        '| Chapter | Problems | Attempted ☑️ | Solved 👍 | Independent 💪 | Mastered 🏆 |',
         '|---------|----------|-------------|--------|---------------|-------------|',
     ])
 
@@ -449,7 +449,7 @@ def generate_readme(data, threshold):
             if tier == 0 and not has_attempts:
                 status = ''
             elif tier == 0 and has_attempts:
-                status = '✓'
+                status = '☑️'
             elif tier == 1:
                 status = '👍'
             elif tier == 2:
@@ -482,7 +482,7 @@ def main(threshold, output):
     """Generate README.md from progress.yaml.
 
     Analyzes all problem attempts and generates a comprehensive README with:
-    - Four-tier emoji progress bars (✓ → 👍 → 💪 → 🏆)
+    - Four-tier emoji progress bars (☑️ → 👍 → 💪 → 🏆)
     - Chapter-by-chapter statistics
     - Complete problem list with status icons
     """
@@ -507,7 +507,7 @@ def main(threshold, output):
     with open(output_file, 'w') as f:
         f.write(readme_content)
 
-    click.echo(f"✓ Generated {output_file}")
+    click.echo(f"☑️ Generated {output_file}")
 
     # Show summary
     problems = data.get('problems', {})
