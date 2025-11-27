@@ -5,4 +5,4 @@
 **A:**
 - `smaller`: first position of middle region (= pivot)
 - `equal`: first unprocessed element
-- `larger`: last unprocessed element (NOT first position of top region)
+- `larger`: first position of top region (boundary after unprocessed)
