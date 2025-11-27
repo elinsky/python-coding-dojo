@@ -1123,7 +1123,15 @@ problems:
     name: Generate the power set
     problem_number: '15.05'
   power_x_y:
-    attempts: []
+    attempts:
+    - date: '2025-11-27'
+      notes: 'Missed handling negative exponents. Time optimal O(log y), space O(log y) due to recursion (book uses O(1) with iteration).'
+      optimal: false
+      solved: true
+      submissions: 3
+      time_minutes: 15
+      used_hints: true
+      used_solution: false
     chapter: 04_primitive_types
     chapter_name: Primitive Types
     file: 3-problems/power_x_y.py
