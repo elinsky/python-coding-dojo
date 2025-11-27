@@ -1024,7 +1024,14 @@ problems:
     name: Count the number of moves to climb stairs
     problem_number: '16.10'
   offline_sampling:
-    attempts: []
+    attempts:
+    - date: '2025-11-27T17:39:45.963869'
+      optimal: true
+      solved: true
+      submissions: 2
+      time_minutes: 5
+      used_hints: false
+      used_solution: false
     chapter: 05_arrays
     chapter_name: Arrays
     file: 3-problems/offline_sampling.py
@@ -1125,7 +1132,8 @@ problems:
   power_x_y:
     attempts:
     - date: '2025-11-27'
-      notes: 'Missed handling negative exponents. Time optimal O(log y), space O(log y) due to recursion (book uses O(1) with iteration).'
+      notes: Missed handling negative exponents. Time optimal O(log y), space O(log
+        y) due to recursion (book uses O(1) with iteration).
       optimal: false
       solved: true
       submissions: 3

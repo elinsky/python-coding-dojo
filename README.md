@@ -7,8 +7,8 @@ My journey through Elements of Programming Interviews in Python.
 ### Tier 0: Attempted ✓
 Problems attempted but not yet solved
 
-✓✓✓✓✓✓✓✓✓✓✓✓✓✓✓✓✓✓✓⬜
-⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+✓✓✓✓✓✓✓✓✓✓✓✓✓✓✓✓✓✓✓✓
+✓⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
@@ -19,12 +19,12 @@ Problems attempted but not yet solved
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜
 
-**19 / 204** (9.3%)
+**21 / 204** (10.3%)
 
 ### Tier 1: Solved 👍
 Problems solved (with or without help)
 
-👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍⬜⬜⬜⬜
+👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
@@ -36,12 +36,12 @@ Problems solved (with or without help)
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜
 
-**16 / 204** (7.8%)
+**18 / 204** (8.8%)
 
 ### Tier 2: Solved Independently 💪
 Problems solved without hints or looking at solutions
 
-💪💪💪💪💪💪💪💪💪💪⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+💪💪💪💪💪💪💪💪💪💪💪⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
@@ -53,12 +53,12 @@ Problems solved without hints or looking at solutions
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜
 
-**10 / 204** (4.9%)
+**11 / 204** (5.4%)
 
 ### Tier 3: Mastered 🏆
 Problems solved independently in ≤20 minutes with optimal solution
 
-🏆🏆🏆🏆🏆🏆🏆⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+🏆🏆🏆🏆🏆🏆🏆🏆⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
@@ -70,7 +70,7 @@ Problems solved independently in ≤20 minutes with optimal solution
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜
 
-**7 / 204** (3.4%)
+**8 / 204** (3.9%)
 
 ## Goals
 
@@ -88,19 +88,19 @@ Progress toward priority-based learning goals.
 
 **6 / 16** problems mastered
 
-### 🟠 P1: Attempt All (0/21 - 0%)
+### 🟠 P1: Attempt All (2/21 - 10%)
 
-⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+✓✓⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜
 
-**0 / 21** problems attempted
+**2 / 21** problems attempted
 
-### 🟠 P1: Master All (0/21 - 0%)
+### 🟠 P1: Master All (1/21 - 5%)
 
-⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+🏆⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜
 
-**0 / 21** problems mastered
+**1 / 21** problems mastered
 
 ### 🟡 P2: Attempt All (0/22 - 0%)
 
@@ -281,8 +281,8 @@ flowchart TB
 
 | Chapter | Problems | Attempted ✓ | Solved 👍 | Independent 💪 | Mastered 🏆 |
 |---------|----------|-------------|--------|---------------|-------------|
-| 4: Primitive Types | 11 | 4 (36%) | 4 (36%) | 3 (27%) | 2 (18%) |
-| 5: Arrays | 20 | 2 (10%) | 1 (5%) | 1 (5%) | 1 (5%) |
+| 4: Primitive Types | 11 | 5 (45%) | 5 (45%) | 3 (27%) | 2 (18%) |
+| 5: Arrays | 20 | 3 (15%) | 2 (10%) | 2 (10%) | 2 (10%) |
 | 6: Strings | 12 | 1 (8%) | 1 (8%) | 1 (8%) | 1 (8%) |
 | 7: Linked Lists | 13 | 1 (8%) | 1 (8%) | 1 (8%) | 1 (8%) |
 | 8: Stacks and Queues | 9 | 1 (11%) | 1 (11%) | 1 (11%) | 0 (0%) |
@@ -297,7 +297,7 @@ flowchart TB
 | 17: Greedy Algorithms and Invariants | 8 | 1 (12%) | 1 (12%) | 0 (0%) | 0 (0%) |
 | 18: Graphs | 8 | 1 (12%) | 1 (12%) | 0 (0%) | 0 (0%) |
 | 24: Honors Class | 35 | 0 (0%) | 0 (0%) | 0 (0%) | 0 (0%) |
-| **Total** | **204** | **19** | **16** | **10** | **7** |
+| **Total** | **204** | **21** | **18** | **11** | **8** |
 
 ## All Problems
 
@@ -311,7 +311,7 @@ flowchart TB
 | 4.04 | Find a closest integer with the same weight |  | 👍 |  |
 | 4.05 | Compute product without arithmetical operators |  |  |  |
 | 4.06 | Compute quotient without arithmetical operators |  |  |  |
-| 4.07 | Compute pow(x,y) | 🟠 |  |  |
+| 4.07 | Compute pow(x,y) | 🟠 | 👍 |  |
 | 4.08 | Reverse digits | 🟡 |  |  |
 | 4.09 | Check if a decimal integer is a palindrome | 🔵 |  |  |
 | 4.10 | Generate uniform random numbers |  |  |  |
@@ -334,7 +334,7 @@ flowchart TB
 | 5.09 | Enumerate all primes to n | 🟢 |  |  |
 | 5.10 | Permute the elements of an array | 🔵 |  |  |
 | 5.11 | Compute the next permutation |  |  |  |
-| 5.12 | Sample offline data | 🟠 |  |  |
+| 5.12 | Sample offline data | 🟠 | 🏆 | 5 min |
 | 5.13 | Sample online data |  |  |  |
 | 5.14 | Compute a random permutation |  |  |  |
 | 5.15 | Compute a random subset | 🔵 |  |  |
@@ -618,4 +618,4 @@ flowchart TB
 ---
 
 
-*Last updated: 2025-11-26*
+*Last updated: 2025-11-27*
