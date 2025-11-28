@@ -8,7 +8,7 @@ My journey through Elements of Programming Interviews in Python.
 Problems attempted but not yet solved
 
 ☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️
-☑️⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+☑️☑️⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
@@ -19,12 +19,12 @@ Problems attempted but not yet solved
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜
 
-**21 / 204** (10.3%)
+**22 / 204** (10.8%)
 
 ### Tier 1: Solved 👍
 Problems solved (with or without help)
 
-👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍⬜⬜
+👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
@@ -36,7 +36,7 @@ Problems solved (with or without help)
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜
 
-**18 / 204** (8.8%)
+**19 / 204** (9.3%)
 
 ### Tier 2: Solved Independently 💪
 Problems solved without hints or looking at solutions
@@ -88,12 +88,12 @@ Progress toward priority-based learning goals.
 
 **6 / 16** problems mastered
 
-### 🟠 P1: Attempt All (2/21 - 10%)
+### 🟠 P1: Attempt All (3/21 - 14%)
 
-☑️☑️⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+☑️☑️☑️⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜
 
-**2 / 21** problems attempted
+**3 / 21** problems attempted
 
 ### 🟠 P1: Master All (1/21 - 5%)
 
@@ -282,7 +282,7 @@ flowchart TB
 | Chapter | Problems | Attempted ☑️ | Solved 👍 | Independent 💪 | Mastered 🏆 |
 |---------|----------|-------------|--------|---------------|-------------|
 | 4: Primitive Types | 11 | 5 (45%) | 5 (45%) | 3 (27%) | 2 (18%) |
-| 5: Arrays | 20 | 3 (15%) | 2 (10%) | 2 (10%) | 2 (10%) |
+| 5: Arrays | 20 | 4 (20%) | 3 (15%) | 2 (10%) | 2 (10%) |
 | 6: Strings | 12 | 1 (8%) | 1 (8%) | 1 (8%) | 1 (8%) |
 | 7: Linked Lists | 13 | 1 (8%) | 1 (8%) | 1 (8%) | 1 (8%) |
 | 8: Stacks and Queues | 9 | 1 (11%) | 1 (11%) | 1 (11%) | 0 (0%) |
@@ -297,7 +297,7 @@ flowchart TB
 | 17: Greedy Algorithms and Invariants | 8 | 1 (12%) | 1 (12%) | 0 (0%) | 0 (0%) |
 | 18: Graphs | 8 | 1 (12%) | 1 (12%) | 0 (0%) | 0 (0%) |
 | 24: Honors Class | 35 | 0 (0%) | 0 (0%) | 0 (0%) | 0 (0%) |
-| **Total** | **204** | **21** | **18** | **11** | **8** |
+| **Total** | **204** | **22** | **19** | **11** | **8** |
 
 ## All Problems
 
@@ -340,7 +340,7 @@ flowchart TB
 | 5.15 | Compute a random subset | 🔵 |  |  |
 | 5.16 | Generate nonuniform random numbers |  |  |  |
 | 5.17 | The Sudoku checker problem | 🟡 |  |  |
-| 5.18 | Compute the spiral ordering of a 2D array | 🟠 |  |  |
+| 5.18 | Compute the spiral ordering of a 2D array | 🟠 | 👍 |  |
 | 5.19 | Rotate a 2D array |  |  |  |
 | 5.20 | Compute rows in Pascal's Triangle |  |  |  |
 
