@@ -17,9 +17,10 @@ Problems attempted but not yet solved
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
-⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜
 
-**29 / 204** (14.2%)
+**29 / 222** (13.1%)
 
 ### Tier 1: Solved 👍
 Problems solved (with or without help)
@@ -34,9 +35,10 @@ Problems solved (with or without help)
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
-⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜
 
-**26 / 204** (12.7%)
+**26 / 222** (11.7%)
 
 ### Tier 2: Solved Independently 💪
 Problems solved without hints or looking at solutions
@@ -51,9 +53,10 @@ Problems solved without hints or looking at solutions
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
-⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜
 
-**12 / 204** (5.9%)
+**12 / 222** (5.4%)
 
 ### Tier 3: Mastered 🏆
 Problems solved independently in ≤20 minutes with optimal solution
@@ -68,9 +71,10 @@ Problems solved independently in ≤20 minutes with optimal solution
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
-⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜
 
-**9 / 204** (4.4%)
+**9 / 222** (4.1%)
 
 ## Goals
 
@@ -297,7 +301,14 @@ flowchart TB
 | 17: Greedy Algorithms and Invariants | 8 | 1 (12%) | 1 (12%) | 0 (0%) | 0 (0%) |
 | 18: Graphs | 8 | 1 (12%) | 1 (12%) | 0 (0%) | 0 (0%) |
 | 24: Honors Class | 35 | 0 (0%) | 0 (0%) | 0 (0%) | 0 (0%) |
-| **Total** | **204** | **29** | **26** | **12** | **9** |
+| P1: File Parsing | 1 | 0 (0%) | 0 (0%) | 0 (0%) | 0 (0%) |
+| P2: Data Transformation | 1 | 0 (0%) | 0 (0%) | 0 (0%) | 0 (0%) |
+| P3: Text Processing | 1 | 0 (0%) | 0 (0%) | 0 (0%) | 0 (0%) |
+| P4: API Interaction | 1 | 0 (0%) | 0 (0%) | 0 (0%) | 0 (0%) |
+| P5: Database | 1 | 0 (0%) | 0 (0%) | 0 (0%) | 0 (0%) |
+| P6: System Scripts | 1 | 0 (0%) | 0 (0%) | 0 (0%) | 0 (0%) |
+| T1: Trading & Quant | 12 | 0 (0%) | 0 (0%) | 0 (0%) | 0 (0%) |
+| **Total** | **222** | **29** | **26** | **12** | **9** |
 
 ## All Problems
 
@@ -614,6 +625,73 @@ flowchart TB
 | 24.33 | Find the longest subarray with sum constraint |  |  |  |
 | 24.34 | Road network |  |  |  |
 | 24.35 | Test if arbitrage is possible |  |  |  |
+
+---
+
+### Chapter P1: File Parsing
+
+| # | Problem | Priority | Status | Best Time |
+|---|---------|----------|--------|-----------|
+| P1.01 | CSV Sales Report |  |  |  |
+
+---
+
+### Chapter P2: Data Transformation
+
+| # | Problem | Priority | Status | Best Time |
+|---|---------|----------|--------|-----------|
+| P2.01 | Flatten Nested JSON |  |  |  |
+
+---
+
+### Chapter P3: Text Processing
+
+| # | Problem | Priority | Status | Best Time |
+|---|---------|----------|--------|-----------|
+| P3.01 | Log File Parser |  |  |  |
+
+---
+
+### Chapter P4: API Interaction
+
+| # | Problem | Priority | Status | Best Time |
+|---|---------|----------|--------|-----------|
+| P4.01 | API Pagination Handler |  |  |  |
+
+---
+
+### Chapter P5: Database
+
+| # | Problem | Priority | Status | Best Time |
+|---|---------|----------|--------|-----------|
+| P5.01 | SQL Aggregation Query |  |  |  |
+
+---
+
+### Chapter P6: System Scripts
+
+| # | Problem | Priority | Status | Best Time |
+|---|---------|----------|--------|-----------|
+| P6.01 | File Organizer |  |  |  |
+
+---
+
+### Chapter T1: Trading & Quant
+
+| # | Problem | Priority | Status | Best Time |
+|---|---------|----------|--------|-----------|
+| T1.01 | NBBO Snapshotter |  |  |  |
+| T1.02 | Implied Vol Calculator |  |  |  |
+| T1.03 | Risk Aggregation (Greeks) |  |  |  |
+| T1.04 | P&L Explain Parser |  |  |  |
+| T1.05 | L2 Order Book Stitcher |  |  |  |
+| T1.06 | FIX Log Parser |  |  |  |
+| T1.07 | IV Surface Cleaner |  |  |  |
+| T1.08 | Fee Schedule Calculator |  |  |  |
+| T1.09 | PCAP Latency Analyzer |  |  |  |
+| T1.10 | Binary Feed Parser |  |  |  |
+| T1.11 | Exercise/Assignment Simulator |  |  |  |
+| T1.12 | Backtest Event Joiner |  |  |  |
 
 ---
 

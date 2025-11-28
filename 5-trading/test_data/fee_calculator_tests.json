@@ -1,0 +1,17 @@
+[
+  {
+    "description": "Calculate fees for maker-taker trades",
+    "input": {"args": ["fee_schedule.json", "trades_for_fees.csv"]},
+    "expected": {
+      "by_venue": {
+        "NQEX": {"gross_value": 196050.0, "maker_fees": -196.04, "taker_fees": 294.045, "net_fees": 98.005},
+        "ARCA": {"gross_value": 110005.0, "maker_fees": -99.0, "taker_fees": 176.016, "net_fees": 77.016}
+      },
+      "total": {
+        "gross_value": 306055.0,
+        "total_fees": 175.021,
+        "blended_bps": 0.572
+      }
+    }
+  }
+]

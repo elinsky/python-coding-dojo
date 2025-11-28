@@ -1,0 +1,32 @@
+[
+  {
+    "description": "Basic NBBO from multiple venues",
+    "input": {"args": ["quotes_sample.csv", 10]},
+    "expected": [
+      {
+        "ts_bucket_ns": 1732665600100000000,
+        "underlying": "AAPL",
+        "occ": "AAPL  250124C00180000",
+        "nbb_px": 1.22,
+        "nbb_sz": 15,
+        "nbo_px": 1.26,
+        "nbo_sz": 30,
+        "nbb_venue": "CBOE",
+        "nbo_venue": "PHLX",
+        "crossed": false
+      },
+      {
+        "ts_bucket_ns": 1732665600120000000,
+        "underlying": "AAPL",
+        "occ": "AAPL  250124C00180000",
+        "nbb_px": 1.23,
+        "nbb_sz": 18,
+        "nbo_px": 1.26,
+        "nbo_sz": 25,
+        "nbb_venue": "CBOE",
+        "nbo_venue": "CBOE",
+        "crossed": false
+      }
+    ]
+  }
+]

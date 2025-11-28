@@ -1,0 +1,11 @@
+[
+  {
+    "description": "Clean and interpolate IV surface",
+    "input": {"args": ["iv_points.csv", 115.0]},
+    "expected": [
+      {"days": 30, "strike": 115.0, "cp_flag": "C", "iv": 0.41},
+      {"days": 30, "strike": 120.0, "cp_flag": "C", "iv": 0.38},
+      {"days": 60, "strike": 115.0, "cp_flag": "C", "iv": 0.40}
+    ]
+  }
+]

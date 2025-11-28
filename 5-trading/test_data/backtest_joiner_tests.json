@@ -1,0 +1,16 @@
+[
+  {
+    "description": "Join bars, ticks, and corporate actions",
+    "input": {"args": ["bars.csv", "ticks.csv", "corp_actions.csv"]},
+    "expected": [
+      {"event_id": 1, "source": "corp_action", "symbol": "QQQ", "type": "SPLIT", "ratio": 2.0},
+      {"event_id": 2, "source": "corp_action", "symbol": "SPY", "type": "DIVIDEND", "ratio": 1.50},
+      {"event_id": 3, "source": "tick", "symbol": "SPY", "px": 549.95, "qty": 100},
+      {"event_id": 4, "source": "tick", "symbol": "SPY", "px": 550.00, "qty": 200},
+      {"event_id": 5, "source": "tick", "symbol": "SPY", "px": 550.05, "qty": 100},
+      {"event_id": 6, "source": "bar", "symbol": "SPY", "close": 550.1},
+      {"event_id": 7, "source": "tick", "symbol": "SPY", "px": 550.25, "qty": 150},
+      {"event_id": 8, "source": "bar", "symbol": "SPY", "close": 550.3}
+    ]
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "description": "Basic sales report with multiple products",
+    "input": "sales_data.csv",
+    "expected": {
+      "total_revenue": 245.0,
+      "products": {"Widget": 13, "Gadget": 13, "Gizmo": 2},
+      "top_product": "Gadget"
+    }
+  },
+  {
+    "description": "Single product sales",
+    "input": "sales_single.csv",
+    "expected": {
+      "total_revenue": 150.0,
+      "products": {"Widget": 30},
+      "top_product": "Widget"
+    }
+  }
+]

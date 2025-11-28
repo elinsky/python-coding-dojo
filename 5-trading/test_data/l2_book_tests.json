@@ -1,0 +1,44 @@
+[
+  {
+    "description": "Build L2 book from updates",
+    "input": "l2_updates.csv",
+    "expected": [
+      {
+        "ts_ns": 1732665600100000000,
+        "symbol": "AAPL",
+        "bid1_px": 225.10,
+        "bid1_sz": 500,
+        "bid2_px": 225.05,
+        "bid2_sz": 800,
+        "ask1_px": 225.15,
+        "ask1_sz": 300,
+        "ask2_px": 225.20,
+        "ask2_sz": 600
+      },
+      {
+        "ts_ns": 1732665600200000000,
+        "symbol": "AAPL",
+        "bid1_px": 225.12,
+        "bid1_sz": 400,
+        "bid2_px": 225.05,
+        "bid2_sz": 800,
+        "ask1_px": 225.15,
+        "ask1_sz": 300,
+        "ask2_px": 225.20,
+        "ask2_sz": 600
+      },
+      {
+        "ts_ns": 1732665600300000000,
+        "symbol": "AAPL",
+        "bid1_px": 225.12,
+        "bid1_sz": 400,
+        "bid2_px": 0,
+        "bid2_sz": 0,
+        "ask1_px": 225.15,
+        "ask1_sz": 300,
+        "ask2_px": 225.20,
+        "ask2_sz": 600
+      }
+    ]
+  }
+]

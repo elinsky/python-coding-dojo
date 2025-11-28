@@ -1,0 +1,18 @@
+[
+  {
+    "description": "Simulate exercise and assignment",
+    "input": {"args": ["options_positions.csv", "underlying_closes.csv"]},
+    "expected": {
+      "by_account": [
+        {"acct": "MM1", "underlying": "AAPL", "stock_delta": 5000, "pnl_impact": 27500.0},
+        {"acct": "MM1", "underlying": "AAPL", "stock_delta": -3000, "pnl_impact": -13500.0},
+        {"acct": "MM2", "underlying": "SPY", "stock_delta": 10000, "pnl_impact": 20000.0}
+      ],
+      "summary": {
+        "total_exercises": 2,
+        "total_assignments": 1,
+        "total_pnl_impact": 34000.0
+      }
+    }
+  }
+]

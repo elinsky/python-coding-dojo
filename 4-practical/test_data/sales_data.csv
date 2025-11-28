@@ -1,0 +1,6 @@
+date,product,quantity,unit_price
+2024-01-01,Widget,10,5.00
+2024-01-01,Gadget,5,10.00
+2024-01-02,Widget,3,5.00
+2024-01-02,Gizmo,2,25.00
+2024-01-03,Gadget,8,10.00

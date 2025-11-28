@@ -1,0 +1,59 @@
+[
+  {
+    "description": "Nested object with arrays",
+    "input": {
+      "name": "John",
+      "address": {
+        "city": "NYC",
+        "zip": "10001"
+      },
+      "phones": ["555-1234", "555-5678"]
+    },
+    "expected": {
+      "name": "John",
+      "address.city": "NYC",
+      "address.zip": "10001",
+      "phones.0": "555-1234",
+      "phones.1": "555-5678"
+    }
+  },
+  {
+    "description": "Deeply nested structure",
+    "input": {
+      "level1": {
+        "level2": {
+          "level3": "deep"
+        }
+      }
+    },
+    "expected": {
+      "level1.level2.level3": "deep"
+    }
+  },
+  {
+    "description": "Flat object (no nesting)",
+    "input": {
+      "a": 1,
+      "b": 2,
+      "c": 3
+    },
+    "expected": {
+      "a": 1,
+      "b": 2,
+      "c": 3
+    }
+  },
+  {
+    "description": "Array of objects",
+    "input": {
+      "users": [
+        {"name": "Alice"},
+        {"name": "Bob"}
+      ]
+    },
+    "expected": {
+      "users.0.name": "Alice",
+      "users.1.name": "Bob"
+    }
+  }
+]

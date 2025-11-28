@@ -1821,3 +1821,129 @@ problems:
     file: 3-problems/zip_list.py
     name: Implement list zipping
     problem_number: '24.09'
+  csv_sales_report:
+    attempts: []
+    chapter: P1_file_parsing
+    chapter_name: File Parsing
+    file: 4-practical/csv_sales_report.py
+    name: CSV Sales Report
+    problem_number: 'P1.01'
+  json_flatten:
+    attempts: []
+    chapter: P2_data_transformation
+    chapter_name: Data Transformation
+    file: 4-practical/json_flatten.py
+    name: Flatten Nested JSON
+    problem_number: 'P2.01'
+  log_parser:
+    attempts: []
+    chapter: P3_text_processing
+    chapter_name: Text Processing
+    file: 4-practical/log_parser.py
+    name: Log File Parser
+    problem_number: 'P3.01'
+  api_pagination:
+    attempts: []
+    chapter: P4_api_interaction
+    chapter_name: API Interaction
+    file: 4-practical/api_pagination.py
+    name: API Pagination Handler
+    problem_number: 'P4.01'
+  sql_aggregation:
+    attempts: []
+    chapter: P5_database
+    chapter_name: Database
+    file: 4-practical/sql_aggregation.py
+    name: SQL Aggregation Query
+    problem_number: 'P5.01'
+  file_organizer:
+    attempts: []
+    chapter: P6_system_scripts
+    chapter_name: System Scripts
+    file: 4-practical/file_organizer.py
+    name: File Organizer
+    problem_number: 'P6.01'
+  nbbo_snapshotter:
+    attempts: []
+    chapter: T1_trading
+    chapter_name: Trading & Quant
+    file: 5-trading/nbbo_snapshotter.py
+    name: NBBO Snapshotter
+    problem_number: 'T1.01'
+  implied_vol_calculator:
+    attempts: []
+    chapter: T1_trading
+    chapter_name: Trading & Quant
+    file: 5-trading/implied_vol_calculator.py
+    name: Implied Vol Calculator
+    problem_number: 'T1.02'
+  risk_aggregation:
+    attempts: []
+    chapter: T1_trading
+    chapter_name: Trading & Quant
+    file: 5-trading/risk_aggregation.py
+    name: Risk Aggregation (Greeks)
+    problem_number: 'T1.03'
+  pnl_explain:
+    attempts: []
+    chapter: T1_trading
+    chapter_name: Trading & Quant
+    file: 5-trading/pnl_explain.py
+    name: P&L Explain Parser
+    problem_number: 'T1.04'
+  l2_book_stitcher:
+    attempts: []
+    chapter: T1_trading
+    chapter_name: Trading & Quant
+    file: 5-trading/l2_book_stitcher.py
+    name: L2 Order Book Stitcher
+    problem_number: 'T1.05'
+  fix_log_parser:
+    attempts: []
+    chapter: T1_trading
+    chapter_name: Trading & Quant
+    file: 5-trading/fix_log_parser.py
+    name: FIX Log Parser
+    problem_number: 'T1.06'
+  iv_surface_cleaner:
+    attempts: []
+    chapter: T1_trading
+    chapter_name: Trading & Quant
+    file: 5-trading/iv_surface_cleaner.py
+    name: IV Surface Cleaner
+    problem_number: 'T1.07'
+  fee_calculator:
+    attempts: []
+    chapter: T1_trading
+    chapter_name: Trading & Quant
+    file: 5-trading/fee_calculator.py
+    name: Fee Schedule Calculator
+    problem_number: 'T1.08'
+  pcap_latency_analyzer:
+    attempts: []
+    chapter: T1_trading
+    chapter_name: Trading & Quant
+    file: 5-trading/pcap_latency_analyzer.py
+    name: PCAP Latency Analyzer
+    problem_number: 'T1.09'
+  binary_feed_parser:
+    attempts: []
+    chapter: T1_trading
+    chapter_name: Trading & Quant
+    file: 5-trading/binary_feed_parser.py
+    name: Binary Feed Parser
+    problem_number: 'T1.10'
+  exercise_assignment:
+    attempts: []
+    chapter: T1_trading
+    chapter_name: Trading & Quant
+    file: 5-trading/exercise_assignment.py
+    name: Exercise/Assignment Simulator
+    problem_number: 'T1.11'
+  backtest_event_joiner:
+    attempts: []
+    chapter: T1_trading
+    chapter_name: Trading & Quant
+    file: 5-trading/backtest_event_joiner.py
+    name: Backtest Event Joiner
+    problem_number: 'T1.12'

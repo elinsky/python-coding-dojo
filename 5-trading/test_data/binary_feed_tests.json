@@ -1,0 +1,15 @@
+[
+  {
+    "description": "Parse binary feed (placeholder - requires actual binary)",
+    "input": "sample.bin",
+    "expected": {
+      "tape": [],
+      "sequence_gaps": [],
+      "stats": {
+        "total_messages": 0,
+        "trade_count": 0,
+        "quote_count": 0
+      }
+    }
+  }
+]

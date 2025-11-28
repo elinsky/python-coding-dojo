@@ -358,11 +358,20 @@ def generate_readme(data, threshold):
         '|---------|----------|-------------|--------|---------------|-------------|',
     ])
 
-    # Sort chapters by chapter number (convert to int for proper ordering)
-    sorted_chapters = sorted(
-        stats['chapters'].items(),
-        key=lambda x: int(x[1]['chapter_num']) if x[1]['chapter_num'].isdigit() else 0
-    )
+    # Sort chapters by chapter number
+    # EPI chapters (numeric) come first, then practical (P1-P6), then trading (T1)
+    def chapter_sort_key(item):
+        chapter_num = item[1]['chapter_num']
+        if chapter_num.isdigit():
+            return (0, int(chapter_num), '')  # EPI chapters first
+        elif chapter_num.startswith('P'):
+            return (1, int(chapter_num[1:]), '')  # Practical chapters second
+        elif chapter_num.startswith('T'):
+            return (2, int(chapter_num[1:]), '')  # Trading chapters third
+        else:
+            return (3, 0, chapter_num)  # Other chapters last
+
+    sorted_chapters = sorted(stats['chapters'].items(), key=chapter_sort_key)
 
     for chapter_name, chapter_stats in sorted_chapters:
         chapter_num = chapter_stats['chapter_num']

@@ -1,0 +1,15 @@
+[
+  {
+    "description": "Analyze sample PCAP (placeholder - requires actual pcap)",
+    "input": "sample.pcap",
+    "expected": {
+      "message_count": 0,
+      "latency": {
+        "p50_us": 0.0,
+        "p90_us": 0.0,
+        "p99_us": 0.0,
+        "max_us": 0.0
+      }
+    }
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "description": "Aggregate Greeks by book and firm",
+    "input": "positions_greeks.csv",
+    "expected": {
+      "by_book": [
+        {"book": "ETF_ARB", "total_qty": -15, "total_delta": -0.17, "total_gamma": 0.014, "total_vega": 1.66, "total_theta": -0.21},
+        {"book": "MM_DESK", "total_qty": -50, "total_delta": -0.25, "total_gamma": 0.020, "total_vega": 2.05, "total_theta": -0.25}
+      ],
+      "by_book_underlying": [
+        {"book": "ETF_ARB", "underlying": "QQQ", "total_qty": -15, "total_delta": -0.17},
+        {"book": "MM_DESK", "underlying": "SPY", "total_qty": -50, "total_delta": -0.25}
+      ],
+      "firm_total": [
+        {"book": "FIRM", "underlying": "ALL", "total_qty": -65, "total_delta": -0.42, "total_gamma": 0.034, "total_vega": 3.71, "total_theta": -0.46}
+      ]
+    }
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "description": "Calculate IV for ATM options",
+    "input": "options_quotes.csv",
+    "expected": [
+      {
+        "date": "2025-11-27",
+        "underlying": "AAPL",
+        "occ": "AAPL  250117C00220000",
+        "strike": 220.0,
+        "cp_flag": "C",
+        "mid": 8.65,
+        "iv": 0.25
+      }
+    ]
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "description": "Three pages of data",
+    "input": {
+      "pages": {
+        "page1": {"items": [1, 2], "next_page": "page2"},
+        "page2": {"items": [3, 4], "next_page": "page3"},
+        "page3": {"items": [5], "next_page": null}
+      }
+    },
+    "expected": [1, 2, 3, 4, 5]
+  },
+  {
+    "description": "Single page (no pagination)",
+    "input": {
+      "pages": {
+        "page1": {"items": [1, 2, 3], "next_page": null}
+      }
+    },
+    "expected": [1, 2, 3]
+  },
+  {
+    "description": "Empty first page",
+    "input": {
+      "pages": {
+        "page1": {"items": [], "next_page": null}
+      }
+    },
+    "expected": []
+  }
+]

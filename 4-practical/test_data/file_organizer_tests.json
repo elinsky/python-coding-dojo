@@ -1,0 +1,41 @@
+[
+  {
+    "description": "Mixed file types",
+    "input": {
+      "photo.jpg": "image data",
+      "script.py": "print('hello')",
+      "data.csv": "a,b,c",
+      "README": "text content",
+      "report.pdf": "pdf data"
+    },
+    "expected": {
+      "images": {"photo.jpg": "image data"},
+      "code": {"script.py": "print('hello')"},
+      "data": {"data.csv": "a,b,c"},
+      "documents": {"report.pdf": "pdf data"},
+      "other": {"README": "text content"}
+    }
+  },
+  {
+    "description": "All same category",
+    "input": {
+      "main.py": "code1",
+      "utils.py": "code2",
+      "test.js": "code3"
+    },
+    "expected": {
+      "code": {"main.py": "code1", "utils.py": "code2", "test.js": "code3"}
+    }
+  },
+  {
+    "description": "Files without extensions",
+    "input": {
+      "Makefile": "all:",
+      "Dockerfile": "FROM python",
+      ".gitignore": "*.pyc"
+    },
+    "expected": {
+      "other": {"Makefile": "all:", "Dockerfile": "FROM python", ".gitignore": "*.pyc"}
+    }
+  }
+]

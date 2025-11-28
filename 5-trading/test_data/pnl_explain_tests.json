@@ -1,0 +1,14 @@
+[
+  {
+    "description": "P&L explain with multiple fills",
+    "input": {"args": ["fills.csv", "closes.csv"]},
+    "expected": {
+      "by_symbol": [
+        {"symbol": "SPY", "qty": 400, "mark_to_close": 319.0, "fees": -2.70, "total_pnl": 316.30},
+        {"symbol": "QQQ", "qty": -100, "mark_to_close": -75.0, "fees": -0.60, "total_pnl": -75.60}
+      ],
+      "total": {"mark_to_close": 244.0, "fees": -3.30, "total_pnl": 240.70},
+      "warnings": []
+    }
+  }
+]

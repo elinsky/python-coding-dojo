@@ -1,0 +1,33 @@
+[
+  {
+    "description": "Multiple categories with different revenues",
+    "input": {
+      "setup_sql": "CREATE TABLE sales (id INTEGER PRIMARY KEY, product TEXT, category TEXT, quantity INTEGER, price REAL, sale_date TEXT)",
+      "insert_data": [
+        ["Widget", "Electronics", 10, 5.00, "2024-01-01"],
+        ["Gadget", "Electronics", 5, 10.00, "2024-01-01"],
+        ["Chair", "Furniture", 2, 50.00, "2024-01-02"],
+        ["Desk", "Furniture", 1, 200.00, "2024-01-02"],
+        ["Book", "Media", 20, 15.00, "2024-01-03"]
+      ]
+    },
+    "expected": [
+      ["Media", 300.0],
+      ["Furniture", 300.0],
+      ["Electronics", 100.0]
+    ]
+  },
+  {
+    "description": "Single category",
+    "input": {
+      "setup_sql": "CREATE TABLE sales (id INTEGER PRIMARY KEY, product TEXT, category TEXT, quantity INTEGER, price REAL, sale_date TEXT)",
+      "insert_data": [
+        ["Item1", "CategoryA", 5, 10.00, "2024-01-01"],
+        ["Item2", "CategoryA", 3, 20.00, "2024-01-02"]
+      ]
+    },
+    "expected": [
+      ["CategoryA", 110.0]
+    ]
+  }
+]

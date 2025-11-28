@@ -1,0 +1,13 @@
+{
+  "NQEX": {
+    "tiers": [
+      {"min_adv": 0, "maker": -0.0020, "taker": 0.0030},
+      {"min_adv": 1000000, "maker": -0.0025, "taker": 0.0025}
+    ]
+  },
+  "ARCA": {
+    "tiers": [
+      {"min_adv": 0, "maker": -0.0018, "taker": 0.0032}
+    ]
+  }
+}
