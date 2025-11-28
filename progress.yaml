@@ -1265,7 +1265,14 @@ problems:
     name: Remove duplicates from a sorted list
     problem_number: '7.08'
   replace_and_remove:
-    attempts: []
+    attempts:
+    - date: '2025-11-27T20:47:36.151544'
+      optimal: true
+      solved: true
+      submissions: 5
+      time_minutes: 28
+      used_hints: true
+      used_solution: false
     chapter: 06_strings
     chapter_name: Strings
     file: 3-problems/replace_and_remove.py
