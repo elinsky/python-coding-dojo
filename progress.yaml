@@ -543,7 +543,14 @@ problems:
     name: Making wired connections
     problem_number: '18.06'
   is_list_cyclic:
-    attempts: []
+    attempts:
+    - date: '2025-11-27T21:45:27.359755'
+      optimal: true
+      solved: true
+      submissions: 3
+      time_minutes: 8
+      used_hints: false
+      used_solution: false
     chapter: 07_linked_lists
     chapter_name: Linked Lists
     file: 3-problems/is_list_cyclic.py
