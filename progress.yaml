@@ -1749,7 +1749,14 @@ problems:
     name: Implement an inorder traversal without recursion
     problem_number: '9.07'
   tree_level_order:
-    attempts: []
+    attempts:
+    - date: '2025-11-27T22:03:57.049449'
+      optimal: true
+      solved: true
+      submissions: 2
+      time_minutes: 12
+      used_hints: true
+      used_solution: false
     chapter: 08_stacks_and_queues
     chapter_name: Stacks and Queues
     file: 3-problems/tree_level_order.py

@@ -8,7 +8,7 @@ My journey through Elements of Programming Interviews in Python.
 Problems attempted but not yet solved
 
 ☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️
-☑️☑️☑️☑️☑️☑️⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+☑️☑️☑️☑️☑️☑️☑️⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
@@ -19,13 +19,13 @@ Problems attempted but not yet solved
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜
 
-**26 / 204** (12.7%)
+**27 / 204** (13.2%)
 
 ### Tier 1: Solved 👍
 Problems solved (with or without help)
 
 👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍
-👍👍👍⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+👍👍👍👍⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
@@ -36,7 +36,7 @@ Problems solved (with or without help)
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜
 
-**23 / 204** (11.3%)
+**24 / 204** (11.8%)
 
 ### Tier 2: Solved Independently 💪
 Problems solved without hints or looking at solutions
@@ -88,12 +88,12 @@ Progress toward priority-based learning goals.
 
 **6 / 16** problems mastered
 
-### 🟠 P1: Attempt All (7/21 - 33%)
+### 🟠 P1: Attempt All (8/21 - 38%)
 
-☑️☑️☑️☑️☑️☑️☑️⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+☑️☑️☑️☑️☑️☑️☑️☑️⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜
 
-**7 / 21** problems attempted
+**8 / 21** problems attempted
 
 ### 🟠 P1: Master All (2/21 - 10%)
 
@@ -285,7 +285,7 @@ flowchart TB
 | 5: Arrays | 20 | 4 (20%) | 3 (15%) | 2 (10%) | 2 (10%) |
 | 6: Strings | 12 | 3 (25%) | 3 (25%) | 1 (8%) | 1 (8%) |
 | 7: Linked Lists | 13 | 3 (23%) | 3 (23%) | 2 (15%) | 2 (15%) |
-| 8: Stacks and Queues | 9 | 1 (11%) | 1 (11%) | 1 (11%) | 0 (0%) |
+| 8: Stacks and Queues | 9 | 2 (22%) | 2 (22%) | 1 (11%) | 0 (0%) |
 | 9: Binary Trees | 15 | 1 (7%) | 0 (0%) | 0 (0%) | 0 (0%) |
 | 10: Heaps | 6 | 1 (17%) | 1 (17%) | 0 (0%) | 0 (0%) |
 | 11: Searching | 10 | 1 (10%) | 1 (10%) | 1 (10%) | 1 (10%) |
@@ -297,7 +297,7 @@ flowchart TB
 | 17: Greedy Algorithms and Invariants | 8 | 1 (12%) | 1 (12%) | 0 (0%) | 0 (0%) |
 | 18: Graphs | 8 | 1 (12%) | 1 (12%) | 0 (0%) | 0 (0%) |
 | 24: Honors Class | 35 | 0 (0%) | 0 (0%) | 0 (0%) | 0 (0%) |
-| **Total** | **204** | **26** | **23** | **12** | **9** |
+| **Total** | **204** | **27** | **24** | **12** | **9** |
 
 ## All Problems
 
@@ -394,7 +394,7 @@ flowchart TB
 | 8.03 | Is a string well-formed? | 🟢 |  |  |
 | 8.04 | Normalize pathnames | 🔵 |  |  |
 | 8.05 | Compute buildings with a sunset view |  |  |  |
-| 8.06 | Compute binary tree nodes in order of increasing depth | 🟠 |  |  |
+| 8.06 | Compute binary tree nodes in order of increasing depth | 🟠 | 👍 |  |
 | 8.07 | Implement a circular queue | 🟡 |  |  |
 | 8.08 | Implement a queue using stacks | 🟢 |  |  |
 | 8.09 | Implement a queue with max API |  |  |  |
