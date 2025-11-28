@@ -8,7 +8,7 @@ My journey through Elements of Programming Interviews in Python.
 Problems attempted but not yet solved
 
 ☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️
-☑️☑️☑️☑️☑️☑️☑️⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+☑️☑️☑️☑️☑️☑️☑️☑️⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
@@ -19,13 +19,13 @@ Problems attempted but not yet solved
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜
 
-**27 / 204** (13.2%)
+**28 / 204** (13.7%)
 
 ### Tier 1: Solved 👍
 Problems solved (with or without help)
 
 👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍
-👍👍👍👍⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+👍👍👍👍👍⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
@@ -36,7 +36,7 @@ Problems solved (with or without help)
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜
 
-**24 / 204** (11.8%)
+**25 / 204** (12.3%)
 
 ### Tier 2: Solved Independently 💪
 Problems solved without hints or looking at solutions
@@ -88,12 +88,12 @@ Progress toward priority-based learning goals.
 
 **6 / 16** problems mastered
 
-### 🟠 P1: Attempt All (8/21 - 38%)
+### 🟠 P1: Attempt All (9/21 - 43%)
 
-☑️☑️☑️☑️☑️☑️☑️☑️⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+☑️☑️☑️☑️☑️☑️☑️☑️☑️⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜
 
-**8 / 21** problems attempted
+**9 / 21** problems attempted
 
 ### 🟠 P1: Master All (2/21 - 10%)
 
@@ -286,7 +286,7 @@ flowchart TB
 | 6: Strings | 12 | 3 (25%) | 3 (25%) | 1 (8%) | 1 (8%) |
 | 7: Linked Lists | 13 | 3 (23%) | 3 (23%) | 2 (15%) | 2 (15%) |
 | 8: Stacks and Queues | 9 | 2 (22%) | 2 (22%) | 1 (11%) | 0 (0%) |
-| 9: Binary Trees | 15 | 1 (7%) | 0 (0%) | 0 (0%) | 0 (0%) |
+| 9: Binary Trees | 15 | 2 (13%) | 1 (7%) | 0 (0%) | 0 (0%) |
 | 10: Heaps | 6 | 1 (17%) | 1 (17%) | 0 (0%) | 0 (0%) |
 | 11: Searching | 10 | 1 (10%) | 1 (10%) | 1 (10%) | 1 (10%) |
 | 12: Hash Tables | 11 | 1 (9%) | 1 (9%) | 1 (9%) | 0 (0%) |
@@ -297,7 +297,7 @@ flowchart TB
 | 17: Greedy Algorithms and Invariants | 8 | 1 (12%) | 1 (12%) | 0 (0%) | 0 (0%) |
 | 18: Graphs | 8 | 1 (12%) | 1 (12%) | 0 (0%) | 0 (0%) |
 | 24: Honors Class | 35 | 0 (0%) | 0 (0%) | 0 (0%) | 0 (0%) |
-| **Total** | **204** | **27** | **24** | **12** | **9** |
+| **Total** | **204** | **28** | **25** | **12** | **9** |
 
 ## All Problems
 
@@ -408,7 +408,7 @@ flowchart TB
 | 9.01 | Test if a binary tree is height-balanced | 🔴 | ☑️ |  |
 | 9.02 | Test if a binary tree is symmetric | 🟡 |  |  |
 | 9.03 | Compute the lowest common ancestor in a binary tree |  |  |  |
-| 9.04 | Compute the LCA when nodes have parent pointers | 🟠 |  |  |
+| 9.04 | Compute the LCA when nodes have parent pointers | 🟠 | 👍 |  |
 | 9.05 | Sum the root-to-leaf paths in a binary tree |  |  |  |
 | 9.06 | Find a root to leaf path with specified sum |  |  |  |
 | 9.07 | Implement an inorder traversal without recursion |  |  |  |

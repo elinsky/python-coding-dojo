@@ -842,7 +842,14 @@ problems:
     priority: P2
     problem_number: '14.04'
   lowest_common_ancestor_with_parent:
-    attempts: []
+    attempts:
+    - date: '2025-11-27T22:15:47.150342'
+      optimal: true
+      solved: true
+      submissions: 3
+      time_minutes: 9
+      used_hints: true
+      used_solution: false
     chapter: 09_binary_trees
     chapter_name: Binary Trees
     file: 3-problems/lowest_common_ancestor_with_parent.py
