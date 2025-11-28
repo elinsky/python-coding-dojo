@@ -544,7 +544,7 @@ problem_mapping = {
         },
         "10.04 Compute the k closest stars": {
             "Python: k_closest_stars.py": {
-                "passed": 0,
+                "passed": 51,
                 "total": 51
             }
         },

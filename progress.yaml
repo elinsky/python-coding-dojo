@@ -669,7 +669,14 @@ problems:
     priority: P2
     problem_number: '5.17'
   k_closest_stars:
-    attempts: []
+    attempts:
+    - date: '2025-11-27T22:45:00.000000'
+      optimal: true
+      solved: true
+      submissions: 4
+      time_minutes: 18
+      used_hints: true
+      used_solution: false
     chapter: 10_heaps
     chapter_name: Heaps
     file: 3-problems/k_closest_stars.py

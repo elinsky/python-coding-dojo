@@ -8,7 +8,7 @@ My journey through Elements of Programming Interviews in Python.
 Problems attempted but not yet solved
 
 ☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️
-☑️☑️☑️☑️☑️☑️☑️☑️⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+☑️☑️☑️☑️☑️☑️☑️☑️☑️⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
@@ -19,13 +19,13 @@ Problems attempted but not yet solved
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜
 
-**28 / 204** (13.7%)
+**29 / 204** (14.2%)
 
 ### Tier 1: Solved 👍
 Problems solved (with or without help)
 
 👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍
-👍👍👍👍👍⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+👍👍👍👍👍👍⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
@@ -36,7 +36,7 @@ Problems solved (with or without help)
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜
 
-**25 / 204** (12.3%)
+**26 / 204** (12.7%)
 
 ### Tier 2: Solved Independently 💪
 Problems solved without hints or looking at solutions
@@ -88,12 +88,12 @@ Progress toward priority-based learning goals.
 
 **6 / 16** problems mastered
 
-### 🟠 P1: Attempt All (9/21 - 43%)
+### 🟠 P1: Attempt All (10/21 - 48%)
 
-☑️☑️☑️☑️☑️☑️☑️☑️☑️⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜
 
-**9 / 21** problems attempted
+**10 / 21** problems attempted
 
 ### 🟠 P1: Master All (2/21 - 10%)
 
@@ -287,7 +287,7 @@ flowchart TB
 | 7: Linked Lists | 13 | 3 (23%) | 3 (23%) | 2 (15%) | 2 (15%) |
 | 8: Stacks and Queues | 9 | 2 (22%) | 2 (22%) | 1 (11%) | 0 (0%) |
 | 9: Binary Trees | 15 | 2 (13%) | 1 (7%) | 0 (0%) | 0 (0%) |
-| 10: Heaps | 6 | 1 (17%) | 1 (17%) | 0 (0%) | 0 (0%) |
+| 10: Heaps | 6 | 2 (33%) | 2 (33%) | 0 (0%) | 0 (0%) |
 | 11: Searching | 10 | 1 (10%) | 1 (10%) | 1 (10%) | 1 (10%) |
 | 12: Hash Tables | 11 | 1 (9%) | 1 (9%) | 1 (9%) | 0 (0%) |
 | 13: Sorting | 12 | 1 (8%) | 1 (8%) | 1 (8%) | 1 (8%) |
@@ -297,7 +297,7 @@ flowchart TB
 | 17: Greedy Algorithms and Invariants | 8 | 1 (12%) | 1 (12%) | 0 (0%) | 0 (0%) |
 | 18: Graphs | 8 | 1 (12%) | 1 (12%) | 0 (0%) | 0 (0%) |
 | 24: Honors Class | 35 | 0 (0%) | 0 (0%) | 0 (0%) | 0 (0%) |
-| **Total** | **204** | **28** | **25** | **12** | **9** |
+| **Total** | **204** | **29** | **26** | **12** | **9** |
 
 ## All Problems
 
@@ -430,7 +430,7 @@ flowchart TB
 | 10.01 | Merge sorted files | 🔴 | 👍 |  |
 | 10.02 | Sort an increasing-decreasing array |  |  |  |
 | 10.03 | Sort an almost-sorted array | 🟡 |  |  |
-| 10.04 | Compute the k closest stars | 🟠 |  |  |
+| 10.04 | Compute the k closest stars | 🟠 | 👍 |  |
 | 10.05 | Compute the median of online data | 🟢 |  |  |
 | 10.06 | Compute the k largest elements in a max-heap | 🔵 |  |  |
 
