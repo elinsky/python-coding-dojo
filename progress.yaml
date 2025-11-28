@@ -1304,7 +1304,14 @@ problems:
     priority: P2
     problem_number: '4.08'
   reverse_sublist:
-    attempts: []
+    attempts:
+    - date: '2025-11-27T21:33:53.173325'
+      optimal: true
+      solved: true
+      submissions: 4
+      time_minutes: 17
+      used_hints: true
+      used_solution: false
     chapter: 07_linked_lists
     chapter_name: Linked Lists
     file: 3-problems/reverse_sublist.py
