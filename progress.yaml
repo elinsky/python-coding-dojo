@@ -178,7 +178,14 @@ problems:
     priority: P4
     problem_number: '15.06'
   convert_base:
-    attempts: []
+    attempts:
+    - date: '2025-11-27T20:13:40.154713'
+      optimal: true
+      solved: true
+      submissions: 2
+      time_minutes: 9
+      used_hints: true
+      used_solution: false
     chapter: 06_strings
     chapter_name: Strings
     file: 3-problems/convert_base.py
