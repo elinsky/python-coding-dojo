@@ -1,0 +1,17 @@
+[
+  {
+    "description": "Quadratic function gradient",
+    "input": {"args": ["quadratic", [3.0, 4.0]]},
+    "expected": {"passed": true, "error": 0.0}
+  },
+  {
+    "description": "Linear function gradient",
+    "input": {"args": ["linear", [1.0, 2.0, 3.0]]},
+    "expected": {"passed": true, "error": 0.0}
+  },
+  {
+    "description": "Cubic function gradient",
+    "input": {"args": ["cubic", [2.0]]},
+    "expected": {"passed": true, "error": 0.0}
+  }
+]

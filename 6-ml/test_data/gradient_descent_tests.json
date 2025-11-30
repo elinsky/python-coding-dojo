@@ -1,0 +1,12 @@
+[
+  {
+    "description": "Batch GD on linear data",
+    "input": {"args": [[[1], [2], [3], [4]], [2, 4, 6, 8]], "kwargs": {"variant": "batch", "lr": 0.1, "epochs": 2000}},
+    "expected": [2.0, 4.0, 6.0, 8.0]
+  },
+  {
+    "description": "Mini-batch GD",
+    "input": {"args": [[[1], [2], [3], [4]], [2, 4, 6, 8]], "kwargs": {"variant": "minibatch", "lr": 0.1, "epochs": 2000, "batch_size": 2}},
+    "expected": [2.0, 4.0, 6.0, 8.0]
+  }
+]

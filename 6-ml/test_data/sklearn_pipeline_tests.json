@@ -1,0 +1,14 @@
+[
+  {
+    "description": "Simple pipeline with numeric and categorical",
+    "input": {
+      "args": [
+        {"X": [{"age": 25, "income": 50000, "gender": "M"}, {"age": 35, "income": 70000, "gender": "F"}, {"age": 45, "income": 90000, "gender": "M"}, {"age": 30, "income": 60000, "gender": "F"}], "y": [0, 1, 1, 0]},
+        {"X": [{"age": 28, "income": 55000, "gender": "M"}, {"age": 40, "income": 80000, "gender": "F"}], "y": [0, 1]},
+        ["age", "income"],
+        ["gender"]
+      ]
+    },
+    "expected": 1.0
+  }
+]

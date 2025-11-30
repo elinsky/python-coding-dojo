@@ -18,9 +18,9 @@ Problems attempted but not yet solved
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
-⬜⬜
+⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 
-**29 / 222** (13.1%)
+**29 / 237** (12.2%)
 
 ### Tier 1: Solved 👍
 Problems solved (with or without help)
@@ -36,9 +36,9 @@ Problems solved (with or without help)
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
-⬜⬜
+⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 
-**26 / 222** (11.7%)
+**26 / 237** (11.0%)
 
 ### Tier 2: Solved Independently 💪
 Problems solved without hints or looking at solutions
@@ -54,9 +54,9 @@ Problems solved without hints or looking at solutions
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
-⬜⬜
+⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 
-**12 / 222** (5.4%)
+**12 / 237** (5.1%)
 
 ### Tier 3: Mastered 🏆
 Problems solved independently in ≤20 minutes with optimal solution
@@ -72,9 +72,9 @@ Problems solved independently in ≤20 minutes with optimal solution
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
-⬜⬜
+⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 
-**9 / 222** (4.1%)
+**9 / 237** (3.8%)
 
 ## Goals
 
@@ -308,7 +308,12 @@ flowchart TB
 | P5: Database | 1 | 0 (0%) | 0 (0%) | 0 (0%) | 0 (0%) |
 | P6: System Scripts | 1 | 0 (0%) | 0 (0%) | 0 (0%) | 0 (0%) |
 | T1: Trading & Quant | 12 | 0 (0%) | 0 (0%) | 0 (0%) | 0 (0%) |
-| **Total** | **222** | **29** | **26** | **12** | **9** |
+| M1: Models | 5 | 0 (0%) | 0 (0%) | 0 (0%) | 0 (0%) |
+| M2: Gradients | 3 | 0 (0%) | 0 (0%) | 0 (0%) | 0 (0%) |
+| M3: Regularization & CV | 2 | 0 (0%) | 0 (0%) | 0 (0%) | 0 (0%) |
+| M4: Feature Pipelines | 2 | 0 (0%) | 0 (0%) | 0 (0%) | 0 (0%) |
+| M5: Evaluation | 3 | 0 (0%) | 0 (0%) | 0 (0%) | 0 (0%) |
+| **Total** | **237** | **29** | **26** | **12** | **9** |
 
 ## All Problems
 
@@ -692,6 +697,56 @@ flowchart TB
 | T1.10 | Binary Feed Parser |  |  |  |
 | T1.11 | Exercise/Assignment Simulator |  |  |  |
 | T1.12 | Backtest Event Joiner |  |  |  |
+
+---
+
+### Chapter M1: Models
+
+| # | Problem | Priority | Status | Best Time |
+|---|---------|----------|--------|-----------|
+| M1.01 | Linear Regression (Normal Equation) |  |  |  |
+| M1.02 | Logistic Regression (Gradient Descent) |  |  |  |
+| M1.03 | K-Nearest Neighbors |  |  |  |
+| M1.04 | K-Means Clustering |  |  |  |
+| M1.05 | Decision Tree Classifier |  |  |  |
+
+---
+
+### Chapter M2: Gradients
+
+| # | Problem | Priority | Status | Best Time |
+|---|---------|----------|--------|-----------|
+| M2.01 | Gradient Descent Variants |  |  |  |
+| M2.02 | Cross-Entropy Loss & Gradient |  |  |  |
+| M2.03 | Numerical Gradient Checker |  |  |  |
+
+---
+
+### Chapter M3: Regularization & CV
+
+| # | Problem | Priority | Status | Best Time |
+|---|---------|----------|--------|-----------|
+| M3.01 | K-Fold Cross Validation |  |  |  |
+| M3.02 | L1/L2 Regularized Regression |  |  |  |
+
+---
+
+### Chapter M4: Feature Pipelines
+
+| # | Problem | Priority | Status | Best Time |
+|---|---------|----------|--------|-----------|
+| M4.01 | sklearn Pipeline Builder |  |  |  |
+| M4.02 | Custom sklearn Transformer |  |  |  |
+
+---
+
+### Chapter M5: Evaluation
+
+| # | Problem | Priority | Status | Best Time |
+|---|---------|----------|--------|-----------|
+| M5.01 | ROC Curve & AUC |  |  |  |
+| M5.02 | Precision-Recall Curve |  |  |  |
+| M5.03 | Confusion Matrix Metrics |  |  |  |
 
 ---
 

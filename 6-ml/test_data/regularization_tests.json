@@ -1,0 +1,7 @@
+[
+  {
+    "description": "Ridge with zero lambda converges to OLS",
+    "input": {"args": [[[1], [2], [3]], [2, 4, 6]], "kwargs": {"method": "ridge", "lambda_": 0.0}},
+    "expected": [0.0, 2.0]
+  }
+]

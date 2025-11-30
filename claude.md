@@ -9,6 +9,7 @@ Personal progress tracking system for coding interview practice.
 | `3-problems/` | 4.xx - 24.xx | EPI algorithmic problems (204) |
 | `4-practical/` | P1.xx - P6.xx | Practical file/data problems (6) |
 | `5-trading/` | T1.xx | Trading/quant problems (12) |
+| `6-ml/` | M1.xx - M5.xx | ML/Data Science problems (15) |
 
 ## Key Commands
 
@@ -31,13 +32,13 @@ Three-tier progression tracked in `progress.yaml`:
 2. Log attempts: "log <problem_id> - <time>min, <tries> tries, solved/not solved, used hints/no hints"
 3. Update README: `~/.pyenv/versions/python-coding-dojo/bin/python scripts/update_readme.py`
 
-### Practical/Trading Problems
-1. Solve problems in `4-practical/` or `5-trading/`
+### Practical/Trading/ML Problems
+1. Solve problems in `4-practical/`, `5-trading/`, or `6-ml/`
 2. Run tests: `~/.pyenv/versions/python-coding-dojo/bin/python <problem>.py`
 3. Log attempts same as EPI
 
 ## Notes
 
-- 222 total problems (excluding bootcamp)
+- 237 total problems (excluding bootcamp)
 - Best times only shown for independent solutions (Tier 2+)
 - Virtual env: python-coding-dojo (Python 3.11.11)

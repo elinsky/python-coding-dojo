@@ -1,0 +1,12 @@
+[
+  {
+    "description": "AND gate",
+    "input": {"args": [[[0, 0], [0, 1], [1, 0], [1, 1]], [0, 0, 0, 1], [[0, 0], [1, 1]]]},
+    "expected": [0, 1]
+  },
+  {
+    "description": "Simple threshold split",
+    "input": {"args": [[[1], [2], [3], [4], [5]], [0, 0, 1, 1, 1], [[2.5], [4.5]]]},
+    "expected": [0, 1]
+  }
+]

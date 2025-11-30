@@ -1,0 +1,12 @@
+[
+  {
+    "description": "Outlier clipper",
+    "input": {"args": [[[1, 100], [2, 200], [3, 300], [4, 400], [5, 500], [100, 1000]], [[0, 50], [50, 600]]], "kwargs": {"transformer_type": "clipper", "lower_percentile": 10, "upper_percentile": 90}},
+    "expected": [[1.5, 150.0], [50.0, 600.0]]
+  },
+  {
+    "description": "Log transformer",
+    "input": {"args": [[[1, 10], [2, 20]], [[0, 100], [9, 1000]]], "kwargs": {"transformer_type": "log"}},
+    "expected": [[0.0, 4.6152], [2.3026, 6.9088]]
+  }
+]

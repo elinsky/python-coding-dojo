@@ -1947,3 +1947,108 @@ problems:
     file: 5-trading/backtest_event_joiner.py
     name: Backtest Event Joiner
     problem_number: 'T1.12'
+  linear_regression:
+    attempts: []
+    chapter: M1_models
+    chapter_name: Models
+    file: 6-ml/M1_models/linear_regression.py
+    name: Linear Regression (Normal Equation)
+    problem_number: 'M1.01'
+  logistic_regression:
+    attempts: []
+    chapter: M1_models
+    chapter_name: Models
+    file: 6-ml/M1_models/logistic_regression.py
+    name: Logistic Regression (Gradient Descent)
+    problem_number: 'M1.02'
+  knn_classifier:
+    attempts: []
+    chapter: M1_models
+    chapter_name: Models
+    file: 6-ml/M1_models/knn_classifier.py
+    name: K-Nearest Neighbors
+    problem_number: 'M1.03'
+  kmeans_clustering:
+    attempts: []
+    chapter: M1_models
+    chapter_name: Models
+    file: 6-ml/M1_models/kmeans_clustering.py
+    name: K-Means Clustering
+    problem_number: 'M1.04'
+  decision_tree:
+    attempts: []
+    chapter: M1_models
+    chapter_name: Models
+    file: 6-ml/M1_models/decision_tree.py
+    name: Decision Tree Classifier
+    problem_number: 'M1.05'
+  gradient_descent_variants:
+    attempts: []
+    chapter: M2_gradients
+    chapter_name: Gradients
+    file: 6-ml/M2_gradients/gradient_descent_variants.py
+    name: Gradient Descent Variants
+    problem_number: 'M2.01'
+  cross_entropy_loss:
+    attempts: []
+    chapter: M2_gradients
+    chapter_name: Gradients
+    file: 6-ml/M2_gradients/cross_entropy_loss.py
+    name: Cross-Entropy Loss & Gradient
+    problem_number: 'M2.02'
+  gradient_checker:
+    attempts: []
+    chapter: M2_gradients
+    chapter_name: Gradients
+    file: 6-ml/M2_gradients/gradient_checker.py
+    name: Numerical Gradient Checker
+    problem_number: 'M2.03'
+  kfold_cross_validation:
+    attempts: []
+    chapter: M3_regularization
+    chapter_name: Regularization & CV
+    file: 6-ml/M3_regularization/kfold_cross_validation.py
+    name: K-Fold Cross Validation
+    problem_number: 'M3.01'
+  regularized_regression:
+    attempts: []
+    chapter: M3_regularization
+    chapter_name: Regularization & CV
+    file: 6-ml/M3_regularization/regularized_regression.py
+    name: L1/L2 Regularized Regression
+    problem_number: 'M3.02'
+  sklearn_pipeline:
+    attempts: []
+    chapter: M4_pipelines
+    chapter_name: Feature Pipelines
+    file: 6-ml/M4_pipelines/sklearn_pipeline.py
+    name: sklearn Pipeline Builder
+    problem_number: 'M4.01'
+  custom_transformer:
+    attempts: []
+    chapter: M4_pipelines
+    chapter_name: Feature Pipelines
+    file: 6-ml/M4_pipelines/custom_transformer.py
+    name: Custom sklearn Transformer
+    problem_number: 'M4.02'
+  roc_auc:
+    attempts: []
+    chapter: M5_evaluation
+    chapter_name: Evaluation
+    file: 6-ml/M5_evaluation/roc_auc.py
+    name: ROC Curve & AUC
+    problem_number: 'M5.01'
+  precision_recall:
+    attempts: []
+    chapter: M5_evaluation
+    chapter_name: Evaluation
+    file: 6-ml/M5_evaluation/precision_recall.py
+    name: Precision-Recall Curve
+    problem_number: 'M5.02'
+  confusion_metrics:
+    attempts: []
+    chapter: M5_evaluation
+    chapter_name: Evaluation
+    file: 6-ml/M5_evaluation/confusion_metrics.py
+    name: Confusion Matrix Metrics
+    problem_number: 'M5.03'

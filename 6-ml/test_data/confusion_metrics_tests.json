@@ -1,0 +1,12 @@
+[
+  {
+    "description": "Mixed predictions",
+    "input": {"args": [[0, 0, 1, 1, 1], [0, 1, 1, 1, 0]]},
+    "expected": {"accuracy": 0.6, "precision": 0.6667, "recall": 0.6667, "f1": 0.6667, "tn": 1, "fp": 1, "fn": 1, "tp": 2}
+  },
+  {
+    "description": "All correct",
+    "input": {"args": [[0, 0, 1, 1], [0, 0, 1, 1]]},
+    "expected": {"accuracy": 1.0, "precision": 1.0, "recall": 1.0, "f1": 1.0, "tn": 2, "fp": 0, "fn": 0, "tp": 2}
+  }
+]

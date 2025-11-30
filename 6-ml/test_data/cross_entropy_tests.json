@@ -1,0 +1,17 @@
+[
+  {
+    "description": "Good predictions",
+    "input": {"args": [[0, 1, 1, 0], [0.1, 0.9, 0.8, 0.2]]},
+    "expected": 0.164252
+  },
+  {
+    "description": "Perfect predictions",
+    "input": {"args": [[0, 1, 1, 0], [0.0001, 0.9999, 0.9999, 0.0001]]},
+    "expected": 0.0001
+  },
+  {
+    "description": "Random predictions",
+    "input": {"args": [[0, 0, 1, 1], [0.5, 0.5, 0.5, 0.5]]},
+    "expected": 0.693147
+  }
+]
