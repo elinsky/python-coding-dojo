@@ -2,6 +2,12 @@
 
 My journey through Elements of Programming Interviews in Python.
 
+## Flashcard Drills
+
+| Category | Status | Target Score | Actual Score | Target Time | Actual Time |
+|----------|--------|--------------|--------------|-------------|-------------|
+| Bitwise Operations | ⬜ | — | — | 8:30 | — |
+
 ## Overall Progress
 
 ### Tier 0: Attempted ☑️
@@ -751,4 +757,4 @@ flowchart TB
 ---
 
 
-*Last updated: 2025-11-27*
+*Last updated: 2025-12-03*

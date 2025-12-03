@@ -53,6 +53,75 @@ def analyze_problem(problem_data, threshold):
     return tier, best_time, True
 
 
+def format_time(seconds):
+    """Format seconds as m:ss or mm:ss."""
+    minutes = seconds // 60
+    secs = seconds % 60
+    return f"{minutes}:{secs:02d}"
+
+
+def generate_flashcard_section(flashcards):
+    """Generate the flashcard drills section for README.
+
+    Only includes categories that have a target_seconds defined.
+
+    Args:
+        flashcards: Dict of flashcard categories from progress.yaml
+
+    Returns:
+        list: Lines for the flashcard section, or empty list if no categories with targets
+    """
+    if not flashcards:
+        return []
+
+    # Filter to only categories with targets
+    categories_with_targets = {
+        key: data for key, data in flashcards.items()
+        if data.get('target_seconds') is not None
+    }
+
+    if not categories_with_targets:
+        return []
+
+    lines = [
+        '## Flashcard Drills',
+        '',
+        '| Category | Status | Target Score | Actual Score | Target Time | Actual Time |',
+        '|----------|--------|--------------|--------------|-------------|-------------|',
+    ]
+
+    for category_id, category_data in categories_with_targets.items():
+        name = category_data.get('name', category_id)
+        target_seconds = category_data['target_seconds']
+        attempts = category_data.get('attempts', [])
+
+        # Get most recent attempt
+        if attempts:
+            latest = attempts[0]  # Assumes attempts are in reverse chronological order
+            count = latest.get('count', 0)
+            score = latest.get('score', 0)
+            time_seconds = latest.get('time_seconds', 0)
+
+            # Determine pass/fail: perfect score AND under time
+            passed = (score == count) and (time_seconds <= target_seconds)
+            status = '✅' if passed else '⬜'
+
+            target_score = f"{count}/{count}"
+            actual_score = f"{score}/{count}"
+            actual_time = format_time(time_seconds)
+        else:
+            status = '⬜'
+            target_score = '—'
+            actual_score = '—'
+            actual_time = '—'
+
+        target_time = format_time(target_seconds)
+        lines.append(f'| {name} | {status} | {target_score} | {actual_score} | {target_time} | {actual_time} |')
+
+    lines.append('')
+    return lines
+
+
 def generate_progress_bar(count, total, emoji):
     """Generate emoji-based progress bar with 20 emojis per line.
 
@@ -224,6 +293,7 @@ def generate_readme(data, threshold):
         str: Complete README markdown content
     """
     problems = data.get('problems', {})
+    flashcards = data.get('flashcards', {})
     stats = calculate_stats(problems, threshold)
 
     # Start building README
@@ -232,9 +302,17 @@ def generate_readme(data, threshold):
         '',
         'My journey through Elements of Programming Interviews in Python.',
         '',
+    ]
+
+    # Add flashcard section (before Overall Progress)
+    flashcard_lines = generate_flashcard_section(flashcards)
+    if flashcard_lines:
+        lines.extend(flashcard_lines)
+
+    lines.extend([
         '## Overall Progress',
         '',
-    ]
+    ])
 
     # Tier 0: Attempted
     tier0_pct = (stats['tier0'] / stats['total'] * 100) if stats['total'] > 0 else 0

@@ -1,3 +1,8 @@
+flashcards:
+  bitwise:
+    attempts: []
+    name: Bitwise Operations
+    target_seconds: 510
 problems:
   a_b_sqrt2:
     attempts: []
@@ -43,6 +48,13 @@ problems:
     file: 3-problems/anagrams.py
     name: 'Bootcamp: Hash Tables'
     problem_number: '12.00'
+  api_pagination:
+    attempts: []
+    chapter: P4_api_interaction
+    chapter_name: API Interaction
+    file: 4-practical/api_pagination.py
+    name: API Pagination Handler
+    problem_number: P4.01
   apply_permutation:
     attempts: []
     chapter: 05_arrays
@@ -58,6 +70,20 @@ problems:
     file: 3-problems/arbitrage.py
     name: Test if arbitrage is possible
     problem_number: '24.35'
+  backtest_event_joiner:
+    attempts: []
+    chapter: T1_trading
+    chapter_name: Trading & Quant
+    file: 5-trading/backtest_event_joiner.py
+    name: Backtest Event Joiner
+    problem_number: T1.12
+  binary_feed_parser:
+    attempts: []
+    chapter: T1_trading
+    chapter_name: Trading & Quant
+    file: 5-trading/binary_feed_parser.py
+    name: Binary Feed Parser
+    problem_number: T1.10
   binomial_coefficients:
     attempts: []
     chapter: 16_dynamic_programming
@@ -177,6 +203,13 @@ problems:
     name: Generate all subsets of size k
     priority: P4
     problem_number: '15.06'
+  confusion_metrics:
+    attempts: []
+    chapter: M5_evaluation
+    chapter_name: Evaluation
+    file: 6-ml/M5_evaluation/confusion_metrics.py
+    name: Confusion Matrix Metrics
+    problem_number: M5.03
   convert_base:
     attempts:
     - date: '2025-11-27T20:13:40.154713'
@@ -220,6 +253,27 @@ problems:
     file: 3-problems/count_inversions.py
     name: Count inversions
     problem_number: '24.24'
+  cross_entropy_loss:
+    attempts: []
+    chapter: M2_gradients
+    chapter_name: Gradients
+    file: 6-ml/M2_gradients/cross_entropy_loss.py
+    name: Cross-Entropy Loss & Gradient
+    problem_number: M2.02
+  csv_sales_report:
+    attempts: []
+    chapter: P1_file_parsing
+    chapter_name: File Parsing
+    file: 4-practical/csv_sales_report.py
+    name: CSV Sales Report
+    problem_number: P1.01
+  custom_transformer:
+    attempts: []
+    chapter: M4_pipelines
+    chapter_name: Feature Pipelines
+    file: 6-ml/M4_pipelines/custom_transformer.py
+    name: Custom sklearn Transformer
+    problem_number: M4.02
   deadlock_detection:
     attempts: []
     chapter: 18_graphs
@@ -227,6 +281,13 @@ problems:
     file: 3-problems/deadlock_detection.py
     name: Deadlock detection
     problem_number: '18.04'
+  decision_tree:
+    attempts: []
+    chapter: M1_models
+    chapter_name: Models
+    file: 6-ml/M1_models/decision_tree.py
+    name: Decision Tree Classifier
+    problem_number: M1.05
   defective_jugs:
     attempts: []
     chapter: 24_honors_class
@@ -367,6 +428,20 @@ problems:
     name: Implement even-odd merge
     priority: P3
     problem_number: '7.10'
+  exercise_assignment:
+    attempts: []
+    chapter: T1_trading
+    chapter_name: Trading & Quant
+    file: 5-trading/exercise_assignment.py
+    name: Exercise/Assignment Simulator
+    problem_number: T1.11
+  fee_calculator:
+    attempts: []
+    chapter: T1_trading
+    chapter_name: Trading & Quant
+    file: 5-trading/fee_calculator.py
+    name: Fee Schedule Calculator
+    problem_number: T1.08
   fibonacci:
     attempts: []
     chapter: 16_dynamic_programming
@@ -374,6 +449,13 @@ problems:
     file: 3-problems/fibonacci.py
     name: 'Bootcamp: Dynamic Programming'
     problem_number: '16.00'
+  file_organizer:
+    attempts: []
+    chapter: P6_system_scripts
+    chapter_name: System Scripts
+    file: 4-practical/file_organizer.py
+    name: File Organizer
+    problem_number: P6.01
   find_salary_threshold:
     attempts: []
     chapter: 13_sorting
@@ -388,6 +470,13 @@ problems:
     file: 3-problems/first_missing_positive_entry.py
     name: Find the first missing positive entry
     problem_number: '24.02'
+  fix_log_parser:
+    attempts: []
+    chapter: T1_trading
+    chapter_name: Trading & Quant
+    file: 5-trading/fix_log_parser.py
+    name: FIX Log Parser
+    problem_number: T1.06
   gcd:
     attempts: []
     chapter: 24_honors_class
@@ -395,6 +484,20 @@ problems:
     file: 3-problems/gcd.py
     name: Compute the greatest common divisor
     problem_number: '24.01'
+  gradient_checker:
+    attempts: []
+    chapter: M2_gradients
+    chapter_name: Gradients
+    file: 6-ml/M2_gradients/gradient_checker.py
+    name: Numerical Gradient Checker
+    problem_number: M2.03
+  gradient_descent_variants:
+    attempts: []
+    chapter: M2_gradients
+    chapter_name: Gradients
+    file: 6-ml/M2_gradients/gradient_descent_variants.py
+    name: Gradient Descent Variants
+    problem_number: M2.01
   graph_clone:
     attempts: []
     chapter: 18_graphs
@@ -443,6 +546,13 @@ problems:
     file: 3-problems/huffman_coding.py
     name: Implement Huffman coding
     problem_number: '24.30'
+  implied_vol_calculator:
+    attempts: []
+    chapter: T1_trading
+    chapter_name: Trading & Quant
+    file: 5-trading/implied_vol_calculator.py
+    name: Implied Vol Calculator
+    problem_number: T1.02
   insert_operators_in_string:
     attempts: []
     chapter: 24_honors_class
@@ -668,6 +778,20 @@ problems:
     name: The Sudoku checker problem
     priority: P2
     problem_number: '5.17'
+  iv_surface_cleaner:
+    attempts: []
+    chapter: T1_trading
+    chapter_name: Trading & Quant
+    file: 5-trading/iv_surface_cleaner.py
+    name: IV Surface Cleaner
+    problem_number: T1.07
+  json_flatten:
+    attempts: []
+    chapter: P2_data_transformation
+    chapter_name: Data Transformation
+    file: 4-practical/json_flatten.py
+    name: Flatten Nested JSON
+    problem_number: P2.01
   k_closest_stars:
     attempts:
     - date: '2025-11-27T22:45:00.000000'
@@ -699,6 +823,20 @@ problems:
     name: Find the k largest elements in a BST
     priority: P1
     problem_number: '14.03'
+  kfold_cross_validation:
+    attempts: []
+    chapter: M3_regularization
+    chapter_name: Regularization & CV
+    file: 6-ml/M3_regularization/kfold_cross_validation.py
+    name: K-Fold Cross Validation
+    problem_number: M3.01
+  kmeans_clustering:
+    attempts: []
+    chapter: M1_models
+    chapter_name: Models
+    file: 6-ml/M1_models/kmeans_clustering.py
+    name: K-Means Clustering
+    problem_number: M1.04
   knapsack:
     attempts: []
     chapter: 16_dynamic_programming
@@ -707,6 +845,13 @@ problems:
     name: The knapsack problem
     priority: P2
     problem_number: '16.06'
+  knn_classifier:
+    attempts: []
+    chapter: M1_models
+    chapter_name: Models
+    file: 6-ml/M1_models/knn_classifier.py
+    name: K-Nearest Neighbors
+    problem_number: M1.03
   kth_largest_element_in_long_array:
     attempts: []
     chapter: 24_honors_class
@@ -736,6 +881,13 @@ problems:
     file: 3-problems/kth_node_in_tree.py
     name: Compute the kth node in an inorder traversal
     problem_number: '9.08'
+  l2_book_stitcher:
+    attempts: []
+    chapter: T1_trading
+    chapter_name: Trading & Quant
+    file: 5-trading/l2_book_stitcher.py
+    name: L2 Order Book Stitcher
+    problem_number: T1.05
   largest_rectangle_under_skyline:
     attempts: []
     chapter: 17_greedy_algorithms_and_invariants
@@ -766,6 +918,13 @@ problems:
     file: 3-problems/line_through_most_points.py
     name: Find the line through the most points
     problem_number: '24.18'
+  linear_regression:
+    attempts: []
+    chapter: M1_models
+    chapter_name: Models
+    file: 6-ml/M1_models/linear_regression.py
+    name: Linear Regression (Normal Equation)
+    problem_number: M1.01
   list_cyclic_right_shift:
     attempts: []
     chapter: 07_linked_lists
@@ -773,6 +932,20 @@ problems:
     file: 3-problems/list_cyclic_right_shift.py
     name: Implement cyclic right shift for singly linked lists
     problem_number: '7.09'
+  log_parser:
+    attempts: []
+    chapter: P3_text_processing
+    chapter_name: Text Processing
+    file: 4-practical/log_parser.py
+    name: Log File Parser
+    problem_number: P3.01
+  logistic_regression:
+    attempts: []
+    chapter: M1_models
+    chapter_name: Models
+    file: 6-ml/M1_models/logistic_regression.py
+    name: Logistic Regression (Gradient Descent)
+    problem_number: M1.02
   longest_contained_interval:
     attempts: []
     chapter: 12_hash_tables
@@ -1002,6 +1175,13 @@ problems:
     name: Generate all nonattacking placements of n-Queens
     priority: P2
     problem_number: '15.03'
+  nbbo_snapshotter:
+    attempts: []
+    chapter: T1_trading
+    chapter_name: Trading & Quant
+    file: 5-trading/nbbo_snapshotter.py
+    name: NBBO Snapshotter
+    problem_number: T1.01
   nearest_repeated_entries:
     attempts: []
     chapter: 12_hash_tables
@@ -1120,6 +1300,13 @@ problems:
     file: 3-problems/path_sum.py
     name: Find a root to leaf path with specified sum
     problem_number: '9.06'
+  pcap_latency_analyzer:
+    attempts: []
+    chapter: T1_trading
+    chapter_name: Trading & Quant
+    file: 5-trading/pcap_latency_analyzer.py
+    name: PCAP Latency Analyzer
+    problem_number: T1.09
   permutations:
     attempts: []
     chapter: 15_recursion
@@ -1150,6 +1337,13 @@ problems:
     file: 3-problems/pivot_list.py
     name: Implement list pivoting
     problem_number: '7.12'
+  pnl_explain:
+    attempts: []
+    chapter: T1_trading
+    chapter_name: Trading & Quant
+    file: 5-trading/pnl_explain.py
+    name: P&L Explain Parser
+    problem_number: T1.04
   power_set:
     attempts: []
     chapter: 15_recursion
@@ -1174,6 +1368,13 @@ problems:
     name: Compute pow(x,y)
     priority: P1
     problem_number: '4.07'
+  precision_recall:
+    attempts: []
+    chapter: M5_evaluation
+    chapter_name: Evaluation
+    file: 6-ml/M5_evaluation/precision_recall.py
+    name: Precision-Recall Curve
+    problem_number: M5.02
   pretty_printing:
     attempts: []
     chapter: 16_dynamic_programming
@@ -1271,6 +1472,13 @@ problems:
     file: 3-problems/regular_expression.py
     name: Implement regular expression matching
     problem_number: '24.22'
+  regularized_regression:
+    attempts: []
+    chapter: M3_regularization
+    chapter_name: Regularization & CV
+    file: 6-ml/M3_regularization/regularized_regression.py
+    name: L1/L2 Regularized Regression
+    problem_number: M3.02
   remove_duplicates:
     attempts: []
     chapter: 13_sorting
@@ -1347,6 +1555,13 @@ problems:
     name: Reverse all the words in a sentence
     priority: P2
     problem_number: '6.06'
+  risk_aggregation:
+    attempts: []
+    chapter: T1_trading
+    chapter_name: Trading & Quant
+    file: 5-trading/risk_aggregation.py
+    name: Risk Aggregation (Greeks)
+    problem_number: T1.03
   road_network:
     attempts: []
     chapter: 24_honors_class
@@ -1354,6 +1569,13 @@ problems:
     file: 3-problems/road_network.py
     name: Road network
     problem_number: '24.34'
+  roc_auc:
+    attempts: []
+    chapter: M5_evaluation
+    chapter_name: Evaluation
+    file: 6-ml/M5_evaluation/roc_auc.py
+    name: ROC Curve & AUC
+    problem_number: M5.01
   roman_to_integer:
     attempts: []
     chapter: 06_strings
@@ -1484,6 +1706,13 @@ problems:
     file: 3-problems/search_unknown_length_array.py
     name: Search a sorted array of unknown length
     problem_number: '24.14'
+  sklearn_pipeline:
+    attempts: []
+    chapter: M4_pipelines
+    chapter_name: Feature Pipelines
+    file: 6-ml/M4_pipelines/sklearn_pipeline.py
+    name: sklearn Pipeline Builder
+    problem_number: M4.01
   smallest_nonconstructible_value:
     attempts: []
     chapter: 13_sorting
@@ -1603,6 +1832,13 @@ problems:
     file: 3-problems/spreadsheet_encoding.py
     name: Compute the spreadsheet column encoding
     problem_number: '6.03'
+  sql_aggregation:
+    attempts: []
+    chapter: P5_database
+    chapter_name: Database
+    file: 4-practical/sql_aggregation.py
+    name: SQL Aggregation Query
+    problem_number: P5.01
   stack_with_max:
     attempts:
     - date: '2025-11-23T18:10:30.205547'
@@ -1821,234 +2057,3 @@ problems:
     file: 3-problems/zip_list.py
     name: Implement list zipping
     problem_number: '24.09'
-  csv_sales_report:
-    attempts: []
-    chapter: P1_file_parsing
-    chapter_name: File Parsing
-    file: 4-practical/csv_sales_report.py
-    name: CSV Sales Report
-    problem_number: 'P1.01'
-  json_flatten:
-    attempts: []
-    chapter: P2_data_transformation
-    chapter_name: Data Transformation
-    file: 4-practical/json_flatten.py
-    name: Flatten Nested JSON
-    problem_number: 'P2.01'
-  log_parser:
-    attempts: []
-    chapter: P3_text_processing
-    chapter_name: Text Processing
-    file: 4-practical/log_parser.py
-    name: Log File Parser
-    problem_number: 'P3.01'
-  api_pagination:
-    attempts: []
-    chapter: P4_api_interaction
-    chapter_name: API Interaction
-    file: 4-practical/api_pagination.py
-    name: API Pagination Handler
-    problem_number: 'P4.01'
-  sql_aggregation:
-    attempts: []
-    chapter: P5_database
-    chapter_name: Database
-    file: 4-practical/sql_aggregation.py
-    name: SQL Aggregation Query
-    problem_number: 'P5.01'
-  file_organizer:
-    attempts: []
-    chapter: P6_system_scripts
-    chapter_name: System Scripts
-    file: 4-practical/file_organizer.py
-    name: File Organizer
-    problem_number: 'P6.01'
-  nbbo_snapshotter:
-    attempts: []
-    chapter: T1_trading
-    chapter_name: Trading & Quant
-    file: 5-trading/nbbo_snapshotter.py
-    name: NBBO Snapshotter
-    problem_number: 'T1.01'
-  implied_vol_calculator:
-    attempts: []
-    chapter: T1_trading
-    chapter_name: Trading & Quant
-    file: 5-trading/implied_vol_calculator.py
-    name: Implied Vol Calculator
-    problem_number: 'T1.02'
-  risk_aggregation:
-    attempts: []
-    chapter: T1_trading
-    chapter_name: Trading & Quant
-    file: 5-trading/risk_aggregation.py
-    name: Risk Aggregation (Greeks)
-    problem_number: 'T1.03'
-  pnl_explain:
-    attempts: []
-    chapter: T1_trading
-    chapter_name: Trading & Quant
-    file: 5-trading/pnl_explain.py
-    name: P&L Explain Parser
-    problem_number: 'T1.04'
-  l2_book_stitcher:
-    attempts: []
-    chapter: T1_trading
-    chapter_name: Trading & Quant
-    file: 5-trading/l2_book_stitcher.py
-    name: L2 Order Book Stitcher
-    problem_number: 'T1.05'
-  fix_log_parser:
-    attempts: []
-    chapter: T1_trading
-    chapter_name: Trading & Quant
-    file: 5-trading/fix_log_parser.py
-    name: FIX Log Parser
-    problem_number: 'T1.06'
-  iv_surface_cleaner:
-    attempts: []
-    chapter: T1_trading
-    chapter_name: Trading & Quant
-    file: 5-trading/iv_surface_cleaner.py
-    name: IV Surface Cleaner
-    problem_number: 'T1.07'
-  fee_calculator:
-    attempts: []
-    chapter: T1_trading
-    chapter_name: Trading & Quant
-    file: 5-trading/fee_calculator.py
-    name: Fee Schedule Calculator
-    problem_number: 'T1.08'
-  pcap_latency_analyzer:
-    attempts: []
-    chapter: T1_trading
-    chapter_name: Trading & Quant
-    file: 5-trading/pcap_latency_analyzer.py
-    name: PCAP Latency Analyzer
-    problem_number: 'T1.09'
-  binary_feed_parser:
-    attempts: []
-    chapter: T1_trading
-    chapter_name: Trading & Quant
-    file: 5-trading/binary_feed_parser.py
-    name: Binary Feed Parser
-    problem_number: 'T1.10'
-  exercise_assignment:
-    attempts: []
-    chapter: T1_trading
-    chapter_name: Trading & Quant
-    file: 5-trading/exercise_assignment.py
-    name: Exercise/Assignment Simulator
-    problem_number: 'T1.11'
-  backtest_event_joiner:
-    attempts: []
-    chapter: T1_trading
-    chapter_name: Trading & Quant
-    file: 5-trading/backtest_event_joiner.py
-    name: Backtest Event Joiner
-    problem_number: 'T1.12'
-  linear_regression:
-    attempts: []
-    chapter: M1_models
-    chapter_name: Models
-    file: 6-ml/M1_models/linear_regression.py
-    name: Linear Regression (Normal Equation)
-    problem_number: 'M1.01'
-  logistic_regression:
-    attempts: []
-    chapter: M1_models
-    chapter_name: Models
-    file: 6-ml/M1_models/logistic_regression.py
-    name: Logistic Regression (Gradient Descent)
-    problem_number: 'M1.02'
-  knn_classifier:
-    attempts: []
-    chapter: M1_models
-    chapter_name: Models
-    file: 6-ml/M1_models/knn_classifier.py
-    name: K-Nearest Neighbors
-    problem_number: 'M1.03'
-  kmeans_clustering:
-    attempts: []
-    chapter: M1_models
-    chapter_name: Models
-    file: 6-ml/M1_models/kmeans_clustering.py
-    name: K-Means Clustering
-    problem_number: 'M1.04'
-  decision_tree:
-    attempts: []
-    chapter: M1_models
-    chapter_name: Models
-    file: 6-ml/M1_models/decision_tree.py
-    name: Decision Tree Classifier
-    problem_number: 'M1.05'
-  gradient_descent_variants:
-    attempts: []
-    chapter: M2_gradients
-    chapter_name: Gradients
-    file: 6-ml/M2_gradients/gradient_descent_variants.py
-    name: Gradient Descent Variants
-    problem_number: 'M2.01'
-  cross_entropy_loss:
-    attempts: []
-    chapter: M2_gradients
-    chapter_name: Gradients
-    file: 6-ml/M2_gradients/cross_entropy_loss.py
-    name: Cross-Entropy Loss & Gradient
-    problem_number: 'M2.02'
-  gradient_checker:
-    attempts: []
-    chapter: M2_gradients
-    chapter_name: Gradients
-    file: 6-ml/M2_gradients/gradient_checker.py
-    name: Numerical Gradient Checker
-    problem_number: 'M2.03'
-  kfold_cross_validation:
-    attempts: []
-    chapter: M3_regularization
-    chapter_name: Regularization & CV
-    file: 6-ml/M3_regularization/kfold_cross_validation.py
-    name: K-Fold Cross Validation
-    problem_number: 'M3.01'
-  regularized_regression:
-    attempts: []
-    chapter: M3_regularization
-    chapter_name: Regularization & CV
-    file: 6-ml/M3_regularization/regularized_regression.py
-    name: L1/L2 Regularized Regression
-    problem_number: 'M3.02'
-  sklearn_pipeline:
-    attempts: []
-    chapter: M4_pipelines
-    chapter_name: Feature Pipelines
-    file: 6-ml/M4_pipelines/sklearn_pipeline.py
-    name: sklearn Pipeline Builder
-    problem_number: 'M4.01'
-  custom_transformer:
-    attempts: []
-    chapter: M4_pipelines
-    chapter_name: Feature Pipelines
-    file: 6-ml/M4_pipelines/custom_transformer.py
-    name: Custom sklearn Transformer
-    problem_number: 'M4.02'
-  roc_auc:
-    attempts: []
-    chapter: M5_evaluation
-    chapter_name: Evaluation
-    file: 6-ml/M5_evaluation/roc_auc.py
-    name: ROC Curve & AUC
-    problem_number: 'M5.01'
-  precision_recall:
-    attempts: []
-    chapter: M5_evaluation
-    chapter_name: Evaluation
-    file: 6-ml/M5_evaluation/precision_recall.py
-    name: Precision-Recall Curve
-    problem_number: 'M5.02'
-  confusion_metrics:
-    attempts: []
-    chapter: M5_evaluation
-    chapter_name: Evaluation
-    file: 6-ml/M5_evaluation/confusion_metrics.py
-    name: Confusion Matrix Metrics
-    problem_number: 'M5.03'
