@@ -4,10 +4,10 @@ My journey through Elements of Programming Interviews in Python.
 
 ## Flashcard Drills
 
-| Category | Status | Target Score | Actual Score | Target Time | Actual Time |
-|----------|--------|--------------|--------------|-------------|-------------|
-| Arrays | ⬜ | 19/19 | 15/19 | 9:30 | 6:25 |
-| Bitwise Operations | ⬜ | 17/17 | 17/17 | 8:30 | 10:24 |
+| Category | Status | Target Score | Actual Score | Target Time | Actual Time | Last Drilled |
+|----------|--------|--------------|--------------|-------------|-------------|--------------|
+| Arrays | ⬜ | 19/19 | 15/19 | 9:30 | 6:25 | 2025-12-03 |
+| Bitwise Operations | ⬜ | 17/17 | 17/17 | 8:30 | 10:24 | 2025-12-03 |
 
 ## Overall Progress
 

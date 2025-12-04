@@ -86,8 +86,8 @@ def generate_flashcard_section(flashcards):
     lines = [
         '## Flashcard Drills',
         '',
-        '| Category | Status | Target Score | Actual Score | Target Time | Actual Time |',
-        '|----------|--------|--------------|--------------|-------------|-------------|',
+        '| Category | Status | Target Score | Actual Score | Target Time | Actual Time | Last Drilled |',
+        '|----------|--------|--------------|--------------|-------------|-------------|--------------|',
     ]
 
     for category_id, category_data in categories_with_targets.items():
@@ -109,14 +109,22 @@ def generate_flashcard_section(flashcards):
             target_score = f"{count}/{count}"
             actual_score = f"{score}/{count}"
             actual_time = format_time(time_seconds)
+
+            # Extract date from ISO format (YYYY-MM-DDTHH:MM:SS)
+            date_str = latest.get('date', '')
+            if date_str:
+                last_drilled = date_str.split('T')[0]  # Get just YYYY-MM-DD
+            else:
+                last_drilled = '—'
         else:
             status = '⬜'
             target_score = '—'
             actual_score = '—'
             actual_time = '—'
+            last_drilled = '—'
 
         target_time = format_time(target_seconds)
-        lines.append(f'| {name} | {status} | {target_score} | {actual_score} | {target_time} | {actual_time} |')
+        lines.append(f'| {name} | {status} | {target_score} | {actual_score} | {target_time} | {actual_time} | {last_drilled} |')
 
     lines.append('')
     return lines
