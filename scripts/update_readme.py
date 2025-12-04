@@ -518,8 +518,8 @@ def generate_readme(data, threshold):
         lines.extend([
             f'### Chapter {chapter_num}: {chapter_name}',
             '',
-            '| # | Problem | Priority | Status | Best Time |',
-            '|---|---------|----------|--------|-----------|',
+            '| # | Problem | Priority | LeetCode | Difficulty | Status | Best Time |',
+            '|---|---------|----------|----------|------------|--------|-----------|',
         ])
 
         # Get problems for this chapter and sort by problem number
@@ -567,7 +567,20 @@ def generate_readme(data, threshold):
             if tier >= 2 and best_time is not None:
                 time_str = f'{best_time} min'
 
-            lines.append(f'| {problem_num} | {problem_name} | {priority} | {status} | {time_str} |')
+            # Get LeetCode info
+            lc_num = metadata.get('leetcode_num', '')
+            lc_name = metadata.get('leetcode_name', '')
+            lc_difficulty = metadata.get('leetcode_difficulty', '')
+
+            # Format LeetCode as clickable link
+            if lc_num and lc_name:
+                # Convert name to URL slug (lowercase, spaces to hyphens)
+                lc_slug = lc_name.lower().replace(' ', '-').replace('(', '').replace(')', '').replace(',', '')
+                lc_link = f'[#{lc_num}](https://leetcode.com/problems/{lc_slug}/)'
+            else:
+                lc_link = ''
+
+            lines.append(f'| {problem_num} | {problem_name} | {priority} | {lc_link} | {lc_difficulty} | {status} | {time_str} |')
 
         lines.extend(['', '---', ''])
 
