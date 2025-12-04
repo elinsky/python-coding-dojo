@@ -1,4 +1,15 @@
 flashcards:
+  arrays:
+    attempts:
+    - count: 19
+      date: '2025-12-03T19:30:41.180459'
+      notes: 'Missed Q6: .index(x) not .find(x); Q8: bisect.bisect_left(A, x) is a
+        module; Q13: A.remove(x) one-liner exists; Q17: A.reverse() in-place vs A[::-1]
+        copy'
+      score: 15
+      time_seconds: 385
+    name: Arrays
+    target_seconds: 570
   bitwise:
     attempts:
     - count: 17

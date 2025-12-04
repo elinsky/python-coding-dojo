@@ -22,11 +22,13 @@ def format_time(seconds):
               help='Total number of cards in the drill')
 @click.option('--time', 'time_seconds', type=int, required=True,
               help='Time taken in seconds')
-def main(category, score, count, time_seconds):
+@click.option('--notes', default='', help='Optional notes about missed cards or observations')
+def main(category, score, count, time_seconds, notes):
     """Log a flashcard drill attempt for CATEGORY to progress.yaml.
 
     Example:
         log-flashcard-drill bitwise --score 17 --count 17 --time 480
+        log-flashcard-drill arrays --score 15 --count 19 --time 385 --notes "Missed Q6, Q8"
     """
     repo_root = Path(__file__).parent.parent
     progress_file = repo_root / 'progress.yaml'
@@ -59,6 +61,9 @@ def main(category, score, count, time_seconds):
         'time_seconds': time_seconds,
     }
 
+    if notes:
+        attempt['notes'] = notes
+
     # Add attempt to category (prepend so most recent is first)
     if 'attempts' not in data['flashcards'][category]:
         data['flashcards'][category]['attempts'] = []
@@ -83,6 +88,9 @@ def main(category, score, count, time_seconds):
         status = "✅ PASS" if passed else "⬜ Not yet"
         click.echo(f"  Target: {format_time(target_seconds)}")
         click.echo(f"  Status: {status}")
+
+    if notes:
+        click.echo(f"  Notes: {notes}")
 
     # Show total attempts for this category
     total_attempts = len(data['flashcards'][category]['attempts'])
