@@ -582,7 +582,7 @@ problem_mapping = {
         },
         "11.04 Compute the integer square root": {
             "Python: int_square_root.py": {
-                "passed": 0,
+                "passed": 2000,
                 "total": 2000
             }
         },

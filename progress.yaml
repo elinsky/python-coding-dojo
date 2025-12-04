@@ -618,7 +618,14 @@ problems:
     name: Add list-based integers
     problem_number: '7.13'
   int_square_root:
-    attempts: []
+    attempts:
+    - date: '2025-12-03T20:36:40.655357'
+      optimal: true
+      solved: true
+      submissions: 1
+      time_minutes: 14
+      used_hints: true
+      used_solution: false
     chapter: 11_searching
     chapter_name: Searching
     file: 3-problems/int_square_root.py

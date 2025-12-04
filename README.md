@@ -17,7 +17,7 @@ My journey through Elements of Programming Interviews in Python.
 Problems attempted but not yet solved
 
 ☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️
-☑️☑️☑️☑️☑️☑️☑️☑️☑️⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
@@ -29,13 +29,13 @@ Problems attempted but not yet solved
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 
-**29 / 237** (12.2%)
+**30 / 237** (12.7%)
 
 ### Tier 1: Solved 👍
 Problems solved (with or without help)
 
 👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍
-👍👍👍👍👍👍⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+👍👍👍👍👍👍👍⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
@@ -47,7 +47,7 @@ Problems solved (with or without help)
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 
-**26 / 237** (11.0%)
+**27 / 237** (11.4%)
 
 ### Tier 2: Solved Independently 💪
 Problems solved without hints or looking at solutions
@@ -101,12 +101,12 @@ Progress toward priority-based learning goals.
 
 **6 / 16** problems mastered
 
-### 🟠 P1: Attempt All (10/21 - 48%)
+### 🟠 P1: Attempt All (11/21 - 52%)
 
-☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜
 
-**10 / 21** problems attempted
+**11 / 21** problems attempted
 
 ### 🟠 P1: Master All (2/21 - 10%)
 
@@ -301,7 +301,7 @@ flowchart TB
 | 8: Stacks and Queues | 9 | 2 (22%) | 2 (22%) | 1 (11%) | 0 (0%) |
 | 9: Binary Trees | 15 | 2 (13%) | 1 (7%) | 0 (0%) | 0 (0%) |
 | 10: Heaps | 6 | 2 (33%) | 2 (33%) | 0 (0%) | 0 (0%) |
-| 11: Searching | 10 | 1 (10%) | 1 (10%) | 1 (10%) | 1 (10%) |
+| 11: Searching | 10 | 2 (20%) | 2 (20%) | 1 (10%) | 1 (10%) |
 | 12: Hash Tables | 11 | 1 (9%) | 1 (9%) | 1 (9%) | 0 (0%) |
 | 13: Sorting | 12 | 1 (8%) | 1 (8%) | 1 (8%) | 1 (8%) |
 | 14: Binary Search Trees | 11 | 1 (9%) | 1 (9%) | 0 (0%) | 0 (0%) |
@@ -322,7 +322,7 @@ flowchart TB
 | M3: Regularization & CV | 2 | 0 (0%) | 0 (0%) | 0 (0%) | 0 (0%) |
 | M4: Feature Pipelines | 2 | 0 (0%) | 0 (0%) | 0 (0%) | 0 (0%) |
 | M5: Evaluation | 3 | 0 (0%) | 0 (0%) | 0 (0%) | 0 (0%) |
-| **Total** | **237** | **29** | **26** | **12** | **9** |
+| **Total** | **237** | **30** | **27** | **12** | **9** |
 
 ## All Problems
 
@@ -468,7 +468,7 @@ flowchart TB
 | 11.01 | Search a sorted array for first occurrence of k | 🔴 | 🏆 | 6 min |
 | 11.02 | Search a sorted array for entry equal to its index |  |  |  |
 | 11.03 | Search a cyclically sorted array | 🟡 |  |  |
-| 11.04 | Compute the integer square root | 🟠 |  |  |
+| 11.04 | Compute the integer square root | 🟠 | 👍 |  |
 | 11.05 | Compute the real square root | 🟢 |  |  |
 | 11.06 | Search in a 2D sorted array | 🔵 |  |  |
 | 11.07 | Find the min and max simultaneously | 🔵 |  |  |
