@@ -84,7 +84,7 @@ def generate_flashcard_section(flashcards):
         return []
 
     lines = [
-        '## Python Flashcards',
+        '## Python Syntax Flashcards',
         '',
         '| Category | Status | Target Score | Actual Score | Target Time | Actual Time | Last Drilled |',
         '|----------|--------|--------------|--------------|-------------|-------------|--------------|',
@@ -301,9 +301,15 @@ def generate_readme(data, threshold):
     if flashcard_lines:
         lines.extend(flashcard_lines)
 
+    # Add Algorithm Problems section
+    lines.extend([
+        '## Algorithm Problems',
+        '',
+    ])
+
     # Add goals section (before Overall Progress)
     lines.extend([
-        '## Goals',
+        '### Goals',
         '',
         'Progress toward priority-based learning goals.',
         '',

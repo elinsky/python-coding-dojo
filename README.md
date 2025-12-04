@@ -2,7 +2,7 @@
 
 My journey through Elements of Programming Interviews in Python.
 
-## Python Flashcards
+## Python Syntax Flashcards
 
 | Category | Status | Target Score | Actual Score | Target Time | Actual Time | Last Drilled |
 |----------|--------|--------------|--------------|-------------|-------------|--------------|
@@ -11,7 +11,9 @@ My journey through Elements of Programming Interviews in Python.
 | Linked Lists | ✅ | 15/15 | 15/15 | 7:30 | 7:11 | 2025-12-03 |
 | Strings | ⬜ | 19/19 | 14/19 | 9:30 | 4:29 | 2025-12-03 |
 
-## Goals
+## Algorithm Problems
+
+### Goals
 
 Progress toward priority-based learning goals.
 

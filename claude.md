@@ -6,7 +6,7 @@ Personal progress tracking system for coding interview practice.
 
 | Directory | Prefix | Description |
 |-----------|--------|-------------|
-| `3-problems/` | 4.xx - 24.xx | EPI algorithmic problems (204) |
+| `1-algorithm-problems/` | 4.xx - 24.xx | EPI algorithmic problems (204) |
 | `4-practical/` | P1.xx - P6.xx | Practical file/data problems (6) |
 | `5-trading/` | T1.xx | Trading/quant problems (12) |
 | `6-ml/` | M1.xx - M5.xx | ML/Data Science problems (15) |
@@ -28,7 +28,7 @@ Three-tier progression tracked in `progress.yaml`:
 ## Workflow
 
 ### EPI Problems
-1. Solve problems in `3-problems/`
+1. Solve problems in `1-algorithm-problems/`
 2. Log attempts: "log <problem_id> - <time>min, <tries> tries, solved/not solved, used hints/no hints"
 3. Update README: `~/.pyenv/versions/python-coding-dojo/bin/python scripts/update_readme.py`
 
