@@ -22,11 +22,13 @@ Progress toward priority-based learning goals.
 | 💪 | Independent | Problems solved without hints or looking at solutions |
 | 🏆 | Mastered | Problems solved independently in ≤20 min with optimal solution |
 
+✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
 ### 🔴 P0: Attempt All (16/16 - 100%)
 
 ☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️
 
 **16 / 16** problems attempted
+✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
 
 ### 🔴 P0: Master All (6/16 - 38%)
 
