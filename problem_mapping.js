@@ -606,7 +606,7 @@ problem_mapping = {
         },
         "11.08 Find the kth largest element": {
             "Python: kth_largest_in_array.py": {
-                "passed": 0,
+                "passed": 503,
                 "total": 503
             }
         },
