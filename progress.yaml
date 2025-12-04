@@ -47,6 +47,16 @@ flashcards:
       time_seconds: 624
     name: 01-bitwise
     target_seconds: 510
+  dicts:
+    attempts:
+    - count: 40
+      date: '2025-12-04T17:31:59.435878'
+      notes: 'Missed: Q6, Q8, Q9, Q16, Q17, Q19, Q20, Q22, Q23, Q25, Q26, Q27, Q28,
+        Q29, Q30, Q31, Q32, Q33, Q34, Q35, Q36, Q37, Q39, Q40'
+      score: 17
+      time_seconds: 535
+    name: 09-dicts
+    target_seconds: 1200
   linked-lists:
     attempts:
     - count: 15

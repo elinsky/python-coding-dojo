@@ -12,6 +12,7 @@ My journey through Elements of Programming Interviews in Python.
 | 04-linked-lists | ✅ | 15/15 | 15/15 | 7:30 | 7:11 | 2025-12-03 |
 | 05-stacks-queues | ⬜ | 16/16 | 13/16 | 8:00 | 3:04 | 2025-12-04 |
 | 06-binary-trees | ⬜ | 21/21 | 19/21 | 10:30 | 4:56 | 2025-12-04 |
+| 09-dicts | ⬜ | 40/40 | 17/40 | 20:00 | 8:55 | 2025-12-04 |
 
 ## Algorithm Problems
 
