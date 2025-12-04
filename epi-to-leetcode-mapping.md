@@ -166,6 +166,58 @@ This document maps Elements of Programming Interviews (EPI) problems to their Le
 
 ---
 
+## ⚪ Unprioritized Problems (100 total)
+
+Problems not assigned a priority level but with LeetCode equivalents.
+
+| EPI # | EPI Problem Name | LeetCode Equivalent | LC # | Difficulty |
+|-------|-----------------|---------------------|------|------------|
+| 4.10 | Generate uniform random numbers | [Implement Rand10() Using Rand7()](https://leetcode.com/problems/implement-rand10-using-rand7/) | 470 | **Medium** |
+| 5.04 | Advancing through an array | [Jump Game](https://leetcode.com/problems/jump-game/) | 55 | **Medium** |
+| 5.07 | Buy and sell a stock twice | [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) | 123 | **Hard** |
+| 5.08 | Computing an alternation | [Wiggle Sort](https://leetcode.com/problems/wiggle-sort/) | 280 | **Medium** (Premium) |
+| 5.11 | Compute the next permutation | [Next Permutation](https://leetcode.com/problems/next-permutation/) | 31 | **Medium** |
+| 5.14 | Compute a random permutation | [Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/) | 384 | **Medium** |
+| 5.19 | Rotate a 2D array | [Rotate Image](https://leetcode.com/problems/rotate-image/) | 48 | **Medium** |
+| 5.20 | Compute rows in Pascal's Triangle | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | 118 | **Easy** |
+| 6.03 | Compute the spreadsheet column encoding | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | 171 | **Easy** |
+| 6.12 | Find the first occurrence of a substring | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | 28 | **Easy** |
+| 7.06 | Delete a node from a singly linked list | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | 237 | **Medium** |
+| 7.08 | Remove duplicates from a sorted list | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | 83 | **Easy** |
+| 7.09 | Implement cyclic right shift for singly linked list | [Rotate List](https://leetcode.com/problems/rotate-list/) | 61 | **Medium** |
+| 7.12 | Implement list pivoting | [Partition List](https://leetcode.com/problems/partition-list/) | 86 | **Medium** |
+| 7.13 | Add list-based integers | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | 2 | **Medium** |
+| 9.03 | Compute the LCA in a binary tree | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | 236 | **Medium** |
+| 9.05 | Sum the root-to-leaf paths in a binary tree | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | 129 | **Medium** |
+| 9.06 | Find a root to leaf path with specified sum | [Path Sum](https://leetcode.com/problems/path-sum/) | 112 | **Easy** |
+| 9.07 | Implement an inorder traversal without recursion | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | 94 | **Easy** |
+| 9.14 | Compute the exterior of a binary tree | [Boundary of Binary Tree](https://leetcode.com/problems/boundary-of-binary-tree/) | 545 | **Medium** (Premium) |
+| 12.08 | Find the longest subarray with distinct entries | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | 3 | **Medium** |
+| 13.03 | Computing the h-index | [H-Index](https://leetcode.com/problems/h-index/) | 274 | **Medium** |
+| 13.11 | Implement a fast sorting algorithm for lists | [Sort List](https://leetcode.com/problems/sort-list/) | 148 | **Medium** |
+| 15.05 | Generate the power set | [Subsets](https://leetcode.com/problems/subsets/) | 78 | **Medium** |
+| 15.07 | Generate strings of matched parens | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | 22 | **Medium** |
+| 15.08 | Generate palindromic decompositions | [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) | 131 | **Medium** |
+| 15.11 | Compute a Gray code | [Gray Code](https://leetcode.com/problems/gray-code/) | 89 | **Medium** |
+| 16.08 | Find the minimum weight path in a triangle | [Triangle](https://leetcode.com/problems/triangle/) | 120 | **Medium** |
+| 16.10 | Count the number of moves to climb stairs | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | 70 | **Easy** |
+| 18.04 | Deadlock detection | [Course Schedule](https://leetcode.com/problems/course-schedule/) | 207 | **Medium** |
+| 24.02 | Find the first missing positive entry | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | 41 | **Hard** |
+| 24.03 | Buy and sell a stock at most k times | [Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/) | 188 | **Hard** |
+| 24.06 | Rotate an array | [Rotate Array](https://leetcode.com/problems/rotate-array/) | 189 | **Medium** |
+| 24.12 | Compute the maximum of a sliding window | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | 239 | **Hard** |
+| 24.22 | Implement regular expression matching | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | 10 | **Hard** |
+| 24.25 | Draw the skyline | [The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/) | 218 | **Hard** |
+| 24.27 | Compute the maximum subarray sum in a circular array | [Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/) | 918 | **Medium** |
+| 24.31 | Trapping water | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | 42 | **Hard** |
+
+### Unprioritized Difficulty Summary (of 38 with LC equivalents)
+- **Easy:** 7 problems (18%)
+- **Medium:** 24 problems (63%)
+- **Hard:** 7 problems (18%)
+
+---
+
 ## Overall Summary
 
 | Priority | Total | With LC Equivalent | Easy | Medium | Hard |
@@ -175,7 +227,8 @@ This document maps Elements of Programming Interviews (EPI) problems to their Le
 | P2 | 22 | 19 | 7 | 10 | 2 |
 | P3 | 25 | 24 | 9 | 12 | 3 |
 | P4 | 20 | 17 | 2 | 13 | 2 |
-| **Combined** | **104** | **96** | **30 (31%)** | **56 (58%)** | **10 (10%)** |
+| Unprioritized | 100 | 38 | 7 | 24 | 7 |
+| **Combined** | **204** | **134** | **37 (28%)** | **80 (60%)** | **17 (13%)** |
 
 ---
 

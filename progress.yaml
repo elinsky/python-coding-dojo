@@ -68,6 +68,9 @@ problems:
     file: 3-problems/advance_by_offsets.py
     name: Advancing through an array
     problem_number: '5.04'
+    leetcode_num: '55'
+    leetcode_name: Jump Game
+    leetcode_difficulty: Medium
   alternating_array:
     attempts: []
     chapter: 05_arrays
@@ -75,6 +78,9 @@ problems:
     file: 3-problems/alternating_array.py
     name: Computing an alternation
     problem_number: '5.08'
+    leetcode_num: '280'
+    leetcode_name: Wiggle Sort
+    leetcode_difficulty: Medium
   anagrams:
     attempts: []
     chapter: 12_hash_tables
@@ -196,6 +202,9 @@ problems:
     file: 3-problems/buy_and_sell_stock_k_times.py
     name: Buy and sell a stock at most k times
     problem_number: '24.03'
+    leetcode_num: '188'
+    leetcode_name: Best Time to Buy and Sell Stock IV
+    leetcode_difficulty: Hard
   buy_and_sell_stock_twice:
     attempts: []
     chapter: 05_arrays
@@ -203,6 +212,9 @@ problems:
     file: 3-problems/buy_and_sell_stock_twice.py
     name: Buy and sell a stock twice
     problem_number: '5.07'
+    leetcode_num: '123'
+    leetcode_name: Best Time to Buy and Sell Stock III
+    leetcode_difficulty: Hard
   calendar_rendering:
     attempts: []
     chapter: 13_sorting
@@ -336,6 +348,9 @@ problems:
     file: 3-problems/deadlock_detection.py
     name: Deadlock detection
     problem_number: '18.04'
+    leetcode_num: '207'
+    leetcode_name: Course Schedule
+    leetcode_difficulty: Medium
   decision_tree:
     attempts: []
     chapter: M1_models
@@ -375,6 +390,9 @@ problems:
     file: 3-problems/delete_node_from_list.py
     name: Delete a node from a singly linked list
     problem_number: '7.06'
+    leetcode_num: '237'
+    leetcode_name: Delete Node in a Linked List
+    leetcode_difficulty: Medium
   descendant_and_ancestor_in_bst:
     attempts: []
     chapter: 14_binary_search_trees
@@ -418,6 +436,9 @@ problems:
     file: 3-problems/drawing_skyline.py
     name: Draw the skyline
     problem_number: '24.25'
+    leetcode_num: '218'
+    leetcode_name: The Skyline Problem
+    leetcode_difficulty: Hard
   dutch_national_flag:
     attempts:
     - date: '2025-11-22T18:08:24.962323'
@@ -450,6 +471,9 @@ problems:
     file: 3-problems/enumerate_balanced_parentheses.py
     name: Generate strings of matched parens
     problem_number: '15.07'
+    leetcode_num: '22'
+    leetcode_name: Generate Parentheses
+    leetcode_difficulty: Medium
   enumerate_palindromic_decompositions:
     attempts: []
     chapter: 15_recursion
@@ -457,6 +481,9 @@ problems:
     file: 3-problems/enumerate_palindromic_decompositions.py
     name: Generate palindromic decompositions
     problem_number: '15.08'
+    leetcode_num: '131'
+    leetcode_name: Palindrome Partitioning
+    leetcode_difficulty: Medium
   enumerate_trees:
     attempts: []
     chapter: 15_recursion
@@ -546,6 +573,9 @@ problems:
     file: 3-problems/first_missing_positive_entry.py
     name: Find the first missing positive entry
     problem_number: '24.02'
+    leetcode_num: '41'
+    leetcode_name: First Missing Positive
+    leetcode_difficulty: Hard
   fix_log_parser:
     attempts: []
     chapter: T1_trading
@@ -592,6 +622,9 @@ problems:
     file: 3-problems/gray_code.py
     name: Compute a Gray code
     problem_number: '15.11'
+    leetcode_num: '89'
+    leetcode_name: Gray Code
+    leetcode_difficulty: Medium
   group_equal_entries:
     attempts: []
     chapter: 13_sorting
@@ -606,6 +639,9 @@ problems:
     file: 3-problems/h_index.py
     name: Computing the h-index
     problem_number: '13.03'
+    leetcode_num: '274'
+    leetcode_name: H-Index
+    leetcode_difficulty: Medium
   hanoi:
     attempts:
     - date: '2025-11-25'
@@ -671,6 +707,9 @@ problems:
     file: 3-problems/int_as_list_add.py
     name: Add list-based integers
     problem_number: '7.13'
+    leetcode_num: '2'
+    leetcode_name: Add Two Numbers
+    leetcode_difficulty: Medium
   int_square_root:
     attempts:
     - date: '2025-12-03T20:36:40.655357'
@@ -1100,6 +1139,9 @@ problems:
     file: 3-problems/list_cyclic_right_shift.py
     name: Implement cyclic right shift for singly linked lists
     problem_number: '7.09'
+    leetcode_num: '61'
+    leetcode_name: Rotate List
+    leetcode_difficulty: Medium
   log_parser:
     attempts: []
     chapter: P3_text_processing
@@ -1150,6 +1192,9 @@ problems:
     file: 3-problems/longest_subarray_with_distinct_values.py
     name: Find the longest subarray with distinct entries
     problem_number: '12.08'
+    leetcode_num: '3'
+    leetcode_name: Longest Substring Without Repeating Characters
+    leetcode_difficulty: Medium
   longest_subarray_with_sum_constraint:
     attempts: []
     chapter: 24_honors_class
@@ -1182,6 +1227,9 @@ problems:
     file: 3-problems/lowest_common_ancestor.py
     name: Compute the lowest common ancestor in a binary tree
     problem_number: '9.03'
+    leetcode_num: '236'
+    leetcode_name: Lowest Common Ancestor of a Binary Tree
+    leetcode_difficulty: Medium
   lowest_common_ancestor_close_ancestor:
     attempts: []
     chapter: 12_hash_tables
@@ -1277,6 +1325,9 @@ problems:
     file: 3-problems/matrix_rotation.py
     name: Rotate a 2D array
     problem_number: '5.19'
+    leetcode_num: '48'
+    leetcode_name: Rotate Image
+    leetcode_difficulty: Medium
   max_of_sliding_window:
     attempts: []
     chapter: 24_honors_class
@@ -1284,6 +1335,9 @@ problems:
     file: 3-problems/max_of_sliding_window.py
     name: Compute the maximum of a sliding window
     problem_number: '24.12'
+    leetcode_num: '239'
+    leetcode_name: Sliding Window Maximum
+    leetcode_difficulty: Hard
   max_product_all_but_one:
     attempts: []
     chapter: 24_honors_class
@@ -1330,6 +1384,9 @@ problems:
     file: 3-problems/max_water_trappable.py
     name: Trapping water
     problem_number: '24.31'
+    leetcode_num: '42'
+    leetcode_name: Trapping Rain Water
+    leetcode_difficulty: Hard
   maximum_subarray_in_circular_array:
     attempts: []
     chapter: 24_honors_class
@@ -1337,6 +1394,9 @@ problems:
     file: 3-problems/maximum_subarray_in_circular_array.py
     name: Compute the maximum subarray sum in a circular array
     problem_number: '24.27'
+    leetcode_num: '918'
+    leetcode_name: Maximum Sum Circular Subarray
+    leetcode_difficulty: Medium
   minimum_distance_3_sorted_arrays:
     attempts: []
     chapter: 14_binary_search_trees
@@ -1365,6 +1425,9 @@ problems:
     file: 3-problems/minimum_weight_path_in_a_triangle.py
     name: Find the minimum weight path in a triangle
     problem_number: '16.08'
+    leetcode_num: '120'
+    leetcode_name: Triangle
+    leetcode_difficulty: Medium
   n_queens:
     attempts: []
     chapter: 15_recursion
@@ -1401,6 +1464,9 @@ problems:
     file: 3-problems/next_permutation.py
     name: Compute the next permutation
     problem_number: '5.11'
+    leetcode_num: '31'
+    leetcode_name: Next Permutation
+    leetcode_difficulty: Medium
   nonuniform_random_number:
     attempts: []
     chapter: 05_arrays
@@ -1441,6 +1507,9 @@ problems:
     file: 3-problems/number_of_traversals_staircase.py
     name: Count the number of moves to climb stairs
     problem_number: '16.10'
+    leetcode_num: '70'
+    leetcode_name: Climbing Stairs
+    leetcode_difficulty: Easy
   offline_sampling:
     attempts:
     - date: '2025-11-27T17:39:45.963869'
@@ -1512,6 +1581,9 @@ problems:
     file: 3-problems/pascal_triangle.py
     name: Compute rows in Pascal's Triangle
     problem_number: '5.20'
+    leetcode_num: '118'
+    leetcode_name: Pascal's Triangle
+    leetcode_difficulty: Easy
   path_sum:
     attempts: []
     chapter: 09_binary_trees
@@ -1519,6 +1591,9 @@ problems:
     file: 3-problems/path_sum.py
     name: Find a root to leaf path with specified sum
     problem_number: '9.06'
+    leetcode_num: '112'
+    leetcode_name: Path Sum
+    leetcode_difficulty: Easy
   pcap_latency_analyzer:
     attempts: []
     chapter: T1_trading
@@ -1562,6 +1637,9 @@ problems:
     file: 3-problems/pivot_list.py
     name: Implement list pivoting
     problem_number: '7.12'
+    leetcode_num: '86'
+    leetcode_name: Partition List
+    leetcode_difficulty: Medium
   pnl_explain:
     attempts: []
     chapter: T1_trading
@@ -1576,6 +1654,9 @@ problems:
     file: 3-problems/power_set.py
     name: Generate the power set
     problem_number: '15.05'
+    leetcode_num: '78'
+    leetcode_name: Subsets
+    leetcode_difficulty: Medium
   power_x_y:
     attempts:
     - date: '2025-11-27'
@@ -1660,6 +1741,9 @@ problems:
     file: 3-problems/random_permutation.py
     name: Compute a random permutation
     problem_number: '5.14'
+    leetcode_num: '384'
+    leetcode_name: Shuffle an Array
+    leetcode_difficulty: Medium
   random_subset:
     attempts: []
     chapter: 05_arrays
@@ -1718,6 +1802,9 @@ problems:
     file: 3-problems/regular_expression.py
     name: Implement regular expression matching
     problem_number: '24.22'
+    leetcode_num: '10'
+    leetcode_name: Regular Expression Matching
+    leetcode_difficulty: Hard
   regularized_regression:
     attempts: []
     chapter: M3_regularization
@@ -1739,6 +1826,9 @@ problems:
     file: 3-problems/remove_duplicates_from_sorted_list.py
     name: Remove duplicates from a sorted list
     problem_number: '7.08'
+    leetcode_num: '83'
+    leetcode_name: Remove Duplicates from Sorted List
+    leetcode_difficulty: Easy
   replace_and_remove:
     attempts:
     - date: '2025-11-27T20:47:36.151544'
@@ -1859,6 +1949,9 @@ problems:
     file: 3-problems/rotate_array.py
     name: Rotate an array
     problem_number: '24.06'
+    leetcode_num: '189'
+    leetcode_name: Rotate Array
+    leetcode_difficulty: Medium
   run_length_compression:
     attempts: []
     chapter: 06_strings
@@ -2044,6 +2137,9 @@ problems:
     file: 3-problems/sort_list.py
     name: Implement a fast sorting algorithm for lists
     problem_number: '13.11'
+    leetcode_num: '148'
+    leetcode_name: Sort List
+    leetcode_difficulty: Medium
   sorted_array_remove_dups:
     attempts: []
     chapter: 05_arrays
@@ -2123,6 +2219,9 @@ problems:
     file: 3-problems/spreadsheet_encoding.py
     name: Compute the spreadsheet column encoding
     problem_number: '6.03'
+    leetcode_num: '171'
+    leetcode_name: Excel Sheet Column Number
+    leetcode_difficulty: Easy
   sql_aggregation:
     attempts: []
     chapter: P5_database
@@ -2193,6 +2292,9 @@ problems:
     file: 3-problems/substring_match.py
     name: Find the first occurrence of a substring
     problem_number: '6.12'
+    leetcode_num: '28'
+    leetcode_name: Find the Index of the First Occurrence in a String
+    leetcode_difficulty: Easy
   successor_in_tree:
     attempts: []
     chapter: 09_binary_trees
@@ -2218,6 +2320,9 @@ problems:
     file: 3-problems/sum_root_to_leaf.py
     name: Sum the root-to-leaf paths in a binary tree
     problem_number: '9.05'
+    leetcode_num: '129'
+    leetcode_name: Sum Root to Leaf Numbers
+    leetcode_difficulty: Medium
   sunset_view:
     attempts: []
     chapter: 08_stacks_and_queues
@@ -2281,6 +2386,9 @@ problems:
     file: 3-problems/tree_exterior.py
     name: Compute the exterior of a binary tree
     problem_number: '9.14'
+    leetcode_num: '545'
+    leetcode_name: Boundary of Binary Tree
+    leetcode_difficulty: Medium
   tree_from_preorder_inorder:
     attempts: []
     chapter: 09_binary_trees
@@ -2310,6 +2418,9 @@ problems:
     file: 3-problems/tree_inorder.py
     name: Implement an inorder traversal without recursion
     problem_number: '9.07'
+    leetcode_num: '94'
+    leetcode_name: Binary Tree Inorder Traversal
+    leetcode_difficulty: Easy
   tree_level_order:
     attempts:
     - date: '2025-11-27T22:03:57.049449'
@@ -2360,6 +2471,9 @@ problems:
     file: 3-problems/uniform_random_number.py
     name: Generate uniform random numbers
     problem_number: '4.10'
+    leetcode_num: '470'
+    leetcode_name: Implement Rand10() Using Rand7()
+    leetcode_difficulty: Medium
   valid_ip_addresses:
     attempts: []
     chapter: 06_strings
