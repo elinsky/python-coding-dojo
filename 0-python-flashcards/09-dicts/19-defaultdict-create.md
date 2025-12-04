@@ -1,8 +1,8 @@
 # Create DefaultDict
 
-**Q:** How do I create a dictionary that returns a default value for missing keys? What is the time complexity?
+**Q:** How do I create a dictionary that returns a default value for missing keys?
 
-**A:** Use collections.defaultdict with type. Time: O(1)
+**A:** Use collections.defaultdict with a factory
 
 ```python
 from collections import defaultdict

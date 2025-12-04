@@ -1,8 +1,8 @@
 # Create Counter
 
-**Q:** How do I create a Counter to count elements? What is the time complexity?
+**Q:** How do I create a Counter to count elements?
 
-**A:** Use collections.Counter. Time: O(n) where n is number of elements
+**A:** Use collections.Counter
 
 ```python
 from collections import Counter
