@@ -90,7 +90,13 @@ def generate_flashcard_section(flashcards):
         '|----------|--------|--------------|--------------|-------------|-------------|--------------|',
     ]
 
-    for category_id, category_data in categories_with_targets.items():
+    # Sort categories by their name (which now includes number prefix like "01-bitwise")
+    sorted_categories = sorted(
+        categories_with_targets.items(),
+        key=lambda x: x[1].get('name', x[0])
+    )
+
+    for category_id, category_data in sorted_categories:
         name = category_data.get('name', category_id)
         target_seconds = category_data['target_seconds']
         attempts = category_data.get('attempts', [])

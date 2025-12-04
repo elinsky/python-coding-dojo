@@ -13,7 +13,7 @@ flashcards:
         copy'
       score: 15
       time_seconds: 385
-    name: Arrays
+    name: 02-arrays
     target_seconds: 570
   binary-trees:
     attempts:
@@ -22,7 +22,7 @@ flashcards:
       notes: 'Missed: create-node, check-exactly-one-child'
       score: 19
       time_seconds: 296
-    name: Binary Trees
+    name: 06-binary-trees
     target_seconds: 630
   bitwise:
     attempts:
@@ -45,7 +45,7 @@ flashcards:
       date: '2025-12-03T19:17:17.390889'
       score: 17
       time_seconds: 624
-    name: Bitwise Operations
+    name: 01-bitwise
     target_seconds: 510
   linked-lists:
     attempts:
@@ -53,7 +53,7 @@ flashcards:
       date: '2025-12-03T19:57:47.524060'
       score: 15
       time_seconds: 431
-    name: Linked Lists
+    name: 04-linked-lists
     target_seconds: 450
   stacks-queues:
     attempts:
@@ -62,7 +62,7 @@ flashcards:
       notes: 'Missed: create-queue, queue-enqueue, deque-push-front'
       score: 13
       time_seconds: 184
-    name: Stacks and Queues
+    name: 05-stacks-queues
     target_seconds: 480
   strings:
     attempts:
@@ -83,7 +83,7 @@ flashcards:
         not delim.split(s)'
       score: 14
       time_seconds: 269
-    name: Strings
+    name: 03-strings
     target_seconds: 570
 problems:
   a_b_sqrt2:
