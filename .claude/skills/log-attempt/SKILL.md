@@ -7,10 +7,14 @@ description: Log a coding problem attempt when user says "log <problem_id>" with
 
 Parse the user's natural language input and call the log-attempt script.
 
-## Script Usage
+## Workflow
+
+1. Run the log-attempt script
+2. Run update_readme.py to regenerate README.md
 
 ```bash
 ~/.pyenv/versions/python-coding-dojo/bin/python scripts/log_attempt.py <problem_id> [OPTIONS]
+~/.pyenv/versions/python-coding-dojo/bin/python scripts/update_readme.py
 ```
 
 ## Options
@@ -22,6 +26,7 @@ Parse the user's natural language input and call the log-attempt script.
 | `--solved` / `--no-solved` | Whether solved | --solved |
 | `--used-hints` / `--no-used-hints` | Whether used hints | --no-used-hints |
 | `--used-solution` / `--no-used-solution` | Whether looked at solution | --no-used-solution |
+| `--optimal` / `--no-optimal` | Whether solution is optimal (correct complexity) | --no-optimal |
 | `--notes "text"` | Optional notes | - |
 
 ## Parsing Rules
@@ -33,6 +38,7 @@ Parse the user's natural language input and call the log-attempt script.
 | "solution", "looked at solution" | `--used-solution` |
 | "didn't solve", "not solved", "gave up" | `--no-solved` |
 | "min", "minutes" | `--time` |
+| "optimal" | `--optimal` |
 
 ## Examples
 
