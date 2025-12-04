@@ -15,6 +15,13 @@ My journey through Elements of Programming Interviews in Python.
 
 Progress toward priority-based learning goals.
 
+| Icon | Tier | Description |
+|------|------|-------------|
+| ☑️ | Attempted | Problems attempted but not yet solved |
+| 👍 | Solved | Problems solved (with or without help) |
+| 💪 | Independent | Problems solved without hints or looking at solutions |
+| 🏆 | Mastered | Problems solved independently in ≤20 min with optimal solution |
+
 ### 🔴 P0: Attempt All (16/16 - 100%)
 
 ☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️

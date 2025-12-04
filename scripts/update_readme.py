@@ -307,6 +307,13 @@ def generate_readme(data, threshold):
         '',
         'Progress toward priority-based learning goals.',
         '',
+        '| Icon | Tier | Description |',
+        '|------|------|-------------|',
+        '| ☑️ | Attempted | Problems attempted but not yet solved |',
+        '| 👍 | Solved | Problems solved (with or without help) |',
+        '| 💪 | Independent | Problems solved without hints or looking at solutions |',
+        '| 🏆 | Mastered | Problems solved independently in ≤20 min with optimal solution |',
+        '',
     ])
 
     # Priority emoji mapping
