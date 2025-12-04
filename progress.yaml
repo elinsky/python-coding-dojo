@@ -2,6 +2,11 @@ flashcards:
   arrays:
     attempts:
     - count: 19
+      date: '2025-12-04T15:24:10.742915'
+      notes: Perfect score
+      score: 19
+      time_seconds: 278
+    - count: 19
       date: '2025-12-03T19:30:41.180459'
       notes: 'Missed Q6: .index(x) not .find(x); Q8: bisect.bisect_left(A, x) is a
         module; Q13: A.remove(x) one-liner exists; Q17: A.reverse() in-place vs A[::-1]
@@ -66,21 +71,21 @@ problems:
     chapter: 05_arrays
     chapter_name: Arrays
     file: 3-problems/advance_by_offsets.py
+    leetcode_difficulty: Medium
+    leetcode_name: Jump Game
+    leetcode_num: '55'
     name: Advancing through an array
     problem_number: '5.04'
-    leetcode_num: '55'
-    leetcode_name: Jump Game
-    leetcode_difficulty: Medium
   alternating_array:
     attempts: []
     chapter: 05_arrays
     chapter_name: Arrays
     file: 3-problems/alternating_array.py
+    leetcode_difficulty: Medium
+    leetcode_name: Wiggle Sort
+    leetcode_num: '280'
     name: Computing an alternation
     problem_number: '5.08'
-    leetcode_num: '280'
-    leetcode_name: Wiggle Sort
-    leetcode_difficulty: Medium
   anagrams:
     attempts: []
     chapter: 12_hash_tables
@@ -100,12 +105,12 @@ problems:
     chapter: 05_arrays
     chapter_name: Arrays
     file: 3-problems/apply_permutation.py
+    leetcode_difficulty: Medium
+    leetcode_name: Next Permutation
+    leetcode_num: '31'
     name: Permute the elements of an array
     priority: P4
     problem_number: '5.10'
-    leetcode_num: '31'
-    leetcode_name: Next Permutation
-    leetcode_difficulty: Medium
   arbitrage:
     attempts: []
     chapter: 24_honors_class
@@ -146,23 +151,23 @@ problems:
     chapter: 14_binary_search_trees
     chapter_name: Binary Search Trees
     file: 3-problems/bst_from_preorder.py
+    leetcode_difficulty: Medium
+    leetcode_name: Construct Binary Search Tree from Preorder Traversal
+    leetcode_num: '1008'
     name: Reconstruct a BST from traversal data
     priority: P3
     problem_number: '14.05'
-    leetcode_num: '1008'
-    leetcode_name: Construct Binary Search Tree from Preorder Traversal
-    leetcode_difficulty: Medium
   bst_from_sorted_array:
     attempts: []
     chapter: 14_binary_search_trees
     chapter_name: Binary Search Trees
     file: 3-problems/bst_from_sorted_array.py
+    leetcode_difficulty: Easy
+    leetcode_name: Convert Sorted Array to Binary Search Tree
+    leetcode_num: '108'
     name: Build a minimum height BST from a sorted array
     priority: P3
     problem_number: '14.08'
-    leetcode_num: '108'
-    leetcode_name: Convert Sorted Array to Binary Search Tree
-    leetcode_difficulty: Easy
   bst_merge:
     attempts: []
     chapter: 24_honors_class
@@ -189,32 +194,32 @@ problems:
     chapter: 05_arrays
     chapter_name: Arrays
     file: 3-problems/buy_and_sell_stock.py
+    leetcode_difficulty: Easy
+    leetcode_name: Best Time to Buy and Sell Stock
+    leetcode_num: '121'
     name: Buy and sell a stock once
     priority: P0
     problem_number: '5.06'
-    leetcode_num: '121'
-    leetcode_name: Best Time to Buy and Sell Stock
-    leetcode_difficulty: Easy
   buy_and_sell_stock_k_times:
     attempts: []
     chapter: 24_honors_class
     chapter_name: Honors Class
     file: 3-problems/buy_and_sell_stock_k_times.py
+    leetcode_difficulty: Hard
+    leetcode_name: Best Time to Buy and Sell Stock IV
+    leetcode_num: '188'
     name: Buy and sell a stock at most k times
     problem_number: '24.03'
-    leetcode_num: '188'
-    leetcode_name: Best Time to Buy and Sell Stock IV
-    leetcode_difficulty: Hard
   buy_and_sell_stock_twice:
     attempts: []
     chapter: 05_arrays
     chapter_name: Arrays
     file: 3-problems/buy_and_sell_stock_twice.py
+    leetcode_difficulty: Hard
+    leetcode_name: Best Time to Buy and Sell Stock III
+    leetcode_num: '123'
     name: Buy and sell a stock twice
     problem_number: '5.07'
-    leetcode_num: '123'
-    leetcode_name: Best Time to Buy and Sell Stock III
-    leetcode_difficulty: Hard
   calendar_rendering:
     attempts: []
     chapter: 13_sorting
@@ -227,12 +232,12 @@ problems:
     chapter: 08_stacks_and_queues
     chapter_name: Stacks and Queues
     file: 3-problems/circular_queue.py
+    leetcode_difficulty: Medium
+    leetcode_name: Design Circular Queue
+    leetcode_num: '622'
     name: Implement a circular queue
     priority: P2
     problem_number: '8.07'
-    leetcode_num: '622'
-    leetcode_name: Design Circular Queue
-    leetcode_difficulty: Medium
   closest_int_same_weight:
     attempts:
     - date: '2025-11-15T11:20:57.015344'
@@ -261,12 +266,12 @@ problems:
     chapter: 15_recursion
     chapter_name: Recursion
     file: 3-problems/combinations.py
+    leetcode_difficulty: Medium
+    leetcode_name: Combinations
+    leetcode_num: '77'
     name: Generate all subsets of size k
     priority: P4
     problem_number: '15.06'
-    leetcode_num: '77'
-    leetcode_name: Combinations
-    leetcode_difficulty: Medium
   confusion_metrics:
     attempts: []
     chapter: M5_evaluation
@@ -286,12 +291,12 @@ problems:
     chapter: 06_strings
     chapter_name: Strings
     file: 3-problems/convert_base.py
+    leetcode_difficulty: Easy
+    leetcode_name: Base 7
+    leetcode_num: '504'
     name: Base conversion
     priority: P1
     problem_number: '6.02'
-    leetcode_num: '504'
-    leetcode_name: Base 7
-    leetcode_difficulty: Easy
   copy_posting_list:
     attempts: []
     chapter: 24_honors_class
@@ -346,11 +351,11 @@ problems:
     chapter: 18_graphs
     chapter_name: Graphs
     file: 3-problems/deadlock_detection.py
+    leetcode_difficulty: Medium
+    leetcode_name: Course Schedule
+    leetcode_num: '207'
     name: Deadlock detection
     problem_number: '18.04'
-    leetcode_num: '207'
-    leetcode_name: Course Schedule
-    leetcode_difficulty: Medium
   decision_tree:
     attempts: []
     chapter: M1_models
@@ -377,22 +382,22 @@ problems:
     chapter: 07_linked_lists
     chapter_name: Linked Lists
     file: 3-problems/delete_kth_last_from_list.py
+    leetcode_difficulty: Medium
+    leetcode_name: Remove Nth Node From End of List
+    leetcode_num: '19'
     name: Remove the kth last element from a list
     priority: P2
     problem_number: '7.07'
-    leetcode_num: '19'
-    leetcode_name: Remove Nth Node From End of List
-    leetcode_difficulty: Medium
   delete_node_from_list:
     attempts: []
     chapter: 07_linked_lists
     chapter_name: Linked Lists
     file: 3-problems/delete_node_from_list.py
+    leetcode_difficulty: Medium
+    leetcode_name: Delete Node in a Linked List
+    leetcode_num: '237'
     name: Delete a node from a singly linked list
     problem_number: '7.06'
-    leetcode_num: '237'
-    leetcode_name: Delete Node in a Linked List
-    leetcode_difficulty: Medium
   descendant_and_ancestor_in_bst:
     attempts: []
     chapter: 14_binary_search_trees
@@ -405,12 +410,12 @@ problems:
     chapter: 08_stacks_and_queues
     chapter_name: Stacks and Queues
     file: 3-problems/directory_path_normalization.py
+    leetcode_difficulty: Medium
+    leetcode_name: Simplify Path
+    leetcode_num: '71'
     name: Normalize pathnames
     priority: P4
     problem_number: '8.04'
-    leetcode_num: '71'
-    leetcode_name: Simplify Path
-    leetcode_difficulty: Medium
   do_lists_overlap:
     attempts: []
     chapter: 07_linked_lists
@@ -423,22 +428,22 @@ problems:
     chapter: 07_linked_lists
     chapter_name: Linked Lists
     file: 3-problems/do_terminated_lists_overlap.py
+    leetcode_difficulty: Easy
+    leetcode_name: Intersection of Two Linked Lists
+    leetcode_num: '160'
     name: Test for overlapping lists---lists are cycle-free
     priority: P2
     problem_number: '7.04'
-    leetcode_num: '160'
-    leetcode_name: Intersection of Two Linked Lists
-    leetcode_difficulty: Easy
   drawing_skyline:
     attempts: []
     chapter: 24_honors_class
     chapter_name: Honors Class
     file: 3-problems/drawing_skyline.py
+    leetcode_difficulty: Hard
+    leetcode_name: The Skyline Problem
+    leetcode_num: '218'
     name: Draw the skyline
     problem_number: '24.25'
-    leetcode_num: '218'
-    leetcode_name: The Skyline Problem
-    leetcode_difficulty: Hard
   dutch_national_flag:
     attempts:
     - date: '2025-11-22T18:08:24.962323'
@@ -451,12 +456,12 @@ problems:
     chapter: 05_arrays
     chapter_name: Arrays
     file: 3-problems/dutch_national_flag.py
+    leetcode_difficulty: Medium
+    leetcode_name: Sort Colors
+    leetcode_num: '75'
     name: The Dutch national flag problem
     priority: P0
     problem_number: '5.01'
-    leetcode_num: '75'
-    leetcode_name: Sort Colors
-    leetcode_difficulty: Medium
   element_appearing_once:
     attempts: []
     chapter: 24_honors_class
@@ -469,32 +474,32 @@ problems:
     chapter: 15_recursion
     chapter_name: Recursion
     file: 3-problems/enumerate_balanced_parentheses.py
+    leetcode_difficulty: Medium
+    leetcode_name: Generate Parentheses
+    leetcode_num: '22'
     name: Generate strings of matched parens
     problem_number: '15.07'
-    leetcode_num: '22'
-    leetcode_name: Generate Parentheses
-    leetcode_difficulty: Medium
   enumerate_palindromic_decompositions:
     attempts: []
     chapter: 15_recursion
     chapter_name: Recursion
     file: 3-problems/enumerate_palindromic_decompositions.py
+    leetcode_difficulty: Medium
+    leetcode_name: Palindrome Partitioning
+    leetcode_num: '131'
     name: Generate palindromic decompositions
     problem_number: '15.08'
-    leetcode_num: '131'
-    leetcode_name: Palindrome Partitioning
-    leetcode_difficulty: Medium
   enumerate_trees:
     attempts: []
     chapter: 15_recursion
     chapter_name: Recursion
     file: 3-problems/enumerate_trees.py
+    leetcode_difficulty: Medium
+    leetcode_name: Unique Binary Search Trees II
+    leetcode_num: '95'
     name: Generate binary trees
     priority: P3
     problem_number: '15.09'
-    leetcode_num: '95'
-    leetcode_name: Unique Binary Search Trees II
-    leetcode_difficulty: Medium
   euclidean_gcd:
     attempts: []
     chapter: 15_recursion
@@ -507,12 +512,12 @@ problems:
     chapter: 08_stacks_and_queues
     chapter_name: Stacks and Queues
     file: 3-problems/evaluate_rpn.py
+    leetcode_difficulty: Medium
+    leetcode_name: Evaluate Reverse Polish Notation
+    leetcode_num: '150'
     name: Evaluate RPN expressions
     priority: P2
     problem_number: '8.02'
-    leetcode_num: '150'
-    leetcode_name: Evaluate Reverse Polish Notation
-    leetcode_difficulty: Medium
   even_odd_array:
     attempts: []
     chapter: 05_arrays
@@ -525,12 +530,12 @@ problems:
     chapter: 07_linked_lists
     chapter_name: Linked Lists
     file: 3-problems/even_odd_list_merge.py
+    leetcode_difficulty: Medium
+    leetcode_name: Odd Even Linked List
+    leetcode_num: '328'
     name: Implement even-odd merge
     priority: P3
     problem_number: '7.10'
-    leetcode_num: '328'
-    leetcode_name: Odd Even Linked List
-    leetcode_difficulty: Medium
   exercise_assignment:
     attempts: []
     chapter: T1_trading
@@ -571,11 +576,11 @@ problems:
     chapter: 24_honors_class
     chapter_name: Honors Class
     file: 3-problems/first_missing_positive_entry.py
+    leetcode_difficulty: Hard
+    leetcode_name: First Missing Positive
+    leetcode_num: '41'
     name: Find the first missing positive entry
     problem_number: '24.02'
-    leetcode_num: '41'
-    leetcode_name: First Missing Positive
-    leetcode_difficulty: Hard
   fix_log_parser:
     attempts: []
     chapter: T1_trading
@@ -609,22 +614,22 @@ problems:
     chapter: 18_graphs
     chapter_name: Graphs
     file: 3-problems/graph_clone.py
+    leetcode_difficulty: Medium
+    leetcode_name: Clone Graph
+    leetcode_num: '133'
     name: Clone a graph
     priority: P4
     problem_number: '18.05'
-    leetcode_num: '133'
-    leetcode_name: Clone Graph
-    leetcode_difficulty: Medium
   gray_code:
     attempts: []
     chapter: 15_recursion
     chapter_name: Recursion
     file: 3-problems/gray_code.py
+    leetcode_difficulty: Medium
+    leetcode_name: Gray Code
+    leetcode_num: '89'
     name: Compute a Gray code
     problem_number: '15.11'
-    leetcode_num: '89'
-    leetcode_name: Gray Code
-    leetcode_difficulty: Medium
   group_equal_entries:
     attempts: []
     chapter: 13_sorting
@@ -637,11 +642,11 @@ problems:
     chapter: 13_sorting
     chapter_name: Sorting
     file: 3-problems/h_index.py
+    leetcode_difficulty: Medium
+    leetcode_name: H-Index
+    leetcode_num: '274'
     name: Computing the h-index
     problem_number: '13.03'
-    leetcode_num: '274'
-    leetcode_name: H-Index
-    leetcode_difficulty: Medium
   hanoi:
     attempts:
     - date: '2025-11-25'
@@ -651,12 +656,12 @@ problems:
     chapter: 15_recursion
     chapter_name: Recursion
     file: 3-problems/hanoi.py
+    leetcode_difficulty: Easy
+    leetcode_name: Hanota (LCCI)
+    leetcode_num: '08.06'
     name: The Towers of Hanoi problem
     priority: P0
     problem_number: '15.01'
-    leetcode_num: '08.06'
-    leetcode_name: Hanota (LCCI)
-    leetcode_difficulty: Easy
   huffman_coding:
     attempts: []
     chapter: 24_honors_class
@@ -683,33 +688,33 @@ problems:
     chapter: 05_arrays
     chapter_name: Arrays
     file: 3-problems/int_as_array_increment.py
+    leetcode_difficulty: Easy
+    leetcode_name: Plus One
+    leetcode_num: '66'
     name: Increment an arbitrary-precision integer
     priority: P2
     problem_number: '5.02'
-    leetcode_num: '66'
-    leetcode_name: Plus One
-    leetcode_difficulty: Easy
   int_as_array_multiply:
     attempts: []
     chapter: 05_arrays
     chapter_name: Arrays
     file: 3-problems/int_as_array_multiply.py
+    leetcode_difficulty: Medium
+    leetcode_name: Multiply Strings
+    leetcode_num: '43'
     name: Multiply two arbitrary-precision integers
     priority: P4
     problem_number: '5.03'
-    leetcode_num: '43'
-    leetcode_name: Multiply Strings
-    leetcode_difficulty: Medium
   int_as_list_add:
     attempts: []
     chapter: 07_linked_lists
     chapter_name: Linked Lists
     file: 3-problems/int_as_list_add.py
+    leetcode_difficulty: Medium
+    leetcode_name: Add Two Numbers
+    leetcode_num: '2'
     name: Add list-based integers
     problem_number: '7.13'
-    leetcode_num: '2'
-    leetcode_name: Add Two Numbers
-    leetcode_difficulty: Medium
   int_square_root:
     attempts:
     - date: '2025-12-03T20:36:40.655357'
@@ -722,12 +727,12 @@ problems:
     chapter: 11_searching
     chapter_name: Searching
     file: 3-problems/int_square_root.py
+    leetcode_difficulty: Easy
+    leetcode_name: Sqrt(x)
+    leetcode_num: '69'
     name: Compute the integer square root
     priority: P1
     problem_number: '11.04'
-    leetcode_num: '69'
-    leetcode_name: Sqrt(x)
-    leetcode_difficulty: Easy
   intersect_sorted_arrays:
     attempts:
     - date: '2025-11-23T21:51:09.915099'
@@ -740,34 +745,34 @@ problems:
     chapter: 13_sorting
     chapter_name: Sorting
     file: 3-problems/intersect_sorted_arrays.py
+    leetcode_difficulty: Easy
+    leetcode_name: Intersection of Two Arrays
+    leetcode_num: '349'
     name: Compute the intersection of two sorted arrays
     priority: P0
     problem_number: '13.01'
-    leetcode_num: '349'
-    leetcode_name: Intersection of Two Arrays
-    leetcode_difficulty: Easy
   interval_add:
     attempts: []
     chapter: 13_sorting
     chapter_name: Sorting
     file: 3-problems/interval_add.py
+    leetcode_difficulty: Medium
+    leetcode_name: Merge Intervals
+    leetcode_num: '56'
     name: Merging intervals
     priority: P3
     problem_number: '13.07'
-    leetcode_num: '56'
-    leetcode_name: Merge Intervals
-    leetcode_difficulty: Medium
   intervals_union:
     attempts: []
     chapter: 13_sorting
     chapter_name: Sorting
     file: 3-problems/intervals_union.py
+    leetcode_difficulty: Medium
+    leetcode_name: Merge Intervals
+    leetcode_num: '56'
     name: Compute the union of intervals
     priority: P4
     problem_number: '13.08'
-    leetcode_num: '56'
-    leetcode_name: Merge Intervals
-    leetcode_difficulty: Medium
   is_anonymous_letter_constructible:
     attempts:
     - date: '2025-11-23T21:28:30.441197'
@@ -780,12 +785,12 @@ problems:
     chapter: 12_hash_tables
     chapter_name: Hash Tables
     file: 3-problems/is_anonymous_letter_constructible.py
+    leetcode_difficulty: Easy
+    leetcode_name: Ransom Note
+    leetcode_num: '383'
     name: Is an anonymous letter constructible?
     priority: P0
     problem_number: '12.02'
-    leetcode_num: '383'
-    leetcode_name: Ransom Note
-    leetcode_difficulty: Easy
   is_array_dominated:
     attempts: []
     chapter: 13_sorting
@@ -813,56 +818,56 @@ problems:
     chapter: 07_linked_lists
     chapter_name: Linked Lists
     file: 3-problems/is_list_cyclic.py
+    leetcode_difficulty: Easy
+    leetcode_name: Linked List Cycle
+    leetcode_num: '141'
     name: Test for cyclicity
     priority: P1
     problem_number: '7.03'
-    leetcode_num: '141'
-    leetcode_name: Linked List Cycle
-    leetcode_difficulty: Easy
   is_list_palindromic:
     attempts: []
     chapter: 07_linked_lists
     chapter_name: Linked Lists
     file: 3-problems/is_list_palindromic.py
+    leetcode_difficulty: Easy
+    leetcode_name: Palindrome Linked List
+    leetcode_num: '234'
     name: Test whether a singly linked list is palindromic
     priority: P4
     problem_number: '7.11'
-    leetcode_num: '234'
-    leetcode_name: Palindrome Linked List
-    leetcode_difficulty: Easy
   is_number_palindromic:
     attempts: []
     chapter: 04_primitive_types
     chapter_name: Primitive Types
     file: 3-problems/is_number_palindromic.py
+    leetcode_difficulty: Easy
+    leetcode_name: Palindrome Number
+    leetcode_num: '9'
     name: Check if a decimal integer is a palindrome
     priority: P4
     problem_number: '4.09'
-    leetcode_num: '9'
-    leetcode_name: Palindrome Number
-    leetcode_difficulty: Easy
   is_string_decomposable_into_words:
     attempts: []
     chapter: 16_dynamic_programming
     chapter_name: Dynamic Programming
     file: 3-problems/is_string_decomposable_into_words.py
+    leetcode_difficulty: Hard
+    leetcode_name: Word Break II
+    leetcode_num: '140'
     name: Building a search index for domains
     priority: P3
     problem_number: '16.07'
-    leetcode_num: '140'
-    leetcode_name: Word Break II
-    leetcode_difficulty: Hard
   is_string_in_matrix:
     attempts: []
     chapter: 16_dynamic_programming
     chapter_name: Dynamic Programming
     file: 3-problems/is_string_in_matrix.py
+    leetcode_difficulty: Medium
+    leetcode_name: Word Search
+    leetcode_num: '79'
     name: Search for a sequence in a 2D array
     priority: P3
     problem_number: '16.05'
-    leetcode_num: '79'
-    leetcode_name: Word Search
-    leetcode_difficulty: Medium
   is_string_palindromic:
     attempts: []
     chapter: 06_strings
@@ -875,12 +880,12 @@ problems:
     chapter: 06_strings
     chapter_name: Strings
     file: 3-problems/is_string_palindromic_punctuation.py
+    leetcode_difficulty: Easy
+    leetcode_name: Valid Palindrome
+    leetcode_num: '125'
     name: Test palindromicity
     priority: P2
     problem_number: '6.05'
-    leetcode_num: '125'
-    leetcode_name: Valid Palindrome
-    leetcode_difficulty: Easy
   is_string_permutable_to_palindrome:
     attempts: []
     chapter: 12_hash_tables
@@ -901,12 +906,12 @@ problems:
     chapter: 14_binary_search_trees
     chapter_name: Binary Search Trees
     file: 3-problems/is_tree_a_bst.py
+    leetcode_difficulty: Medium
+    leetcode_name: Validate Binary Search Tree
+    leetcode_num: '98'
     name: Test if a binary tree satisfies the BST property
     priority: P0
     problem_number: '14.01'
-    leetcode_num: '98'
-    leetcode_name: Validate Binary Search Tree
-    leetcode_difficulty: Medium
   is_tree_balanced:
     attempts:
     - date: '2025-11-23T19:22:44.812626'
@@ -921,45 +926,45 @@ problems:
     chapter: 09_binary_trees
     chapter_name: Binary Trees
     file: 3-problems/is_tree_balanced.py
+    leetcode_difficulty: Easy
+    leetcode_name: Balanced Binary Tree
+    leetcode_num: '110'
     name: Test if a binary tree is height-balanced
     priority: P0
     problem_number: '9.01'
-    leetcode_num: '110'
-    leetcode_name: Balanced Binary Tree
-    leetcode_difficulty: Easy
   is_tree_symmetric:
     attempts: []
     chapter: 09_binary_trees
     chapter_name: Binary Trees
     file: 3-problems/is_tree_symmetric.py
+    leetcode_difficulty: Easy
+    leetcode_name: Symmetric Tree
+    leetcode_num: '101'
     name: Test if a binary tree is symmetric
     priority: P2
     problem_number: '9.02'
-    leetcode_num: '101'
-    leetcode_name: Symmetric Tree
-    leetcode_difficulty: Easy
   is_valid_parenthesization:
     attempts: []
     chapter: 08_stacks_and_queues
     chapter_name: Stacks and Queues
     file: 3-problems/is_valid_parenthesization.py
+    leetcode_difficulty: Easy
+    leetcode_name: Valid Parentheses
+    leetcode_num: '20'
     name: Is a string well-formed?
     priority: P3
     problem_number: '8.03'
-    leetcode_num: '20'
-    leetcode_name: Valid Parentheses
-    leetcode_difficulty: Easy
   is_valid_sudoku:
     attempts: []
     chapter: 05_arrays
     chapter_name: Arrays
     file: 3-problems/is_valid_sudoku.py
+    leetcode_difficulty: Medium
+    leetcode_name: Valid Sudoku
+    leetcode_num: '36'
     name: The Sudoku checker problem
     priority: P2
     problem_number: '5.17'
-    leetcode_num: '36'
-    leetcode_name: Valid Sudoku
-    leetcode_difficulty: Medium
   iv_surface_cleaner:
     attempts: []
     chapter: T1_trading
@@ -986,12 +991,12 @@ problems:
     chapter: 10_heaps
     chapter_name: Heaps
     file: 3-problems/k_closest_stars.py
+    leetcode_difficulty: Medium
+    leetcode_name: K Closest Points to Origin
+    leetcode_num: '973'
     name: Compute the k closest stars
     priority: P1
     problem_number: '10.04'
-    leetcode_num: '973'
-    leetcode_name: K Closest Points to Origin
-    leetcode_difficulty: Medium
   k_largest_in_heap:
     attempts: []
     chapter: 10_heaps
@@ -1005,12 +1010,12 @@ problems:
     chapter: 14_binary_search_trees
     chapter_name: Binary Search Trees
     file: 3-problems/k_largest_values_in_bst.py
+    leetcode_difficulty: Medium
+    leetcode_name: Kth Smallest Element in a BST
+    leetcode_num: '230'
     name: Find the k largest elements in a BST
     priority: P1
     problem_number: '14.03'
-    leetcode_num: '230'
-    leetcode_name: Kth Smallest Element in a BST
-    leetcode_difficulty: Medium
   kfold_cross_validation:
     attempts: []
     chapter: M3_regularization
@@ -1030,12 +1035,12 @@ problems:
     chapter: 16_dynamic_programming
     chapter_name: Dynamic Programming
     file: 3-problems/knapsack.py
+    leetcode_difficulty: Medium
+    leetcode_name: Partition Equal Subset Sum
+    leetcode_num: '416'
     name: The knapsack problem
     priority: P2
     problem_number: '16.06'
-    leetcode_num: '416'
-    leetcode_name: Partition Equal Subset Sum
-    leetcode_difficulty: Medium
   knn_classifier:
     attempts: []
     chapter: M1_models
@@ -1069,12 +1074,12 @@ problems:
     chapter: 11_searching
     chapter_name: Searching
     file: 3-problems/kth_largest_in_array.py
+    leetcode_difficulty: Medium
+    leetcode_name: Kth Largest Element in an Array
+    leetcode_num: '215'
     name: Find the kth largest element
     priority: P1
     problem_number: '11.08'
-    leetcode_num: '215'
-    leetcode_name: Kth Largest Element in an Array
-    leetcode_difficulty: Medium
   kth_node_in_tree:
     attempts: []
     chapter: 09_binary_trees
@@ -1094,12 +1099,12 @@ problems:
     chapter: 17_greedy_algorithms_and_invariants
     chapter_name: Greedy Algorithms and Invariants
     file: 3-problems/largest_rectangle_under_skyline.py
+    leetcode_difficulty: Hard
+    leetcode_name: Largest Rectangle in Histogram
+    leetcode_num: '84'
     name: Compute the largest rectangle under the skyline
     priority: P4
     problem_number: '17.08'
-    leetcode_num: '84'
-    leetcode_name: Largest Rectangle in Histogram
-    leetcode_difficulty: Hard
   left_right_justify_text:
     attempts: []
     chapter: 24_honors_class
@@ -1112,12 +1117,12 @@ problems:
     chapter: 16_dynamic_programming
     chapter_name: Dynamic Programming
     file: 3-problems/levenshtein_distance.py
+    leetcode_difficulty: Hard
+    leetcode_name: Edit Distance
+    leetcode_num: '72'
     name: Compute the Levenshtein distance
     priority: P1
     problem_number: '16.02'
-    leetcode_num: '72'
-    leetcode_name: Edit Distance
-    leetcode_difficulty: Hard
   line_through_most_points:
     attempts: []
     chapter: 24_honors_class
@@ -1137,11 +1142,11 @@ problems:
     chapter: 07_linked_lists
     chapter_name: Linked Lists
     file: 3-problems/list_cyclic_right_shift.py
+    leetcode_difficulty: Medium
+    leetcode_name: Rotate List
+    leetcode_num: '61'
     name: Implement cyclic right shift for singly linked lists
     problem_number: '7.09'
-    leetcode_num: '61'
-    leetcode_name: Rotate List
-    leetcode_difficulty: Medium
   log_parser:
     attempts: []
     chapter: P3_text_processing
@@ -1161,12 +1166,12 @@ problems:
     chapter: 12_hash_tables
     chapter_name: Hash Tables
     file: 3-problems/longest_contained_interval.py
+    leetcode_difficulty: Medium
+    leetcode_name: Longest Consecutive Sequence
+    leetcode_num: '128'
     name: Find the length of a longest contained interval
     priority: P4
     problem_number: '12.09'
-    leetcode_num: '128'
-    leetcode_name: Longest Consecutive Sequence
-    leetcode_difficulty: Medium
   longest_increasing_subarray:
     attempts: []
     chapter: 24_honors_class
@@ -1179,22 +1184,22 @@ problems:
     chapter: 16_dynamic_programming
     chapter_name: Dynamic Programming
     file: 3-problems/longest_nondecreasing_subsequence.py
+    leetcode_difficulty: Medium
+    leetcode_name: Longest Increasing Subsequence
+    leetcode_num: '300'
     name: Find the longest nondecreasing subsequence
     priority: P4
     problem_number: '16.12'
-    leetcode_num: '300'
-    leetcode_name: Longest Increasing Subsequence
-    leetcode_difficulty: Medium
   longest_subarray_with_distinct_values:
     attempts: []
     chapter: 12_hash_tables
     chapter_name: Hash Tables
     file: 3-problems/longest_subarray_with_distinct_values.py
+    leetcode_difficulty: Medium
+    leetcode_name: Longest Substring Without Repeating Characters
+    leetcode_num: '3'
     name: Find the longest subarray with distinct entries
     problem_number: '12.08'
-    leetcode_num: '3'
-    leetcode_name: Longest Substring Without Repeating Characters
-    leetcode_difficulty: Medium
   longest_subarray_with_sum_constraint:
     attempts: []
     chapter: 24_honors_class
@@ -1214,44 +1219,44 @@ problems:
     chapter: 06_strings
     chapter_name: Strings
     file: 3-problems/look_and_say.py
+    leetcode_difficulty: Medium
+    leetcode_name: Count and Say
+    leetcode_num: '38'
     name: The look-and-say problem
     priority: P3
     problem_number: '6.07'
-    leetcode_num: '38'
-    leetcode_name: Count and Say
-    leetcode_difficulty: Medium
   lowest_common_ancestor:
     attempts: []
     chapter: 09_binary_trees
     chapter_name: Binary Trees
     file: 3-problems/lowest_common_ancestor.py
+    leetcode_difficulty: Medium
+    leetcode_name: Lowest Common Ancestor of a Binary Tree
+    leetcode_num: '236'
     name: Compute the lowest common ancestor in a binary tree
     problem_number: '9.03'
-    leetcode_num: '236'
-    leetcode_name: Lowest Common Ancestor of a Binary Tree
-    leetcode_difficulty: Medium
   lowest_common_ancestor_close_ancestor:
     attempts: []
     chapter: 12_hash_tables
     chapter_name: Hash Tables
     file: 3-problems/lowest_common_ancestor_close_ancestor.py
+    leetcode_difficulty: Medium
+    leetcode_name: Lowest Common Ancestor of a Binary Tree
+    leetcode_num: '236'
     name: Compute the LCA, optimizing for close ancestors
     priority: P3
     problem_number: '12.04'
-    leetcode_num: '236'
-    leetcode_name: Lowest Common Ancestor of a Binary Tree
-    leetcode_difficulty: Medium
   lowest_common_ancestor_in_bst:
     attempts: []
     chapter: 14_binary_search_trees
     chapter_name: Binary Search Trees
     file: 3-problems/lowest_common_ancestor_in_bst.py
+    leetcode_difficulty: Medium
+    leetcode_name: Lowest Common Ancestor of a BST
+    leetcode_num: '235'
     name: Compute the LCA in a BST
     priority: P2
     problem_number: '14.04'
-    leetcode_num: '235'
-    leetcode_name: Lowest Common Ancestor of a BST
-    leetcode_difficulty: Medium
   lowest_common_ancestor_with_parent:
     attempts:
     - date: '2025-11-27T22:15:47.150342'
@@ -1272,23 +1277,23 @@ problems:
     chapter: 12_hash_tables
     chapter_name: Hash Tables
     file: 3-problems/lru_cache.py
+    leetcode_difficulty: Medium
+    leetcode_name: LRU Cache
+    leetcode_num: '146'
     name: Implement an ISBN cache
     priority: P1
     problem_number: '12.03'
-    leetcode_num: '146'
-    leetcode_name: LRU Cache
-    leetcode_difficulty: Medium
   majority_element:
     attempts: []
     chapter: 17_greedy_algorithms_and_invariants
     chapter_name: Greedy Algorithms and Invariants
     file: 3-problems/majority_element.py
+    leetcode_difficulty: Easy
+    leetcode_name: Majority Element
+    leetcode_num: '169'
     name: Find the majority element
     priority: P2
     problem_number: '17.05'
-    leetcode_num: '169'
-    leetcode_name: Majority Element
-    leetcode_difficulty: Easy
   making_change:
     attempts: []
     chapter: 17_greedy_algorithms_and_invariants
@@ -1301,43 +1306,43 @@ problems:
     chapter: 18_graphs
     chapter_name: Graphs
     file: 3-problems/matrix_connected_regions.py
+    leetcode_difficulty: Easy
+    leetcode_name: Flood Fill
+    leetcode_num: '733'
     name: Paint a Boolean matrix
     priority: P2
     problem_number: '18.02'
-    leetcode_num: '733'
-    leetcode_name: Flood Fill
-    leetcode_difficulty: Easy
   matrix_enclosed_regions:
     attempts: []
     chapter: 18_graphs
     chapter_name: Graphs
     file: 3-problems/matrix_enclosed_regions.py
+    leetcode_difficulty: Medium
+    leetcode_name: Surrounded Regions
+    leetcode_num: '130'
     name: Compute enclosed regions
     priority: P3
     problem_number: '18.03'
-    leetcode_num: '130'
-    leetcode_name: Surrounded Regions
-    leetcode_difficulty: Medium
   matrix_rotation:
     attempts: []
     chapter: 05_arrays
     chapter_name: Arrays
     file: 3-problems/matrix_rotation.py
+    leetcode_difficulty: Medium
+    leetcode_name: Rotate Image
+    leetcode_num: '48'
     name: Rotate a 2D array
     problem_number: '5.19'
-    leetcode_num: '48'
-    leetcode_name: Rotate Image
-    leetcode_difficulty: Medium
   max_of_sliding_window:
     attempts: []
     chapter: 24_honors_class
     chapter_name: Honors Class
     file: 3-problems/max_of_sliding_window.py
+    leetcode_difficulty: Hard
+    leetcode_name: Sliding Window Maximum
+    leetcode_num: '239'
     name: Compute the maximum of a sliding window
     problem_number: '24.12'
-    leetcode_num: '239'
-    leetcode_name: Sliding Window Maximum
-    leetcode_difficulty: Hard
   max_product_all_but_one:
     attempts: []
     chapter: 24_honors_class
@@ -1371,32 +1376,32 @@ problems:
     chapter: 17_greedy_algorithms_and_invariants
     chapter_name: Greedy Algorithms and Invariants
     file: 3-problems/max_trapped_water.py
+    leetcode_difficulty: Medium
+    leetcode_name: Container With Most Water
+    leetcode_num: '11'
     name: Compute the maximum water trapped by a pair of vertical lines
     priority: P3
     problem_number: '17.07'
-    leetcode_num: '11'
-    leetcode_name: Container With Most Water
-    leetcode_difficulty: Medium
   max_water_trappable:
     attempts: []
     chapter: 24_honors_class
     chapter_name: Honors Class
     file: 3-problems/max_water_trappable.py
+    leetcode_difficulty: Hard
+    leetcode_name: Trapping Rain Water
+    leetcode_num: '42'
     name: Trapping water
     problem_number: '24.31'
-    leetcode_num: '42'
-    leetcode_name: Trapping Rain Water
-    leetcode_difficulty: Hard
   maximum_subarray_in_circular_array:
     attempts: []
     chapter: 24_honors_class
     chapter_name: Honors Class
     file: 3-problems/maximum_subarray_in_circular_array.py
+    leetcode_difficulty: Medium
+    leetcode_name: Maximum Sum Circular Subarray
+    leetcode_num: '918'
     name: Compute the maximum subarray sum in a circular array
     problem_number: '24.27'
-    leetcode_num: '918'
-    leetcode_name: Maximum Sum Circular Subarray
-    leetcode_difficulty: Medium
   minimum_distance_3_sorted_arrays:
     attempts: []
     chapter: 14_binary_search_trees
@@ -1423,22 +1428,22 @@ problems:
     chapter: 16_dynamic_programming
     chapter_name: Dynamic Programming
     file: 3-problems/minimum_weight_path_in_a_triangle.py
+    leetcode_difficulty: Medium
+    leetcode_name: Triangle
+    leetcode_num: '120'
     name: Find the minimum weight path in a triangle
     problem_number: '16.08'
-    leetcode_num: '120'
-    leetcode_name: Triangle
-    leetcode_difficulty: Medium
   n_queens:
     attempts: []
     chapter: 15_recursion
     chapter_name: Recursion
     file: 3-problems/n_queens.py
+    leetcode_difficulty: Hard
+    leetcode_name: N-Queens
+    leetcode_num: '51'
     name: Generate all nonattacking placements of n-Queens
     priority: P2
     problem_number: '15.03'
-    leetcode_num: '51'
-    leetcode_name: N-Queens
-    leetcode_difficulty: Hard
   nbbo_snapshotter:
     attempts: []
     chapter: T1_trading
@@ -1451,22 +1456,22 @@ problems:
     chapter: 12_hash_tables
     chapter_name: Hash Tables
     file: 3-problems/nearest_repeated_entries.py
+    leetcode_difficulty: Easy
+    leetcode_name: Contains Duplicate II
+    leetcode_num: '219'
     name: Find the nearest repeated entries in an array
     priority: P1
     problem_number: '12.05'
-    leetcode_num: '219'
-    leetcode_name: Contains Duplicate II
-    leetcode_difficulty: Easy
   next_permutation:
     attempts: []
     chapter: 05_arrays
     chapter_name: Arrays
     file: 3-problems/next_permutation.py
+    leetcode_difficulty: Medium
+    leetcode_name: Next Permutation
+    leetcode_num: '31'
     name: Compute the next permutation
     problem_number: '5.11'
-    leetcode_num: '31'
-    leetcode_name: Next Permutation
-    leetcode_difficulty: Medium
   nonuniform_random_number:
     attempts: []
     chapter: 05_arrays
@@ -1483,33 +1488,33 @@ problems:
     chapter: 16_dynamic_programming
     chapter_name: Dynamic Programming
     file: 3-problems/number_of_score_combinations.py
+    leetcode_difficulty: Medium
+    leetcode_name: Coin Change II
+    leetcode_num: '518'
     name: Count the number of score combinations
     priority: P0
     problem_number: '16.01'
-    leetcode_num: '518'
-    leetcode_name: Coin Change II
-    leetcode_difficulty: Medium
   number_of_traversals_matrix:
     attempts: []
     chapter: 16_dynamic_programming
     chapter_name: Dynamic Programming
     file: 3-problems/number_of_traversals_matrix.py
+    leetcode_difficulty: Medium
+    leetcode_name: Unique Paths
+    leetcode_num: '62'
     name: Count the number of ways to traverse a 2D array
     priority: P2
     problem_number: '16.03'
-    leetcode_num: '62'
-    leetcode_name: Unique Paths
-    leetcode_difficulty: Medium
   number_of_traversals_staircase:
     attempts: []
     chapter: 16_dynamic_programming
     chapter_name: Dynamic Programming
     file: 3-problems/number_of_traversals_staircase.py
+    leetcode_difficulty: Easy
+    leetcode_name: Climbing Stairs
+    leetcode_num: '70'
     name: Count the number of moves to climb stairs
     problem_number: '16.10'
-    leetcode_num: '70'
-    leetcode_name: Climbing Stairs
-    leetcode_difficulty: Easy
   offline_sampling:
     attempts:
     - date: '2025-11-27T17:39:45.963869'
@@ -1522,23 +1527,23 @@ problems:
     chapter: 05_arrays
     chapter_name: Arrays
     file: 3-problems/offline_sampling.py
+    leetcode_difficulty: Medium
+    leetcode_name: Shuffle an Array
+    leetcode_num: '384'
     name: Sample offline data
     priority: P1
     problem_number: '5.12'
-    leetcode_num: '384'
-    leetcode_name: Shuffle an Array
-    leetcode_difficulty: Medium
   online_median:
     attempts: []
     chapter: 10_heaps
     chapter_name: Heaps
     file: 3-problems/online_median.py
+    leetcode_difficulty: Hard
+    leetcode_name: Find Median from Data Stream
+    leetcode_num: '295'
     name: Compute the median of online data
     priority: P3
     problem_number: '10.05'
-    leetcode_num: '295'
-    leetcode_name: Find Median from Data Stream
-    leetcode_difficulty: Hard
   online_sampling:
     attempts: []
     chapter: 05_arrays
@@ -1568,32 +1573,32 @@ problems:
     chapter: 04_primitive_types
     chapter_name: Primitive Types
     file: 3-problems/parity.py
+    leetcode_difficulty: Easy
+    leetcode_name: Number of 1 Bits
+    leetcode_num: '191'
     name: Computing the parity of a word
     priority: P0
     problem_number: '4.01'
-    leetcode_num: '191'
-    leetcode_name: Number of 1 Bits
-    leetcode_difficulty: Easy
   pascal_triangle:
     attempts: []
     chapter: 05_arrays
     chapter_name: Arrays
     file: 3-problems/pascal_triangle.py
+    leetcode_difficulty: Easy
+    leetcode_name: Pascal's Triangle
+    leetcode_num: '118'
     name: Compute rows in Pascal's Triangle
     problem_number: '5.20'
-    leetcode_num: '118'
-    leetcode_name: Pascal's Triangle
-    leetcode_difficulty: Easy
   path_sum:
     attempts: []
     chapter: 09_binary_trees
     chapter_name: Binary Trees
     file: 3-problems/path_sum.py
+    leetcode_difficulty: Easy
+    leetcode_name: Path Sum
+    leetcode_num: '112'
     name: Find a root to leaf path with specified sum
     problem_number: '9.06'
-    leetcode_num: '112'
-    leetcode_name: Path Sum
-    leetcode_difficulty: Easy
   pcap_latency_analyzer:
     attempts: []
     chapter: T1_trading
@@ -1606,23 +1611,23 @@ problems:
     chapter: 15_recursion
     chapter_name: Recursion
     file: 3-problems/permutations.py
+    leetcode_difficulty: Medium
+    leetcode_name: Permutations
+    leetcode_num: '46'
     name: Generate permutations
     priority: P3
     problem_number: '15.04'
-    leetcode_num: '46'
-    leetcode_name: Permutations
-    leetcode_difficulty: Medium
   phone_number_mnemonic:
     attempts: []
     chapter: 15_recursion
     chapter_name: Recursion
     file: 3-problems/phone_number_mnemonic.py
+    leetcode_difficulty: Medium
+    leetcode_name: Letter Combinations of a Phone Number
+    leetcode_num: '17'
     name: Compute all mnemonics for a phone number
     priority: P1
     problem_number: '15.02'
-    leetcode_num: '17'
-    leetcode_name: Letter Combinations of a Phone Number
-    leetcode_difficulty: Medium
   picking_up_coins:
     attempts: []
     chapter: 16_dynamic_programming
@@ -1635,11 +1640,11 @@ problems:
     chapter: 07_linked_lists
     chapter_name: Linked Lists
     file: 3-problems/pivot_list.py
+    leetcode_difficulty: Medium
+    leetcode_name: Partition List
+    leetcode_num: '86'
     name: Implement list pivoting
     problem_number: '7.12'
-    leetcode_num: '86'
-    leetcode_name: Partition List
-    leetcode_difficulty: Medium
   pnl_explain:
     attempts: []
     chapter: T1_trading
@@ -1652,11 +1657,11 @@ problems:
     chapter: 15_recursion
     chapter_name: Recursion
     file: 3-problems/power_set.py
+    leetcode_difficulty: Medium
+    leetcode_name: Subsets
+    leetcode_num: '78'
     name: Generate the power set
     problem_number: '15.05'
-    leetcode_num: '78'
-    leetcode_name: Subsets
-    leetcode_difficulty: Medium
   power_x_y:
     attempts:
     - date: '2025-11-27'
@@ -1671,12 +1676,12 @@ problems:
     chapter: 04_primitive_types
     chapter_name: Primitive Types
     file: 3-problems/power_x_y.py
+    leetcode_difficulty: Medium
+    leetcode_name: Pow(x, n)
+    leetcode_num: '50'
     name: Compute pow(x,y)
     priority: P1
     problem_number: '4.07'
-    leetcode_num: '50'
-    leetcode_name: Pow(x, n)
-    leetcode_difficulty: Medium
   precision_recall:
     attempts: []
     chapter: M5_evaluation
@@ -1696,12 +1701,12 @@ problems:
     chapter: 05_arrays
     chapter_name: Arrays
     file: 3-problems/prime_sieve.py
+    leetcode_difficulty: Medium
+    leetcode_name: Count Primes
+    leetcode_num: '204'
     name: Enumerate all primes to n
     priority: P3
     problem_number: '5.09'
-    leetcode_num: '204'
-    leetcode_name: Count Primes
-    leetcode_difficulty: Medium
   primitive_divide:
     attempts: []
     chapter: 04_primitive_types
@@ -1721,12 +1726,12 @@ problems:
     chapter: 08_stacks_and_queues
     chapter_name: Stacks and Queues
     file: 3-problems/queue_from_stacks.py
+    leetcode_difficulty: Easy
+    leetcode_name: Implement Queue using Stacks
+    leetcode_num: '232'
     name: Implement a queue using stacks
     priority: P3
     problem_number: '8.08'
-    leetcode_num: '232'
-    leetcode_name: Implement Queue using Stacks
-    leetcode_difficulty: Easy
   queue_with_max:
     attempts: []
     chapter: 08_stacks_and_queues
@@ -1739,22 +1744,22 @@ problems:
     chapter: 05_arrays
     chapter_name: Arrays
     file: 3-problems/random_permutation.py
+    leetcode_difficulty: Medium
+    leetcode_name: Shuffle an Array
+    leetcode_num: '384'
     name: Compute a random permutation
     problem_number: '5.14'
-    leetcode_num: '384'
-    leetcode_name: Shuffle an Array
-    leetcode_difficulty: Medium
   random_subset:
     attempts: []
     chapter: 05_arrays
     chapter_name: Arrays
     file: 3-problems/random_subset.py
+    leetcode_difficulty: Medium
+    leetcode_name: Random Pick Index
+    leetcode_num: '398'
     name: Compute a random subset
     priority: P4
     problem_number: '5.15'
-    leetcode_num: '398'
-    leetcode_name: Random Pick Index
-    leetcode_difficulty: Medium
   range_lookup_in_bst:
     attempts: []
     chapter: 14_binary_search_trees
@@ -1767,44 +1772,44 @@ problems:
     chapter: 11_searching
     chapter_name: Searching
     file: 3-problems/real_square_root.py
+    leetcode_difficulty: Easy
+    leetcode_name: Sqrt(x)
+    leetcode_num: '69'
     name: Compute the real square root
     priority: P3
     problem_number: '11.05'
-    leetcode_num: '69'
-    leetcode_name: Sqrt(x)
-    leetcode_difficulty: Easy
   rectangle_intersection:
     attempts: []
     chapter: 04_primitive_types
     chapter_name: Primitive Types
     file: 3-problems/rectangle_intersection.py
+    leetcode_difficulty: Easy
+    leetcode_name: Rectangle Overlap
+    leetcode_num: '836'
     name: Rectangle intersection
     priority: P3
     problem_number: '4.11'
-    leetcode_num: '836'
-    leetcode_name: Rectangle Overlap
-    leetcode_difficulty: Easy
   refueling_schedule:
     attempts: []
     chapter: 17_greedy_algorithms_and_invariants
     chapter_name: Greedy Algorithms and Invariants
     file: 3-problems/refueling_schedule.py
+    leetcode_difficulty: Medium
+    leetcode_name: Gas Station
+    leetcode_num: '134'
     name: The gasup problem
     priority: P1
     problem_number: '17.06'
-    leetcode_num: '134'
-    leetcode_name: Gas Station
-    leetcode_difficulty: Medium
   regular_expression:
     attempts: []
     chapter: 24_honors_class
     chapter_name: Honors Class
     file: 3-problems/regular_expression.py
+    leetcode_difficulty: Hard
+    leetcode_name: Regular Expression Matching
+    leetcode_num: '10'
     name: Implement regular expression matching
     problem_number: '24.22'
-    leetcode_num: '10'
-    leetcode_name: Regular Expression Matching
-    leetcode_difficulty: Hard
   regularized_regression:
     attempts: []
     chapter: M3_regularization
@@ -1824,11 +1829,11 @@ problems:
     chapter: 07_linked_lists
     chapter_name: Linked Lists
     file: 3-problems/remove_duplicates_from_sorted_list.py
+    leetcode_difficulty: Easy
+    leetcode_name: Remove Duplicates from Sorted List
+    leetcode_num: '83'
     name: Remove duplicates from a sorted list
     problem_number: '7.08'
-    leetcode_num: '83'
-    leetcode_name: Remove Duplicates from Sorted List
-    leetcode_difficulty: Easy
   replace_and_remove:
     attempts:
     - date: '2025-11-27T20:47:36.151544'
@@ -1857,23 +1862,23 @@ problems:
     chapter: 04_primitive_types
     chapter_name: Primitive Types
     file: 3-problems/reverse_bits.py
+    leetcode_difficulty: Easy
+    leetcode_name: Reverse Bits
+    leetcode_num: '190'
     name: Reverse bits
     priority: P3
     problem_number: '4.03'
-    leetcode_num: '190'
-    leetcode_name: Reverse Bits
-    leetcode_difficulty: Easy
   reverse_digits:
     attempts: []
     chapter: 04_primitive_types
     chapter_name: Primitive Types
     file: 3-problems/reverse_digits.py
+    leetcode_difficulty: Medium
+    leetcode_name: Reverse Integer
+    leetcode_num: '7'
     name: Reverse digits
     priority: P2
     problem_number: '4.08'
-    leetcode_num: '7'
-    leetcode_name: Reverse Integer
-    leetcode_difficulty: Medium
   reverse_sublist:
     attempts:
     - date: '2025-11-27T21:33:53.173325'
@@ -1886,23 +1891,23 @@ problems:
     chapter: 07_linked_lists
     chapter_name: Linked Lists
     file: 3-problems/reverse_sublist.py
+    leetcode_difficulty: Medium
+    leetcode_name: Reverse Linked List II
+    leetcode_num: '92'
     name: Reverse a single sublist
     priority: P1
     problem_number: '7.02'
-    leetcode_num: '92'
-    leetcode_name: Reverse Linked List II
-    leetcode_difficulty: Medium
   reverse_words:
     attempts: []
     chapter: 06_strings
     chapter_name: Strings
     file: 3-problems/reverse_words.py
+    leetcode_difficulty: Medium
+    leetcode_name: Reverse Words in a String
+    leetcode_num: '151'
     name: Reverse all the words in a sentence
     priority: P2
     problem_number: '6.06'
-    leetcode_num: '151'
-    leetcode_name: Reverse Words in a String
-    leetcode_difficulty: Medium
   risk_aggregation:
     attempts: []
     chapter: T1_trading
@@ -1929,12 +1934,12 @@ problems:
     chapter: 06_strings
     chapter_name: Strings
     file: 3-problems/roman_to_integer.py
+    leetcode_difficulty: Easy
+    leetcode_name: Roman to Integer
+    leetcode_num: '13'
     name: Convert from Roman to decimal
     priority: P3
     problem_number: '6.08'
-    leetcode_num: '13'
-    leetcode_name: Roman to Integer
-    leetcode_difficulty: Easy
   rook_attack:
     attempts: []
     chapter: 24_honors_class
@@ -1947,22 +1952,22 @@ problems:
     chapter: 24_honors_class
     chapter_name: Honors Class
     file: 3-problems/rotate_array.py
+    leetcode_difficulty: Medium
+    leetcode_name: Rotate Array
+    leetcode_num: '189'
     name: Rotate an array
     problem_number: '24.06'
-    leetcode_num: '189'
-    leetcode_name: Rotate Array
-    leetcode_difficulty: Medium
   run_length_compression:
     attempts: []
     chapter: 06_strings
     chapter_name: Strings
     file: 3-problems/run_length_compression.py
+    leetcode_difficulty: Medium
+    leetcode_name: String Compression
+    leetcode_num: '443'
     name: Implement run-length encoding
     priority: P4
     problem_number: '6.11'
-    leetcode_num: '443'
-    leetcode_name: String Compression
-    leetcode_difficulty: Medium
   search_entry_equal_to_index:
     attempts: []
     chapter: 11_searching
@@ -1990,12 +1995,12 @@ problems:
     chapter: 11_searching
     chapter_name: Searching
     file: 3-problems/search_first_key.py
+    leetcode_difficulty: Medium
+    leetcode_name: Find First and Last Position of Element in Sorted Array
+    leetcode_num: '34'
     name: Search a sorted array for first occurrence of k
     priority: P0
     problem_number: '11.01'
-    leetcode_num: '34'
-    leetcode_name: Find First and Last Position of Element in Sorted Array
-    leetcode_difficulty: Medium
   search_for_min_max_in_array:
     attempts: []
     chapter: 11_searching
@@ -2009,12 +2014,12 @@ problems:
     chapter: 11_searching
     chapter_name: Searching
     file: 3-problems/search_for_missing_element.py
+    leetcode_difficulty: Easy
+    leetcode_name: Set Mismatch
+    leetcode_num: '645'
     name: Find the duplicate and missing elements
     priority: P3
     problem_number: '11.10'
-    leetcode_num: '645'
-    leetcode_name: Set Mismatch
-    leetcode_difficulty: Easy
   search_frequent_items:
     attempts: []
     chapter: 24_honors_class
@@ -2051,23 +2056,23 @@ problems:
     chapter: 11_searching
     chapter_name: Searching
     file: 3-problems/search_row_col_sorted_matrix.py
+    leetcode_difficulty: Medium
+    leetcode_name: Search a 2D Matrix II
+    leetcode_num: '240'
     name: Search in a 2D sorted array
     priority: P4
     problem_number: '11.06'
-    leetcode_num: '240'
-    leetcode_name: Search a 2D Matrix II
-    leetcode_difficulty: Medium
   search_shifted_sorted_array:
     attempts: []
     chapter: 11_searching
     chapter_name: Searching
     file: 3-problems/search_shifted_sorted_array.py
+    leetcode_difficulty: Medium
+    leetcode_name: Search in Rotated Sorted Array
+    leetcode_num: '33'
     name: Search a cyclically sorted array
     priority: P2
     problem_number: '11.03'
-    leetcode_num: '33'
-    leetcode_name: Search in Rotated Sorted Array
-    leetcode_difficulty: Medium
   search_unknown_length_array:
     attempts: []
     chapter: 24_honors_class
@@ -2102,12 +2107,12 @@ problems:
     chapter: 12_hash_tables
     chapter_name: Hash Tables
     file: 3-problems/smallest_subarray_covering_set.py
+    leetcode_difficulty: Hard
+    leetcode_name: Minimum Window Substring
+    leetcode_num: '76'
     name: Find the smallest subarray covering all values
     priority: P3
     problem_number: '12.06'
-    leetcode_num: '76'
-    leetcode_name: Minimum Window Substring
-    leetcode_difficulty: Hard
   snake_string:
     attempts: []
     chapter: 06_strings
@@ -2135,22 +2140,22 @@ problems:
     chapter: 13_sorting
     chapter_name: Sorting
     file: 3-problems/sort_list.py
+    leetcode_difficulty: Medium
+    leetcode_name: Sort List
+    leetcode_num: '148'
     name: Implement a fast sorting algorithm for lists
     problem_number: '13.11'
-    leetcode_num: '148'
-    leetcode_name: Sort List
-    leetcode_difficulty: Medium
   sorted_array_remove_dups:
     attempts: []
     chapter: 05_arrays
     chapter_name: Arrays
     file: 3-problems/sorted_array_remove_dups.py
+    leetcode_difficulty: Easy
+    leetcode_name: Remove Duplicates from Sorted Array
+    leetcode_num: '26'
     name: Delete duplicates from a sorted array
     priority: P3
     problem_number: '5.05'
-    leetcode_num: '26'
-    leetcode_name: Remove Duplicates from Sorted Array
-    leetcode_difficulty: Easy
   sorted_arrays_merge:
     attempts:
     - date: '2025-11-23T20:32:12.909429'
@@ -2163,12 +2168,12 @@ problems:
     chapter: 10_heaps
     chapter_name: Heaps
     file: 3-problems/sorted_arrays_merge.py
+    leetcode_difficulty: Hard
+    leetcode_name: Merge k Sorted Lists
+    leetcode_num: '23'
     name: Merge sorted files
     priority: P0
     problem_number: '10.01'
-    leetcode_num: '23'
-    leetcode_name: Merge k Sorted Lists
-    leetcode_difficulty: Hard
   sorted_list_to_bst:
     attempts: []
     chapter: 24_honors_class
@@ -2188,12 +2193,12 @@ problems:
     chapter: 07_linked_lists
     chapter_name: Linked Lists
     file: 3-problems/sorted_lists_merge.py
+    leetcode_difficulty: Easy
+    leetcode_name: Merge Two Sorted Lists
+    leetcode_num: '21'
     name: Merge two sorted lists
     priority: P0
     problem_number: '7.01'
-    leetcode_num: '21'
-    leetcode_name: Merge Two Sorted Lists
-    leetcode_difficulty: Easy
   spiral_ordering:
     attempts:
     - date: '2025-11-27T18:25:55.699497'
@@ -2206,22 +2211,22 @@ problems:
     chapter: 05_arrays
     chapter_name: Arrays
     file: 3-problems/spiral_ordering.py
+    leetcode_difficulty: Medium
+    leetcode_name: Spiral Matrix
+    leetcode_num: '54'
     name: Compute the spiral ordering of a 2D array
     priority: P1
     problem_number: '5.18'
-    leetcode_num: '54'
-    leetcode_name: Spiral Matrix
-    leetcode_difficulty: Medium
   spreadsheet_encoding:
     attempts: []
     chapter: 06_strings
     chapter_name: Strings
     file: 3-problems/spreadsheet_encoding.py
+    leetcode_difficulty: Easy
+    leetcode_name: Excel Sheet Column Number
+    leetcode_num: '171'
     name: Compute the spreadsheet column encoding
     problem_number: '6.03'
-    leetcode_num: '171'
-    leetcode_name: Excel Sheet Column Number
-    leetcode_difficulty: Easy
   sql_aggregation:
     attempts: []
     chapter: P5_database
@@ -2241,12 +2246,12 @@ problems:
     chapter: 08_stacks_and_queues
     chapter_name: Stacks and Queues
     file: 3-problems/stack_with_max.py
+    leetcode_difficulty: Medium
+    leetcode_name: Min Stack
+    leetcode_num: '155'
     name: Implement a stack with max API
     priority: P0
     problem_number: '8.01'
-    leetcode_num: '155'
-    leetcode_name: Min Stack
-    leetcode_difficulty: Medium
   string_decompositions_into_dictionary_words:
     attempts: []
     chapter: 12_hash_tables
@@ -2268,33 +2273,33 @@ problems:
     chapter: 06_strings
     chapter_name: Strings
     file: 3-problems/string_integer_interconversion.py
+    leetcode_difficulty: Medium
+    leetcode_name: String to Integer (atoi)
+    leetcode_num: '8'
     name: Interconvert strings and integers
     priority: P0
     problem_number: '6.01'
-    leetcode_num: '8'
-    leetcode_name: String to Integer (atoi)
-    leetcode_difficulty: Medium
   string_transformability:
     attempts: []
     chapter: 18_graphs
     chapter_name: Graphs
     file: 3-problems/string_transformability.py
+    leetcode_difficulty: Hard
+    leetcode_name: Word Ladder
+    leetcode_num: '127'
     name: Transform one string to another
     priority: P1
     problem_number: '18.07'
-    leetcode_num: '127'
-    leetcode_name: Word Ladder
-    leetcode_difficulty: Hard
   substring_match:
     attempts: []
     chapter: 06_strings
     chapter_name: Strings
     file: 3-problems/substring_match.py
+    leetcode_difficulty: Easy
+    leetcode_name: Find the Index of the First Occurrence in a String
+    leetcode_num: '28'
     name: Find the first occurrence of a substring
     problem_number: '6.12'
-    leetcode_num: '28'
-    leetcode_name: Find the Index of the First Occurrence in a String
-    leetcode_difficulty: Easy
   successor_in_tree:
     attempts: []
     chapter: 09_binary_trees
@@ -2307,22 +2312,22 @@ problems:
     chapter: 15_recursion
     chapter_name: Recursion
     file: 3-problems/sudoku_solve.py
+    leetcode_difficulty: Hard
+    leetcode_name: Sudoku Solver
+    leetcode_num: '37'
     name: Implement a Sudoku solver
     priority: P4
     problem_number: '15.10'
-    leetcode_num: '37'
-    leetcode_name: Sudoku Solver
-    leetcode_difficulty: Hard
   sum_root_to_leaf:
     attempts: []
     chapter: 09_binary_trees
     chapter_name: Binary Trees
     file: 3-problems/sum_root_to_leaf.py
+    leetcode_difficulty: Medium
+    leetcode_name: Sum Root to Leaf Numbers
+    leetcode_num: '129'
     name: Sum the root-to-leaf paths in a binary tree
     problem_number: '9.05'
-    leetcode_num: '129'
-    leetcode_name: Sum Root to Leaf Numbers
-    leetcode_difficulty: Medium
   sunset_view:
     attempts: []
     chapter: 08_stacks_and_queues
@@ -2365,12 +2370,12 @@ problems:
     chapter: 17_greedy_algorithms_and_invariants
     chapter_name: Greedy Algorithms and Invariants
     file: 3-problems/three_sum.py
+    leetcode_difficulty: Medium
+    leetcode_name: 3Sum
+    leetcode_num: '15'
     name: The 3-sum problem
     priority: P0
     problem_number: '17.04'
-    leetcode_num: '15'
-    leetcode_name: 3Sum
-    leetcode_difficulty: Medium
   tree_connect_leaves:
     attempts: []
     chapter: 09_binary_trees
@@ -2384,43 +2389,43 @@ problems:
     chapter: 09_binary_trees
     chapter_name: Binary Trees
     file: 3-problems/tree_exterior.py
+    leetcode_difficulty: Medium
+    leetcode_name: Boundary of Binary Tree
+    leetcode_num: '545'
     name: Compute the exterior of a binary tree
     problem_number: '9.14'
-    leetcode_num: '545'
-    leetcode_name: Boundary of Binary Tree
-    leetcode_difficulty: Medium
   tree_from_preorder_inorder:
     attempts: []
     chapter: 09_binary_trees
     chapter_name: Binary Trees
     file: 3-problems/tree_from_preorder_inorder.py
+    leetcode_difficulty: Medium
+    leetcode_name: Construct Binary Tree from Preorder and Inorder Traversal
+    leetcode_num: '105'
     name: Reconstruct a binary tree from traversal data
     priority: P3
     problem_number: '9.11'
-    leetcode_num: '105'
-    leetcode_name: Construct Binary Tree from Preorder and Inorder Traversal
-    leetcode_difficulty: Medium
   tree_from_preorder_with_null:
     attempts: []
     chapter: 09_binary_trees
     chapter_name: Binary Trees
     file: 3-problems/tree_from_preorder_with_null.py
+    leetcode_difficulty: Hard
+    leetcode_name: Recover a Tree From Preorder Traversal
+    leetcode_num: '1028'
     name: Reconstruct a binary tree from a preorder traversal with markers
     priority: P2
     problem_number: '9.12'
-    leetcode_num: '1028'
-    leetcode_name: Recover a Tree From Preorder Traversal
-    leetcode_difficulty: Hard
   tree_inorder:
     attempts: []
     chapter: 09_binary_trees
     chapter_name: Binary Trees
     file: 3-problems/tree_inorder.py
+    leetcode_difficulty: Easy
+    leetcode_name: Binary Tree Inorder Traversal
+    leetcode_num: '94'
     name: Implement an inorder traversal without recursion
     problem_number: '9.07'
-    leetcode_num: '94'
-    leetcode_name: Binary Tree Inorder Traversal
-    leetcode_difficulty: Easy
   tree_level_order:
     attempts:
     - date: '2025-11-27T22:03:57.049449'
@@ -2433,12 +2438,12 @@ problems:
     chapter: 08_stacks_and_queues
     chapter_name: Stacks and Queues
     file: 3-problems/tree_level_order.py
+    leetcode_difficulty: Medium
+    leetcode_name: Binary Tree Level Order Traversal
+    leetcode_num: '102'
     name: Compute binary tree nodes in order of increasing depth
     priority: P1
     problem_number: '8.06'
-    leetcode_num: '102'
-    leetcode_name: Binary Tree Level Order Traversal
-    leetcode_difficulty: Medium
   tree_right_sibling:
     attempts: []
     chapter: 09_binary_trees
@@ -2458,33 +2463,33 @@ problems:
     chapter: 13_sorting
     chapter_name: Sorting
     file: 3-problems/two_sorted_arrays_merge.py
+    leetcode_difficulty: Easy
+    leetcode_name: Merge Sorted Array
+    leetcode_num: '88'
     name: Merge two sorted arrays
     priority: P1
     problem_number: '13.02'
-    leetcode_num: '88'
-    leetcode_name: Merge Sorted Array
-    leetcode_difficulty: Easy
   uniform_random_number:
     attempts: []
     chapter: 04_primitive_types
     chapter_name: Primitive Types
     file: 3-problems/uniform_random_number.py
+    leetcode_difficulty: Medium
+    leetcode_name: Implement Rand10() Using Rand7()
+    leetcode_num: '470'
     name: Generate uniform random numbers
     problem_number: '4.10'
-    leetcode_num: '470'
-    leetcode_name: Implement Rand10() Using Rand7()
-    leetcode_difficulty: Medium
   valid_ip_addresses:
     attempts: []
     chapter: 06_strings
     chapter_name: Strings
     file: 3-problems/valid_ip_addresses.py
+    leetcode_difficulty: Medium
+    leetcode_name: Restore IP Addresses
+    leetcode_num: '93'
     name: Compute all valid IP addresses
     priority: P4
     problem_number: '6.09'
-    leetcode_num: '93'
-    leetcode_name: Restore IP Addresses
-    leetcode_difficulty: Medium
   zip_list:
     attempts: []
     chapter: 24_honors_class

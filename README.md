@@ -6,7 +6,7 @@ My journey through Elements of Programming Interviews in Python.
 
 | Category | Status | Target Score | Actual Score | Target Time | Actual Time | Last Drilled |
 |----------|--------|--------------|--------------|-------------|-------------|--------------|
-| Arrays | ⬜ | 19/19 | 15/19 | 9:30 | 6:25 | 2025-12-03 |
+| Arrays | ✅ | 19/19 | 19/19 | 9:30 | 4:38 | 2025-12-04 |
 | Bitwise Operations | ⬜ | 17/17 | 17/17 | 8:30 | 10:24 | 2025-12-03 |
 | Linked Lists | ✅ | 15/15 | 15/15 | 7:30 | 7:11 | 2025-12-03 |
 | Strings | ⬜ | 19/19 | 14/19 | 9:30 | 4:29 | 2025-12-03 |
@@ -654,4 +654,4 @@ See [Problem-Solving Workflow](wiki/Problem-Solving-Workflow.md) for visual diag
 ---
 
 
-*Last updated: 2025-12-03*
+*Last updated: 2025-12-04*
