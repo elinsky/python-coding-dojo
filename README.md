@@ -6,7 +6,7 @@ My journey through Elements of Programming Interviews in Python.
 
 | Category | Status | Target Score | Actual Score | Target Time | Actual Time |
 |----------|--------|--------------|--------------|-------------|-------------|
-| Bitwise Operations | ⬜ | — | — | 8:30 | — |
+| Bitwise Operations | ⬜ | 17/17 | 17/17 | 8:30 | 10:24 |
 
 ## Overall Progress
 

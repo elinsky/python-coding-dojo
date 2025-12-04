@@ -1,6 +1,10 @@
 flashcards:
   bitwise:
-    attempts: []
+    attempts:
+    - count: 17
+      date: '2025-12-03T19:17:17.390889'
+      score: 17
+      time_seconds: 624
     name: Bitwise Operations
     target_seconds: 510
 problems:
