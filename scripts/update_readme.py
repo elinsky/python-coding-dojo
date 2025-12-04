@@ -341,16 +341,17 @@ def generate_readme(data, threshold):
         attempt_complete = attempted == total
 
         if attempt_complete:
-            lines.append('✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨')
+            lines.append('🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟')
         lines.extend([
             f'### {emoji} {priority}: Attempt All ({attempted}/{total} - {attempt_pct:.0f}%)',
             '',
             generate_progress_bar(attempted, total, '☑️'),
             '',
             f"**{attempted} / {total}** problems attempted",
+            '',
         ])
         if attempt_complete:
-            lines.append('✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨')
+            lines.append('🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟')
         lines.append('')
 
         # Goal 2: Master all problems at this priority
@@ -358,16 +359,17 @@ def generate_readme(data, threshold):
         master_complete = mastered == total
 
         if master_complete:
-            lines.append('✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨')
+            lines.append('🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟')
         lines.extend([
             f'### {emoji} {priority}: Master All ({mastered}/{total} - {master_pct:.0f}%)',
             '',
             generate_progress_bar(mastered, total, '🏆'),
             '',
             f"**{mastered} / {total}** problems mastered",
+            '',
         ])
         if master_complete:
-            lines.append('✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨')
+            lines.append('🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟')
         lines.append('')
 
     # Add collapsible Overall Progress section
