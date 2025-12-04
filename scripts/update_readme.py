@@ -296,13 +296,65 @@ def generate_readme(data, threshold):
         '',
     ]
 
-    # Add flashcard section (before Overall Progress)
+    # Add flashcard section
     flashcard_lines = generate_flashcard_section(flashcards)
     if flashcard_lines:
         lines.extend(flashcard_lines)
 
+    # Add goals section (before Overall Progress)
     lines.extend([
-        '## Overall Progress',
+        '## Goals',
+        '',
+        'Progress toward priority-based learning goals.',
+        '',
+    ])
+
+    # Priority emoji mapping
+    priority_emoji_map = {
+        'P0': '🔴',
+        'P1': '🟠',
+        'P2': '🟡',
+        'P3': '🟢',
+        'P4': '🔵'
+    }
+
+    # Generate goal progress for each priority level
+    for priority in ['P0', 'P1', 'P2', 'P3', 'P4']:
+        emoji = priority_emoji_map[priority]
+        pstats = stats['priority_stats'][priority]
+        total = pstats['total']
+        attempted = pstats['attempted']
+        mastered = pstats['mastered']
+
+        if total == 0:
+            continue  # Skip priorities with no problems
+
+        # Goal 1: Attempt all problems at this priority
+        attempt_pct = (attempted / total * 100) if total > 0 else 0
+        lines.extend([
+            f'### {emoji} {priority}: Attempt All ({attempted}/{total} - {attempt_pct:.0f}%)',
+            '',
+            generate_progress_bar(attempted, total, '☑️'),
+            '',
+            f"**{attempted} / {total}** problems attempted",
+            '',
+        ])
+
+        # Goal 2: Master all problems at this priority
+        master_pct = (mastered / total * 100) if total > 0 else 0
+        lines.extend([
+            f'### {emoji} {priority}: Master All ({mastered}/{total} - {master_pct:.0f}%)',
+            '',
+            generate_progress_bar(mastered, total, '🏆'),
+            '',
+            f"**{mastered} / {total}** problems mastered",
+            '',
+        ])
+
+    # Add collapsible Overall Progress section
+    lines.extend([
+        '<details>',
+        '<summary><h2>Overall Progress</h2></summary>',
         '',
     ])
 
@@ -352,57 +404,9 @@ def generate_readme(data, threshold):
         '',
         f"**{stats['tier3']} / {stats['total']}** ({tier3_pct:.1f}%)",
         '',
-    ])
-
-    # Add goals section
-    lines.extend([
-        '## Goals',
-        '',
-        'Progress toward priority-based learning goals.',
+        '</details>',
         '',
     ])
-
-    # Priority emoji mapping
-    priority_emoji_map = {
-        'P0': '🔴',
-        'P1': '🟠',
-        'P2': '🟡',
-        'P3': '🟢',
-        'P4': '🔵'
-    }
-
-    # Generate goal progress for each priority level
-    for priority in ['P0', 'P1', 'P2', 'P3', 'P4']:
-        emoji = priority_emoji_map[priority]
-        pstats = stats['priority_stats'][priority]
-        total = pstats['total']
-        attempted = pstats['attempted']
-        mastered = pstats['mastered']
-
-        if total == 0:
-            continue  # Skip priorities with no problems
-
-        # Goal 1: Attempt all problems at this priority
-        attempt_pct = (attempted / total * 100) if total > 0 else 0
-        lines.extend([
-            f'### {emoji} {priority}: Attempt All ({attempted}/{total} - {attempt_pct:.0f}%)',
-            '',
-            generate_progress_bar(attempted, total, '☑️'),
-            '',
-            f"**{attempted} / {total}** problems attempted",
-            '',
-        ])
-
-        # Goal 2: Master all problems at this priority
-        master_pct = (mastered / total * 100) if total > 0 else 0
-        lines.extend([
-            f'### {emoji} {priority}: Master All ({mastered}/{total} - {master_pct:.0f}%)',
-            '',
-            generate_progress_bar(mastered, total, '🏆'),
-            '',
-            f"**{mastered} / {total}** problems mastered",
-            '',
-        ])
 
     # Add link to workflow diagrams wiki page
     lines.extend([

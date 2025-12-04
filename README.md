@@ -11,7 +11,78 @@ My journey through Elements of Programming Interviews in Python.
 | Linked Lists | ✅ | 15/15 | 15/15 | 7:30 | 7:11 | 2025-12-03 |
 | Strings | ⬜ | 19/19 | 14/19 | 9:30 | 4:29 | 2025-12-03 |
 
-## Overall Progress
+## Goals
+
+Progress toward priority-based learning goals.
+
+### 🔴 P0: Attempt All (16/16 - 100%)
+
+☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️
+
+**16 / 16** problems attempted
+
+### 🔴 P0: Master All (6/16 - 38%)
+
+🏆🏆🏆🏆🏆🏆⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+
+**6 / 16** problems mastered
+
+### 🟠 P1: Attempt All (11/21 - 52%)
+
+☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️⬜⬜⬜⬜⬜⬜⬜⬜⬜
+⬜
+
+**11 / 21** problems attempted
+
+### 🟠 P1: Master All (2/21 - 10%)
+
+🏆🏆⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+⬜
+
+**2 / 21** problems mastered
+
+### 🟡 P2: Attempt All (0/22 - 0%)
+
+⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜
+
+**0 / 22** problems attempted
+
+### 🟡 P2: Master All (0/22 - 0%)
+
+⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜
+
+**0 / 22** problems mastered
+
+### 🟢 P3: Attempt All (1/25 - 4%)
+
+☑️⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜
+
+**1 / 25** problems attempted
+
+### 🟢 P3: Master All (0/25 - 0%)
+
+⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜
+
+**0 / 25** problems mastered
+
+### 🔵 P4: Attempt All (0/20 - 0%)
+
+⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+
+**0 / 20** problems attempted
+
+### 🔵 P4: Master All (0/20 - 0%)
+
+⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+
+**0 / 20** problems mastered
+
+<details>
+<summary><h2>Overall Progress</h2></summary>
 
 ### Tier 0: Attempted ☑️
 Problems attempted but not yet solved
@@ -85,75 +156,7 @@ Problems solved independently in ≤20 minutes with optimal solution
 
 **9 / 237** (3.8%)
 
-## Goals
-
-Progress toward priority-based learning goals.
-
-### 🔴 P0: Attempt All (16/16 - 100%)
-
-☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️
-
-**16 / 16** problems attempted
-
-### 🔴 P0: Master All (6/16 - 38%)
-
-🏆🏆🏆🏆🏆🏆⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
-
-**6 / 16** problems mastered
-
-### 🟠 P1: Attempt All (11/21 - 52%)
-
-☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️⬜⬜⬜⬜⬜⬜⬜⬜⬜
-⬜
-
-**11 / 21** problems attempted
-
-### 🟠 P1: Master All (2/21 - 10%)
-
-🏆🏆⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
-⬜
-
-**2 / 21** problems mastered
-
-### 🟡 P2: Attempt All (0/22 - 0%)
-
-⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
-⬜⬜
-
-**0 / 22** problems attempted
-
-### 🟡 P2: Master All (0/22 - 0%)
-
-⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
-⬜⬜
-
-**0 / 22** problems mastered
-
-### 🟢 P3: Attempt All (1/25 - 4%)
-
-☑️⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
-⬜⬜⬜⬜⬜
-
-**1 / 25** problems attempted
-
-### 🟢 P3: Master All (0/25 - 0%)
-
-⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
-⬜⬜⬜⬜⬜
-
-**0 / 25** problems mastered
-
-### 🔵 P4: Attempt All (0/20 - 0%)
-
-⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
-
-**0 / 20** problems attempted
-
-### 🔵 P4: Master All (0/20 - 0%)
-
-⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
-
-**0 / 20** problems mastered
+</details>
 
 ## Problem-Solving Workflow
 
