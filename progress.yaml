@@ -18,6 +18,14 @@ flashcards:
       time_seconds: 624
     name: Bitwise Operations
     target_seconds: 510
+  linked-lists:
+    attempts:
+    - count: 15
+      date: '2025-12-03T19:57:47.524060'
+      score: 15
+      time_seconds: 431
+    name: Linked Lists
+    target_seconds: 450
   strings:
     attempts:
     - count: 19
