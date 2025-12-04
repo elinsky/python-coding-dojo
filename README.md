@@ -9,6 +9,7 @@ My journey through Elements of Programming Interviews in Python.
 | Arrays | ✅ | 19/19 | 19/19 | 9:30 | 4:38 | 2025-12-04 |
 | Bitwise Operations | ✅ | 17/17 | 17/17 | 8:30 | 7:37 | 2025-12-04 |
 | Linked Lists | ✅ | 15/15 | 15/15 | 7:30 | 7:11 | 2025-12-03 |
+| Stacks and Queues | ⬜ | 16/16 | 13/16 | 8:00 | 3:04 | 2025-12-04 |
 | Strings | ⬜ | 19/19 | 17/19 | 9:30 | 3:13 | 2025-12-04 |
 
 ## Algorithm Problems

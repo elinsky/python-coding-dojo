@@ -46,6 +46,15 @@ flashcards:
       time_seconds: 431
     name: Linked Lists
     target_seconds: 450
+  stacks-queues:
+    attempts:
+    - count: 16
+      date: '2025-12-04T16:06:27.373471'
+      notes: 'Missed: create-queue, queue-enqueue, deque-push-front'
+      score: 13
+      time_seconds: 184
+    name: Stacks and Queues
+    target_seconds: 480
   strings:
     attempts:
     - count: 19
