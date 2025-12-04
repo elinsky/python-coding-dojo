@@ -84,7 +84,7 @@ def generate_flashcard_section(flashcards):
         return []
 
     lines = [
-        '## Flashcard Drills',
+        '## Python Flashcards',
         '',
         '| Category | Status | Target Score | Actual Score | Target Time | Actual Time | Last Drilled |',
         '|----------|--------|--------------|--------------|-------------|-------------|--------------|',

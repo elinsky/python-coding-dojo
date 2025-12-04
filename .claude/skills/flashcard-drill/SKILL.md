@@ -5,7 +5,7 @@ description: Run timed flashcard drills when user says "drill <category>" (e.g.,
 
 # Flashcard Drill
 
-Run a timed flashcard drill session for a category in `0-operations/`.
+Run a timed flashcard drill session for a category in `0-python-flashcards/`.
 
 ## Workflow
 
@@ -70,7 +70,7 @@ From `log_flashcard_drill.py`:
 
 ## Flashcard Format
 
-Each `.md` file in `0-operations/<category>/`:
+Each `.md` file in `0-python-flashcards/<category>/`:
 ```markdown
 # Question text here?
 
@@ -82,7 +82,7 @@ answer_code_here
 ## Example Session
 
 User: "drill bitwise"
-Claude: *reads all 17 files in 0-operations/1-bitwise/*
+Claude: *reads all 17 files in 0-python-flashcards/1-bitwise/*
 Claude: "Ready! 17 cards. Say 'go' when ready."
 User: "go"
 Claude: "How do you get bit at position i?"

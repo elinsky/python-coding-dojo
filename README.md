@@ -2,7 +2,7 @@
 
 My journey through Elements of Programming Interviews in Python.
 
-## Flashcard Drills
+## Python Flashcards
 
 | Category | Status | Target Score | Actual Score | Target Time | Actual Time | Last Drilled |
 |----------|--------|--------------|--------------|-------------|-------------|--------------|
