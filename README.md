@@ -169,7 +169,8 @@ Problems solved independently in ≤20 minutes with optimal solution
 
 See [Problem-Solving Workflow](wiki/Problem-Solving-Workflow.md) for visual diagrams of the learning approach.
 
-## Progress by Chapter
+<details>
+<summary><h2>Progress by Chapter</h2></summary>
 
 | Chapter | Problems | Attempted ☑️ | Solved 👍 | Independent 💪 | Mastered 🏆 |
 |---------|----------|-------------|--------|---------------|-------------|
@@ -202,6 +203,8 @@ See [Problem-Solving Workflow](wiki/Problem-Solving-Workflow.md) for visual diag
 | M4: Feature Pipelines | 2 | 0 (0%) | 0 (0%) | 0 (0%) | 0 (0%) |
 | M5: Evaluation | 3 | 0 (0%) | 0 (0%) | 0 (0%) | 0 (0%) |
 | **Total** | **237** | **30** | **27** | **12** | **9** |
+
+</details>
 
 ## All Problems
 

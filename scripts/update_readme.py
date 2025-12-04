@@ -423,9 +423,10 @@ def generate_readme(data, threshold):
         '',
     ])
 
-    # Chapter breakdown table
+    # Chapter breakdown table (collapsible)
     lines.extend([
-        '## Progress by Chapter',
+        '<details>',
+        '<summary><h2>Progress by Chapter</h2></summary>',
         '',
         '| Chapter | Problems | Attempted ☑️ | Solved 👍 | Independent 💪 | Mastered 🏆 |',
         '|---------|----------|-------------|--------|---------------|-------------|',
@@ -483,7 +484,13 @@ def generate_readme(data, threshold):
         f"**{stats['tier3']}** |"
     )
 
-    lines.extend(['', '## All Problems', ''])
+    lines.extend([
+        '',
+        '</details>',
+        '',
+        '## All Problems',
+        '',
+    ])
 
     # Group problems by chapter for detailed listing
     problems_by_chapter = defaultdict(list)
