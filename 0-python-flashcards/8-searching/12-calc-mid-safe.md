@@ -1,6 +1,6 @@
 # Calculate Middle Index (Overflow Safe)
 
-**Q:** How do I calculate the middle index (avoiding overflow)?
+**Q:** How do I calculate middle index (overflow safe)?
 
 **A:** Add left to half the distance
 

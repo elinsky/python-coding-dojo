@@ -1,6 +1,6 @@
 # Update Left to Search Right Half
 
-**Q:** How do I update left to search right half?
+**Q:** How do I update left to search right half (exclude mid)?
 
 **A:** Set left to mid plus 1
 
