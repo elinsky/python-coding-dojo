@@ -18,6 +18,21 @@ flashcards:
   bitwise:
     attempts:
     - count: 17
+      date: '2025-12-04T15:54:54.517806'
+      notes: Perfect
+      score: 17
+      time_seconds: 457
+    - count: 17
+      date: '2025-12-04T15:54:00.147810'
+      notes: 'Missed: Q16'
+      score: 16
+      time_seconds: 457
+    - count: 17
+      date: '2025-12-04T15:53:23.433096'
+      notes: 'Missed: Q8, Q16'
+      score: 15
+      time_seconds: 457
+    - count: 17
       date: '2025-12-03T19:17:17.390889'
       score: 17
       time_seconds: 624
