@@ -43,20 +43,20 @@ Progress toward priority-based learning goals.
 **6 / 16** problems mastered
 
 
-### 🟠 P1: Attempt All (13/21 - 62%)
+### 🟠 P1: Attempt All (14/21 - 67%)
 
-☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️⬜⬜⬜⬜⬜⬜⬜
+☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️⬜⬜⬜⬜⬜⬜
 ⬜
 
-**13 / 21** problems attempted
+**14 / 21** problems attempted
 
 
-### 🟠 P1: Master All (2/21 - 10%)
+### 🟠 P1: Master All (3/21 - 14%)
 
-🏆🏆⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+🏆🏆🏆⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜
 
-**2 / 21** problems mastered
+**3 / 21** problems mastered
 
 
 ### 🟡 P2: Attempt All (0/22 - 0%)
@@ -112,7 +112,7 @@ Progress toward priority-based learning goals.
 Problems attempted but not yet solved
 
 ☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️
-☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️⬜⬜⬜⬜⬜⬜⬜⬜
+☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
@@ -124,13 +124,13 @@ Problems attempted but not yet solved
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 
-**32 / 237** (13.5%)
+**33 / 237** (13.9%)
 
 ### Tier 1: Solved 👍
 Problems solved (with or without help)
 
 👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍
-👍👍👍👍👍👍👍👍👍⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+👍👍👍👍👍👍👍👍👍👍⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
@@ -142,12 +142,12 @@ Problems solved (with or without help)
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 
-**29 / 237** (12.2%)
+**30 / 237** (12.7%)
 
 ### Tier 2: Solved Independently 💪
 Problems solved without hints or looking at solutions
 
-💪💪💪💪💪💪💪💪💪💪💪💪⬜⬜⬜⬜⬜⬜⬜⬜
+💪💪💪💪💪💪💪💪💪💪💪💪💪⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
@@ -160,12 +160,12 @@ Problems solved without hints or looking at solutions
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 
-**12 / 237** (5.1%)
+**13 / 237** (5.5%)
 
 ### Tier 3: Mastered 🏆
 Problems solved independently in ≤20 minutes with optimal solution
 
-🏆🏆🏆🏆🏆🏆🏆🏆🏆⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
@@ -178,7 +178,7 @@ Problems solved independently in ≤20 minutes with optimal solution
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 
-**9 / 237** (3.8%)
+**10 / 237** (4.2%)
 
 </details>
 
@@ -199,7 +199,7 @@ See [Problem-Solving Workflow](wiki/Problem-Solving-Workflow.md) for visual diag
 | 9: Binary Trees | 15 | 2 (13%) | 1 (7%) | 0 (0%) | 0 (0%) |
 | 10: Heaps | 6 | 2 (33%) | 2 (33%) | 0 (0%) | 0 (0%) |
 | 11: Searching | 10 | 3 (30%) | 3 (30%) | 1 (10%) | 1 (10%) |
-| 12: Hash Tables | 11 | 2 (18%) | 2 (18%) | 1 (9%) | 0 (0%) |
+| 12: Hash Tables | 11 | 3 (27%) | 3 (27%) | 2 (18%) | 1 (9%) |
 | 13: Sorting | 12 | 1 (8%) | 1 (8%) | 1 (8%) | 1 (8%) |
 | 14: Binary Search Trees | 11 | 1 (9%) | 1 (9%) | 0 (0%) | 0 (0%) |
 | 15: Recursion | 11 | 1 (9%) | 0 (0%) | 0 (0%) | 0 (0%) |
@@ -219,7 +219,7 @@ See [Problem-Solving Workflow](wiki/Problem-Solving-Workflow.md) for visual diag
 | M3: Regularization & CV | 2 | 0 (0%) | 0 (0%) | 0 (0%) | 0 (0%) |
 | M4: Feature Pipelines | 2 | 0 (0%) | 0 (0%) | 0 (0%) | 0 (0%) |
 | M5: Evaluation | 3 | 0 (0%) | 0 (0%) | 0 (0%) | 0 (0%) |
-| **Total** | **237** | **32** | **29** | **12** | **9** |
+| **Total** | **237** | **33** | **30** | **13** | **10** |
 
 </details>
 
@@ -385,7 +385,7 @@ See [Problem-Solving Workflow](wiki/Problem-Solving-Workflow.md) for visual diag
 | 12.02 | Is an anonymous letter constructible? | 🔴 | [#383](https://leetcode.com/problems/ransom-note/) | Easy | 💪 | 4 min |
 | 12.03 | Implement an ISBN cache | 🟠 | [#146](https://leetcode.com/problems/lru-cache/) | Medium | 👍 |  |
 | 12.04 | Compute the LCA, optimizing for close ancestors | 🟢 | [#236](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | Medium |  |  |
-| 12.05 | Find the nearest repeated entries in an array | 🟠 | [#219](https://leetcode.com/problems/contains-duplicate-ii/) | Easy |  |  |
+| 12.05 | Find the nearest repeated entries in an array | 🟠 | [#219](https://leetcode.com/problems/contains-duplicate-ii/) | Easy | 🏆 | 12 min |
 | 12.06 | Find the smallest subarray covering all values | 🟢 | [#76](https://leetcode.com/problems/minimum-window-substring/) | Hard |  |  |
 | 12.07 | Find smallest subarray sequentially covering all values |  |  |  |  |  |
 | 12.08 | Find the longest subarray with distinct entries |  | [#3](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium |  |  |

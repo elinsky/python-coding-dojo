@@ -1512,7 +1512,14 @@ problems:
     name: NBBO Snapshotter
     problem_number: T1.01
   nearest_repeated_entries:
-    attempts: []
+    attempts:
+    - date: '2025-12-05T11:37:40.496000'
+      optimal: true
+      solved: true
+      submissions: 1
+      time_minutes: 12
+      used_hints: false
+      used_solution: false
     chapter: 12_hash_tables
     chapter_name: Hash Tables
     file: 1-algorithm-problems/nearest_repeated_entries.py
