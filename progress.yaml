@@ -75,6 +75,15 @@ flashcards:
       time_seconds: 431
     name: 04-linked-lists
     target_seconds: 450
+  sortedcontainers:
+    attempts:
+    - count: 13
+      date: '2025-12-05T15:18:18.002663'
+      notes: 'Missed: Q6, Q10, Q12, Q13'
+      score: 9
+      time_seconds: 210
+    name: 13-sortedcontainers
+    target_seconds: 390
   stacks-queues:
     attempts:
     - count: 16
