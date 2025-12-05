@@ -87,6 +87,11 @@ flashcards:
   strings:
     attempts:
     - count: 19
+      date: '2025-12-05T14:16:15.162630'
+      notes: Perfect score
+      score: 19
+      time_seconds: 145
+    - count: 19
       date: '2025-12-04T15:59:54.452518'
       notes: 'Missed: Q2 (chr not char), Q3 (isdigit not is_digit)'
       score: 17
