@@ -78,6 +78,11 @@ flashcards:
   stacks-queues:
     attempts:
     - count: 16
+      date: '2025-12-05T14:21:24.772408'
+      notes: Perfect score
+      score: 16
+      time_seconds: 180
+    - count: 16
       date: '2025-12-04T16:06:27.373471'
       notes: 'Missed: create-queue, queue-enqueue, deque-push-front'
       score: 13
