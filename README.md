@@ -44,20 +44,20 @@ Progress toward priority-based learning goals.
 **6 / 16** problems mastered
 
 
-### 🟠 P1: Attempt All (15/21 - 71%)
+### 🟠 P1: Attempt All (16/21 - 76%)
 
-☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️⬜⬜⬜⬜⬜
+☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️⬜⬜⬜⬜
 ⬜
 
-**15 / 21** problems attempted
+**16 / 21** problems attempted
 
 
-### 🟠 P1: Master All (4/21 - 19%)
+### 🟠 P1: Master All (5/21 - 24%)
 
-🏆🏆🏆🏆⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+🏆🏆🏆🏆🏆⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜
 
-**4 / 21** problems mastered
+**5 / 21** problems mastered
 
 
 ### 🟡 P2: Attempt All (0/22 - 0%)
@@ -113,7 +113,7 @@ Progress toward priority-based learning goals.
 Problems attempted but not yet solved
 
 ☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️
-☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️⬜⬜⬜⬜⬜⬜
+☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
@@ -125,13 +125,13 @@ Problems attempted but not yet solved
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 
-**34 / 237** (14.3%)
+**35 / 237** (14.8%)
 
 ### Tier 1: Solved 👍
 Problems solved (with or without help)
 
 👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍
-👍👍👍👍👍👍👍👍👍👍👍⬜⬜⬜⬜⬜⬜⬜⬜⬜
+👍👍👍👍👍👍👍👍👍👍👍👍⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
@@ -143,12 +143,12 @@ Problems solved (with or without help)
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 
-**31 / 237** (13.1%)
+**32 / 237** (13.5%)
 
 ### Tier 2: Solved Independently 💪
 Problems solved without hints or looking at solutions
 
-💪💪💪💪💪💪💪💪💪💪💪💪💪💪⬜⬜⬜⬜⬜⬜
+💪💪💪💪💪💪💪💪💪💪💪💪💪💪💪⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
@@ -161,12 +161,12 @@ Problems solved without hints or looking at solutions
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 
-**14 / 237** (5.9%)
+**15 / 237** (6.3%)
 
 ### Tier 3: Mastered 🏆
 Problems solved independently in ≤20 minutes with optimal solution
 
-🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆⬜⬜⬜⬜⬜⬜⬜⬜⬜
+🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
@@ -179,7 +179,7 @@ Problems solved independently in ≤20 minutes with optimal solution
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 
-**11 / 237** (4.6%)
+**12 / 237** (5.1%)
 
 </details>
 
@@ -202,7 +202,7 @@ See [Problem-Solving Workflow](wiki/Problem-Solving-Workflow.md) for visual diag
 | 11: Searching | 10 | 3 (30%) | 3 (30%) | 1 (10%) | 1 (10%) |
 | 12: Hash Tables | 11 | 3 (27%) | 3 (27%) | 2 (18%) | 1 (9%) |
 | 13: Sorting | 12 | 2 (17%) | 2 (17%) | 2 (17%) | 2 (17%) |
-| 14: Binary Search Trees | 11 | 1 (9%) | 1 (9%) | 0 (0%) | 0 (0%) |
+| 14: Binary Search Trees | 11 | 2 (18%) | 2 (18%) | 1 (9%) | 1 (9%) |
 | 15: Recursion | 11 | 1 (9%) | 0 (0%) | 0 (0%) | 0 (0%) |
 | 16: Dynamic Programming | 12 | 1 (8%) | 1 (8%) | 0 (0%) | 0 (0%) |
 | 17: Greedy Algorithms and Invariants | 8 | 1 (12%) | 1 (12%) | 0 (0%) | 0 (0%) |
@@ -220,7 +220,7 @@ See [Problem-Solving Workflow](wiki/Problem-Solving-Workflow.md) for visual diag
 | M3: Regularization & CV | 2 | 0 (0%) | 0 (0%) | 0 (0%) | 0 (0%) |
 | M4: Feature Pipelines | 2 | 0 (0%) | 0 (0%) | 0 (0%) | 0 (0%) |
 | M5: Evaluation | 3 | 0 (0%) | 0 (0%) | 0 (0%) | 0 (0%) |
-| **Total** | **237** | **34** | **31** | **14** | **11** |
+| **Total** | **237** | **35** | **32** | **15** | **12** |
 
 </details>
 
@@ -420,7 +420,7 @@ See [Problem-Solving Workflow](wiki/Problem-Solving-Workflow.md) for visual diag
 | # | Problem | Priority | LeetCode | Difficulty | Status | Best Time |
 |---|---------|----------|----------|------------|--------|-----------|
 | 14.01 | Test if a binary tree satisfies the BST property | 🔴 | [#98](https://leetcode.com/problems/validate-binary-search-tree/) | Medium | 👍 |  |
-| 14.02 | Find the first key greater than a given value in a BST | 🟠 |  |  |  |  |
+| 14.02 | Find the first key greater than a given value in a BST | 🟠 |  |  | 🏆 | 3 min |
 | 14.03 | Find the k largest elements in a BST | 🟠 | [#230](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | Medium |  |  |
 | 14.04 | Compute the LCA in a BST | 🟡 | [#235](https://leetcode.com/problems/lowest-common-ancestor-of-a-bst/) | Medium |  |  |
 | 14.05 | Reconstruct a BST from traversal data | 🟢 | [#1008](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) | Medium |  |  |

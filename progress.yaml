@@ -2072,7 +2072,14 @@ problems:
     name: Search a sorted array for entry equal to its index
     problem_number: '11.02'
   search_first_greater_value_in_bst:
-    attempts: []
+    attempts:
+    - date: '2025-12-05T17:53:13.475235'
+      optimal: true
+      solved: true
+      submissions: 2
+      time_minutes: 3
+      used_hints: false
+      used_solution: false
     chapter: 14_binary_search_trees
     chapter_name: Binary Search Trees
     file: 1-algorithm-problems/search_first_greater_value_in_bst.py
