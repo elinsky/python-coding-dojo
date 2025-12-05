@@ -1,6 +1,10 @@
 # Find Maximum Key
 
-**Q:** How do I find the maximum key in a BST?
+**Q:** How do I find the maximum key in a BST? Return the node (or None if empty).
+
+```python
+def find_max(tree):
+```
 
 **A:** Go to the rightmost node
 

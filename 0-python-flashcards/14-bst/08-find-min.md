@@ -1,12 +1,10 @@
-# Find Minimum Key
+# Find Minimum (Concept)
 
-**Q:** How do I find the minimum key in a BST?
+**Q:** What's the approach to find the minimum key in a BST?
 
-**A:** Go to the leftmost node
-
-```python
-def find_min(tree):
-    while tree and tree.left:
-        tree = tree.left
-    return tree
+**A:**
+```
+while left child exists:
+    go left
+return node
 ```

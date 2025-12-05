@@ -1,6 +1,10 @@
 # Delete Key from BST
 
-**Q:** How do I delete a key from a BST?
+**Q:** How do I delete a key from a BST? Return the (possibly new) root.
+
+```python
+def delete(tree, key):
+```
 
 **A:** Handle 3 cases: no child, one child, two children
 
