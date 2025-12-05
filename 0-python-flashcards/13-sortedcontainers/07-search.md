@@ -5,6 +5,6 @@
 **A:** Use `in` operator
 
 ```python
-if 5 in s:
+if 5 in bst:
     print("found")
 ```

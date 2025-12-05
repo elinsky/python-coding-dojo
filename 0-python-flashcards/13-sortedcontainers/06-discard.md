@@ -5,5 +5,5 @@
 **A:** Use discard()
 
 ```python
-s.discard(5)  # Removes 5, does nothing if missing
+bst.discard(5)  # Removes 5, does nothing if missing
 ```

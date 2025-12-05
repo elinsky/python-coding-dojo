@@ -1,11 +1,9 @@
-# Python BST Library
+# Python Built-in BST
 
 **Q:** Does Python have a built-in BST library?
 
-**A:** No, but use sortedcontainers module
+**A:** No
 
 ```python
-from sortedcontainers import SortedList
-
-s = SortedList()  # Sorted collection with O(log n) operations
+# No built-in BST in Python standard library
 ```

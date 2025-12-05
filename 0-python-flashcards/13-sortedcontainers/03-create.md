@@ -6,5 +6,5 @@
 
 ```python
 from sortedcontainers import SortedList
-s = SortedList()
+bst = SortedList()
 ```

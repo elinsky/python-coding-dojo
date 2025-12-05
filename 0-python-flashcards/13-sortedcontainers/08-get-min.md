@@ -5,5 +5,5 @@
 **A:** Use index 0
 
 ```python
-s[0]  # Returns min value
+bst[0]  # Returns min value
 ```

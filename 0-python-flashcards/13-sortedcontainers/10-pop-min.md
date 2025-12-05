@@ -5,5 +5,5 @@
 **A:** Use pop(0)
 
 ```python
-min_val = s.pop(0)  # Returns and removes min
+min_val = bst.pop(0)  # Returns and removes min
 ```

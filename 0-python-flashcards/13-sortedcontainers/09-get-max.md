@@ -5,5 +5,5 @@
 **A:** Use index -1
 
 ```python
-s[-1]  # Returns max value
+bst[-1]  # Returns max value
 ```

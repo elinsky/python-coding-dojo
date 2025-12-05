@@ -5,5 +5,5 @@
 **A:** Use remove()
 
 ```python
-s.remove(5)  # Removes 5, raises ValueError if missing
+bst.remove(5)  # Removes 5, raises ValueError if missing
 ```

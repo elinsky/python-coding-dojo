@@ -5,6 +5,6 @@
 **A:** Use bisect_right
 
 ```python
-idx = s.bisect_right(k)  # Index of first value > k
-successor = s[idx] if idx < len(s) else None
+idx = bst.bisect_right(k)  # Index of first value > k
+successor = bst[idx] if idx < len(bst) else None
 ```
