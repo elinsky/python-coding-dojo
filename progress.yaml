@@ -18,6 +18,16 @@ flashcards:
   binary-trees:
     attempts:
     - count: 21
+      date: '2025-12-05T14:11:52.995107'
+      notes: 'Missed: check-exactly-one-child'
+      score: 20
+      time_seconds: 253
+    - count: 21
+      date: '2025-12-05T14:11:26.072208'
+      notes: 'Missed: check-exactly-one-child, compare-data-equality'
+      score: 19
+      time_seconds: 253
+    - count: 21
       date: '2025-12-04T16:16:05.095447'
       notes: 'Missed: create-node, check-exactly-one-child'
       score: 19
