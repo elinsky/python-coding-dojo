@@ -1,6 +1,6 @@
 # Implement Hash for Custom Class
 
-**Q:** How do I make a custom class hashable (usable as dict key)?
+**Q:** How do I make a custom class hashable (usable as dict key)? (e.g. a Point class with x and y attributes)
 
 **A:** Implement __hash__ and __eq__ methods
 
