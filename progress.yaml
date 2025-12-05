@@ -2526,7 +2526,14 @@ problems:
     name: Implement an inorder traversal with constant space
     problem_number: '9.10'
   two_sorted_arrays_merge:
-    attempts: []
+    attempts:
+    - date: '2025-12-05T14:04:20.705948'
+      optimal: true
+      solved: true
+      submissions: 1
+      time_minutes: 9
+      used_hints: false
+      used_solution: false
     chapter: 13_sorting
     chapter_name: Sorting
     file: 1-algorithm-problems/two_sorted_arrays_merge.py
