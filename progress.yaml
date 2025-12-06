@@ -1088,7 +1088,14 @@ problems:
     priority: P4
     problem_number: '10.06'
   k_largest_values_in_bst:
-    attempts: []
+    attempts:
+    - date: '2025-12-05T18:01:12.649934'
+      optimal: true
+      solved: true
+      submissions: 2
+      time_minutes: 3
+      used_hints: false
+      used_solution: false
     chapter: 14_binary_search_trees
     chapter_name: Binary Search Trees
     file: 1-algorithm-problems/k_largest_values_in_bst.py
