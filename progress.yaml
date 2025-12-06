@@ -64,7 +64,7 @@ flashcards:
       notes: 'Missed: Q32'
       score: 10
       time_seconds: 125
-    name: 11-counter
+    name: 09-counter
     target_seconds: 330
   dicts-basics:
     attempts:
@@ -78,7 +78,7 @@ flashcards:
       notes: 'Missed: Q6, Q9, Q14, Q16, Q18, Q20'
       score: 17
       time_seconds: 292
-    name: 09-dicts-basics
+    name: 07-dicts-basics
     target_seconds: 690
   file-io:
     attempts:
@@ -87,7 +87,7 @@ flashcards:
       notes: 'Missed: Q1, Q9, Q12'
       score: 10
       time_seconds: 234
-    name: 27-file-io
+    name: 12-file-io
     target_seconds: 390
   functools:
     attempts:
@@ -101,7 +101,7 @@ flashcards:
       notes: 'Missed: Q3, Q6'
       score: 4
       time_seconds: 168
-    name: 25-functools
+    name: 11-functools
     target_seconds: 180
   linked-lists:
     attempts:
@@ -118,7 +118,7 @@ flashcards:
       notes: 'Missed: Q22, Q23, Q25'
       score: 2
       time_seconds: 92
-    name: 10-ordereddict
+    name: 08-ordereddict
     target_seconds: 150
   sortedcontainers:
     attempts:
@@ -127,7 +127,7 @@ flashcards:
       notes: 'Missed: Q6, Q10, Q12, Q13'
       score: 9
       time_seconds: 210
-    name: 13-sortedcontainers
+    name: 10-sortedcontainers
     target_seconds: 390
   stacks-queues:
     attempts:
