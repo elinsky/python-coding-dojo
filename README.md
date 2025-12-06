@@ -44,11 +44,11 @@ Progress toward priority-based learning goals.
 **6 / 16** problems mastered
 
 
-### 🟠 P1: Attempt All (17/20 - 85%)
+### 🟠 P1: Attempt All (18/20 - 90%)
 
-☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️⬜⬜⬜
+☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️⬜⬜
 
-**17 / 20** problems attempted
+**18 / 20** problems attempted
 
 
 ### 🟠 P1: Master All (5/20 - 25%)
@@ -113,7 +113,7 @@ Progress toward priority-based learning goals.
 Problems attempted but not yet solved
 
 ☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️
-☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️⬜⬜⬜
+☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
@@ -125,13 +125,13 @@ Problems attempted but not yet solved
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 
-**37 / 237** (15.6%)
+**38 / 237** (16.0%)
 
 ### Tier 1: Solved 👍
 Problems solved (with or without help)
 
 👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍
-👍👍👍👍👍👍👍👍👍👍👍👍👍👍⬜⬜⬜⬜⬜⬜
+👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
@@ -143,7 +143,7 @@ Problems solved (with or without help)
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 
-**34 / 237** (14.3%)
+**35 / 237** (14.8%)
 
 ### Tier 2: Solved Independently 💪
 Problems solved without hints or looking at solutions
@@ -204,7 +204,7 @@ See [Problem-Solving Workflow](wiki/Problem-Solving-Workflow.md) for visual diag
 | 13: Sorting | 12 | 2 (17%) | 2 (17%) | 2 (17%) | 2 (17%) |
 | 14: Binary Search Trees | 11 | 3 (27%) | 3 (27%) | 2 (18%) | 2 (18%) |
 | 15: Recursion | 10 | 2 (20%) | 1 (10%) | 0 (0%) | 0 (0%) |
-| 16: Dynamic Programming | 12 | 1 (8%) | 1 (8%) | 0 (0%) | 0 (0%) |
+| 16: Dynamic Programming | 12 | 2 (17%) | 2 (17%) | 0 (0%) | 0 (0%) |
 | 17: Greedy Algorithms and Invariants | 8 | 1 (12%) | 1 (12%) | 0 (0%) | 0 (0%) |
 | 18: Graphs | 8 | 1 (12%) | 1 (12%) | 0 (0%) | 0 (0%) |
 | 24: Honors Class | 35 | 0 (0%) | 0 (0%) | 0 (0%) | 0 (0%) |
@@ -220,7 +220,7 @@ See [Problem-Solving Workflow](wiki/Problem-Solving-Workflow.md) for visual diag
 | M3: Regularization & CV | 2 | 0 (0%) | 0 (0%) | 0 (0%) | 0 (0%) |
 | M4: Feature Pipelines | 2 | 0 (0%) | 0 (0%) | 0 (0%) | 0 (0%) |
 | M5: Evaluation | 3 | 0 (0%) | 0 (0%) | 0 (0%) | 0 (0%) |
-| **Total** | **237** | **37** | **34** | **16** | **13** |
+| **Total** | **237** | **38** | **35** | **16** | **13** |
 
 </details>
 
@@ -456,7 +456,7 @@ See [Problem-Solving Workflow](wiki/Problem-Solving-Workflow.md) for visual diag
 | # | Problem | Priority | LeetCode | Difficulty | Status | Best Time |
 |---|---------|----------|----------|------------|--------|-----------|
 | 16.01 | Count the number of score combinations | 🔴 | [#518](https://leetcode.com/problems/coin-change-ii/) | Medium | 👍 |  |
-| 16.02 | Compute the Levenshtein distance | 🟠 | [#72](https://leetcode.com/problems/edit-distance/) | Hard |  |  |
+| 16.02 | Compute the Levenshtein distance | 🟠 | [#72](https://leetcode.com/problems/edit-distance/) | Hard | 👍 |  |
 | 16.03 | Count the number of ways to traverse a 2D array | 🟡 | [#62](https://leetcode.com/problems/unique-paths/) | Medium |  |  |
 | 16.04 | Compute the binomial coefficients |  |  |  |  |  |
 | 16.05 | Search for a sequence in a 2D array | 🟢 | [#79](https://leetcode.com/problems/word-search/) | Medium |  |  |
