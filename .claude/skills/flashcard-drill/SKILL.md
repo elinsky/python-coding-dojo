@@ -16,9 +16,12 @@ Run a timed flashcard drill session for a category in `0-python-flashcards/`.
 - User will say "go" or similar to start
 
 ### 2. Quiz Phase (be FAST)
-- Present questions one at a time (just the H1 heading text)
+- Present questions one at a time with the question number prefix (e.g., "Q1: How do you get bit at position i?")
+- Get the question number from the filename (e.g., `03-clear-bit.md` = Q3, `01b-row-type.md` = Q1b)
+- The question text is in the `**Q:**` line of the flashcard (NOT the H1 heading)
 - When user answers, respond IMMEDIATELY with:
   - "Correct!" or "Wrong - [correct answer]"
+  - Blank line for readability
   - Then the next question in the SAME response
 - NO extra commentary, NO thinking, NO explanations during the drill
 - Track: correct count, incorrect cards (for later review)
@@ -72,12 +75,18 @@ From `log_flashcard_drill.py`:
 
 Each `.md` file in `0-python-flashcards/<category>/`:
 ```markdown
-# Question text here?
+# Card Title
+
+**Q:** Question text here?
+
+**A:** Brief answer description
 
 \`\`\`python
 answer_code_here
 \`\`\`
 ```
+
+The filename determines the question number (e.g., `01-read-csv-basic.md` = Q1, `01b-row-type.md` = Q1b).
 
 ## Example Session
 
@@ -85,9 +94,11 @@ User: "drill bitwise"
 Claude: *reads all 17 files in 0-python-flashcards/1-bitwise/*
 Claude: "Ready! 17 cards. Say 'go' when ready."
 User: "go"
-Claude: "How do you get bit at position i?"
+Claude: "Q1: How do you get bit at position i?"
 User: "(x >> i) & 1"
-Claude: "Correct! How do you set bit at position i?"
+Claude: "Correct!
+
+Q2: How do you set bit at position i?"
 ...
 Claude: "Done! 16/17 correct. What was your time in seconds?"
 User: "485"
