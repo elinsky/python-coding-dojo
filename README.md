@@ -60,12 +60,12 @@ Progress toward priority-based learning goals.
 **6 / 21** problems mastered
 
 
-### 🟡 P2: Attempt All (0/22 - 0%)
+### 🟡 P2: Attempt All (1/22 - 5%)
 
-⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+☑️⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜
 
-**0 / 22** problems attempted
+**1 / 22** problems attempted
 
 
 ### 🟡 P2: Master All (0/22 - 0%)
@@ -113,7 +113,7 @@ Progress toward priority-based learning goals.
 Problems attempted but not yet solved
 
 ☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️
-☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️⬜⬜⬜⬜
+☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
@@ -125,13 +125,13 @@ Problems attempted but not yet solved
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 
-**36 / 237** (15.2%)
+**37 / 237** (15.6%)
 
 ### Tier 1: Solved 👍
 Problems solved (with or without help)
 
 👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍
-👍👍👍👍👍👍👍👍👍👍👍👍👍⬜⬜⬜⬜⬜⬜⬜
+👍👍👍👍👍👍👍👍👍👍👍👍👍👍⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
@@ -143,7 +143,7 @@ Problems solved (with or without help)
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 
-**33 / 237** (13.9%)
+**34 / 237** (14.3%)
 
 ### Tier 2: Solved Independently 💪
 Problems solved without hints or looking at solutions
@@ -203,7 +203,7 @@ See [Problem-Solving Workflow](wiki/Problem-Solving-Workflow.md) for visual diag
 | 12: Hash Tables | 11 | 3 (27%) | 3 (27%) | 2 (18%) | 1 (9%) |
 | 13: Sorting | 12 | 2 (17%) | 2 (17%) | 2 (17%) | 2 (17%) |
 | 14: Binary Search Trees | 11 | 3 (27%) | 3 (27%) | 2 (18%) | 2 (18%) |
-| 15: Recursion | 10 | 1 (10%) | 0 (0%) | 0 (0%) | 0 (0%) |
+| 15: Recursion | 10 | 2 (20%) | 1 (10%) | 0 (0%) | 0 (0%) |
 | 16: Dynamic Programming | 12 | 1 (8%) | 1 (8%) | 0 (0%) | 0 (0%) |
 | 17: Greedy Algorithms and Invariants | 8 | 1 (12%) | 1 (12%) | 0 (0%) | 0 (0%) |
 | 18: Graphs | 8 | 1 (12%) | 1 (12%) | 0 (0%) | 0 (0%) |
@@ -220,7 +220,7 @@ See [Problem-Solving Workflow](wiki/Problem-Solving-Workflow.md) for visual diag
 | M3: Regularization & CV | 2 | 0 (0%) | 0 (0%) | 0 (0%) | 0 (0%) |
 | M4: Feature Pipelines | 2 | 0 (0%) | 0 (0%) | 0 (0%) | 0 (0%) |
 | M5: Evaluation | 3 | 0 (0%) | 0 (0%) | 0 (0%) | 0 (0%) |
-| **Total** | **237** | **36** | **33** | **16** | **13** |
+| **Total** | **237** | **37** | **34** | **16** | **13** |
 
 </details>
 
@@ -439,7 +439,7 @@ See [Problem-Solving Workflow](wiki/Problem-Solving-Workflow.md) for visual diag
 | # | Problem | Priority | LeetCode | Difficulty | Status | Best Time |
 |---|---------|----------|----------|------------|--------|-----------|
 | 15.01 | The Towers of Hanoi problem | 🔴 | [#08.06](https://leetcode.com/problems/hanota-lcci/) | Easy | ☑️ |  |
-| 15.02 | Generate all nonattacking placements of n-Queens | 🟡 | [#51](https://leetcode.com/problems/n-queens/) | Hard |  |  |
+| 15.02 | Generate all nonattacking placements of n-Queens | 🟡 | [#51](https://leetcode.com/problems/n-queens/) | Hard | 👍 |  |
 | 15.03 | Generate permutations | 🟢 | [#46](https://leetcode.com/problems/permutations/) | Medium |  |  |
 | 15.04 | Generate the power set |  | [#78](https://leetcode.com/problems/subsets/) | Medium |  |  |
 | 15.05 | Generate all subsets of size k | 🔵 | [#77](https://leetcode.com/problems/combinations/) | Medium |  |  |
