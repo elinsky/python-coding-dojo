@@ -1,13 +1,9 @@
 # Open File for Writing
 
-**Q:** How do I open a file for writing (overwrites existing)?
+**Q:** How do I open a file for writing?
 
-**A:** Use open() with mode 'w'
+**A:**
 
 ```python
-f = open('output.txt', 'w')
-f.write('Hello, World!')
-f.close()
+f = open('data.txt', 'w')
 ```
-
-Warning: 'w' mode truncates (erases) the file if it exists!
