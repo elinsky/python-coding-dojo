@@ -45,12 +45,14 @@ Progress toward priority-based learning goals.
 **6 / 16** problems mastered
 
 
-### 🟠 P1: Attempt All (19/20 - 95%)
+🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟
+### 🟠 P1: Attempt All (20/20 - 100%)
 
-☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️⬜
+☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️
 
-**19 / 20** problems attempted
+**20 / 20** problems attempted
 
+🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟
 
 ### 🟠 P1: Master All (5/20 - 25%)
 
@@ -114,7 +116,7 @@ Progress toward priority-based learning goals.
 Problems attempted but not yet solved
 
 ☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️
-☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️⬜
+☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
@@ -126,13 +128,13 @@ Problems attempted but not yet solved
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 
-**39 / 237** (16.5%)
+**40 / 237** (16.9%)
 
 ### Tier 1: Solved 👍
 Problems solved (with or without help)
 
 👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍
-👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍⬜⬜⬜⬜
+👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
@@ -144,7 +146,7 @@ Problems solved (with or without help)
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 
-**36 / 237** (15.2%)
+**37 / 237** (15.6%)
 
 ### Tier 2: Solved Independently 💪
 Problems solved without hints or looking at solutions
@@ -207,7 +209,7 @@ See [Problem-Solving Workflow](wiki/Problem-Solving-Workflow.md) for visual diag
 | 15: Recursion | 10 | 2 (20%) | 1 (10%) | 0 (0%) | 0 (0%) |
 | 16: Dynamic Programming | 12 | 2 (17%) | 2 (17%) | 0 (0%) | 0 (0%) |
 | 17: Greedy Algorithms and Invariants | 8 | 2 (25%) | 2 (25%) | 0 (0%) | 0 (0%) |
-| 18: Graphs | 8 | 1 (12%) | 1 (12%) | 0 (0%) | 0 (0%) |
+| 18: Graphs | 8 | 2 (25%) | 2 (25%) | 0 (0%) | 0 (0%) |
 | 24: Honors Class | 35 | 0 (0%) | 0 (0%) | 0 (0%) | 0 (0%) |
 | P1: File Parsing | 1 | 0 (0%) | 0 (0%) | 0 (0%) | 0 (0%) |
 | P2: Data Transformation | 1 | 0 (0%) | 0 (0%) | 0 (0%) | 0 (0%) |
@@ -221,7 +223,7 @@ See [Problem-Solving Workflow](wiki/Problem-Solving-Workflow.md) for visual diag
 | M3: Regularization & CV | 2 | 0 (0%) | 0 (0%) | 0 (0%) | 0 (0%) |
 | M4: Feature Pipelines | 2 | 0 (0%) | 0 (0%) | 0 (0%) | 0 (0%) |
 | M5: Evaluation | 3 | 0 (0%) | 0 (0%) | 0 (0%) | 0 (0%) |
-| **Total** | **237** | **39** | **36** | **16** | **13** |
+| **Total** | **237** | **40** | **37** | **16** | **13** |
 
 </details>
 
@@ -496,7 +498,7 @@ See [Problem-Solving Workflow](wiki/Problem-Solving-Workflow.md) for visual diag
 | 18.04 | Deadlock detection |  | [#207](https://leetcode.com/problems/course-schedule/) | Medium |  |  |
 | 18.05 | Clone a graph | 🔵 | [#133](https://leetcode.com/problems/clone-graph/) | Medium |  |  |
 | 18.06 | Making wired connections |  |  |  |  |  |
-| 18.07 | Transform one string to another | 🟠 | [#127](https://leetcode.com/problems/word-ladder/) | Hard |  |  |
+| 18.07 | Transform one string to another | 🟠 | [#127](https://leetcode.com/problems/word-ladder/) | Hard | 👍 |  |
 | 18.08 | Team photo day---2 |  |  |  |  |  |
 
 ---

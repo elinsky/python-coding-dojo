@@ -2430,7 +2430,14 @@ problems:
     priority: P0
     problem_number: '6.01'
   string_transformability:
-    attempts: []
+    attempts:
+    - date: '2025-12-05T21:49:24.420761'
+      optimal: true
+      solved: true
+      submissions: 5
+      time_minutes: 38
+      used_hints: true
+      used_solution: false
     chapter: 18_graphs
     chapter_name: Graphs
     file: 1-algorithm-problems/string_transformability.py
