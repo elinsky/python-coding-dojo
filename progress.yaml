@@ -353,7 +353,7 @@ problems:
     leetcode_num: '77'
     name: Generate all subsets of size k
     priority: P4
-    problem_number: '15.06'
+    problem_number: '15.05'
   confusion_metrics:
     attempts: []
     chapter: M5_evaluation
@@ -560,7 +560,7 @@ problems:
     leetcode_name: Generate Parentheses
     leetcode_num: '22'
     name: Generate strings of matched parens
-    problem_number: '15.07'
+    problem_number: '15.06'
   enumerate_palindromic_decompositions:
     attempts: []
     chapter: 15_recursion
@@ -570,7 +570,7 @@ problems:
     leetcode_name: Palindrome Partitioning
     leetcode_num: '131'
     name: Generate palindromic decompositions
-    problem_number: '15.08'
+    problem_number: '15.07'
   enumerate_trees:
     attempts: []
     chapter: 15_recursion
@@ -581,7 +581,7 @@ problems:
     leetcode_num: '95'
     name: Generate binary trees
     priority: P3
-    problem_number: '15.09'
+    problem_number: '15.08'
   euclidean_gcd:
     attempts: []
     chapter: 15_recursion
@@ -711,7 +711,7 @@ problems:
     leetcode_name: Gray Code
     leetcode_num: '89'
     name: Compute a Gray code
-    problem_number: '15.11'
+    problem_number: '15.10'
   group_equal_entries:
     attempts: []
     chapter: 13_sorting
@@ -1313,7 +1313,7 @@ problems:
     leetcode_num: '38'
     name: The look-and-say problem
     priority: P3
-    problem_number: '6.07'
+    problem_number: '6.08'
   lowest_common_ancestor:
     attempts: []
     chapter: 09_binary_trees
@@ -1539,7 +1539,7 @@ problems:
     leetcode_num: '51'
     name: Generate all nonattacking placements of n-Queens
     priority: P2
-    problem_number: '15.03'
+    problem_number: '15.02'
   nbbo_snapshotter:
     attempts: []
     chapter: T1_trading
@@ -1719,18 +1719,18 @@ problems:
     leetcode_num: '46'
     name: Generate permutations
     priority: P3
-    problem_number: '15.04'
+    problem_number: '15.03'
   phone_number_mnemonic:
     attempts: []
-    chapter: 15_recursion
-    chapter_name: Recursion
+    chapter: 06_strings
+    chapter_name: Strings
     file: 1-algorithm-problems/phone_number_mnemonic.py
     leetcode_difficulty: Medium
     leetcode_name: Letter Combinations of a Phone Number
     leetcode_num: '17'
     name: Compute all mnemonics for a phone number
     priority: P1
-    problem_number: '15.02'
+    problem_number: '6.07'
   picking_up_coins:
     attempts: []
     chapter: 16_dynamic_programming
@@ -1764,7 +1764,7 @@ problems:
     leetcode_name: Subsets
     leetcode_num: '78'
     name: Generate the power set
-    problem_number: '15.05'
+    problem_number: '15.04'
   power_x_y:
     attempts:
     - date: '2025-11-27'
@@ -2042,7 +2042,7 @@ problems:
     leetcode_num: '13'
     name: Convert from Roman to decimal
     priority: P3
-    problem_number: '6.08'
+    problem_number: '6.09'
   rook_attack:
     attempts: []
     chapter: 24_honors_class
@@ -2070,7 +2070,7 @@ problems:
     leetcode_num: '443'
     name: Implement run-length encoding
     priority: P4
-    problem_number: '6.11'
+    problem_number: '6.12'
   search_entry_equal_to_index:
     attempts: []
     chapter: 11_searching
@@ -2229,7 +2229,7 @@ problems:
     chapter_name: Strings
     file: 1-algorithm-problems/snake_string.py
     name: Write a string sinusoidally
-    problem_number: '6.10'
+    problem_number: '6.11'
   sort_almost_sorted_array:
     attempts: []
     chapter: 10_heaps
@@ -2409,7 +2409,7 @@ problems:
     leetcode_name: Find the Index of the First Occurrence in a String
     leetcode_num: '28'
     name: Find the first occurrence of a substring
-    problem_number: '6.12'
+    problem_number: '6.13'
   successor_in_tree:
     attempts: []
     chapter: 09_binary_trees
@@ -2427,7 +2427,7 @@ problems:
     leetcode_num: '37'
     name: Implement a Sudoku solver
     priority: P4
-    problem_number: '15.10'
+    problem_number: '15.09'
   sum_root_to_leaf:
     attempts: []
     chapter: 09_binary_trees
@@ -2606,7 +2606,7 @@ problems:
     leetcode_num: '93'
     name: Compute all valid IP addresses
     priority: P4
-    problem_number: '6.09'
+    problem_number: '6.10'
   zip_list:
     attempts: []
     chapter: 24_honors_class

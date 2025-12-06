@@ -194,7 +194,7 @@ See [Problem-Solving Workflow](wiki/Problem-Solving-Workflow.md) for visual diag
 |---------|----------|-------------|--------|---------------|-------------|
 | 4: Primitive Types | 11 | 5 (45%) | 5 (45%) | 3 (27%) | 2 (18%) |
 | 5: Arrays | 20 | 4 (20%) | 3 (15%) | 2 (10%) | 2 (10%) |
-| 6: Strings | 12 | 3 (25%) | 3 (25%) | 1 (8%) | 1 (8%) |
+| 6: Strings | 13 | 3 (23%) | 3 (23%) | 1 (8%) | 1 (8%) |
 | 7: Linked Lists | 13 | 3 (23%) | 3 (23%) | 2 (15%) | 2 (15%) |
 | 8: Stacks and Queues | 9 | 2 (22%) | 2 (22%) | 1 (11%) | 0 (0%) |
 | 9: Binary Trees | 15 | 2 (13%) | 1 (7%) | 0 (0%) | 0 (0%) |
@@ -203,7 +203,7 @@ See [Problem-Solving Workflow](wiki/Problem-Solving-Workflow.md) for visual diag
 | 12: Hash Tables | 11 | 3 (27%) | 3 (27%) | 2 (18%) | 1 (9%) |
 | 13: Sorting | 12 | 2 (17%) | 2 (17%) | 2 (17%) | 2 (17%) |
 | 14: Binary Search Trees | 11 | 3 (27%) | 3 (27%) | 2 (18%) | 2 (18%) |
-| 15: Recursion | 11 | 1 (9%) | 0 (0%) | 0 (0%) | 0 (0%) |
+| 15: Recursion | 10 | 1 (10%) | 0 (0%) | 0 (0%) | 0 (0%) |
 | 16: Dynamic Programming | 12 | 1 (8%) | 1 (8%) | 0 (0%) | 0 (0%) |
 | 17: Greedy Algorithms and Invariants | 8 | 1 (12%) | 1 (12%) | 0 (0%) | 0 (0%) |
 | 18: Graphs | 8 | 1 (12%) | 1 (12%) | 0 (0%) | 0 (0%) |
@@ -281,12 +281,13 @@ See [Problem-Solving Workflow](wiki/Problem-Solving-Workflow.md) for visual diag
 | 6.04 | Replace and remove | 🟠 |  |  | 👍 |  |
 | 6.05 | Test palindromicity | 🟡 | [#125](https://leetcode.com/problems/valid-palindrome/) | Easy |  |  |
 | 6.06 | Reverse all the words in a sentence | 🟡 | [#151](https://leetcode.com/problems/reverse-words-in-a-string/) | Medium |  |  |
-| 6.07 | The look-and-say problem | 🟢 | [#38](https://leetcode.com/problems/count-and-say/) | Medium |  |  |
-| 6.08 | Convert from Roman to decimal | 🟢 | [#13](https://leetcode.com/problems/roman-to-integer/) | Easy |  |  |
-| 6.09 | Compute all valid IP addresses | 🔵 | [#93](https://leetcode.com/problems/restore-ip-addresses/) | Medium |  |  |
-| 6.10 | Write a string sinusoidally |  |  |  |  |  |
-| 6.11 | Implement run-length encoding | 🔵 | [#443](https://leetcode.com/problems/string-compression/) | Medium |  |  |
-| 6.12 | Find the first occurrence of a substring |  | [#28](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | Easy |  |  |
+| 6.07 | Compute all mnemonics for a phone number | 🟠 | [#17](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | Medium |  |  |
+| 6.08 | The look-and-say problem | 🟢 | [#38](https://leetcode.com/problems/count-and-say/) | Medium |  |  |
+| 6.09 | Convert from Roman to decimal | 🟢 | [#13](https://leetcode.com/problems/roman-to-integer/) | Easy |  |  |
+| 6.10 | Compute all valid IP addresses | 🔵 | [#93](https://leetcode.com/problems/restore-ip-addresses/) | Medium |  |  |
+| 6.11 | Write a string sinusoidally |  |  |  |  |  |
+| 6.12 | Implement run-length encoding | 🔵 | [#443](https://leetcode.com/problems/string-compression/) | Medium |  |  |
+| 6.13 | Find the first occurrence of a substring |  | [#28](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | Easy |  |  |
 
 ---
 
@@ -438,16 +439,15 @@ See [Problem-Solving Workflow](wiki/Problem-Solving-Workflow.md) for visual diag
 | # | Problem | Priority | LeetCode | Difficulty | Status | Best Time |
 |---|---------|----------|----------|------------|--------|-----------|
 | 15.01 | The Towers of Hanoi problem | 🔴 | [#08.06](https://leetcode.com/problems/hanota-lcci/) | Easy | ☑️ |  |
-| 15.02 | Compute all mnemonics for a phone number | 🟠 | [#17](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | Medium |  |  |
-| 15.03 | Generate all nonattacking placements of n-Queens | 🟡 | [#51](https://leetcode.com/problems/n-queens/) | Hard |  |  |
-| 15.04 | Generate permutations | 🟢 | [#46](https://leetcode.com/problems/permutations/) | Medium |  |  |
-| 15.05 | Generate the power set |  | [#78](https://leetcode.com/problems/subsets/) | Medium |  |  |
-| 15.06 | Generate all subsets of size k | 🔵 | [#77](https://leetcode.com/problems/combinations/) | Medium |  |  |
-| 15.07 | Generate strings of matched parens |  | [#22](https://leetcode.com/problems/generate-parentheses/) | Medium |  |  |
-| 15.08 | Generate palindromic decompositions |  | [#131](https://leetcode.com/problems/palindrome-partitioning/) | Medium |  |  |
-| 15.09 | Generate binary trees | 🟢 | [#95](https://leetcode.com/problems/unique-binary-search-trees-ii/) | Medium |  |  |
-| 15.10 | Implement a Sudoku solver | 🔵 | [#37](https://leetcode.com/problems/sudoku-solver/) | Hard |  |  |
-| 15.11 | Compute a Gray code |  | [#89](https://leetcode.com/problems/gray-code/) | Medium |  |  |
+| 15.02 | Generate all nonattacking placements of n-Queens | 🟡 | [#51](https://leetcode.com/problems/n-queens/) | Hard |  |  |
+| 15.03 | Generate permutations | 🟢 | [#46](https://leetcode.com/problems/permutations/) | Medium |  |  |
+| 15.04 | Generate the power set |  | [#78](https://leetcode.com/problems/subsets/) | Medium |  |  |
+| 15.05 | Generate all subsets of size k | 🔵 | [#77](https://leetcode.com/problems/combinations/) | Medium |  |  |
+| 15.06 | Generate strings of matched parens |  | [#22](https://leetcode.com/problems/generate-parentheses/) | Medium |  |  |
+| 15.07 | Generate palindromic decompositions |  | [#131](https://leetcode.com/problems/palindrome-partitioning/) | Medium |  |  |
+| 15.08 | Generate binary trees | 🟢 | [#95](https://leetcode.com/problems/unique-binary-search-trees-ii/) | Medium |  |  |
+| 15.09 | Implement a Sudoku solver | 🔵 | [#37](https://leetcode.com/problems/sudoku-solver/) | Hard |  |  |
+| 15.10 | Compute a Gray code |  | [#89](https://leetcode.com/problems/gray-code/) | Medium |  |  |
 
 ---
 
