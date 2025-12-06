@@ -67,6 +67,20 @@ flashcards:
       time_seconds: 535
     name: 09-dicts
     target_seconds: 1200
+  functools:
+    attempts:
+    - count: 7
+      date: '2025-12-05T20:21:16.840284'
+      notes: Perfect score
+      score: 7
+      time_seconds: 151
+    - count: 6
+      date: '2025-12-05T21:00:00.000000'
+      notes: 'Missed: Q3, Q6'
+      score: 4
+      time_seconds: 168
+    name: 25-functools
+    target_seconds: 180
   linked-lists:
     attempts:
     - count: 15
@@ -124,15 +138,6 @@ flashcards:
       time_seconds: 269
     name: 03-strings
     target_seconds: 570
-  functools:
-    attempts:
-    - count: 6
-      date: '2025-12-05T21:00:00.000000'
-      notes: 'Missed: Q3, Q6'
-      score: 4
-      time_seconds: 168
-    name: 25-functools
-    target_seconds: 180
 problems:
   a_b_sqrt2:
     attempts: []
