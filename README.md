@@ -45,11 +45,11 @@ Progress toward priority-based learning goals.
 **6 / 16** problems mastered
 
 
-### 🟠 P1: Attempt All (18/20 - 90%)
+### 🟠 P1: Attempt All (19/20 - 95%)
 
-☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️⬜⬜
+☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️⬜
 
-**18 / 20** problems attempted
+**19 / 20** problems attempted
 
 
 ### 🟠 P1: Master All (5/20 - 25%)
@@ -114,7 +114,7 @@ Progress toward priority-based learning goals.
 Problems attempted but not yet solved
 
 ☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️
-☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️⬜⬜
+☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
@@ -126,13 +126,13 @@ Problems attempted but not yet solved
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 
-**38 / 237** (16.0%)
+**39 / 237** (16.5%)
 
 ### Tier 1: Solved 👍
 Problems solved (with or without help)
 
 👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍
-👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍⬜⬜⬜⬜⬜
+👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
@@ -144,7 +144,7 @@ Problems solved (with or without help)
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 
-**35 / 237** (14.8%)
+**36 / 237** (15.2%)
 
 ### Tier 2: Solved Independently 💪
 Problems solved without hints or looking at solutions
@@ -206,7 +206,7 @@ See [Problem-Solving Workflow](wiki/Problem-Solving-Workflow.md) for visual diag
 | 14: Binary Search Trees | 11 | 3 (27%) | 3 (27%) | 2 (18%) | 2 (18%) |
 | 15: Recursion | 10 | 2 (20%) | 1 (10%) | 0 (0%) | 0 (0%) |
 | 16: Dynamic Programming | 12 | 2 (17%) | 2 (17%) | 0 (0%) | 0 (0%) |
-| 17: Greedy Algorithms and Invariants | 8 | 1 (12%) | 1 (12%) | 0 (0%) | 0 (0%) |
+| 17: Greedy Algorithms and Invariants | 8 | 2 (25%) | 2 (25%) | 0 (0%) | 0 (0%) |
 | 18: Graphs | 8 | 1 (12%) | 1 (12%) | 0 (0%) | 0 (0%) |
 | 24: Honors Class | 35 | 0 (0%) | 0 (0%) | 0 (0%) | 0 (0%) |
 | P1: File Parsing | 1 | 0 (0%) | 0 (0%) | 0 (0%) | 0 (0%) |
@@ -221,7 +221,7 @@ See [Problem-Solving Workflow](wiki/Problem-Solving-Workflow.md) for visual diag
 | M3: Regularization & CV | 2 | 0 (0%) | 0 (0%) | 0 (0%) | 0 (0%) |
 | M4: Feature Pipelines | 2 | 0 (0%) | 0 (0%) | 0 (0%) | 0 (0%) |
 | M5: Evaluation | 3 | 0 (0%) | 0 (0%) | 0 (0%) | 0 (0%) |
-| **Total** | **237** | **38** | **35** | **16** | **13** |
+| **Total** | **237** | **39** | **36** | **16** | **13** |
 
 </details>
 
@@ -480,7 +480,7 @@ See [Problem-Solving Workflow](wiki/Problem-Solving-Workflow.md) for visual diag
 | 17.03 | The interval covering problem |  |  |  |  |  |
 | 17.04 | The 3-sum problem | 🔴 | [#15](https://leetcode.com/problems/3sum/) | Medium | 👍 |  |
 | 17.05 | Find the majority element | 🟡 | [#169](https://leetcode.com/problems/majority-element/) | Easy |  |  |
-| 17.06 | The gasup problem | 🟠 | [#134](https://leetcode.com/problems/gas-station/) | Medium |  |  |
+| 17.06 | The gasup problem | 🟠 | [#134](https://leetcode.com/problems/gas-station/) | Medium | 👍 |  |
 | 17.07 | Compute the maximum water trapped by a pair of vertical lines | 🟢 | [#11](https://leetcode.com/problems/container-with-most-water/) | Medium |  |  |
 | 17.08 | Compute the largest rectangle under the skyline | 🔵 | [#84](https://leetcode.com/problems/largest-rectangle-in-histogram/) | Hard |  |  |
 
