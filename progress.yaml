@@ -67,6 +67,15 @@ flashcards:
       time_seconds: 535
     name: 09-dicts
     target_seconds: 1200
+  file-io:
+    attempts:
+    - count: 13
+      date: '2025-12-06T00:00:00.000000'
+      notes: 'Missed: Q1, Q9, Q12'
+      score: 10
+      time_seconds: 234
+    name: 27-file-io
+    target_seconds: 390
   functools:
     attempts:
     - count: 7

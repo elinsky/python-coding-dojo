@@ -15,6 +15,7 @@ My journey through Elements of Programming Interviews in Python.
 | 09-dicts | ⬜ | 40/40 | 17/40 | 20:00 | 8:55 | 2025-12-04 |
 | 13-sortedcontainers | ⬜ | 13/13 | 9/13 | 6:30 | 3:30 | 2025-12-05 |
 | 25-functools | ✅ | 7/7 | 7/7 | 3:00 | 2:31 | 2025-12-05 |
+| 27-file-io | ⬜ | 13/13 | 10/13 | 6:30 | 3:54 | 2025-12-06 |
 
 ## Algorithm Problems
 
@@ -663,4 +664,4 @@ See [Problem-Solving Workflow](wiki/Problem-Solving-Workflow.md) for visual diag
 ---
 
 
-*Last updated: 2025-12-05*
+*Last updated: 2025-12-06*
