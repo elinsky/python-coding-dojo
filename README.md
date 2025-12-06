@@ -44,66 +44,66 @@ Progress toward priority-based learning goals.
 **6 / 16** problems mastered
 
 
-### 🟠 P1: Attempt All (17/21 - 81%)
+### 🟠 P1: Attempt All (17/20 - 85%)
 
 ☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️⬜⬜⬜
-⬜
 
-**17 / 21** problems attempted
-
-
-### 🟠 P1: Master All (6/21 - 29%)
-
-🏆🏆🏆🏆🏆🏆⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
-⬜
-
-**6 / 21** problems mastered
+**17 / 20** problems attempted
 
 
-### 🟡 P2: Attempt All (1/22 - 5%)
+### 🟠 P1: Master All (5/20 - 25%)
+
+🏆🏆🏆🏆🏆⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+
+**5 / 20** problems mastered
+
+
+### 🟡 P2: Attempt All (1/23 - 4%)
 
 ☑️⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
-⬜⬜
+⬜⬜⬜
 
-**1 / 22** problems attempted
-
-
-### 🟡 P2: Master All (0/22 - 0%)
-
-⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
-⬜⬜
-
-**0 / 22** problems mastered
+**1 / 23** problems attempted
 
 
-### 🟢 P3: Attempt All (1/25 - 4%)
+### 🟡 P2: Master All (1/23 - 4%)
+
+🏆⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜
+
+**1 / 23** problems mastered
+
+
+### 🟢 P3: Attempt All (1/26 - 4%)
 
 ☑️⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
-⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜
 
-**1 / 25** problems attempted
-
-
-### 🟢 P3: Master All (0/25 - 0%)
-
-⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
-⬜⬜⬜⬜⬜
-
-**0 / 25** problems mastered
+**1 / 26** problems attempted
 
 
-### 🔵 P4: Attempt All (0/20 - 0%)
+### 🟢 P3: Master All (0/26 - 0%)
 
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜
 
-**0 / 20** problems attempted
+**0 / 26** problems mastered
 
 
-### 🔵 P4: Master All (0/20 - 0%)
+### 🔵 P4: Attempt All (0/23 - 0%)
 
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜
 
-**0 / 20** problems mastered
+**0 / 23** problems attempted
+
+
+### 🔵 P4: Master All (0/23 - 0%)
+
+⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜
+
+**0 / 23** problems mastered
 
 
 <details>
@@ -281,11 +281,11 @@ See [Problem-Solving Workflow](wiki/Problem-Solving-Workflow.md) for visual diag
 | 6.04 | Replace and remove | 🟠 |  |  | 👍 |  |
 | 6.05 | Test palindromicity | 🟡 | [#125](https://leetcode.com/problems/valid-palindrome/) | Easy |  |  |
 | 6.06 | Reverse all the words in a sentence | 🟡 | [#151](https://leetcode.com/problems/reverse-words-in-a-string/) | Medium |  |  |
-| 6.07 | Compute all mnemonics for a phone number | 🟠 | [#17](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | Medium |  |  |
+| 6.07 | Compute all mnemonics for a phone number | 🟢 | [#17](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | Medium |  |  |
 | 6.08 | The look-and-say problem | 🟢 | [#38](https://leetcode.com/problems/count-and-say/) | Medium |  |  |
-| 6.09 | Convert from Roman to decimal | 🟢 | [#13](https://leetcode.com/problems/roman-to-integer/) | Easy |  |  |
+| 6.09 | Convert from Roman to decimal | 🔵 | [#13](https://leetcode.com/problems/roman-to-integer/) | Easy |  |  |
 | 6.10 | Compute all valid IP addresses | 🔵 | [#93](https://leetcode.com/problems/restore-ip-addresses/) | Medium |  |  |
-| 6.11 | Write a string sinusoidally |  |  |  |  |  |
+| 6.11 | Write a string sinusoidally | 🔵 |  |  |  |  |
 | 6.12 | Implement run-length encoding | 🔵 | [#443](https://leetcode.com/problems/string-compression/) | Medium |  |  |
 | 6.13 | Find the first occurrence of a substring |  | [#28](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | Easy |  |  |
 
@@ -387,7 +387,7 @@ See [Problem-Solving Workflow](wiki/Problem-Solving-Workflow.md) for visual diag
 | 12.02 | Is an anonymous letter constructible? | 🔴 | [#383](https://leetcode.com/problems/ransom-note/) | Easy | 💪 | 4 min |
 | 12.03 | Implement an ISBN cache | 🟠 | [#146](https://leetcode.com/problems/lru-cache/) | Medium | 👍 |  |
 | 12.04 | Compute the LCA, optimizing for close ancestors | 🟢 | [#236](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | Medium |  |  |
-| 12.05 | Find the nearest repeated entries in an array | 🟠 | [#219](https://leetcode.com/problems/contains-duplicate-ii/) | Easy | 🏆 | 12 min |
+| 12.05 | Find the nearest repeated entries in an array | 🟡 | [#219](https://leetcode.com/problems/contains-duplicate-ii/) | Easy | 🏆 | 12 min |
 | 12.06 | Find the smallest subarray covering all values | 🟢 | [#76](https://leetcode.com/problems/minimum-window-substring/) | Hard |  |  |
 | 12.07 | Find smallest subarray sequentially covering all values |  |  |  |  |  |
 | 12.08 | Find the longest subarray with distinct entries |  | [#3](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium |  |  |
@@ -439,15 +439,15 @@ See [Problem-Solving Workflow](wiki/Problem-Solving-Workflow.md) for visual diag
 | # | Problem | Priority | LeetCode | Difficulty | Status | Best Time |
 |---|---------|----------|----------|------------|--------|-----------|
 | 15.01 | The Towers of Hanoi problem | 🔴 | [#08.06](https://leetcode.com/problems/hanota-lcci/) | Easy | ☑️ |  |
-| 15.02 | Generate all nonattacking placements of n-Queens | 🟡 | [#51](https://leetcode.com/problems/n-queens/) | Hard | 👍 |  |
-| 15.03 | Generate permutations | 🟢 | [#46](https://leetcode.com/problems/permutations/) | Medium |  |  |
-| 15.04 | Generate the power set |  | [#78](https://leetcode.com/problems/subsets/) | Medium |  |  |
+| 15.02 | Generate all nonattacking placements of n-Queens | 🟠 | [#51](https://leetcode.com/problems/n-queens/) | Hard | 👍 |  |
+| 15.03 | Generate permutations | 🟡 | [#46](https://leetcode.com/problems/permutations/) | Medium |  |  |
+| 15.04 | Generate the power set | 🟢 | [#78](https://leetcode.com/problems/subsets/) | Medium |  |  |
 | 15.05 | Generate all subsets of size k | 🔵 | [#77](https://leetcode.com/problems/combinations/) | Medium |  |  |
-| 15.06 | Generate strings of matched parens |  | [#22](https://leetcode.com/problems/generate-parentheses/) | Medium |  |  |
+| 15.06 | Generate strings of matched parens | 🔵 | [#22](https://leetcode.com/problems/generate-parentheses/) | Medium |  |  |
 | 15.07 | Generate palindromic decompositions |  | [#131](https://leetcode.com/problems/palindrome-partitioning/) | Medium |  |  |
 | 15.08 | Generate binary trees | 🟢 | [#95](https://leetcode.com/problems/unique-binary-search-trees-ii/) | Medium |  |  |
-| 15.09 | Implement a Sudoku solver | 🔵 | [#37](https://leetcode.com/problems/sudoku-solver/) | Hard |  |  |
-| 15.10 | Compute a Gray code |  | [#89](https://leetcode.com/problems/gray-code/) | Medium |  |  |
+| 15.09 | Implement a Sudoku solver | 🟢 | [#37](https://leetcode.com/problems/sudoku-solver/) | Hard |  |  |
+| 15.10 | Compute a Gray code | 🔵 | [#89](https://leetcode.com/problems/gray-code/) | Medium |  |  |
 
 ---
 

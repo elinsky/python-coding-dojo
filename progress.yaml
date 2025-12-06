@@ -560,6 +560,7 @@ problems:
     leetcode_name: Generate Parentheses
     leetcode_num: '22'
     name: Generate strings of matched parens
+    priority: P4
     problem_number: '15.06'
   enumerate_palindromic_decompositions:
     attempts: []
@@ -711,6 +712,7 @@ problems:
     leetcode_name: Gray Code
     leetcode_num: '89'
     name: Compute a Gray code
+    priority: P4
     problem_number: '15.10'
   group_equal_entries:
     attempts: []
@@ -1546,7 +1548,7 @@ problems:
     leetcode_name: N-Queens
     leetcode_num: '51'
     name: Generate all nonattacking placements of n-Queens
-    priority: P2
+    priority: P1
     problem_number: '15.02'
   nbbo_snapshotter:
     attempts: []
@@ -1571,7 +1573,7 @@ problems:
     leetcode_name: Contains Duplicate II
     leetcode_num: '219'
     name: Find the nearest repeated entries in an array
-    priority: P1
+    priority: P2
     problem_number: '12.05'
   next_permutation:
     attempts: []
@@ -1726,7 +1728,7 @@ problems:
     leetcode_name: Permutations
     leetcode_num: '46'
     name: Generate permutations
-    priority: P3
+    priority: P2
     problem_number: '15.03'
   phone_number_mnemonic:
     attempts: []
@@ -1737,7 +1739,7 @@ problems:
     leetcode_name: Letter Combinations of a Phone Number
     leetcode_num: '17'
     name: Compute all mnemonics for a phone number
-    priority: P1
+    priority: P3
     problem_number: '6.07'
   picking_up_coins:
     attempts: []
@@ -1772,6 +1774,7 @@ problems:
     leetcode_name: Subsets
     leetcode_num: '78'
     name: Generate the power set
+    priority: P3
     problem_number: '15.04'
   power_x_y:
     attempts:
@@ -2049,7 +2052,7 @@ problems:
     leetcode_name: Roman to Integer
     leetcode_num: '13'
     name: Convert from Roman to decimal
-    priority: P3
+    priority: P4
     problem_number: '6.09'
   rook_attack:
     attempts: []
@@ -2237,6 +2240,7 @@ problems:
     chapter_name: Strings
     file: 1-algorithm-problems/snake_string.py
     name: Write a string sinusoidally
+    priority: P4
     problem_number: '6.11'
   sort_almost_sorted_array:
     attempts: []
@@ -2434,7 +2438,7 @@ problems:
     leetcode_name: Sudoku Solver
     leetcode_num: '37'
     name: Implement a Sudoku solver
-    priority: P4
+    priority: P3
     problem_number: '15.09'
   sum_root_to_leaf:
     attempts: []
