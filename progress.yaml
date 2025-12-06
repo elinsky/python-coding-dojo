@@ -57,16 +57,20 @@ flashcards:
       time_seconds: 624
     name: 01-bitwise
     target_seconds: 510
-  dicts:
+  dicts-basics:
     attempts:
-    - count: 40
-      date: '2025-12-04T17:31:59.435878'
-      notes: 'Missed: Q6, Q8, Q9, Q16, Q17, Q19, Q20, Q22, Q23, Q25, Q26, Q27, Q28,
-        Q29, Q30, Q31, Q32, Q33, Q34, Q35, Q36, Q37, Q39, Q40'
+    - count: 23
+      date: '2025-12-06T17:45:15.645241'
+      notes: 'Missed: Q6, Q9, Q14, Q16, Q18, Q20'
       score: 17
-      time_seconds: 535
-    name: 09-dicts
-    target_seconds: 1200
+      time_seconds: 292
+    - count: 23
+      date: '2025-12-06T17:43:57.094002'
+      notes: 'Missed: Q6, Q9, Q14, Q16, Q18, Q20'
+      score: 17
+      time_seconds: 292
+    name: 09-dicts-basics
+    target_seconds: 690
   file-io:
     attempts:
     - count: 13
