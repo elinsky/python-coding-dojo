@@ -269,7 +269,7 @@ problems:
     attempts: []
     chapter: P4_api_interaction
     chapter_name: API Interaction
-    file: 4-practical/api_pagination.py
+    file: 2-applied-problems/api_pagination.py
     name: API Pagination Handler
     problem_number: P4.01
   apply_permutation:
@@ -515,7 +515,7 @@ problems:
       used_solution: false
     chapter: P1_file_parsing
     chapter_name: File Parsing
-    file: 4-practical/csv_sales_report.py
+    file: 2-applied-problems/csv_sales_report.py
     name: CSV Sales Report
     problem_number: P1.01
   custom_transformer:
@@ -741,7 +741,7 @@ problems:
     attempts: []
     chapter: P6_system_scripts
     chapter_name: System Scripts
-    file: 4-practical/file_organizer.py
+    file: 2-applied-problems/file_organizer.py
     name: File Organizer
     problem_number: P6.01
   find_salary_threshold:
@@ -1157,7 +1157,7 @@ problems:
     attempts: []
     chapter: P2_data_transformation
     chapter_name: Data Transformation
-    file: 4-practical/json_flatten.py
+    file: 2-applied-problems/json_flatten.py
     name: Flatten Nested JSON
     problem_number: P2.01
   k_closest_stars:
@@ -1346,7 +1346,7 @@ problems:
     attempts: []
     chapter: P3_text_processing
     chapter_name: Text Processing
-    file: 4-practical/log_parser.py
+    file: 2-applied-problems/log_parser.py
     name: Log File Parser
     problem_number: P3.01
   logistic_regression:
@@ -2464,7 +2464,7 @@ problems:
     attempts: []
     chapter: P5_database
     chapter_name: Database
-    file: 4-practical/sql_aggregation.py
+    file: 2-applied-problems/sql_aggregation.py
     name: SQL Aggregation Query
     problem_number: P5.01
   stack_with_max:
