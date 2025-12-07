@@ -66,6 +66,15 @@ flashcards:
       time_seconds: 125
     name: 09-counter
     target_seconds: 330
+  csv:
+    attempts:
+    - count: 23
+      date: '2025-12-06T18:12:57.602566'
+      notes: 'Missed: Q1, Q2, Q11, Q12, Q13, Q15, Q20, Q21'
+      score: 15
+      time_seconds: 654
+    name: 13-csv
+    target_seconds: 690
   dicts-basics:
     attempts:
     - count: 23

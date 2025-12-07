@@ -18,6 +18,7 @@ My journey through Elements of Programming Interviews in Python.
 | 10-sortedcontainers | ⬜ | 13/13 | 9/13 | 6:30 | 3:30 | 2025-12-05 |
 | 11-functools | ✅ | 7/7 | 7/7 | 3:00 | 2:31 | 2025-12-05 |
 | 12-file-io | ⬜ | 13/13 | 10/13 | 6:30 | 3:54 | 2025-12-06 |
+| 13-csv | ⬜ | 23/23 | 15/23 | 11:30 | 10:54 | 2025-12-06 |
 
 ## Algorithm Problems
 
