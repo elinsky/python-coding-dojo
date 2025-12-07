@@ -19,6 +19,7 @@ My journey through Elements of Programming Interviews in Python.
 | 11-functools | ✅ | 7/7 | 7/7 | 3:00 | 2:31 | 2025-12-05 |
 | 12-file-io | ⬜ | 13/13 | 10/13 | 6:30 | 3:54 | 2025-12-06 |
 | 13-csv | ⬜ | 23/23 | 15/23 | 11:30 | 10:54 | 2025-12-06 |
+| 14-pathlib-basics | ⬜ | 16/16 | 12/16 | 8:00 | 4:02 | 2025-12-06 |
 
 ## Algorithm Problems
 
