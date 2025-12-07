@@ -138,6 +138,15 @@ flashcards:
       time_seconds: 242
     name: 14-pathlib-basics
     target_seconds: 480
+  pathlib-ops:
+    attempts:
+    - count: 12
+      date: '2025-12-06T18:37:35.607905'
+      notes: 'Missed: Q1, Q2, Q3, Q4, Q6, Q7, Q10, Q11, Q12'
+      score: 4
+      time_seconds: 176
+    name: 15-pathlib-ops
+    target_seconds: 360
   sortedcontainers:
     attempts:
     - count: 13
