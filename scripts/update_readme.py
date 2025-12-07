@@ -524,8 +524,27 @@ def generate_readme(data, threshold):
         chapter_name = problem_info['metadata'].get('chapter_name', 'Unknown')
         problems_by_chapter[chapter_name].append((problem_id, problem_info))
 
-    # Sort chapters and problems
+    # Separate EPI chapters from Applied Problems (P, T, M prefixes)
+    epi_chapters = []
+    applied_sections = {
+        'Data': [],      # P1-P6 problems
+        'Trading': [],   # T1 problems
+        'ML': [],        # M1-M5 problems
+    }
+
     for chapter_name, chapter_stats in sorted_chapters:
+        chapter_num = chapter_stats['chapter_num']
+        if chapter_num.startswith('P'):
+            applied_sections['Data'].append((chapter_name, chapter_stats))
+        elif chapter_num.startswith('T'):
+            applied_sections['Trading'].append((chapter_name, chapter_stats))
+        elif chapter_num.startswith('M'):
+            applied_sections['ML'].append((chapter_name, chapter_stats))
+        else:
+            epi_chapters.append((chapter_name, chapter_stats))
+
+    # Generate EPI problem tables
+    for chapter_name, chapter_stats in epi_chapters:
         chapter_num = chapter_stats['chapter_num']
         lines.extend([
             f'### Chapter {chapter_num}: {chapter_name}',
@@ -593,6 +612,62 @@ def generate_readme(data, threshold):
                 lc_link = ''
 
             lines.append(f'| {problem_num} | {problem_name} | {priority} | {lc_link} | {lc_difficulty} | {status} | {time_str} |')
+
+        lines.extend(['', '---', ''])
+
+    # Generate Applied Problems section
+    lines.extend([
+        '## Applied Problems',
+        '',
+    ])
+
+    for section_name, section_chapters in applied_sections.items():
+        if not section_chapters:
+            continue
+
+        lines.extend([
+            f'### {section_name}',
+            '',
+            '| # | Problem | Status | Best Time |',
+            '|---|---------|--------|-----------|',
+        ])
+
+        # Collect all problems from all chapters in this section
+        section_problems = []
+        for chapter_name, chapter_stats in section_chapters:
+            chapter_problems = problems_by_chapter.get(chapter_name, [])
+            section_problems.extend(chapter_problems)
+
+        # Sort by problem number
+        section_problems.sort(key=lambda x: x[1]['metadata'].get('problem_number', ''))
+
+        for problem_id, problem_info in section_problems:
+            metadata = problem_info['metadata']
+            tier = problem_info['tier']
+            best_time = problem_info['best_time']
+            has_attempts = problem_info['has_attempts']
+
+            problem_num = metadata.get('problem_number', '')
+            problem_name = metadata.get('name', problem_id)
+
+            # Determine status icon
+            if tier == 0 and not has_attempts:
+                status = ''
+            elif tier == 0 and has_attempts:
+                status = '☑️'
+            elif tier == 1:
+                status = '👍'
+            elif tier == 2:
+                status = '💪'
+            else:  # tier == 3
+                status = '🏆'
+
+            # Show best time only for tier 2+
+            time_str = ''
+            if tier >= 2 and best_time is not None:
+                time_str = f'{best_time} min'
+
+            lines.append(f'| {problem_num} | {problem_name} | {status} | {time_str} |')
 
         lines.extend(['', '---', ''])
 

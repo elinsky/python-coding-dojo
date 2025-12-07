@@ -125,7 +125,7 @@ Problems attempted but not yet solved
 
 ☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️
 ☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️
-⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+☑️⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
@@ -136,13 +136,13 @@ Problems attempted but not yet solved
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 
-**40 / 237** (16.9%)
+**41 / 237** (17.3%)
 
 ### Tier 1: Solved 👍
 Problems solved (with or without help)
 
 👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍
-👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍⬜⬜⬜
+👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
@@ -154,12 +154,12 @@ Problems solved (with or without help)
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 
-**37 / 237** (15.6%)
+**38 / 237** (16.0%)
 
 ### Tier 2: Solved Independently 💪
 Problems solved without hints or looking at solutions
 
-💪💪💪💪💪💪💪💪💪💪💪💪💪💪💪💪⬜⬜⬜⬜
+💪💪💪💪💪💪💪💪💪💪💪💪💪💪💪💪💪⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
@@ -172,12 +172,12 @@ Problems solved without hints or looking at solutions
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 
-**16 / 237** (6.8%)
+**17 / 237** (7.2%)
 
 ### Tier 3: Mastered 🏆
 Problems solved independently in ≤20 minutes with optimal solution
 
-🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆⬜⬜⬜⬜⬜⬜⬜
+🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
@@ -190,7 +190,7 @@ Problems solved independently in ≤20 minutes with optimal solution
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 
-**13 / 237** (5.5%)
+**14 / 237** (5.9%)
 
 </details>
 
@@ -219,7 +219,7 @@ See [Problem-Solving Workflow](wiki/Problem-Solving-Workflow.md) for visual diag
 | 17: Greedy Algorithms and Invariants | 8 | 2 (25%) | 2 (25%) | 0 (0%) | 0 (0%) |
 | 18: Graphs | 8 | 2 (25%) | 2 (25%) | 0 (0%) | 0 (0%) |
 | 24: Honors Class | 35 | 0 (0%) | 0 (0%) | 0 (0%) | 0 (0%) |
-| P1: File Parsing | 1 | 0 (0%) | 0 (0%) | 0 (0%) | 0 (0%) |
+| P1: File Parsing | 1 | 1 (100%) | 1 (100%) | 1 (100%) | 1 (100%) |
 | P2: Data Transformation | 1 | 0 (0%) | 0 (0%) | 0 (0%) | 0 (0%) |
 | P3: Text Processing | 1 | 0 (0%) | 0 (0%) | 0 (0%) | 0 (0%) |
 | P4: API Interaction | 1 | 0 (0%) | 0 (0%) | 0 (0%) | 0 (0%) |
@@ -231,7 +231,7 @@ See [Problem-Solving Workflow](wiki/Problem-Solving-Workflow.md) for visual diag
 | M3: Regularization & CV | 2 | 0 (0%) | 0 (0%) | 0 (0%) | 0 (0%) |
 | M4: Feature Pipelines | 2 | 0 (0%) | 0 (0%) | 0 (0%) | 0 (0%) |
 | M5: Evaluation | 3 | 0 (0%) | 0 (0%) | 0 (0%) | 0 (0%) |
-| **Total** | **237** | **40** | **37** | **16** | **13** |
+| **Total** | **237** | **41** | **38** | **17** | **14** |
 
 </details>
 
@@ -553,120 +553,59 @@ See [Problem-Solving Workflow](wiki/Problem-Solving-Workflow.md) for visual diag
 
 ---
 
-### Chapter P1: File Parsing
+## Applied Problems
 
-| # | Problem | Priority | LeetCode | Difficulty | Status | Best Time |
-|---|---------|----------|----------|------------|--------|-----------|
-| P1.01 | CSV Sales Report |  |  |  |  |  |
+### Data
 
----
-
-### Chapter P2: Data Transformation
-
-| # | Problem | Priority | LeetCode | Difficulty | Status | Best Time |
-|---|---------|----------|----------|------------|--------|-----------|
-| P2.01 | Flatten Nested JSON |  |  |  |  |  |
-
----
-
-### Chapter P3: Text Processing
-
-| # | Problem | Priority | LeetCode | Difficulty | Status | Best Time |
-|---|---------|----------|----------|------------|--------|-----------|
-| P3.01 | Log File Parser |  |  |  |  |  |
+| # | Problem | Status | Best Time |
+|---|---------|--------|-----------|
+| P1.01 | CSV Sales Report | 🏆 | 10 min |
+| P2.01 | Flatten Nested JSON |  |  |
+| P3.01 | Log File Parser |  |  |
+| P4.01 | API Pagination Handler |  |  |
+| P5.01 | SQL Aggregation Query |  |  |
+| P6.01 | File Organizer |  |  |
 
 ---
 
-### Chapter P4: API Interaction
+### Trading
 
-| # | Problem | Priority | LeetCode | Difficulty | Status | Best Time |
-|---|---------|----------|----------|------------|--------|-----------|
-| P4.01 | API Pagination Handler |  |  |  |  |  |
-
----
-
-### Chapter P5: Database
-
-| # | Problem | Priority | LeetCode | Difficulty | Status | Best Time |
-|---|---------|----------|----------|------------|--------|-----------|
-| P5.01 | SQL Aggregation Query |  |  |  |  |  |
-
----
-
-### Chapter P6: System Scripts
-
-| # | Problem | Priority | LeetCode | Difficulty | Status | Best Time |
-|---|---------|----------|----------|------------|--------|-----------|
-| P6.01 | File Organizer |  |  |  |  |  |
+| # | Problem | Status | Best Time |
+|---|---------|--------|-----------|
+| T1.01 | NBBO Snapshotter |  |  |
+| T1.02 | Implied Vol Calculator |  |  |
+| T1.03 | Risk Aggregation (Greeks) |  |  |
+| T1.04 | P&L Explain Parser |  |  |
+| T1.05 | L2 Order Book Stitcher |  |  |
+| T1.06 | FIX Log Parser |  |  |
+| T1.07 | IV Surface Cleaner |  |  |
+| T1.08 | Fee Schedule Calculator |  |  |
+| T1.09 | PCAP Latency Analyzer |  |  |
+| T1.10 | Binary Feed Parser |  |  |
+| T1.11 | Exercise/Assignment Simulator |  |  |
+| T1.12 | Backtest Event Joiner |  |  |
 
 ---
 
-### Chapter T1: Trading & Quant
+### ML
 
-| # | Problem | Priority | LeetCode | Difficulty | Status | Best Time |
-|---|---------|----------|----------|------------|--------|-----------|
-| T1.01 | NBBO Snapshotter |  |  |  |  |  |
-| T1.02 | Implied Vol Calculator |  |  |  |  |  |
-| T1.03 | Risk Aggregation (Greeks) |  |  |  |  |  |
-| T1.04 | P&L Explain Parser |  |  |  |  |  |
-| T1.05 | L2 Order Book Stitcher |  |  |  |  |  |
-| T1.06 | FIX Log Parser |  |  |  |  |  |
-| T1.07 | IV Surface Cleaner |  |  |  |  |  |
-| T1.08 | Fee Schedule Calculator |  |  |  |  |  |
-| T1.09 | PCAP Latency Analyzer |  |  |  |  |  |
-| T1.10 | Binary Feed Parser |  |  |  |  |  |
-| T1.11 | Exercise/Assignment Simulator |  |  |  |  |  |
-| T1.12 | Backtest Event Joiner |  |  |  |  |  |
-
----
-
-### Chapter M1: Models
-
-| # | Problem | Priority | LeetCode | Difficulty | Status | Best Time |
-|---|---------|----------|----------|------------|--------|-----------|
-| M1.01 | Linear Regression (Normal Equation) |  |  |  |  |  |
-| M1.02 | Logistic Regression (Gradient Descent) |  |  |  |  |  |
-| M1.03 | K-Nearest Neighbors |  |  |  |  |  |
-| M1.04 | K-Means Clustering |  |  |  |  |  |
-| M1.05 | Decision Tree Classifier |  |  |  |  |  |
-
----
-
-### Chapter M2: Gradients
-
-| # | Problem | Priority | LeetCode | Difficulty | Status | Best Time |
-|---|---------|----------|----------|------------|--------|-----------|
-| M2.01 | Gradient Descent Variants |  |  |  |  |  |
-| M2.02 | Cross-Entropy Loss & Gradient |  |  |  |  |  |
-| M2.03 | Numerical Gradient Checker |  |  |  |  |  |
-
----
-
-### Chapter M3: Regularization & CV
-
-| # | Problem | Priority | LeetCode | Difficulty | Status | Best Time |
-|---|---------|----------|----------|------------|--------|-----------|
-| M3.01 | K-Fold Cross Validation |  |  |  |  |  |
-| M3.02 | L1/L2 Regularized Regression |  |  |  |  |  |
-
----
-
-### Chapter M4: Feature Pipelines
-
-| # | Problem | Priority | LeetCode | Difficulty | Status | Best Time |
-|---|---------|----------|----------|------------|--------|-----------|
-| M4.01 | sklearn Pipeline Builder |  |  |  |  |  |
-| M4.02 | Custom sklearn Transformer |  |  |  |  |  |
-
----
-
-### Chapter M5: Evaluation
-
-| # | Problem | Priority | LeetCode | Difficulty | Status | Best Time |
-|---|---------|----------|----------|------------|--------|-----------|
-| M5.01 | ROC Curve & AUC |  |  |  |  |  |
-| M5.02 | Precision-Recall Curve |  |  |  |  |  |
-| M5.03 | Confusion Matrix Metrics |  |  |  |  |  |
+| # | Problem | Status | Best Time |
+|---|---------|--------|-----------|
+| M1.01 | Linear Regression (Normal Equation) |  |  |
+| M1.02 | Logistic Regression (Gradient Descent) |  |  |
+| M1.03 | K-Nearest Neighbors |  |  |
+| M1.04 | K-Means Clustering |  |  |
+| M1.05 | Decision Tree Classifier |  |  |
+| M2.01 | Gradient Descent Variants |  |  |
+| M2.02 | Cross-Entropy Loss & Gradient |  |  |
+| M2.03 | Numerical Gradient Checker |  |  |
+| M3.01 | K-Fold Cross Validation |  |  |
+| M3.02 | L1/L2 Regularized Regression |  |  |
+| M4.01 | sklearn Pipeline Builder |  |  |
+| M4.02 | Custom sklearn Transformer |  |  |
+| M5.01 | ROC Curve & AUC |  |  |
+| M5.02 | Precision-Recall Curve |  |  |
+| M5.03 | Confusion Matrix Metrics |  |  |
 
 ---
 

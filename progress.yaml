@@ -505,7 +505,14 @@ problems:
     name: Cross-Entropy Loss & Gradient
     problem_number: M2.02
   csv_sales_report:
-    attempts: []
+    attempts:
+    - date: '2025-12-06T00:00:00.000000'
+      optimal: true
+      solved: true
+      submissions: 1
+      time_minutes: 10
+      used_hints: false
+      used_solution: false
     chapter: P1_file_parsing
     chapter_name: File Parsing
     file: 4-practical/csv_sales_report.py
