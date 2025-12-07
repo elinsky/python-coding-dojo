@@ -21,6 +21,8 @@ My journey through Elements of Programming Interviews in Python.
 | 13-csv | ⬜ | 23/23 | 15/23 | 11:30 | 10:54 | 2025-12-06 |
 | 14-pathlib-basics | ⬜ | 16/16 | 12/16 | 8:00 | 4:02 | 2025-12-06 |
 | 15-pathlib-ops | ⬜ | 12/12 | 4/12 | 6:00 | 2:56 | 2025-12-06 |
+| 16-regex | ⬜ | 21/21 | 15/21 | 10:30 | 4:29 | 2025-12-06 |
+| 17-regex-python | ⬜ | 8/8 | 3/8 | 4:00 | 2:38 | 2025-12-06 |
 
 ## Algorithm Problems
 

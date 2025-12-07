@@ -147,6 +147,24 @@ flashcards:
       time_seconds: 176
     name: 15-pathlib-ops
     target_seconds: 360
+  regex:
+    attempts:
+    - count: 21
+      date: '2025-12-06T18:44:14.760397'
+      notes: 'Missed: Q2, Q4, Q10, Q13, Q15, Q20'
+      score: 15
+      time_seconds: 269
+    name: 16-regex
+    target_seconds: 630
+  regex-python:
+    attempts:
+    - count: 8
+      date: '2025-12-06T18:47:52.872385'
+      notes: 'Missed: Q1, Q2, Q3, Q5, Q7'
+      score: 3
+      time_seconds: 158
+    name: 17-regex-python
+    target_seconds: 240
   sortedcontainers:
     attempts:
     - count: 13
