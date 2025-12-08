@@ -2524,13 +2524,6 @@ problems:
       time_minutes: 19
       used_hints: false
       used_solution: false
-    - date: '2025-12-08T16:08:18.311781'
-      optimal: true
-      solved: true
-      submissions: 1
-      time_minutes: 13
-      used_hints: false
-      used_solution: false
     chapter: 06_strings
     chapter_name: Strings
     file: 1-algorithm-problems/string_integer_interconversion.py
