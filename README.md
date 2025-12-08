@@ -46,11 +46,11 @@ Progress toward priority-based learning goals.
 
 🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟
 
-### 🔴 P0: Master All (6/16 - 38%)
+### 🔴 P0: Master All (7/16 - 44%)
 
-🏆🏆🏆🏆🏆🏆⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+🏆🏆🏆🏆🏆🏆🏆⬜⬜⬜⬜⬜⬜⬜⬜⬜
 
-**6 / 16** problems mastered
+**7 / 16** problems mastered
 
 
 🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟
@@ -142,7 +142,7 @@ Problems attempted but not yet solved
 Problems solved (with or without help)
 
 👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍
-👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍⬜⬜
+👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
@@ -154,12 +154,12 @@ Problems solved (with or without help)
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 
-**38 / 237** (16.0%)
+**39 / 237** (16.5%)
 
 ### Tier 2: Solved Independently 💪
 Problems solved without hints or looking at solutions
 
-💪💪💪💪💪💪💪💪💪💪💪💪💪💪💪💪💪⬜⬜⬜
+💪💪💪💪💪💪💪💪💪💪💪💪💪💪💪💪💪💪⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
@@ -172,12 +172,12 @@ Problems solved without hints or looking at solutions
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 
-**17 / 237** (7.2%)
+**18 / 237** (7.6%)
 
 ### Tier 3: Mastered 🏆
 Problems solved independently in ≤20 minutes with optimal solution
 
-🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆⬜⬜⬜⬜⬜⬜
+🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
@@ -190,7 +190,7 @@ Problems solved independently in ≤20 minutes with optimal solution
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 
-**14 / 237** (5.9%)
+**15 / 237** (6.3%)
 
 </details>
 
@@ -204,7 +204,7 @@ See [Problem-Solving Workflow](wiki/Problem-Solving-Workflow.md) for visual diag
 | Chapter | Problems | Attempted ☑️ | Solved 👍 | Independent 💪 | Mastered 🏆 |
 |---------|----------|-------------|--------|---------------|-------------|
 | 4: Primitive Types | 11 | 5 (45%) | 5 (45%) | 3 (27%) | 2 (18%) |
-| 5: Arrays | 20 | 4 (20%) | 3 (15%) | 2 (10%) | 2 (10%) |
+| 5: Arrays | 20 | 4 (20%) | 4 (20%) | 3 (15%) | 3 (15%) |
 | 6: Strings | 13 | 3 (23%) | 3 (23%) | 1 (8%) | 1 (8%) |
 | 7: Linked Lists | 13 | 3 (23%) | 3 (23%) | 2 (15%) | 2 (15%) |
 | 8: Stacks and Queues | 9 | 2 (22%) | 2 (22%) | 1 (11%) | 0 (0%) |
@@ -231,7 +231,7 @@ See [Problem-Solving Workflow](wiki/Problem-Solving-Workflow.md) for visual diag
 | M3: Regularization & CV | 2 | 0 (0%) | 0 (0%) | 0 (0%) | 0 (0%) |
 | M4: Feature Pipelines | 2 | 0 (0%) | 0 (0%) | 0 (0%) | 0 (0%) |
 | M5: Evaluation | 3 | 0 (0%) | 0 (0%) | 0 (0%) | 0 (0%) |
-| **Total** | **237** | **41** | **38** | **17** | **14** |
+| **Total** | **237** | **41** | **39** | **18** | **15** |
 
 </details>
 
@@ -259,7 +259,7 @@ See [Problem-Solving Workflow](wiki/Problem-Solving-Workflow.md) for visual diag
 
 | # | Problem | Priority | LeetCode | Difficulty | Status | Attempts | Best Time |
 |---|---------|----------|----------|------------|--------|----------|-----------|
-| 5.01 | The Dutch national flag problem | 🔴 | [#75](https://leetcode.com/problems/sort-colors/) | Medium | ☑️ | 1 |  |
+| 5.01 | The Dutch national flag problem | 🔴 | [#75](https://leetcode.com/problems/sort-colors/) | Medium | 🏆 | 2 | 4 min |
 | 5.02 | Increment an arbitrary-precision integer | 🟡 | [#66](https://leetcode.com/problems/plus-one/) | Easy |  |  |  |
 | 5.03 | Multiply two arbitrary-precision integers | 🔵 | [#43](https://leetcode.com/problems/multiply-strings/) | Medium |  |  |  |
 | 5.04 | Advancing through an array |  | [#55](https://leetcode.com/problems/jump-game/) | Medium |  |  |  |

@@ -632,6 +632,13 @@ problems:
       time_minutes: null
       used_hints: false
       used_solution: false
+    - date: '2025-12-08T15:24:50.528963'
+      optimal: true
+      solved: true
+      submissions: 1
+      time_minutes: 4
+      used_hints: false
+      used_solution: false
     chapter: 05_arrays
     chapter_name: Arrays
     file: 1-algorithm-problems/dutch_national_flag.py
