@@ -326,7 +326,7 @@ See [Problem-Solving Workflow](wiki/Problem-Solving-Workflow.md) for visual diag
 
 | # | Problem | Priority | LeetCode | Difficulty | Status | Attempts | Best Time |
 |---|---------|----------|----------|------------|--------|----------|-----------|
-| 8.01 | Implement a stack with max API | 🔴 | [#155](https://leetcode.com/problems/min-stack/) | Medium | 💪 | 1 | 3 min |
+| 8.01 | Implement a stack with max API | 🔴 | [#155](https://leetcode.com/problems/min-stack/) | Medium | 💪 | 2 | 3 min |
 | 8.02 | Evaluate RPN expressions | 🟡 | [#150](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | Medium |  |  |  |
 | 8.03 | Is a string well-formed? | 🟢 | [#20](https://leetcode.com/problems/valid-parentheses/) | Easy |  |  |  |
 | 8.04 | Normalize pathnames | 🔵 | [#71](https://leetcode.com/problems/simplify-path/) | Medium |  |  |  |
