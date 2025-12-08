@@ -1787,6 +1787,13 @@ problems:
       time_minutes: 2
       used_hints: false
       used_solution: false
+    - date: '2025-12-08T15:11:11.925720'
+      optimal: true
+      solved: true
+      submissions: 2
+      time_minutes: 14
+      used_hints: false
+      used_solution: false
     chapter: 04_primitive_types
     chapter_name: Primitive Types
     file: 1-algorithm-problems/parity.py
