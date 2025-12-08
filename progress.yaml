@@ -2444,6 +2444,13 @@ problems:
       time_minutes: 3
       used_hints: false
       used_solution: false
+    - date: '2025-12-08T16:19:51.787456'
+      optimal: true
+      solved: true
+      submissions: 1
+      time_minutes: 7
+      used_hints: false
+      used_solution: false
     chapter: 07_linked_lists
     chapter_name: Linked Lists
     file: 1-algorithm-problems/sorted_lists_merge.py

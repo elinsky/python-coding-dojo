@@ -306,7 +306,7 @@ See [Problem-Solving Workflow](wiki/Problem-Solving-Workflow.md) for visual diag
 
 | # | Problem | Priority | LeetCode | Difficulty | Status | Attempts | Best Time |
 |---|---------|----------|----------|------------|--------|----------|-----------|
-| 7.01 | Merge two sorted lists | 🔴 | [#21](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy | 🏆 | 1 | 3 min |
+| 7.01 | Merge two sorted lists | 🔴 | [#21](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy | 🏆 | 2 | 3 min |
 | 7.02 | Reverse a single sublist | 🟠 | [#92](https://leetcode.com/problems/reverse-linked-list-ii/) | Medium | 👍 | 1 |  |
 | 7.03 | Test for cyclicity | 🟠 | [#141](https://leetcode.com/problems/linked-list-cycle/) | Easy | 🏆 | 1 | 8 min |
 | 7.04 | Test for overlapping lists---lists are cycle-free | 🟡 | [#160](https://leetcode.com/problems/intersection-of-two-linked-lists/) | Easy |  |  |  |
