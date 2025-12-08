@@ -12,16 +12,17 @@ def analyze_problem(problem_data, threshold):
     """Analyze a problem's attempts and return its tier and best time.
 
     Returns:
-        tuple: (tier, best_time, has_attempts)
+        tuple: (tier, best_time, has_attempts, attempt_count)
             tier: 0 (attempted/unsolved), 1 (solved), 2 (independent), 3 (mastered)
             best_time: minimum time in minutes for tier 2+ attempts, None otherwise
             has_attempts: True if problem has any attempts, False otherwise
+            attempt_count: Total number of attempts
     """
     attempts = problem_data.get('attempts', [])
 
     # Never attempted
     if not attempts:
-        return 0, None, False
+        return 0, None, False, 0
 
     # Track best independent time
     best_time = None
@@ -50,7 +51,7 @@ def analyze_problem(problem_data, threshold):
                 if time_minutes <= threshold and attempt.get('optimal', False):
                     tier = 3
 
-    return tier, best_time, True
+    return tier, best_time, True, len(attempts)
 
 
 def format_time(seconds):
@@ -228,13 +229,14 @@ def calculate_stats(problems, threshold):
             continue
 
         stats['total'] += 1
-        tier, best_time, has_attempts = analyze_problem(problem_data, threshold)
+        tier, best_time, has_attempts, attempt_count = analyze_problem(problem_data, threshold)
 
         # Store problem analysis
         stats['problems_by_tier'][problem_id] = {
             'tier': tier,
             'best_time': best_time,
             'has_attempts': has_attempts,
+            'attempt_count': attempt_count,
             'metadata': problem_data
         }
 
@@ -549,8 +551,8 @@ def generate_readme(data, threshold):
         lines.extend([
             f'### Chapter {chapter_num}: {chapter_name}',
             '',
-            '| # | Problem | Priority | LeetCode | Difficulty | Status | Best Time |',
-            '|---|---------|----------|----------|------------|--------|-----------|',
+            '| # | Problem | Priority | LeetCode | Difficulty | Status | Attempts | Best Time |',
+            '|---|---------|----------|----------|------------|--------|----------|-----------|',
         ])
 
         # Get problems for this chapter and sort by problem number
@@ -562,6 +564,7 @@ def generate_readme(data, threshold):
             tier = problem_info['tier']
             best_time = problem_info['best_time']
             has_attempts = problem_info['has_attempts']
+            attempt_count = problem_info['attempt_count']
 
             problem_num = metadata.get('problem_number', '')
             problem_name = metadata.get('name', problem_id)
@@ -611,7 +614,8 @@ def generate_readme(data, threshold):
             else:
                 lc_link = ''
 
-            lines.append(f'| {problem_num} | {problem_name} | {priority} | {lc_link} | {lc_difficulty} | {status} | {time_str} |')
+            attempts_str = str(attempt_count) if attempt_count > 0 else ''
+            lines.append(f'| {problem_num} | {problem_name} | {priority} | {lc_link} | {lc_difficulty} | {status} | {attempts_str} | {time_str} |')
 
         lines.extend(['', '---', ''])
 
@@ -628,8 +632,8 @@ def generate_readme(data, threshold):
         lines.extend([
             f'### {section_name}',
             '',
-            '| # | Problem | Status | Best Time |',
-            '|---|---------|--------|-----------|',
+            '| # | Problem | Status | Attempts | Best Time |',
+            '|---|---------|--------|----------|-----------|',
         ])
 
         # Collect all problems from all chapters in this section
@@ -646,6 +650,7 @@ def generate_readme(data, threshold):
             tier = problem_info['tier']
             best_time = problem_info['best_time']
             has_attempts = problem_info['has_attempts']
+            attempt_count = problem_info['attempt_count']
 
             problem_num = metadata.get('problem_number', '')
             problem_name = metadata.get('name', problem_id)
@@ -667,7 +672,8 @@ def generate_readme(data, threshold):
             if tier >= 2 and best_time is not None:
                 time_str = f'{best_time} min'
 
-            lines.append(f'| {problem_num} | {problem_name} | {status} | {time_str} |')
+            attempts_str = str(attempt_count) if attempt_count > 0 else ''
+            lines.append(f'| {problem_num} | {problem_name} | {status} | {attempts_str} | {time_str} |')
 
         lines.extend(['', '---', ''])
 
