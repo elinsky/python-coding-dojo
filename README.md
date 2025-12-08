@@ -264,7 +264,7 @@ See [Problem-Solving Workflow](wiki/Problem-Solving-Workflow.md) for visual diag
 | 5.03 | Multiply two arbitrary-precision integers | 🔵 | [#43](https://leetcode.com/problems/multiply-strings/) | Medium |  |  |  |
 | 5.04 | Advancing through an array |  | [#55](https://leetcode.com/problems/jump-game/) | Medium |  |  |  |
 | 5.05 | Delete duplicates from a sorted array | 🟢 | [#26](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy |  |  |  |
-| 5.06 | Buy and sell a stock once | 🔴 | [#121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | 🏆 | 1 | 5 min |
+| 5.06 | Buy and sell a stock once | 🔴 | [#121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | 🏆 | 2 | 5 min |
 | 5.07 | Buy and sell a stock twice |  | [#123](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) | Hard |  |  |  |
 | 5.08 | Computing an alternation |  | [#280](https://leetcode.com/problems/wiggle-sort/) | Medium |  |  |  |
 | 5.09 | Enumerate all primes to n | 🟢 | [#204](https://leetcode.com/problems/count-primes/) | Medium |  |  |  |

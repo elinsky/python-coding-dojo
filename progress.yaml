@@ -363,6 +363,13 @@ problems:
       time_minutes: 5
       used_hints: false
       used_solution: false
+    - date: '2025-12-08T15:35:46.070433'
+      optimal: true
+      solved: true
+      submissions: 1
+      time_minutes: 6
+      used_hints: false
+      used_solution: false
     chapter: 05_arrays
     chapter_name: Arrays
     file: 1-algorithm-problems/buy_and_sell_stock.py
