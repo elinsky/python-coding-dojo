@@ -286,7 +286,7 @@ See [Problem-Solving Workflow](wiki/Problem-Solving-Workflow.md) for visual diag
 
 | # | Problem | Priority | LeetCode | Difficulty | Status | Attempts | Best Time |
 |---|---------|----------|----------|------------|--------|----------|-----------|
-| 6.01 | Interconvert strings and integers | 🔴 | [#8](https://leetcode.com/problems/string-to-integer-atoi/) | Medium | 🏆 | 1 | 19 min |
+| 6.01 | Interconvert strings and integers | 🔴 | [#8](https://leetcode.com/problems/string-to-integer-atoi/) | Medium | 🏆 | 2 | 13 min |
 | 6.02 | Base conversion | 🟠 | [#504](https://leetcode.com/problems/base-7/) | Easy | 👍 | 1 |  |
 | 6.03 | Compute the spreadsheet column encoding |  | [#171](https://leetcode.com/problems/excel-sheet-column-number/) | Easy |  |  |  |
 | 6.04 | Replace and remove | 🟠 |  |  | 👍 | 1 |  |
