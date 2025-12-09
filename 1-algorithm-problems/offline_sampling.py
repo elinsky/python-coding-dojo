@@ -7,19 +7,10 @@ from test_framework.random_sequence_checker import (
     compute_combination_idx, run_func_with_retries)
 from test_framework.test_utils import enable_executor_hook
 
-from random import randint
 
 def random_sampling(k: int, A: List[int]) -> None:
-    # ok how do i do this? 
-    # i feel like i need to swap elements
-    # but how do i make all equally likely?
-    # maybe randomlly select index. swap element with that index
-    # I think probabably choose from all values. or do i need to only
-    # swap unseen elemtns. im gonna say consider all to swap with
-    for from_idx in range(0, k):
-        to_idx = randint(from_idx, len(A) - 1)
-        A[from_idx], A[to_idx] = A[to_idx], A[from_idx]
-    return
+    # TODO - you fill in here.
+    pass
 
 
 @enable_executor_hook
