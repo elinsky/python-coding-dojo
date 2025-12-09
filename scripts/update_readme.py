@@ -331,11 +331,9 @@ def generate_readme(data, threshold):
         '',
     ])
 
-    # Add goals section (before Overall Progress)
+    # Add status legend
     lines.extend([
-        '### Goals',
-        '',
-        'Progress toward priority-based learning goals.',
+        '### Status Legend',
         '',
         '| Icon | Tier | Description |',
         '|------|------|-------------|',
@@ -343,6 +341,14 @@ def generate_readme(data, threshold):
         '| 👍 | Solved | Problems solved (with or without help) |',
         '| 💪 | Independent | Problems solved without hints or looking at solutions |',
         '| 🏆 | Mastered | Problems solved independently in ≤20 min with optimal solution |',
+        '',
+    ])
+
+    # Add link to workflow diagrams wiki page
+    lines.extend([
+        '## Problem-Solving Workflow',
+        '',
+        'See [Problem-Solving Workflow](wiki/Problem-Solving-Workflow.md) for visual diagrams of the learning approach.',
         '',
     ])
 
@@ -354,45 +360,6 @@ def generate_readme(data, threshold):
         'P3': '🟢',
         'P4': '🔵'
     }
-
-    # Generate goal progress for each priority level
-    # Only show P0, P1, P2 in README (P3, P4 data kept in progress.yaml but hidden)
-    for priority in ['P0', 'P1', 'P2']:
-        emoji = priority_emoji_map[priority]
-        pstats = stats['priority_stats'][priority]
-        total = pstats['total']
-        attempted = pstats['attempted']
-        mastered = pstats['mastered']
-
-        if total == 0:
-            continue  # Skip priorities with no problems
-
-        # Goal 1: Attempt all problems at this priority
-        attempt_pct = (attempted / total * 100) if total > 0 else 0
-
-        lines.extend([
-            f'### {emoji} {priority}: Attempt All ({attempted}/{total} - {attempt_pct:.0f}%)',
-            '',
-            generate_progress_bar(attempted, total, '☑️'),
-            '',
-        ])
-
-        # Goal 2: Master all problems at this priority
-        master_pct = (mastered / total * 100) if total > 0 else 0
-        lines.extend([
-            f'### {emoji} {priority}: Master All ({mastered}/{total} - {master_pct:.0f}%)',
-            '',
-            generate_progress_bar(mastered, total, '🏆'),
-            '',
-        ])
-
-    # Add link to workflow diagrams wiki page
-    lines.extend([
-        '## Problem-Solving Workflow',
-        '',
-        'See [Problem-Solving Workflow](wiki/Problem-Solving-Workflow.md) for visual diagrams of the learning approach.',
-        '',
-    ])
 
     lines.extend([
         '## All Problems',
@@ -429,8 +396,20 @@ def generate_readme(data, threshold):
             x[1]['metadata'].get('problem_number', '')
         ))
 
+        # Get priority stats for inline progress bars
+        pstats = stats['priority_stats'][priority]
+        total = pstats['total']
+        attempted = pstats['attempted']
+        mastered = pstats['mastered']
+        attempt_pct = (attempted / total * 100) if total > 0 else 0
+        master_pct = (mastered / total * 100) if total > 0 else 0
+
         lines.extend([
             f'### {section_title}',
+            '',
+            f'**Attempted:** {attempted}/{total} ({attempt_pct:.0f}%) ' + generate_progress_bar(attempted, total, '☑️').replace('\n', ' '),
+            '',
+            f'**Mastered:** {mastered}/{total} ({master_pct:.0f}%) ' + generate_progress_bar(mastered, total, '🏆').replace('\n', ' '),
             '',
             '| # | Problem | Chapter | LeetCode | Difficulty | Status | Attempts | Best Time |',
             '|---|---------|---------|----------|------------|--------|----------|-----------|',

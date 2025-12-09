@@ -28,9 +28,7 @@ My journey through Elements of Programming Interviews in Python.
 
 ## Algorithm Problems
 
-### Goals
-
-Progress toward priority-based learning goals.
+### Status Legend
 
 | Icon | Tier | Description |
 |------|------|-------------|
@@ -39,32 +37,6 @@ Progress toward priority-based learning goals.
 | 💪 | Independent | Problems solved without hints or looking at solutions |
 | 🏆 | Mastered | Problems solved independently in ≤20 min with optimal solution |
 
-### 🔴 P0: Attempt All (16/16 - 100%)
-
-☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️
-
-### 🔴 P0: Master All (7/16 - 44%)
-
-🏆🏆🏆🏆🏆🏆🏆⬜⬜⬜⬜⬜⬜⬜⬜⬜
-
-### 🟠 P1: Attempt All (20/20 - 100%)
-
-☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️
-
-### 🟠 P1: Master All (5/20 - 25%)
-
-🏆🏆🏆🏆🏆⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
-
-### 🟡 P2: Attempt All (1/23 - 4%)
-
-☑️⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
-⬜⬜⬜
-
-### 🟡 P2: Master All (1/23 - 4%)
-
-🏆⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
-⬜⬜⬜
-
 ## Problem-Solving Workflow
 
 See [Problem-Solving Workflow](wiki/Problem-Solving-Workflow.md) for visual diagrams of the learning approach.
@@ -72,6 +44,10 @@ See [Problem-Solving Workflow](wiki/Problem-Solving-Workflow.md) for visual diag
 ## All Problems
 
 ### 🔴 Priority 0 (Critical)
+
+**Attempted:** 16/16 (100%) ☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️
+
+**Mastered:** 7/16 (44%) 🏆🏆🏆🏆🏆🏆🏆⬜⬜⬜⬜⬜⬜⬜⬜⬜
 
 | # | Problem | Chapter | LeetCode | Difficulty | Status | Attempts | Best Time |
 |---|---------|---------|----------|------------|--------|----------|-----------|
@@ -95,6 +71,10 @@ See [Problem-Solving Workflow](wiki/Problem-Solving-Workflow.md) for visual diag
 ---
 
 ### 🟠 Priority 1 (High)
+
+**Attempted:** 20/20 (100%) ☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️
+
+**Mastered:** 5/20 (25%) 🏆🏆🏆🏆🏆⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 
 | # | Problem | Chapter | LeetCode | Difficulty | Status | Attempts | Best Time |
 |---|---------|---------|----------|------------|--------|----------|-----------|
@@ -122,6 +102,10 @@ See [Problem-Solving Workflow](wiki/Problem-Solving-Workflow.md) for visual diag
 ---
 
 ### 🟡 Priority 2 (Medium)
+
+**Attempted:** 1/23 (4%) ☑️⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ ⬜⬜⬜
+
+**Mastered:** 1/23 (4%) 🏆⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ ⬜⬜⬜
 
 | # | Problem | Chapter | LeetCode | Difficulty | Status | Attempts | Best Time |
 |---|---------|---------|----------|------------|--------|----------|-----------|
