@@ -331,6 +331,22 @@ def generate_readme(data, threshold):
         '',
     ])
 
+    # Add combined P0-P2 progress bar at the top
+    total_attempted = sum(stats['priority_stats'][p]['attempted'] for p in ['P0', 'P1', 'P2'])
+    total_mastered = sum(stats['priority_stats'][p]['mastered'] for p in ['P0', 'P1', 'P2'])
+    total_problems = sum(stats['priority_stats'][p]['total'] for p in ['P0', 'P1', 'P2'])
+
+    if total_problems > 0:
+        attempt_pct = (total_attempted / total_problems * 100)
+        master_pct = (total_mastered / total_problems * 100)
+
+        lines.extend([
+            f'**Attempted:** {total_attempted}/{total_problems} ({attempt_pct:.0f}%) ' + generate_progress_bar(total_attempted, total_problems, '☑️').replace('\n', ' '),
+            '',
+            f'**Mastered:** {total_mastered}/{total_problems} ({master_pct:.0f}%) ' + generate_progress_bar(total_mastered, total_problems, '🏆').replace('\n', ' '),
+            '',
+        ])
+
     # Add status legend
     lines.extend([
         '### Status Legend',
