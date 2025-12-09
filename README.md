@@ -23,6 +23,7 @@ My journey through Elements of Programming Interviews in Python.
 | 15-pathlib-ops | ⬜ | 12/12 | 4/12 | 6:00 | 2:56 | 2025-12-06 |
 | 16-regex | ⬜ | 21/21 | 15/21 | 10:30 | 4:29 | 2025-12-06 |
 | 17-regex-python | ⬜ | 8/8 | 3/8 | 4:00 | 2:38 | 2025-12-06 |
+| 18-heaps | ⬜ | 23/23 | 21/23 | 11:30 | 6:59 | 2025-12-09 |
 
 ## Algorithm Problems
 
@@ -610,4 +611,4 @@ See [Problem-Solving Workflow](wiki/Problem-Solving-Workflow.md) for visual diag
 ---
 
 
-*Last updated: 2025-12-08*
+*Last updated: 2025-12-09*
