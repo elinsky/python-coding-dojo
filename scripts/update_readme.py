@@ -84,12 +84,9 @@ def generate_flashcard_section(flashcards):
     if not categories_with_targets:
         return []
 
-    lines = [
-        '## Python Syntax Flashcards',
-        '',
-        '| Category | Status | Target Score | Actual Score | Target Time | Actual Time | Last Drilled |',
-        '|----------|--------|--------------|--------------|-------------|-------------|--------------|',
-    ]
+    # Count total sets and mastered sets for progress bar
+    total_sets = len(categories_with_targets)
+    mastered_sets = 0
 
     # Sort categories by their name (which now includes number prefix like "01-bitwise")
     sorted_categories = sorted(
@@ -97,6 +94,33 @@ def generate_flashcard_section(flashcards):
         key=lambda x: x[1].get('name', x[0])
     )
 
+    # First pass: count mastered sets
+    for category_id, category_data in sorted_categories:
+        target_seconds = category_data['target_seconds']
+        attempts = category_data.get('attempts', [])
+        if attempts:
+            latest = attempts[0]
+            count = latest.get('count', 0)
+            score = latest.get('score', 0)
+            time_seconds = latest.get('time_seconds', 0)
+            passed = (score == count) and (time_seconds <= target_seconds)
+            if passed:
+                mastered_sets += 1
+
+    # Generate progress bar
+    master_pct = (mastered_sets / total_sets * 100) if total_sets > 0 else 0
+    progress_bar = generate_progress_bar(mastered_sets, total_sets, '✅').replace('\n', ' ')
+
+    lines = [
+        '## Python Syntax Flashcards',
+        '',
+        f'**Mastered:** {mastered_sets}/{total_sets} ({master_pct:.0f}%) ' + progress_bar,
+        '',
+        '| Category | Status | Target Score | Actual Score | Target Time | Actual Time | Last Drilled |',
+        '|----------|--------|--------------|--------------|-------------|-------------|--------------|',
+    ]
+
+    # Second pass: generate table rows
     for category_id, category_data in sorted_categories:
         name = category_data.get('name', category_id)
         target_seconds = category_data['target_seconds']
@@ -340,10 +364,15 @@ def generate_readme(data, threshold):
         attempt_pct = (total_attempted / total_problems * 100)
         master_pct = (total_mastered / total_problems * 100)
 
+        attempt_bar = generate_progress_bar(total_attempted, total_problems, '☑️')
+        master_bar = generate_progress_bar(total_mastered, total_problems, '🏆')
+
         lines.extend([
-            f'**Attempted:** {total_attempted}/{total_problems} ({attempt_pct:.0f}%) ' + generate_progress_bar(total_attempted, total_problems, '☑️').replace('\n', ' '),
+            f'**Attempted:** {total_attempted}/{total_problems} ({attempt_pct:.0f}%)',
+            attempt_bar,
             '',
-            f'**Mastered:** {total_mastered}/{total_problems} ({master_pct:.0f}%) ' + generate_progress_bar(total_mastered, total_problems, '🏆').replace('\n', ' '),
+            f'**Mastered:** {total_mastered}/{total_problems} ({master_pct:.0f}%)',
+            master_bar,
             '',
         ])
 
