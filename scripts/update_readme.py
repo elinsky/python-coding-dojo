@@ -192,7 +192,7 @@ def generate_progress_bar(count, total, emoji):
     if current_line:
         lines.append(current_line)
 
-    return '\n'.join(lines)
+    return '\n\n'.join(lines)
 
 
 def calculate_stats(problems, threshold, displayed_priorities=None):
