@@ -171,8 +171,14 @@ def generate_progress_bar(count, total, emoji):
     return '\n'.join(lines)
 
 
-def calculate_stats(problems, threshold):
+def calculate_stats(problems, threshold, displayed_priorities=None):
     """Calculate overall and per-chapter statistics.
+
+    Args:
+        problems: Dict of problem data from progress.yaml
+        threshold: Time threshold in minutes for mastery tier
+        displayed_priorities: Optional list of priorities to include in stats.
+                            If None, includes all problems. E.g., ['P0', 'P1', 'P2']
 
     Returns:
         dict: {
@@ -227,6 +233,12 @@ def calculate_stats(problems, threshold):
         problem_num = problem_data.get('problem_number', '')
         if problem_num.endswith('.00'):
             continue
+
+        # Skip problems not in displayed priorities (if filter is set)
+        if displayed_priorities is not None:
+            priority = problem_data.get('priority', '')
+            if priority not in displayed_priorities:
+                continue
 
         stats['total'] += 1
         tier, best_time, has_attempts, attempt_count = analyze_problem(problem_data, threshold)
@@ -294,7 +306,11 @@ def generate_readme(data, threshold):
     """
     problems = data.get('problems', {})
     flashcards = data.get('flashcards', {})
-    stats = calculate_stats(problems, threshold)
+    # Only display P0, P1, P2 problems in README (P3, P4 data kept in progress.yaml)
+    displayed_priorities = ['P0', 'P1', 'P2']
+    stats = calculate_stats(problems, threshold, displayed_priorities)
+    # Also calculate unfiltered stats for Applied Problems section
+    all_stats = calculate_stats(problems, threshold)
 
     # Start building README
     lines = [
@@ -340,7 +356,8 @@ def generate_readme(data, threshold):
     }
 
     # Generate goal progress for each priority level
-    for priority in ['P0', 'P1', 'P2', 'P3', 'P4']:
+    # Only show P0, P1, P2 in README (P3, P4 data kept in progress.yaml but hidden)
+    for priority in ['P0', 'P1', 'P2']:
         emoji = priority_emoji_map[priority]
         pstats = stats['priority_stats'][priority]
         total = pstats['total']
@@ -619,13 +636,34 @@ def generate_readme(data, threshold):
 
         lines.extend(['', '---', ''])
 
-    # Generate Applied Problems section
+    # Generate Applied Problems section (uses unfiltered all_stats)
     lines.extend([
         '## Applied Problems',
         '',
     ])
 
-    for section_name, section_chapters in applied_sections.items():
+    # Build problems_by_chapter from unfiltered all_stats for applied problems
+    all_problems_by_chapter = defaultdict(list)
+    for problem_id, problem_info in all_stats['problems_by_tier'].items():
+        chapter_name = problem_info['metadata'].get('chapter_name', 'Unknown')
+        all_problems_by_chapter[chapter_name].append((problem_id, problem_info))
+
+    # Build applied_sections from unfiltered all_stats
+    all_applied_sections = {
+        'Data': [],      # P1-P6 problems
+        'Trading': [],   # T1 problems
+        'ML': [],        # M1-M5 problems
+    }
+    for chapter_name, chapter_stats in all_stats['chapters'].items():
+        chapter_num = chapter_stats['chapter_num']
+        if chapter_num.startswith('P'):
+            all_applied_sections['Data'].append((chapter_name, chapter_stats))
+        elif chapter_num.startswith('T'):
+            all_applied_sections['Trading'].append((chapter_name, chapter_stats))
+        elif chapter_num.startswith('M'):
+            all_applied_sections['ML'].append((chapter_name, chapter_stats))
+
+    for section_name, section_chapters in all_applied_sections.items():
         if not section_chapters:
             continue
 
@@ -639,7 +677,7 @@ def generate_readme(data, threshold):
         # Collect all problems from all chapters in this section
         section_problems = []
         for chapter_name, chapter_stats in section_chapters:
-            chapter_problems = problems_by_chapter.get(chapter_name, [])
+            chapter_problems = all_problems_by_chapter.get(chapter_name, [])
             section_problems.extend(chapter_problems)
 
         # Sort by problem number
@@ -720,10 +758,11 @@ def main(threshold, output):
 
     click.echo(f"☑️ Generated {output_file}")
 
-    # Show summary
+    # Show summary (P0, P1, P2 only, matching README)
     problems = data.get('problems', {})
-    stats = calculate_stats(problems, threshold)
-    click.echo(f"\nProgress Summary:")
+    displayed_priorities = ['P0', 'P1', 'P2']
+    stats = calculate_stats(problems, threshold, displayed_priorities)
+    click.echo(f"\nProgress Summary (P0-P2):")
     click.echo(f"  Attempted: {stats['tier0']} / {stats['total']}")
     click.echo(f"  Solved: {stats['tier1']} / {stats['total']}")
     click.echo(f"  Independent: {stats['tier2']} / {stats['total']}")
