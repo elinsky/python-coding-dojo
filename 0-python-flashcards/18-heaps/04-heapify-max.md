@@ -1,6 +1,6 @@
-# Convert List to Max-Heap
+# Create Max-Heap from List
 
-**Q:** How do I convert a list to a max-heap in-place?
+**Q:** How do you create a max-heap from a list of values?
 
 **A:** Negate all values then heapify
 
