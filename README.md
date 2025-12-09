@@ -74,7 +74,7 @@ See [Problem-Solving Workflow](wiki/Problem-Solving-Workflow.md) for visual diag
 
 **Attempted:** 20/20 (100%) ☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️
 
-**Mastered:** 7/20 (35%) 🏆🏆🏆🏆🏆🏆🏆⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+**Mastered:** 8/20 (40%) 🏆🏆🏆🏆🏆🏆🏆🏆⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 
 | # | Problem | Chapter | LeetCode | Difficulty | Status | Attempts | Best Time |
 |---|---------|---------|----------|------------|--------|----------|-----------|
@@ -82,7 +82,7 @@ See [Problem-Solving Workflow](wiki/Problem-Solving-Workflow.md) for visual diag
 | 5.12 | Sample offline data | Ch 5: Arrays | [#384](https://leetcode.com/problems/shuffle-an-array/) | Medium | 🏆 | 2 | 1 min |
 | 5.18 | Compute the spiral ordering of a 2D array | Ch 5: Arrays | [#54](https://leetcode.com/problems/spiral-matrix/) | Medium | 💪 | 2 | 21 min |
 | 6.02 | Base conversion | Ch 6: Strings | [#504](https://leetcode.com/problems/base-7/) | Easy | 🏆 | 2 | 12 min |
-| 6.04 | Replace and remove | Ch 6: Strings |  |  | 👍 | 1 |  |
+| 6.04 | Replace and remove | Ch 6: Strings |  |  | 🏆 | 2 | 18 min |
 | 7.02 | Reverse a single sublist | Ch 7: Linked Lists | [#92](https://leetcode.com/problems/reverse-linked-list-ii/) | Medium | 👍 | 1 |  |
 | 7.03 | Test for cyclicity | Ch 7: Linked Lists | [#141](https://leetcode.com/problems/linked-list-cycle/) | Easy | 🏆 | 1 | 8 min |
 | 8.06 | Compute binary tree nodes in order of increasing depth | Ch 8: Stacks and Queues | [#102](https://leetcode.com/problems/binary-tree-level-order-traversal/) | Medium | 👍 | 1 |  |
