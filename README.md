@@ -79,7 +79,7 @@ See [Problem-Solving Workflow](wiki/Problem-Solving-Workflow.md) for visual diag
 | # | Problem | Chapter | LeetCode | Difficulty | Status | Attempts | Best Time |
 |---|---------|---------|----------|------------|--------|----------|-----------|
 | 4.07 | Compute pow(x,y) | Ch 4: Primitive Types | [#50](https://leetcode.com/problems/powx-n/) | Medium | 🏆 | 2 | 8 min |
-| 5.12 | Sample offline data | Ch 5: Arrays | [#384](https://leetcode.com/problems/shuffle-an-array/) | Medium | 🏆 | 1 | 5 min |
+| 5.12 | Sample offline data | Ch 5: Arrays | [#384](https://leetcode.com/problems/shuffle-an-array/) | Medium | 🏆 | 2 | 1 min |
 | 5.18 | Compute the spiral ordering of a 2D array | Ch 5: Arrays | [#54](https://leetcode.com/problems/spiral-matrix/) | Medium | 👍 | 1 |  |
 | 6.02 | Base conversion | Ch 6: Strings | [#504](https://leetcode.com/problems/base-7/) | Easy | 👍 | 1 |  |
 | 6.04 | Replace and remove | Ch 6: Strings |  |  | 👍 | 1 |  |
