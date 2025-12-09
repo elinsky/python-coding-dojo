@@ -394,68 +394,49 @@ def generate_readme(data, threshold):
         '',
     ])
 
-    # Sort chapters by chapter number for problem listing
-    # EPI (numeric), Practical (P1-P6), Trading (T1), ML (M1-M5)
-    def chapter_sort_key(item):
-        chapter_num = item[1]['chapter_num']
-        if chapter_num.isdigit():
-            return (0, int(chapter_num), '')  # EPI chapters first
-        elif chapter_num.startswith('P'):
-            return (1, int(chapter_num[1:]), '')  # Practical chapters second
-        elif chapter_num.startswith('T'):
-            return (2, int(chapter_num[1:]), '')  # Trading chapters third
-        elif chapter_num.startswith('M'):
-            return (3, int(chapter_num[1:]), '')  # ML chapters fourth
-        else:
-            return (4, 0, chapter_num)  # Other chapters last
-
-    sorted_chapters = sorted(stats['chapters'].items(), key=chapter_sort_key)
-
     lines.extend([
         '## All Problems',
         '',
     ])
 
-    # Group problems by chapter for detailed listing
-    problems_by_chapter = defaultdict(list)
+    # Group problems by priority for detailed listing
+    problems_by_priority = defaultdict(list)
     for problem_id, problem_info in stats['problems_by_tier'].items():
-        chapter_name = problem_info['metadata'].get('chapter_name', 'Unknown')
-        problems_by_chapter[chapter_name].append((problem_id, problem_info))
+        priority = problem_info['metadata'].get('priority', '')
+        problems_by_priority[priority].append((problem_id, problem_info))
 
-    # Separate EPI chapters from Applied Problems (P, T, M prefixes)
-    epi_chapters = []
-    applied_sections = {
-        'Data': [],      # P1-P6 problems
-        'Trading': [],   # T1 problems
-        'ML': [],        # M1-M5 problems
+    # Priority display info
+    priority_info = {
+        'P0': ('🔴 Priority 0 (Critical)', '🔴'),
+        'P1': ('🟠 Priority 1 (High)', '🟠'),
+        'P2': ('🟡 Priority 2 (Medium)', '🟡'),
     }
 
-    for chapter_name, chapter_stats in sorted_chapters:
-        chapter_num = chapter_stats['chapter_num']
-        if chapter_num.startswith('P'):
-            applied_sections['Data'].append((chapter_name, chapter_stats))
-        elif chapter_num.startswith('T'):
-            applied_sections['Trading'].append((chapter_name, chapter_stats))
-        elif chapter_num.startswith('M'):
-            applied_sections['ML'].append((chapter_name, chapter_stats))
-        else:
-            epi_chapters.append((chapter_name, chapter_stats))
+    # Generate EPI problem tables grouped by priority
+    for priority in ['P0', 'P1', 'P2']:
+        if priority not in priority_info:
+            continue
 
-    # Generate EPI problem tables
-    for chapter_name, chapter_stats in epi_chapters:
-        chapter_num = chapter_stats['chapter_num']
+        section_title, emoji = priority_info[priority]
+        priority_problems = problems_by_priority.get(priority, [])
+
+        if not priority_problems:
+            continue
+
+        # Sort problems by chapter number, then problem number
+        priority_problems.sort(key=lambda x: (
+            int(x[1]['metadata'].get('problem_number', '0').split('.')[0]) if x[1]['metadata'].get('problem_number', '0').split('.')[0].isdigit() else 999,
+            x[1]['metadata'].get('problem_number', '')
+        ))
+
         lines.extend([
-            f'### Chapter {chapter_num}: {chapter_name}',
+            f'### {section_title}',
             '',
-            '| # | Problem | Priority | LeetCode | Difficulty | Status | Attempts | Best Time |',
-            '|---|---------|----------|----------|------------|--------|----------|-----------|',
+            '| # | Problem | Chapter | LeetCode | Difficulty | Status | Attempts | Best Time |',
+            '|---|---------|---------|----------|------------|--------|----------|-----------|',
         ])
 
-        # Get problems for this chapter and sort by problem number
-        chapter_problems = problems_by_chapter.get(chapter_name, [])
-        chapter_problems.sort(key=lambda x: x[1]['metadata'].get('problem_number', ''))
-
-        for problem_id, problem_info in chapter_problems:
+        for problem_id, problem_info in priority_problems:
             metadata = problem_info['metadata']
             tier = problem_info['tier']
             best_time = problem_info['best_time']
@@ -464,21 +445,15 @@ def generate_readme(data, threshold):
 
             problem_num = metadata.get('problem_number', '')
             problem_name = metadata.get('name', problem_id)
+            chapter_name = metadata.get('chapter_name', 'Unknown')
+            chapter_num = problem_num.split('.')[0] if problem_num else ''
 
             # Skip bootcamp problems (problem numbers ending in .00)
             if problem_num.endswith('.00'):
                 continue
 
-            # Get priority for this problem (from metadata) and map to emoji
-            priority_str = metadata.get('priority', '')
-            priority_emoji_map = {
-                'P0': '🔴',
-                'P1': '🟠',
-                'P2': '🟡',
-                'P3': '🟢',
-                'P4': '🔵'
-            }
-            priority = priority_emoji_map.get(priority_str, '')
+            # Format chapter column
+            chapter_display = f'Ch {chapter_num}: {chapter_name}'
 
             # Determine status icon
             if tier == 0 and not has_attempts:
@@ -511,9 +486,48 @@ def generate_readme(data, threshold):
                 lc_link = ''
 
             attempts_str = str(attempt_count) if attempt_count > 0 else ''
-            lines.append(f'| {problem_num} | {problem_name} | {priority} | {lc_link} | {lc_difficulty} | {status} | {attempts_str} | {time_str} |')
+            lines.append(f'| {problem_num} | {problem_name} | {chapter_display} | {lc_link} | {lc_difficulty} | {status} | {attempts_str} | {time_str} |')
 
         lines.extend(['', '---', ''])
+
+    # Sort chapters by chapter number for Applied Problems section
+    # EPI (numeric), Practical (P1-P6), Trading (T1), ML (M1-M5)
+    def chapter_sort_key(item):
+        chapter_num = item[1]['chapter_num']
+        if chapter_num.isdigit():
+            return (0, int(chapter_num), '')  # EPI chapters first
+        elif chapter_num.startswith('P'):
+            return (1, int(chapter_num[1:]), '')  # Practical chapters second
+        elif chapter_num.startswith('T'):
+            return (2, int(chapter_num[1:]), '')  # Trading chapters third
+        elif chapter_num.startswith('M'):
+            return (3, int(chapter_num[1:]), '')  # ML chapters fourth
+        else:
+            return (4, 0, chapter_num)  # Other chapters last
+
+    sorted_chapters = sorted(stats['chapters'].items(), key=chapter_sort_key)
+
+    # Group problems by chapter for Applied Problems
+    problems_by_chapter = defaultdict(list)
+    for problem_id, problem_info in stats['problems_by_tier'].items():
+        chapter_name = problem_info['metadata'].get('chapter_name', 'Unknown')
+        problems_by_chapter[chapter_name].append((problem_id, problem_info))
+
+    # Separate Applied Problems (P, T, M prefixes)
+    applied_sections = {
+        'Data': [],      # P1-P6 problems
+        'Trading': [],   # T1 problems
+        'ML': [],        # M1-M5 problems
+    }
+
+    for chapter_name, chapter_stats in sorted_chapters:
+        chapter_num = chapter_stats['chapter_num']
+        if chapter_num.startswith('P'):
+            applied_sections['Data'].append((chapter_name, chapter_stats))
+        elif chapter_num.startswith('T'):
+            applied_sections['Trading'].append((chapter_name, chapter_stats))
+        elif chapter_num.startswith('M'):
+            applied_sections['ML'].append((chapter_name, chapter_stats))
 
     # Generate Applied Problems section (uses unfiltered all_stats)
     lines.extend([

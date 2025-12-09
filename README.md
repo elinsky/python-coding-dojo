@@ -71,167 +71,83 @@ See [Problem-Solving Workflow](wiki/Problem-Solving-Workflow.md) for visual diag
 
 ## All Problems
 
-### Chapter 4: Primitive Types
+### 🔴 Priority 0 (Critical)
 
-| # | Problem | Priority | LeetCode | Difficulty | Status | Attempts | Best Time |
-|---|---------|----------|----------|------------|--------|----------|-----------|
-| 4.01 | Computing the parity of a word | 🔴 | [#191](https://leetcode.com/problems/number-of-1-bits/) | Easy | 🏆 | 3 | 2 min |
-| 4.07 | Compute pow(x,y) | 🟠 | [#50](https://leetcode.com/problems/powx-n/) | Medium | 👍 | 1 |  |
-| 4.08 | Reverse digits | 🟡 | [#7](https://leetcode.com/problems/reverse-integer/) | Medium |  |  |  |
-
----
-
-### Chapter 5: Arrays
-
-| # | Problem | Priority | LeetCode | Difficulty | Status | Attempts | Best Time |
-|---|---------|----------|----------|------------|--------|----------|-----------|
-| 5.01 | The Dutch national flag problem | 🔴 | [#75](https://leetcode.com/problems/sort-colors/) | Medium | 🏆 | 2 | 4 min |
-| 5.02 | Increment an arbitrary-precision integer | 🟡 | [#66](https://leetcode.com/problems/plus-one/) | Easy |  |  |  |
-| 5.06 | Buy and sell a stock once | 🔴 | [#121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | 🏆 | 2 | 5 min |
-| 5.12 | Sample offline data | 🟠 | [#384](https://leetcode.com/problems/shuffle-an-array/) | Medium | 🏆 | 1 | 5 min |
-| 5.17 | The Sudoku checker problem | 🟡 | [#36](https://leetcode.com/problems/valid-sudoku/) | Medium |  |  |  |
-| 5.18 | Compute the spiral ordering of a 2D array | 🟠 | [#54](https://leetcode.com/problems/spiral-matrix/) | Medium | 👍 | 1 |  |
-
----
-
-### Chapter 6: Strings
-
-| # | Problem | Priority | LeetCode | Difficulty | Status | Attempts | Best Time |
-|---|---------|----------|----------|------------|--------|----------|-----------|
-| 6.01 | Interconvert strings and integers | 🔴 | [#8](https://leetcode.com/problems/string-to-integer-atoi/) | Medium | 🏆 | 2 | 13 min |
-| 6.02 | Base conversion | 🟠 | [#504](https://leetcode.com/problems/base-7/) | Easy | 👍 | 1 |  |
-| 6.04 | Replace and remove | 🟠 |  |  | 👍 | 1 |  |
-| 6.05 | Test palindromicity | 🟡 | [#125](https://leetcode.com/problems/valid-palindrome/) | Easy |  |  |  |
-| 6.06 | Reverse all the words in a sentence | 🟡 | [#151](https://leetcode.com/problems/reverse-words-in-a-string/) | Medium |  |  |  |
+| # | Problem | Chapter | LeetCode | Difficulty | Status | Attempts | Best Time |
+|---|---------|---------|----------|------------|--------|----------|-----------|
+| 4.01 | Computing the parity of a word | Ch 4: Primitive Types | [#191](https://leetcode.com/problems/number-of-1-bits/) | Easy | 🏆 | 3 | 2 min |
+| 5.01 | The Dutch national flag problem | Ch 5: Arrays | [#75](https://leetcode.com/problems/sort-colors/) | Medium | 🏆 | 2 | 4 min |
+| 5.06 | Buy and sell a stock once | Ch 5: Arrays | [#121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | 🏆 | 2 | 5 min |
+| 6.01 | Interconvert strings and integers | Ch 6: Strings | [#8](https://leetcode.com/problems/string-to-integer-atoi/) | Medium | 🏆 | 2 | 13 min |
+| 7.01 | Merge two sorted lists | Ch 7: Linked Lists | [#21](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy | 🏆 | 2 | 3 min |
+| 8.01 | Implement a stack with max API | Ch 8: Stacks and Queues | [#155](https://leetcode.com/problems/min-stack/) | Medium | 💪 | 2 | 3 min |
+| 9.01 | Test if a binary tree is height-balanced | Ch 9: Binary Trees | [#110](https://leetcode.com/problems/balanced-binary-tree/) | Easy | ☑️ | 1 |  |
+| 10.01 | Merge sorted files | Ch 10: Heaps | [#23](https://leetcode.com/problems/merge-k-sorted-lists/) | Hard | 👍 | 1 |  |
+| 11.01 | Search a sorted array for first occurrence of k | Ch 11: Searching | [#34](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | Medium | 🏆 | 1 | 6 min |
+| 12.02 | Is an anonymous letter constructible? | Ch 12: Hash Tables | [#383](https://leetcode.com/problems/ransom-note/) | Easy | 💪 | 1 | 4 min |
+| 13.01 | Compute the intersection of two sorted arrays | Ch 13: Sorting | [#349](https://leetcode.com/problems/intersection-of-two-arrays/) | Easy | 🏆 | 1 | 7 min |
+| 14.01 | Test if a binary tree satisfies the BST property | Ch 14: Binary Search Trees | [#98](https://leetcode.com/problems/validate-binary-search-tree/) | Medium | 👍 | 1 |  |
+| 15.01 | The Towers of Hanoi problem | Ch 15: Recursion | [#08.06](https://leetcode.com/problems/hanota-lcci/) | Easy | ☑️ | 1 |  |
+| 16.01 | Count the number of score combinations | Ch 16: Dynamic Programming | [#518](https://leetcode.com/problems/coin-change-ii/) | Medium | 👍 | 1 |  |
+| 17.04 | The 3-sum problem | Ch 17: Greedy Algorithms and Invariants | [#15](https://leetcode.com/problems/3sum/) | Medium | 👍 | 1 |  |
+| 18.01 | Search a maze | Ch 18: Graphs |  |  | 👍 | 1 |  |
 
 ---
 
-### Chapter 7: Linked Lists
+### 🟠 Priority 1 (High)
 
-| # | Problem | Priority | LeetCode | Difficulty | Status | Attempts | Best Time |
-|---|---------|----------|----------|------------|--------|----------|-----------|
-| 7.01 | Merge two sorted lists | 🔴 | [#21](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy | 🏆 | 2 | 3 min |
-| 7.02 | Reverse a single sublist | 🟠 | [#92](https://leetcode.com/problems/reverse-linked-list-ii/) | Medium | 👍 | 1 |  |
-| 7.03 | Test for cyclicity | 🟠 | [#141](https://leetcode.com/problems/linked-list-cycle/) | Easy | 🏆 | 1 | 8 min |
-| 7.04 | Test for overlapping lists---lists are cycle-free | 🟡 | [#160](https://leetcode.com/problems/intersection-of-two-linked-lists/) | Easy |  |  |  |
-| 7.07 | Remove the kth last element from a list | 🟡 | [#19](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | Medium |  |  |  |
-
----
-
-### Chapter 8: Stacks and Queues
-
-| # | Problem | Priority | LeetCode | Difficulty | Status | Attempts | Best Time |
-|---|---------|----------|----------|------------|--------|----------|-----------|
-| 8.01 | Implement a stack with max API | 🔴 | [#155](https://leetcode.com/problems/min-stack/) | Medium | 💪 | 2 | 3 min |
-| 8.02 | Evaluate RPN expressions | 🟡 | [#150](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | Medium |  |  |  |
-| 8.06 | Compute binary tree nodes in order of increasing depth | 🟠 | [#102](https://leetcode.com/problems/binary-tree-level-order-traversal/) | Medium | 👍 | 1 |  |
-| 8.07 | Implement a circular queue | 🟡 | [#622](https://leetcode.com/problems/design-circular-queue/) | Medium |  |  |  |
-
----
-
-### Chapter 9: Binary Trees
-
-| # | Problem | Priority | LeetCode | Difficulty | Status | Attempts | Best Time |
-|---|---------|----------|----------|------------|--------|----------|-----------|
-| 9.01 | Test if a binary tree is height-balanced | 🔴 | [#110](https://leetcode.com/problems/balanced-binary-tree/) | Easy | ☑️ | 1 |  |
-| 9.02 | Test if a binary tree is symmetric | 🟡 | [#101](https://leetcode.com/problems/symmetric-tree/) | Easy |  |  |  |
-| 9.04 | Compute the LCA when nodes have parent pointers | 🟠 |  |  | 👍 | 1 |  |
-| 9.12 | Reconstruct a binary tree from a preorder traversal with markers | 🟡 | [#1028](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/) | Hard |  |  |  |
+| # | Problem | Chapter | LeetCode | Difficulty | Status | Attempts | Best Time |
+|---|---------|---------|----------|------------|--------|----------|-----------|
+| 4.07 | Compute pow(x,y) | Ch 4: Primitive Types | [#50](https://leetcode.com/problems/powx-n/) | Medium | 👍 | 1 |  |
+| 5.12 | Sample offline data | Ch 5: Arrays | [#384](https://leetcode.com/problems/shuffle-an-array/) | Medium | 🏆 | 1 | 5 min |
+| 5.18 | Compute the spiral ordering of a 2D array | Ch 5: Arrays | [#54](https://leetcode.com/problems/spiral-matrix/) | Medium | 👍 | 1 |  |
+| 6.02 | Base conversion | Ch 6: Strings | [#504](https://leetcode.com/problems/base-7/) | Easy | 👍 | 1 |  |
+| 6.04 | Replace and remove | Ch 6: Strings |  |  | 👍 | 1 |  |
+| 7.02 | Reverse a single sublist | Ch 7: Linked Lists | [#92](https://leetcode.com/problems/reverse-linked-list-ii/) | Medium | 👍 | 1 |  |
+| 7.03 | Test for cyclicity | Ch 7: Linked Lists | [#141](https://leetcode.com/problems/linked-list-cycle/) | Easy | 🏆 | 1 | 8 min |
+| 8.06 | Compute binary tree nodes in order of increasing depth | Ch 8: Stacks and Queues | [#102](https://leetcode.com/problems/binary-tree-level-order-traversal/) | Medium | 👍 | 1 |  |
+| 9.04 | Compute the LCA when nodes have parent pointers | Ch 9: Binary Trees |  |  | 👍 | 1 |  |
+| 10.04 | Compute the k closest stars | Ch 10: Heaps | [#973](https://leetcode.com/problems/k-closest-points-to-origin/) | Medium | 👍 | 1 |  |
+| 11.04 | Compute the integer square root | Ch 11: Searching | [#69](https://leetcode.com/problems/sqrtx/) | Easy | 👍 | 1 |  |
+| 11.08 | Find the kth largest element | Ch 11: Searching | [#215](https://leetcode.com/problems/kth-largest-element-in-an-array/) | Medium | 👍 | 1 |  |
+| 12.03 | Implement an ISBN cache | Ch 12: Hash Tables | [#146](https://leetcode.com/problems/lru-cache/) | Medium | 👍 | 1 |  |
+| 13.02 | Merge two sorted arrays | Ch 13: Sorting | [#88](https://leetcode.com/problems/merge-sorted-array/) | Easy | 🏆 | 1 | 9 min |
+| 14.02 | Find the first key greater than a given value in a BST | Ch 14: Binary Search Trees |  |  | 🏆 | 1 | 3 min |
+| 14.03 | Find the k largest elements in a BST | Ch 14: Binary Search Trees | [#230](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | Medium | 🏆 | 1 | 3 min |
+| 15.02 | Generate all nonattacking placements of n-Queens | Ch 15: Recursion | [#51](https://leetcode.com/problems/n-queens/) | Hard | 👍 | 1 |  |
+| 16.02 | Compute the Levenshtein distance | Ch 16: Dynamic Programming | [#72](https://leetcode.com/problems/edit-distance/) | Hard | 👍 | 1 |  |
+| 17.06 | The gasup problem | Ch 17: Greedy Algorithms and Invariants | [#134](https://leetcode.com/problems/gas-station/) | Medium | 👍 | 1 |  |
+| 18.07 | Transform one string to another | Ch 18: Graphs | [#127](https://leetcode.com/problems/word-ladder/) | Hard | 👍 | 1 |  |
 
 ---
 
-### Chapter 10: Heaps
+### 🟡 Priority 2 (Medium)
 
-| # | Problem | Priority | LeetCode | Difficulty | Status | Attempts | Best Time |
-|---|---------|----------|----------|------------|--------|----------|-----------|
-| 10.01 | Merge sorted files | 🔴 | [#23](https://leetcode.com/problems/merge-k-sorted-lists/) | Hard | 👍 | 1 |  |
-| 10.03 | Sort an almost-sorted array | 🟡 |  |  |  |  |  |
-| 10.04 | Compute the k closest stars | 🟠 | [#973](https://leetcode.com/problems/k-closest-points-to-origin/) | Medium | 👍 | 1 |  |
-
----
-
-### Chapter 11: Searching
-
-| # | Problem | Priority | LeetCode | Difficulty | Status | Attempts | Best Time |
-|---|---------|----------|----------|------------|--------|----------|-----------|
-| 11.01 | Search a sorted array for first occurrence of k | 🔴 | [#34](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | Medium | 🏆 | 1 | 6 min |
-| 11.03 | Search a cyclically sorted array | 🟡 | [#33](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Medium |  |  |  |
-| 11.04 | Compute the integer square root | 🟠 | [#69](https://leetcode.com/problems/sqrtx/) | Easy | 👍 | 1 |  |
-| 11.08 | Find the kth largest element | 🟠 | [#215](https://leetcode.com/problems/kth-largest-element-in-an-array/) | Medium | 👍 | 1 |  |
-| 11.09 | Find the missing IP address | 🟡 |  |  |  |  |  |
-
----
-
-### Chapter 12: Hash Tables
-
-| # | Problem | Priority | LeetCode | Difficulty | Status | Attempts | Best Time |
-|---|---------|----------|----------|------------|--------|----------|-----------|
-| 12.01 | Test for palindromic permutations | 🟡 |  |  |  |  |  |
-| 12.02 | Is an anonymous letter constructible? | 🔴 | [#383](https://leetcode.com/problems/ransom-note/) | Easy | 💪 | 1 | 4 min |
-| 12.03 | Implement an ISBN cache | 🟠 | [#146](https://leetcode.com/problems/lru-cache/) | Medium | 👍 | 1 |  |
-| 12.05 | Find the nearest repeated entries in an array | 🟡 | [#219](https://leetcode.com/problems/contains-duplicate-ii/) | Easy | 🏆 | 1 | 12 min |
-
----
-
-### Chapter 13: Sorting
-
-| # | Problem | Priority | LeetCode | Difficulty | Status | Attempts | Best Time |
-|---|---------|----------|----------|------------|--------|----------|-----------|
-| 13.01 | Compute the intersection of two sorted arrays | 🔴 | [#349](https://leetcode.com/problems/intersection-of-two-arrays/) | Easy | 🏆 | 1 | 7 min |
-| 13.02 | Merge two sorted arrays | 🟠 | [#88](https://leetcode.com/problems/merge-sorted-array/) | Easy | 🏆 | 1 | 9 min |
-| 13.05 | Smallest nonconstructible value | 🟡 |  |  |  |  |  |
-
----
-
-### Chapter 14: Binary Search Trees
-
-| # | Problem | Priority | LeetCode | Difficulty | Status | Attempts | Best Time |
-|---|---------|----------|----------|------------|--------|----------|-----------|
-| 14.01 | Test if a binary tree satisfies the BST property | 🔴 | [#98](https://leetcode.com/problems/validate-binary-search-tree/) | Medium | 👍 | 1 |  |
-| 14.02 | Find the first key greater than a given value in a BST | 🟠 |  |  | 🏆 | 1 | 3 min |
-| 14.03 | Find the k largest elements in a BST | 🟠 | [#230](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | Medium | 🏆 | 1 | 3 min |
-| 14.04 | Compute the LCA in a BST | 🟡 | [#235](https://leetcode.com/problems/lowest-common-ancestor-of-a-bst/) | Medium |  |  |  |
-
----
-
-### Chapter 15: Recursion
-
-| # | Problem | Priority | LeetCode | Difficulty | Status | Attempts | Best Time |
-|---|---------|----------|----------|------------|--------|----------|-----------|
-| 15.01 | The Towers of Hanoi problem | 🔴 | [#08.06](https://leetcode.com/problems/hanota-lcci/) | Easy | ☑️ | 1 |  |
-| 15.02 | Generate all nonattacking placements of n-Queens | 🟠 | [#51](https://leetcode.com/problems/n-queens/) | Hard | 👍 | 1 |  |
-| 15.03 | Generate permutations | 🟡 | [#46](https://leetcode.com/problems/permutations/) | Medium |  |  |  |
-
----
-
-### Chapter 16: Dynamic Programming
-
-| # | Problem | Priority | LeetCode | Difficulty | Status | Attempts | Best Time |
-|---|---------|----------|----------|------------|--------|----------|-----------|
-| 16.01 | Count the number of score combinations | 🔴 | [#518](https://leetcode.com/problems/coin-change-ii/) | Medium | 👍 | 1 |  |
-| 16.02 | Compute the Levenshtein distance | 🟠 | [#72](https://leetcode.com/problems/edit-distance/) | Hard | 👍 | 1 |  |
-| 16.03 | Count the number of ways to traverse a 2D array | 🟡 | [#62](https://leetcode.com/problems/unique-paths/) | Medium |  |  |  |
-| 16.06 | The knapsack problem | 🟡 | [#416](https://leetcode.com/problems/partition-equal-subset-sum/) | Medium |  |  |  |
-
----
-
-### Chapter 17: Greedy Algorithms and Invariants
-
-| # | Problem | Priority | LeetCode | Difficulty | Status | Attempts | Best Time |
-|---|---------|----------|----------|------------|--------|----------|-----------|
-| 17.04 | The 3-sum problem | 🔴 | [#15](https://leetcode.com/problems/3sum/) | Medium | 👍 | 1 |  |
-| 17.05 | Find the majority element | 🟡 | [#169](https://leetcode.com/problems/majority-element/) | Easy |  |  |  |
-| 17.06 | The gasup problem | 🟠 | [#134](https://leetcode.com/problems/gas-station/) | Medium | 👍 | 1 |  |
-
----
-
-### Chapter 18: Graphs
-
-| # | Problem | Priority | LeetCode | Difficulty | Status | Attempts | Best Time |
-|---|---------|----------|----------|------------|--------|----------|-----------|
-| 18.01 | Search a maze | 🔴 |  |  | 👍 | 1 |  |
-| 18.02 | Paint a Boolean matrix | 🟡 | [#733](https://leetcode.com/problems/flood-fill/) | Easy |  |  |  |
-| 18.07 | Transform one string to another | 🟠 | [#127](https://leetcode.com/problems/word-ladder/) | Hard | 👍 | 1 |  |
+| # | Problem | Chapter | LeetCode | Difficulty | Status | Attempts | Best Time |
+|---|---------|---------|----------|------------|--------|----------|-----------|
+| 4.08 | Reverse digits | Ch 4: Primitive Types | [#7](https://leetcode.com/problems/reverse-integer/) | Medium |  |  |  |
+| 5.02 | Increment an arbitrary-precision integer | Ch 5: Arrays | [#66](https://leetcode.com/problems/plus-one/) | Easy |  |  |  |
+| 5.17 | The Sudoku checker problem | Ch 5: Arrays | [#36](https://leetcode.com/problems/valid-sudoku/) | Medium |  |  |  |
+| 6.05 | Test palindromicity | Ch 6: Strings | [#125](https://leetcode.com/problems/valid-palindrome/) | Easy |  |  |  |
+| 6.06 | Reverse all the words in a sentence | Ch 6: Strings | [#151](https://leetcode.com/problems/reverse-words-in-a-string/) | Medium |  |  |  |
+| 7.04 | Test for overlapping lists---lists are cycle-free | Ch 7: Linked Lists | [#160](https://leetcode.com/problems/intersection-of-two-linked-lists/) | Easy |  |  |  |
+| 7.07 | Remove the kth last element from a list | Ch 7: Linked Lists | [#19](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | Medium |  |  |  |
+| 8.02 | Evaluate RPN expressions | Ch 8: Stacks and Queues | [#150](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | Medium |  |  |  |
+| 8.07 | Implement a circular queue | Ch 8: Stacks and Queues | [#622](https://leetcode.com/problems/design-circular-queue/) | Medium |  |  |  |
+| 9.02 | Test if a binary tree is symmetric | Ch 9: Binary Trees | [#101](https://leetcode.com/problems/symmetric-tree/) | Easy |  |  |  |
+| 9.12 | Reconstruct a binary tree from a preorder traversal with markers | Ch 9: Binary Trees | [#1028](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/) | Hard |  |  |  |
+| 10.03 | Sort an almost-sorted array | Ch 10: Heaps |  |  |  |  |  |
+| 11.03 | Search a cyclically sorted array | Ch 11: Searching | [#33](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Medium |  |  |  |
+| 11.09 | Find the missing IP address | Ch 11: Searching |  |  |  |  |  |
+| 12.01 | Test for palindromic permutations | Ch 12: Hash Tables |  |  |  |  |  |
+| 12.05 | Find the nearest repeated entries in an array | Ch 12: Hash Tables | [#219](https://leetcode.com/problems/contains-duplicate-ii/) | Easy | 🏆 | 1 | 12 min |
+| 13.05 | Smallest nonconstructible value | Ch 13: Sorting |  |  |  |  |  |
+| 14.04 | Compute the LCA in a BST | Ch 14: Binary Search Trees | [#235](https://leetcode.com/problems/lowest-common-ancestor-of-a-bst/) | Medium |  |  |  |
+| 15.03 | Generate permutations | Ch 15: Recursion | [#46](https://leetcode.com/problems/permutations/) | Medium |  |  |  |
+| 16.03 | Count the number of ways to traverse a 2D array | Ch 16: Dynamic Programming | [#62](https://leetcode.com/problems/unique-paths/) | Medium |  |  |  |
+| 16.06 | The knapsack problem | Ch 16: Dynamic Programming | [#416](https://leetcode.com/problems/partition-equal-subset-sum/) | Medium |  |  |  |
+| 17.05 | Find the majority element | Ch 17: Greedy Algorithms and Invariants | [#169](https://leetcode.com/problems/majority-element/) | Easy |  |  |  |
+| 18.02 | Paint a Boolean matrix | Ch 18: Graphs | [#733](https://leetcode.com/problems/flood-fill/) | Easy |  |  |  |
 
 ---
 
