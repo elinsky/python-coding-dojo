@@ -47,7 +47,7 @@ See [Problem-Solving Workflow](wiki/Problem-Solving-Workflow.md) for visual diag
 
 **Attempted:** 16/16 (100%) ☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️
 
-**Mastered:** 8/16 (50%) 🏆🏆🏆🏆🏆🏆🏆🏆⬜⬜⬜⬜⬜⬜⬜⬜
+**Mastered:** 9/16 (56%) 🏆🏆🏆🏆🏆🏆🏆🏆🏆⬜⬜⬜⬜⬜⬜⬜
 
 | # | Problem | Chapter | LeetCode | Difficulty | Status | Attempts | Best Time |
 |---|---------|---------|----------|------------|--------|----------|-----------|
@@ -58,7 +58,7 @@ See [Problem-Solving Workflow](wiki/Problem-Solving-Workflow.md) for visual diag
 | 7.01 | Merge two sorted lists | Ch 7: Linked Lists | [#21](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy | 🏆 | 2 | 3 min |
 | 8.01 | Implement a stack with max API | Ch 8: Stacks and Queues | [#155](https://leetcode.com/problems/min-stack/) | Medium | 💪 | 2 | 3 min |
 | 9.01 | Test if a binary tree is height-balanced | Ch 9: Binary Trees | [#110](https://leetcode.com/problems/balanced-binary-tree/) | Easy | 🏆 | 2 | 7 min |
-| 10.01 | Merge sorted files | Ch 10: Heaps | [#23](https://leetcode.com/problems/merge-k-sorted-lists/) | Hard | 👍 | 1 |  |
+| 10.01 | Merge sorted files | Ch 10: Heaps | [#23](https://leetcode.com/problems/merge-k-sorted-lists/) | Hard | 🏆 | 2 | 11 min |
 | 11.01 | Search a sorted array for first occurrence of k | Ch 11: Searching | [#34](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | Medium | 🏆 | 1 | 6 min |
 | 12.02 | Is an anonymous letter constructible? | Ch 12: Hash Tables | [#383](https://leetcode.com/problems/ransom-note/) | Easy | 💪 | 1 | 4 min |
 | 13.01 | Compute the intersection of two sorted arrays | Ch 13: Sorting | [#349](https://leetcode.com/problems/intersection-of-two-arrays/) | Easy | 🏆 | 1 | 7 min |
