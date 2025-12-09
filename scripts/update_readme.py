@@ -468,16 +468,7 @@ def generate_readme(data, threshold):
         '',
     ])
 
-    # Chapter breakdown table (collapsible)
-    lines.extend([
-        '<details>',
-        '<summary><h2>Progress by Chapter</h2></summary>',
-        '',
-        '| Chapter | Problems | Attempted ☑️ | Solved 👍 | Independent 💪 | Mastered 🏆 |',
-        '|---------|----------|-------------|--------|---------------|-------------|',
-    ])
-
-    # Sort chapters by chapter number
+    # Sort chapters by chapter number for problem listing
     # EPI (numeric), Practical (P1-P6), Trading (T1), ML (M1-M5)
     def chapter_sort_key(item):
         chapter_num = item[1]['chapter_num']
@@ -494,45 +485,7 @@ def generate_readme(data, threshold):
 
     sorted_chapters = sorted(stats['chapters'].items(), key=chapter_sort_key)
 
-    for chapter_name, chapter_stats in sorted_chapters:
-        chapter_num = chapter_stats['chapter_num']
-        total = chapter_stats['total']
-        tier0 = chapter_stats['tier0']
-        tier1 = chapter_stats['tier1']
-        tier2 = chapter_stats['tier2']
-        tier3 = chapter_stats['tier3']
-
-        tier0_pct = (tier0 / total * 100) if total > 0 else 0
-        tier1_pct = (tier1 / total * 100) if total > 0 else 0
-        tier2_pct = (tier2 / total * 100) if total > 0 else 0
-        tier3_pct = (tier3 / total * 100) if total > 0 else 0
-
-        lines.append(
-            f'| {chapter_num}: {chapter_name} | {total} | '
-            f'{tier0} ({tier0_pct:.0f}%) | '
-            f'{tier1} ({tier1_pct:.0f}%) | '
-            f'{tier2} ({tier2_pct:.0f}%) | '
-            f'{tier3} ({tier3_pct:.0f}%) |'
-        )
-
-    # Total row
-    tier0_pct = (stats['tier0'] / stats['total'] * 100) if stats['total'] > 0 else 0
-    tier1_pct = (stats['tier1'] / stats['total'] * 100) if stats['total'] > 0 else 0
-    tier2_pct = (stats['tier2'] / stats['total'] * 100) if stats['total'] > 0 else 0
-    tier3_pct = (stats['tier3'] / stats['total'] * 100) if stats['total'] > 0 else 0
-
-    lines.append(
-        f"| **Total** | **{stats['total']}** | "
-        f"**{stats['tier0']}** | "
-        f"**{stats['tier1']}** | "
-        f"**{stats['tier2']}** | "
-        f"**{stats['tier3']}** |"
-    )
-
     lines.extend([
-        '',
-        '</details>',
-        '',
         '## All Problems',
         '',
     ])

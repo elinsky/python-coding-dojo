@@ -132,30 +132,6 @@ Problems solved independently in ≤20 minutes with optimal solution
 
 See [Problem-Solving Workflow](wiki/Problem-Solving-Workflow.md) for visual diagrams of the learning approach.
 
-<details>
-<summary><h2>Progress by Chapter</h2></summary>
-
-| Chapter | Problems | Attempted ☑️ | Solved 👍 | Independent 💪 | Mastered 🏆 |
-|---------|----------|-------------|--------|---------------|-------------|
-| 4: Primitive Types | 3 | 2 (67%) | 2 (67%) | 1 (33%) | 1 (33%) |
-| 5: Arrays | 6 | 4 (67%) | 4 (67%) | 3 (50%) | 3 (50%) |
-| 6: Strings | 5 | 3 (60%) | 3 (60%) | 1 (20%) | 1 (20%) |
-| 7: Linked Lists | 5 | 3 (60%) | 3 (60%) | 2 (40%) | 2 (40%) |
-| 8: Stacks and Queues | 4 | 2 (50%) | 2 (50%) | 1 (25%) | 0 (0%) |
-| 9: Binary Trees | 4 | 2 (50%) | 1 (25%) | 0 (0%) | 0 (0%) |
-| 10: Heaps | 3 | 2 (67%) | 2 (67%) | 0 (0%) | 0 (0%) |
-| 11: Searching | 5 | 3 (60%) | 3 (60%) | 1 (20%) | 1 (20%) |
-| 12: Hash Tables | 4 | 3 (75%) | 3 (75%) | 2 (50%) | 1 (25%) |
-| 13: Sorting | 3 | 2 (67%) | 2 (67%) | 2 (67%) | 2 (67%) |
-| 14: Binary Search Trees | 4 | 3 (75%) | 3 (75%) | 2 (50%) | 2 (50%) |
-| 15: Recursion | 3 | 2 (67%) | 1 (33%) | 0 (0%) | 0 (0%) |
-| 16: Dynamic Programming | 4 | 2 (50%) | 2 (50%) | 0 (0%) | 0 (0%) |
-| 17: Greedy Algorithms and Invariants | 3 | 2 (67%) | 2 (67%) | 0 (0%) | 0 (0%) |
-| 18: Graphs | 3 | 2 (67%) | 2 (67%) | 0 (0%) | 0 (0%) |
-| **Total** | **59** | **37** | **35** | **15** | **13** |
-
-</details>
-
 ## All Problems
 
 ### Chapter 4: Primitive Types
