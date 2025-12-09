@@ -1937,6 +1937,13 @@ problems:
       time_minutes: 15
       used_hints: true
       used_solution: false
+    - date: '2025-12-09T15:56:24.660921'
+      optimal: true
+      solved: true
+      submissions: 1
+      time_minutes: 8
+      used_hints: false
+      used_solution: false
     chapter: 04_primitive_types
     chapter_name: Primitive Types
     file: 1-algorithm-problems/power_x_y.py
