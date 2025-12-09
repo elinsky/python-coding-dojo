@@ -74,14 +74,14 @@ See [Problem-Solving Workflow](wiki/Problem-Solving-Workflow.md) for visual diag
 
 **Attempted:** 20/20 (100%) ☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️
 
-**Mastered:** 6/20 (30%) 🏆🏆🏆🏆🏆🏆⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+**Mastered:** 7/20 (35%) 🏆🏆🏆🏆🏆🏆🏆⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 
 | # | Problem | Chapter | LeetCode | Difficulty | Status | Attempts | Best Time |
 |---|---------|---------|----------|------------|--------|----------|-----------|
 | 4.07 | Compute pow(x,y) | Ch 4: Primitive Types | [#50](https://leetcode.com/problems/powx-n/) | Medium | 🏆 | 2 | 8 min |
 | 5.12 | Sample offline data | Ch 5: Arrays | [#384](https://leetcode.com/problems/shuffle-an-array/) | Medium | 🏆 | 2 | 1 min |
 | 5.18 | Compute the spiral ordering of a 2D array | Ch 5: Arrays | [#54](https://leetcode.com/problems/spiral-matrix/) | Medium | 💪 | 2 | 21 min |
-| 6.02 | Base conversion | Ch 6: Strings | [#504](https://leetcode.com/problems/base-7/) | Easy | 👍 | 1 |  |
+| 6.02 | Base conversion | Ch 6: Strings | [#504](https://leetcode.com/problems/base-7/) | Easy | 🏆 | 2 | 12 min |
 | 6.04 | Replace and remove | Ch 6: Strings |  |  | 👍 | 1 |  |
 | 7.02 | Reverse a single sublist | Ch 7: Linked Lists | [#92](https://leetcode.com/problems/reverse-linked-list-ii/) | Medium | 👍 | 1 |  |
 | 7.03 | Test for cyclicity | Ch 7: Linked Lists | [#141](https://leetcode.com/problems/linked-list-cycle/) | Easy | 🏆 | 1 | 8 min |
