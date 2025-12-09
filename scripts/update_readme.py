@@ -369,9 +369,11 @@ def generate_readme(data, threshold):
 
         lines.extend([
             f'**Attempted:** {total_attempted}/{total_problems} ({attempt_pct:.0f}%)',
+            '',
             attempt_bar,
             '',
             f'**Mastered:** {total_mastered}/{total_problems} ({master_pct:.0f}%)',
+            '',
             master_bar,
             '',
         ])
