@@ -39,53 +39,31 @@ Progress toward priority-based learning goals.
 | 💪 | Independent | Problems solved without hints or looking at solutions |
 | 🏆 | Mastered | Problems solved independently in ≤20 min with optimal solution |
 
-🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟
 ### 🔴 P0: Attempt All (16/16 - 100%)
 
 ☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️
-
-**16 / 16** problems attempted
-
-🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟
 
 ### 🔴 P0: Master All (7/16 - 44%)
 
 🏆🏆🏆🏆🏆🏆🏆⬜⬜⬜⬜⬜⬜⬜⬜⬜
 
-**7 / 16** problems mastered
-
-
-🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟
 ### 🟠 P1: Attempt All (20/20 - 100%)
 
 ☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️
 
-**20 / 20** problems attempted
-
-🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟
-
 ### 🟠 P1: Master All (5/20 - 25%)
 
 🏆🏆🏆🏆🏆⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
-
-**5 / 20** problems mastered
-
 
 ### 🟡 P2: Attempt All (1/23 - 4%)
 
 ☑️⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜
 
-**1 / 23** problems attempted
-
-
 ### 🟡 P2: Master All (1/23 - 4%)
 
 🏆⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜
-
-**1 / 23** problems mastered
-
 
 <details>
 <summary><h2>Overall Progress</h2></summary>
