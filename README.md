@@ -59,7 +59,7 @@ See [Problem-Solving Workflow](wiki/Problem-Solving-Workflow.md) for visual diag
 | 8.01 | Implement a stack with max API | Ch 8: Stacks and Queues | [#155](https://leetcode.com/problems/min-stack/) | Medium | 💪 | 2 | 3 min |
 | 9.01 | Test if a binary tree is height-balanced | Ch 9: Binary Trees | [#110](https://leetcode.com/problems/balanced-binary-tree/) | Easy | 🏆 | 2 | 7 min |
 | 10.01 | Merge sorted files | Ch 10: Heaps | [#23](https://leetcode.com/problems/merge-k-sorted-lists/) | Hard | 🏆 | 2 | 11 min |
-| 11.01 | Search a sorted array for first occurrence of k | Ch 11: Searching | [#34](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | Medium | 🏆 | 1 | 6 min |
+| 11.01 | Search a sorted array for first occurrence of k | Ch 11: Searching | [#34](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | Medium | 🏆 | 2 | 6 min |
 | 12.02 | Is an anonymous letter constructible? | Ch 12: Hash Tables | [#383](https://leetcode.com/problems/ransom-note/) | Easy | 💪 | 1 | 4 min |
 | 13.01 | Compute the intersection of two sorted arrays | Ch 13: Sorting | [#349](https://leetcode.com/problems/intersection-of-two-arrays/) | Easy | 🏆 | 1 | 7 min |
 | 14.01 | Test if a binary tree satisfies the BST property | Ch 14: Binary Search Trees | [#98](https://leetcode.com/problems/validate-binary-search-tree/) | Medium | 👍 | 1 |  |
