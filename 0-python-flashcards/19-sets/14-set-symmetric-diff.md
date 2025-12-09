@@ -1,6 +1,6 @@
 # Set Symmetric Difference
 
-**Q:** How do I get elements in either set but not both (XOR)?
+**Q:** How do I get elements in either set but not both?
 
 **A:** Use ^ operator or symmetric_difference()
 
