@@ -65,47 +65,6 @@ Progress toward priority-based learning goals.
 🏆⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜
 
-<details>
-<summary><h2>Overall Progress</h2></summary>
-
-### Tier 0: Attempted ☑️
-Problems attempted but not yet solved
-
-☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️
-☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️⬜⬜⬜
-⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
-
-**37 / 59** (62.7%)
-
-### Tier 1: Solved 👍
-Problems solved (with or without help)
-
-👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍
-👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍⬜⬜⬜⬜⬜
-⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
-
-**35 / 59** (59.3%)
-
-### Tier 2: Solved Independently 💪
-Problems solved without hints or looking at solutions
-
-💪💪💪💪💪💪💪💪💪💪💪💪💪💪💪⬜⬜⬜⬜⬜
-⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
-⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
-
-**15 / 59** (25.4%)
-
-### Tier 3: Mastered 🏆
-Problems solved independently in ≤20 minutes with optimal solution
-
-🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆⬜⬜⬜⬜⬜⬜⬜
-⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
-⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
-
-**13 / 59** (22.0%)
-
-</details>
-
 ## Problem-Solving Workflow
 
 See [Problem-Solving Workflow](wiki/Problem-Solving-Workflow.md) for visual diagrams of the learning approach.

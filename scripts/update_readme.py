@@ -386,63 +386,6 @@ def generate_readme(data, threshold):
             '',
         ])
 
-    # Add collapsible Overall Progress section
-    lines.extend([
-        '<details>',
-        '<summary><h2>Overall Progress</h2></summary>',
-        '',
-    ])
-
-    # Tier 0: Attempted
-    tier0_pct = (stats['tier0'] / stats['total'] * 100) if stats['total'] > 0 else 0
-    lines.extend([
-        '### Tier 0: Attempted ☑️',
-        'Problems attempted but not yet solved',
-        '',
-        generate_progress_bar(stats['tier0'], stats['total'], '☑️'),
-        '',
-        f"**{stats['tier0']} / {stats['total']}** ({tier0_pct:.1f}%)",
-        '',
-    ])
-
-    # Tier 1: Solved
-    tier1_pct = (stats['tier1'] / stats['total'] * 100) if stats['total'] > 0 else 0
-    lines.extend([
-        '### Tier 1: Solved 👍',
-        'Problems solved (with or without help)',
-        '',
-        generate_progress_bar(stats['tier1'], stats['total'], '👍'),
-        '',
-        f"**{stats['tier1']} / {stats['total']}** ({tier1_pct:.1f}%)",
-        '',
-    ])
-
-    # Tier 2: Independent
-    tier2_pct = (stats['tier2'] / stats['total'] * 100) if stats['total'] > 0 else 0
-    lines.extend([
-        '### Tier 2: Solved Independently 💪',
-        'Problems solved without hints or looking at solutions',
-        '',
-        generate_progress_bar(stats['tier2'], stats['total'], '💪'),
-        '',
-        f"**{stats['tier2']} / {stats['total']}** ({tier2_pct:.1f}%)",
-        '',
-    ])
-
-    # Tier 3: Mastered
-    tier3_pct = (stats['tier3'] / stats['total'] * 100) if stats['total'] > 0 else 0
-    lines.extend([
-        '### Tier 3: Mastered 🏆',
-        f'Problems solved independently in ≤{threshold} minutes with optimal solution',
-        '',
-        generate_progress_bar(stats['tier3'], stats['total'], '🏆'),
-        '',
-        f"**{stats['tier3']} / {stats['total']}** ({tier3_pct:.1f}%)",
-        '',
-        '</details>',
-        '',
-    ])
-
     # Add link to workflow diagrams wiki page
     lines.extend([
         '## Problem-Solving Workflow',
