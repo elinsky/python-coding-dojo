@@ -206,6 +206,11 @@ flashcards:
   sortedcontainers:
     attempts:
     - count: 13
+      date: '2025-12-12T13:20:22.262492'
+      notes: 'Missed: Q2, Q4, Q7, Q8, Q10, Q12'
+      score: 8
+      time_seconds: 210
+    - count: 13
       date: '2025-12-05T15:18:18.002663'
       notes: 'Missed: Q6, Q10, Q12, Q13'
       score: 9
