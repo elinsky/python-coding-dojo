@@ -908,6 +908,13 @@ problems:
       solved: false
       used_hints: true
       used_solution: true
+    - date: '2025-12-12T14:36:01.649350'
+      optimal: true
+      solved: true
+      submissions: 1
+      time_minutes: 9
+      used_hints: false
+      used_solution: false
     chapter: 15_recursion
     chapter_name: Recursion
     file: 1-algorithm-problems/hanoi.py
