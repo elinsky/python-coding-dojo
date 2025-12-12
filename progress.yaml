@@ -18,6 +18,11 @@ flashcards:
   binary-trees:
     attempts:
     - count: 21
+      date: '2025-12-12T12:47:43.744485'
+      notes: 'Missed: Q13 (check-is-left-child)'
+      score: 20
+      time_seconds: 292
+    - count: 21
       date: '2025-12-05T14:11:52.995107'
       notes: 'Missed: check-exactly-one-child'
       score: 20

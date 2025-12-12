@@ -13,7 +13,7 @@ My journey through Elements of Programming Interviews in Python.
 | 03-strings | ✅ | 19/19 | 19/19 | 9:30 | 2:25 | 2025-12-05 |
 | 04-linked-lists | ✅ | 15/15 | 15/15 | 7:30 | 7:11 | 2025-12-03 |
 | 05-stacks-queues | ✅ | 16/16 | 16/16 | 8:00 | 3:00 | 2025-12-05 |
-| 06-binary-trees | ⬜ | 21/21 | 20/21 | 10:30 | 4:13 | 2025-12-05 |
+| 06-binary-trees | ⬜ | 21/21 | 20/21 | 10:30 | 4:52 | 2025-12-12 |
 | 07-dicts-basics | ⬜ | 23/23 | 17/23 | 11:30 | 4:52 | 2025-12-06 |
 | 08-ordereddict | ⬜ | 5/5 | 2/5 | 2:30 | 1:32 | 2025-12-06 |
 | 09-counter | ⬜ | 11/11 | 10/11 | 5:30 | 2:05 | 2025-12-06 |
@@ -210,4 +210,4 @@ See [Problem-Solving Workflow](wiki/Problem-Solving-Workflow.md) for visual diag
 ---
 
 
-*Last updated: 2025-12-09*
+*Last updated: 2025-12-12*
