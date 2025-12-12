@@ -1804,6 +1804,13 @@ problems:
       solved: true
       used_hints: true
       used_solution: true
+    - date: '2025-12-12T15:01:04.724491'
+      optimal: true
+      solved: true
+      submissions: 1
+      time_minutes: 20
+      used_hints: false
+      used_solution: false
     chapter: 16_dynamic_programming
     chapter_name: Dynamic Programming
     file: 1-algorithm-problems/number_of_score_combinations.py
