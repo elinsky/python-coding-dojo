@@ -38,11 +38,11 @@ My journey through Elements of Programming Interviews in Python.
 
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 
-**Mastered:** 22/59 (37%)
+**Mastered:** 23/59 (39%)
 
 🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆
 
-🏆🏆⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+🏆🏆🏆⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 
@@ -65,7 +65,7 @@ See [Problem-Solving Workflow](wiki/Problem-Solving-Workflow.md) for visual diag
 
 **Attempted:** 16/16 (100%) ☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️
 
-**Mastered:** 13/16 (81%) 🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆⬜⬜⬜
+**Mastered:** 14/16 (88%) 🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆⬜⬜
 
 | # | Problem | Chapter | LeetCode | Difficulty | Status | Attempts | Best Time |
 |---|---------|---------|----------|------------|--------|----------|-----------|
@@ -83,7 +83,7 @@ See [Problem-Solving Workflow](wiki/Problem-Solving-Workflow.md) for visual diag
 | 14.01 | Test if a binary tree satisfies the BST property | Ch 14: Binary Search Trees | [#98](https://leetcode.com/problems/validate-binary-search-tree/) | Medium | 🏆 | 2 | 10 min |
 | 15.01 | The Towers of Hanoi problem | Ch 15: Recursion | [#08.06](https://leetcode.com/problems/hanota-lcci/) | Easy | 🏆 | 2 | 9 min |
 | 16.01 | Count the number of score combinations | Ch 16: Dynamic Programming | [#518](https://leetcode.com/problems/coin-change-ii/) | Medium | 🏆 | 2 | 20 min |
-| 17.04 | The 3-sum problem | Ch 17: Greedy Algorithms and Invariants | [#15](https://leetcode.com/problems/3sum/) | Medium | 👍 | 1 |  |
+| 17.04 | The 3-sum problem | Ch 17: Greedy Algorithms and Invariants | [#15](https://leetcode.com/problems/3sum/) | Medium | 🏆 | 2 | 9 min |
 | 18.01 | Search a maze | Ch 18: Graphs |  |  | 👍 | 1 |  |
 
 ---
