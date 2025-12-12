@@ -84,7 +84,7 @@ See [Problem-Solving Workflow](wiki/Problem-Solving-Workflow.md) for visual diag
 | 15.01 | The Towers of Hanoi problem | Ch 15: Recursion | [#08.06](https://leetcode.com/problems/hanota-lcci/) | Easy | 🏆 | 2 | 9 min |
 | 16.01 | Count the number of score combinations | Ch 16: Dynamic Programming | [#518](https://leetcode.com/problems/coin-change-ii/) | Medium | 🏆 | 2 | 20 min |
 | 17.04 | The 3-sum problem | Ch 17: Greedy Algorithms and Invariants | [#15](https://leetcode.com/problems/3sum/) | Medium | 🏆 | 2 | 9 min |
-| 18.01 | Search a maze | Ch 18: Graphs |  |  | 👍 | 1 |  |
+| 18.01 | Search a maze | Ch 18: Graphs |  |  | 👍 | 2 |  |
 
 ---
 
