@@ -83,6 +83,11 @@ flashcards:
   dicts-basics:
     attempts:
     - count: 23
+      date: '2025-12-12T12:57:42.176813'
+      notes: 'Missed: Q6, Q8, Q16, Q17, Q20'
+      score: 19
+      time_seconds: 337
+    - count: 23
       date: '2025-12-06T17:45:15.645241'
       notes: 'Missed: Q6, Q9, Q14, Q16, Q18, Q20'
       score: 17
