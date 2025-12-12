@@ -4,7 +4,7 @@ My journey through Elements of Programming Interviews in Python.
 
 ## Python Syntax Flashcards
 
-**Mastered:** 6/19 (32%) ✅✅✅✅✅✅⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+**Mastered:** 5/19 (26%) ✅✅✅✅✅⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 
 | Category | Status | Target Score | Actual Score | Target Time | Actual Time | Last Drilled |
 |----------|--------|--------------|--------------|-------------|-------------|--------------|
@@ -18,7 +18,7 @@ My journey through Elements of Programming Interviews in Python.
 | 08-ordereddict | ⬜ | 5/5 | 4/5 | 2:30 | 2:09 | 2025-12-12 |
 | 09-counter | ⬜ | 11/11 | 10/11 | 5:30 | 3:30 | 2025-12-12 |
 | 10-sortedcontainers | ⬜ | 13/13 | 8/13 | 6:30 | 3:30 | 2025-12-12 |
-| 11-functools | ✅ | 7/7 | 7/7 | 3:00 | 2:31 | 2025-12-05 |
+| 11-functools | ⬜ | 7/7 | 5/7 | 3:00 | 3:48 | 2025-12-12 |
 | 12-file-io | ⬜ | 13/13 | 10/13 | 6:30 | 3:54 | 2025-12-06 |
 | 13-csv | ⬜ | 23/23 | 15/23 | 11:30 | 10:54 | 2025-12-06 |
 | 14-pathlib-basics | ⬜ | 16/16 | 12/16 | 8:00 | 4:02 | 2025-12-06 |
