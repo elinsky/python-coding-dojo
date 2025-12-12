@@ -38,9 +38,9 @@ My journey through Elements of Programming Interviews in Python.
 
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 
-**Mastered:** 19/59 (32%)
+**Mastered:** 20/59 (34%)
 
-🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆⬜
+🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆
 
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 
@@ -65,7 +65,7 @@ See [Problem-Solving Workflow](wiki/Problem-Solving-Workflow.md) for visual diag
 
 **Attempted:** 16/16 (100%) ☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️
 
-**Mastered:** 10/16 (62%) 🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆⬜⬜⬜⬜⬜⬜
+**Mastered:** 11/16 (69%) 🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆⬜⬜⬜⬜⬜
 
 | # | Problem | Chapter | LeetCode | Difficulty | Status | Attempts | Best Time |
 |---|---------|---------|----------|------------|--------|----------|-----------|
@@ -80,7 +80,7 @@ See [Problem-Solving Workflow](wiki/Problem-Solving-Workflow.md) for visual diag
 | 11.01 | Search a sorted array for first occurrence of k | Ch 11: Searching | [#34](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | Medium | 🏆 | 2 | 6 min |
 | 12.02 | Is an anonymous letter constructible? | Ch 12: Hash Tables | [#383](https://leetcode.com/problems/ransom-note/) | Easy | 🏆 | 2 | 4 min |
 | 13.01 | Compute the intersection of two sorted arrays | Ch 13: Sorting | [#349](https://leetcode.com/problems/intersection-of-two-arrays/) | Easy | 🏆 | 1 | 7 min |
-| 14.01 | Test if a binary tree satisfies the BST property | Ch 14: Binary Search Trees | [#98](https://leetcode.com/problems/validate-binary-search-tree/) | Medium | 👍 | 1 |  |
+| 14.01 | Test if a binary tree satisfies the BST property | Ch 14: Binary Search Trees | [#98](https://leetcode.com/problems/validate-binary-search-tree/) | Medium | 🏆 | 2 | 10 min |
 | 15.01 | The Towers of Hanoi problem | Ch 15: Recursion | [#08.06](https://leetcode.com/problems/hanota-lcci/) | Easy | ☑️ | 1 |  |
 | 16.01 | Count the number of score combinations | Ch 16: Dynamic Programming | [#518](https://leetcode.com/problems/coin-change-ii/) | Medium | 👍 | 1 |  |
 | 17.04 | The 3-sum problem | Ch 17: Greedy Algorithms and Invariants | [#15](https://leetcode.com/problems/3sum/) | Medium | 👍 | 1 |  |
