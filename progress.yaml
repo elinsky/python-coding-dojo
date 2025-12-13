@@ -1039,6 +1039,13 @@ problems:
       time_minutes: 7
       used_hints: false
       used_solution: false
+    - date: '2025-12-13T12:26:43.081651'
+      optimal: false
+      solved: true
+      submissions: 1
+      time_minutes: 13
+      used_hints: false
+      used_solution: false
     chapter: 13_sorting
     chapter_name: Sorting
     file: 1-algorithm-problems/intersect_sorted_arrays.py
