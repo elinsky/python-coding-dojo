@@ -8,10 +8,10 @@ My journey through Elements of Programming Interviews in Python.
 
 | Metric | Exposure | Mastery |
 |--------|----------|---------|
-| Remaining | 36 | 29 |
+| Remaining | 35 | 28 |
 | Target Date | Dec 24 (11d) | Dec 31 (18d) |
-| Rate Needed | 3.3/day | 1.6/day |
-| Status | **-1.5 behind** | **-0.7 behind** |
+| Rate Needed | 3.2/day | 1.6/day |
+| Status | **-0.5 behind** | **+0.3 ahead** |
 
 ## Python Syntax Flashcards
 
@@ -49,11 +49,11 @@ My journey through Elements of Programming Interviews in Python.
 
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 
-**Mastered:** 24/59 (41%)
+**Mastered:** 25/59 (42%)
 
 🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆
 
-🏆🏆🏆🏆⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+🏆🏆🏆🏆🏆⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 
@@ -103,7 +103,7 @@ See [Problem-Solving Workflow](wiki/Problem-Solving-Workflow.md) for visual diag
 
 **Attempted:** 20/20 (100%) ☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️
 
-**Mastered:** 9/20 (45%) 🏆🏆🏆🏆🏆🏆🏆🏆🏆⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+**Mastered:** 10/20 (50%) 🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 
 | # | Problem | Chapter | LeetCode | Difficulty | Status | Attempts | Best Time |
 |---|---------|---------|----------|------------|--------|----------|-----------|
@@ -114,7 +114,7 @@ See [Problem-Solving Workflow](wiki/Problem-Solving-Workflow.md) for visual diag
 | 6.04 | Replace and remove | Ch 6: Strings |  |  | 🏆 | 2 | 18 min |
 | 7.02 | Reverse a single sublist | Ch 7: Linked Lists | [#92](https://leetcode.com/problems/reverse-linked-list-ii/) | Medium | 🏆 | 2 | 7 min |
 | 7.03 | Test for cyclicity | Ch 7: Linked Lists | [#141](https://leetcode.com/problems/linked-list-cycle/) | Easy | 🏆 | 2 | 3 min |
-| 8.06 | Compute binary tree nodes in order of increasing depth | Ch 8: Stacks and Queues | [#102](https://leetcode.com/problems/binary-tree-level-order-traversal/) | Medium | 👍 | 1 |  |
+| 8.06 | Compute binary tree nodes in order of increasing depth | Ch 8: Stacks and Queues | [#102](https://leetcode.com/problems/binary-tree-level-order-traversal/) | Medium | 🏆 | 2 | 13 min |
 | 9.04 | Compute the LCA when nodes have parent pointers | Ch 9: Binary Trees |  |  | 👍 | 1 |  |
 | 10.04 | Compute the k closest stars | Ch 10: Heaps | [#973](https://leetcode.com/problems/k-closest-points-to-origin/) | Medium | 👍 | 1 |  |
 | 11.04 | Compute the integer square root | Ch 11: Searching | [#69](https://leetcode.com/problems/sqrtx/) | Easy | 👍 | 1 |  |
