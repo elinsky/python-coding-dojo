@@ -136,6 +136,11 @@ flashcards:
   functools:
     attempts:
     - count: 7
+      date: '2025-12-13T12:04:23.450416'
+      notes: Perfect score
+      score: 7
+      time_seconds: 176
+    - count: 7
       date: '2025-12-12T13:33:56.479670'
       notes: 'Missed: Q5, Q6'
       score: 5
