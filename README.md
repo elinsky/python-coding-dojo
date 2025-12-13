@@ -4,7 +4,7 @@ My journey through Elements of Programming Interviews in Python.
 
 ## Burndown Progress
 
-![Burndown Chart](images/burndown.png)
+![Burndown Chart](images/burndown.png?v=2)
 
 | Metric | Exposure | Mastery |
 |--------|----------|---------|
