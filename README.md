@@ -4,7 +4,7 @@ My journey through Elements of Programming Interviews in Python.
 
 ## Python Syntax Flashcards
 
-**Mastered:** 5/19 (26%) ✅✅✅✅✅⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+**Mastered:** 6/19 (32%) ✅✅✅✅✅✅⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 
 | Category | Status | Target Score | Actual Score | Target Time | Actual Time | Last Drilled |
 |----------|--------|--------------|--------------|-------------|-------------|--------------|
@@ -13,7 +13,7 @@ My journey through Elements of Programming Interviews in Python.
 | 03-strings | ✅ | 19/19 | 19/19 | 9:30 | 2:25 | 2025-12-05 |
 | 04-linked-lists | ✅ | 15/15 | 15/15 | 7:30 | 7:11 | 2025-12-03 |
 | 05-stacks-queues | ✅ | 16/16 | 16/16 | 8:00 | 3:00 | 2025-12-05 |
-| 06-binary-trees | ⬜ | 21/21 | 20/21 | 10:30 | 4:52 | 2025-12-12 |
+| 06-binary-trees | ✅ | 21/21 | 21/21 | 10:30 | 3:42 | 2025-12-13 |
 | 07-dicts-basics | ⬜ | 23/23 | 19/23 | 11:30 | 5:37 | 2025-12-12 |
 | 08-ordereddict | ⬜ | 5/5 | 4/5 | 2:30 | 2:09 | 2025-12-12 |
 | 09-counter | ⬜ | 11/11 | 10/11 | 5:30 | 3:30 | 2025-12-12 |
@@ -210,4 +210,4 @@ See [Problem-Solving Workflow](wiki/Problem-Solving-Workflow.md) for visual diag
 ---
 
 
-*Last updated: 2025-12-12*
+*Last updated: 2025-12-13*
