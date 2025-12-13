@@ -8,10 +8,10 @@ My journey through Elements of Programming Interviews in Python.
 
 | Metric | Exposure | Mastery |
 |--------|----------|---------|
-| Remaining | 55 | 26 |
+| Remaining | 54 | 26 |
 | Target Date | Dec 24 (11d) | Dec 31 (18d) |
-| Rate Needed | 5.0/day | 1.4/day |
-| Status | **+0.5 ahead** | **+2.3 ahead** |
+| Rate Needed | 4.9/day | 1.4/day |
+| Status | **+1.5 ahead** | **+2.3 ahead** |
 
 ## Python Syntax Flashcards
 
@@ -41,11 +41,11 @@ My journey through Elements of Programming Interviews in Python.
 
 ## Algorithm Problems
 
-**Attempted:** 38/59 (64%)
+**Attempted:** 39/59 (66%)
 
 ☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️
 
-☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️⬜⬜
+☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️⬜
 
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 
@@ -132,14 +132,14 @@ See [Problem-Solving Workflow](wiki/Problem-Solving-Workflow.md) for visual diag
 
 ### 🟡 Priority 2 (Medium)
 
-**Attempted:** 2/23 (9%) ☑️☑️⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜  ⬜⬜⬜
+**Attempted:** 3/23 (13%) ☑️☑️☑️⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜  ⬜⬜⬜
 
 **Mastered:** 2/23 (9%) 🏆🏆⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜  ⬜⬜⬜
 
 | # | Problem | Chapter | LeetCode | Difficulty | Status | Attempts | Best Time |
 |---|---------|---------|----------|------------|--------|----------|-----------|
 | 4.08 | Reverse digits | Ch 4: Primitive Types | [#7](https://leetcode.com/problems/reverse-integer/) | Medium | 🏆 | 1 | 4 min |
-| 5.02 | Increment an arbitrary-precision integer | Ch 5: Arrays | [#66](https://leetcode.com/problems/plus-one/) | Easy |  |  |  |
+| 5.02 | Increment an arbitrary-precision integer | Ch 5: Arrays | [#66](https://leetcode.com/problems/plus-one/) | Easy | 💪 | 1 | 8 min |
 | 5.17 | The Sudoku checker problem | Ch 5: Arrays | [#36](https://leetcode.com/problems/valid-sudoku/) | Medium |  |  |  |
 | 6.05 | Test palindromicity | Ch 6: Strings | [#125](https://leetcode.com/problems/valid-palindrome/) | Easy |  |  |  |
 | 6.06 | Reverse all the words in a sentence | Ch 6: Strings | [#151](https://leetcode.com/problems/reverse-words-in-a-string/) | Medium |  |  |  |
