@@ -70,6 +70,11 @@ flashcards:
   counter:
     attempts:
     - count: 11
+      date: '2025-12-13T09:59:32.379873'
+      notes: Perfect score
+      score: 11
+      time_seconds: 144
+    - count: 11
       date: '2025-12-12T13:14:10.850889'
       notes: 'Missed: Q4'
       score: 10
