@@ -8,10 +8,10 @@ My journey through Elements of Programming Interviews in Python.
 
 | Metric | Exposure | Mastery |
 |--------|----------|---------|
-| Remaining | 34 | 27 |
+| Remaining | 34 | 26 |
 | Target Date | Dec 24 (11d) | Dec 31 (18d) |
-| Rate Needed | 3.1/day | 1.5/day |
-| Status | **+0.5 ahead** | **+1.3 ahead** |
+| Rate Needed | 3.1/day | 1.4/day |
+| Status | **+0.5 ahead** | **+2.3 ahead** |
 
 ## Python Syntax Flashcards
 
@@ -41,19 +41,19 @@ My journey through Elements of Programming Interviews in Python.
 
 ## Algorithm Problems
 
-**Attempted:** 37/59 (63%)
+**Attempted:** 38/59 (64%)
 
 ☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️
 
-☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️⬜⬜⬜
+☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️⬜⬜
 
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 
-**Mastered:** 26/59 (44%)
+**Mastered:** 27/59 (46%)
 
 🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆
 
-🏆🏆🏆🏆🏆🏆⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+🏆🏆🏆🏆🏆🏆🏆⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 
@@ -132,13 +132,13 @@ See [Problem-Solving Workflow](wiki/Problem-Solving-Workflow.md) for visual diag
 
 ### 🟡 Priority 2 (Medium)
 
-**Attempted:** 1/23 (4%) ☑️⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜  ⬜⬜⬜
+**Attempted:** 2/23 (9%) ☑️☑️⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜  ⬜⬜⬜
 
-**Mastered:** 1/23 (4%) 🏆⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜  ⬜⬜⬜
+**Mastered:** 2/23 (9%) 🏆🏆⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜  ⬜⬜⬜
 
 | # | Problem | Chapter | LeetCode | Difficulty | Status | Attempts | Best Time |
 |---|---------|---------|----------|------------|--------|----------|-----------|
-| 4.08 | Reverse digits | Ch 4: Primitive Types | [#7](https://leetcode.com/problems/reverse-integer/) | Medium |  |  |  |
+| 4.08 | Reverse digits | Ch 4: Primitive Types | [#7](https://leetcode.com/problems/reverse-integer/) | Medium | 🏆 | 1 | 4 min |
 | 5.02 | Increment an arbitrary-precision integer | Ch 5: Arrays | [#66](https://leetcode.com/problems/plus-one/) | Easy |  |  |  |
 | 5.17 | The Sudoku checker problem | Ch 5: Arrays | [#36](https://leetcode.com/problems/valid-sudoku/) | Medium |  |  |  |
 | 6.05 | Test palindromicity | Ch 6: Strings | [#125](https://leetcode.com/problems/valid-palindrome/) | Easy |  |  |  |

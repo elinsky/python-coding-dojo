@@ -2287,7 +2287,14 @@ problems:
     priority: P3
     problem_number: '4.03'
   reverse_digits:
-    attempts: []
+    attempts:
+    - date: '2025-12-13T15:02:57.356868'
+      optimal: true
+      solved: true
+      submissions: 1
+      time_minutes: 4
+      used_hints: false
+      used_solution: false
     chapter: 04_primitive_types
     chapter_name: Primitive Types
     file: 1-algorithm-problems/reverse_digits.py
