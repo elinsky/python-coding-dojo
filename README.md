@@ -2,6 +2,17 @@
 
 My journey through Elements of Programming Interviews in Python.
 
+## Burndown Progress
+
+![Burndown Chart](images/burndown.png)
+
+| Metric | Exposure | Mastery |
+|--------|----------|---------|
+| Remaining | 38 | 30 |
+| Target Date | Dec 24 (11d) | Dec 31 (18d) |
+| Rate Needed | 3.5/day | 1.7/day |
+| Status | **-3.5 behind** | **-1.7 behind** |
+
 ## Python Syntax Flashcards
 
 **Mastered:** 10/19 (53%) ✅✅✅✅✅✅✅✅✅✅⬜⬜⬜⬜⬜⬜⬜⬜⬜
@@ -79,7 +90,7 @@ See [Problem-Solving Workflow](wiki/Problem-Solving-Workflow.md) for visual diag
 | 10.01 | Merge sorted files | Ch 10: Heaps | [#23](https://leetcode.com/problems/merge-k-sorted-lists/) | Hard | 🏆 | 2 | 11 min |
 | 11.01 | Search a sorted array for first occurrence of k | Ch 11: Searching | [#34](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | Medium | 🏆 | 2 | 6 min |
 | 12.02 | Is an anonymous letter constructible? | Ch 12: Hash Tables | [#383](https://leetcode.com/problems/ransom-note/) | Easy | 🏆 | 2 | 4 min |
-| 13.01 | Compute the intersection of two sorted arrays | Ch 13: Sorting | [#349](https://leetcode.com/problems/intersection-of-two-arrays/) | Easy | 🏆 | 1 | 7 min |
+| 13.01 | Compute the intersection of two sorted arrays | Ch 13: Sorting | [#349](https://leetcode.com/problems/intersection-of-two-arrays/) | Easy | 🏆 | 2 | 7 min |
 | 14.01 | Test if a binary tree satisfies the BST property | Ch 14: Binary Search Trees | [#98](https://leetcode.com/problems/validate-binary-search-tree/) | Medium | 🏆 | 2 | 10 min |
 | 15.01 | The Towers of Hanoi problem | Ch 15: Recursion | [#08.06](https://leetcode.com/problems/hanota-lcci/) | Easy | 🏆 | 2 | 9 min |
 | 16.01 | Count the number of score combinations | Ch 16: Dynamic Programming | [#518](https://leetcode.com/problems/coin-change-ii/) | Medium | 🏆 | 2 | 20 min |

@@ -7,6 +7,8 @@ from collections import defaultdict
 import yaml
 import click
 
+from burndown import get_burndown_stats, generate_burndown_section, generate_chart
+
 
 def analyze_problem(problem_data, threshold):
     """Analyze a problem's attempts and return its tier and best time.
@@ -343,6 +345,13 @@ def generate_readme(data, threshold):
         'My journey through Elements of Programming Interviews in Python.',
         '',
     ]
+
+    # Add burndown section (generate chart first)
+    repo_root = Path(__file__).parent.parent
+    generate_chart(repo_root / 'progress.yaml', repo_root / 'images' / 'burndown.png')
+    burndown_stats = get_burndown_stats(repo_root / 'progress.yaml')
+    burndown_lines = generate_burndown_section(burndown_stats)
+    lines.extend(burndown_lines)
 
     # Add flashcard section
     flashcard_lines = generate_flashcard_section(flashcards)
