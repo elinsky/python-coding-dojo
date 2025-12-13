@@ -8,10 +8,10 @@ My journey through Elements of Programming Interviews in Python.
 
 | Metric | Exposure | Mastery |
 |--------|----------|---------|
-| Remaining | 38 | 30 |
+| Remaining | 37 | 29 |
 | Target Date | Dec 24 (11d) | Dec 31 (18d) |
-| Rate Needed | 3.5/day | 1.7/day |
-| Status | **-3.5 behind** | **-1.7 behind** |
+| Rate Needed | 3.4/day | 1.6/day |
+| Status | **-2.5 behind** | **-0.7 behind** |
 
 ## Python Syntax Flashcards
 
@@ -49,11 +49,11 @@ My journey through Elements of Programming Interviews in Python.
 
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 
-**Mastered:** 23/59 (39%)
+**Mastered:** 24/59 (41%)
 
 🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆
 
-🏆🏆🏆⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+🏆🏆🏆🏆⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 
@@ -103,7 +103,7 @@ See [Problem-Solving Workflow](wiki/Problem-Solving-Workflow.md) for visual diag
 
 **Attempted:** 20/20 (100%) ☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️
 
-**Mastered:** 8/20 (40%) 🏆🏆🏆🏆🏆🏆🏆🏆⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+**Mastered:** 9/20 (45%) 🏆🏆🏆🏆🏆🏆🏆🏆🏆⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 
 | # | Problem | Chapter | LeetCode | Difficulty | Status | Attempts | Best Time |
 |---|---------|---------|----------|------------|--------|----------|-----------|
@@ -112,7 +112,7 @@ See [Problem-Solving Workflow](wiki/Problem-Solving-Workflow.md) for visual diag
 | 5.18 | Compute the spiral ordering of a 2D array | Ch 5: Arrays | [#54](https://leetcode.com/problems/spiral-matrix/) | Medium | 💪 | 2 | 21 min |
 | 6.02 | Base conversion | Ch 6: Strings | [#504](https://leetcode.com/problems/base-7/) | Easy | 🏆 | 2 | 12 min |
 | 6.04 | Replace and remove | Ch 6: Strings |  |  | 🏆 | 2 | 18 min |
-| 7.02 | Reverse a single sublist | Ch 7: Linked Lists | [#92](https://leetcode.com/problems/reverse-linked-list-ii/) | Medium | 👍 | 1 |  |
+| 7.02 | Reverse a single sublist | Ch 7: Linked Lists | [#92](https://leetcode.com/problems/reverse-linked-list-ii/) | Medium | 🏆 | 2 | 7 min |
 | 7.03 | Test for cyclicity | Ch 7: Linked Lists | [#141](https://leetcode.com/problems/linked-list-cycle/) | Easy | 🏆 | 1 | 8 min |
 | 8.06 | Compute binary tree nodes in order of increasing depth | Ch 8: Stacks and Queues | [#102](https://leetcode.com/problems/binary-tree-level-order-traversal/) | Medium | 👍 | 1 |  |
 | 9.04 | Compute the LCA when nodes have parent pointers | Ch 9: Binary Trees |  |  | 👍 | 1 |  |
