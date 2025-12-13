@@ -8,10 +8,10 @@ My journey through Elements of Programming Interviews in Python.
 
 | Metric | Exposure | Mastery |
 |--------|----------|---------|
-| Remaining | 54 | 26 |
+| Remaining | 53 | 25 |
 | Target Date | Dec 24 (11d) | Dec 31 (18d) |
-| Rate Needed | 4.9/day | 1.4/day |
-| Status | **+1.5 ahead** | **+2.3 ahead** |
+| Rate Needed | 4.8/day | 1.4/day |
+| Status | **+2.5 ahead** | **+3.3 ahead** |
 
 ## Python Syntax Flashcards
 
@@ -41,19 +41,19 @@ My journey through Elements of Programming Interviews in Python.
 
 ## Algorithm Problems
 
-**Attempted:** 39/59 (66%)
+**Attempted:** 40/59 (68%)
 
 ☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️
 
-☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️⬜
+☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️
 
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 
-**Mastered:** 27/59 (46%)
+**Mastered:** 28/59 (47%)
 
 🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆
 
-🏆🏆🏆🏆🏆🏆🏆⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+🏆🏆🏆🏆🏆🏆🏆🏆⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 
@@ -132,16 +132,16 @@ See [Problem-Solving Workflow](wiki/Problem-Solving-Workflow.md) for visual diag
 
 ### 🟡 Priority 2 (Medium)
 
-**Attempted:** 3/23 (13%) ☑️☑️☑️⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜  ⬜⬜⬜
+**Attempted:** 4/23 (17%) ☑️☑️☑️☑️⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜  ⬜⬜⬜
 
-**Mastered:** 2/23 (9%) 🏆🏆⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜  ⬜⬜⬜
+**Mastered:** 3/23 (13%) 🏆🏆🏆⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜  ⬜⬜⬜
 
 | # | Problem | Chapter | LeetCode | Difficulty | Status | Attempts | Best Time |
 |---|---------|---------|----------|------------|--------|----------|-----------|
 | 4.08 | Reverse digits | Ch 4: Primitive Types | [#7](https://leetcode.com/problems/reverse-integer/) | Medium | 🏆 | 1 | 4 min |
 | 5.02 | Increment an arbitrary-precision integer | Ch 5: Arrays | [#66](https://leetcode.com/problems/plus-one/) | Easy | 💪 | 1 | 8 min |
 | 5.17 | The Sudoku checker problem | Ch 5: Arrays | [#36](https://leetcode.com/problems/valid-sudoku/) | Medium |  |  |  |
-| 6.05 | Test palindromicity | Ch 6: Strings | [#125](https://leetcode.com/problems/valid-palindrome/) | Easy |  |  |  |
+| 6.05 | Test palindromicity | Ch 6: Strings | [#125](https://leetcode.com/problems/valid-palindrome/) | Easy | 🏆 | 1 | 9 min |
 | 6.06 | Reverse all the words in a sentence | Ch 6: Strings | [#151](https://leetcode.com/problems/reverse-words-in-a-string/) | Medium |  |  |  |
 | 7.04 | Test for overlapping lists---lists are cycle-free | Ch 7: Linked Lists | [#160](https://leetcode.com/problems/intersection-of-two-linked-lists/) | Easy |  |  |  |
 | 7.07 | Remove the kth last element from a list | Ch 7: Linked Lists | [#19](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | Medium |  |  |  |
