@@ -4,14 +4,14 @@ My journey through Elements of Programming Interviews in Python.
 
 ## Burndown Progress
 
-![Burndown Chart](images/burndown.png?v=2)
+![Burndown Chart](images/burndown.png)
 
 | Metric | Exposure | Mastery |
 |--------|----------|---------|
-| Remaining | 37 | 29 |
+| Remaining | 36 | 29 |
 | Target Date | Dec 24 (11d) | Dec 31 (18d) |
-| Rate Needed | 3.4/day | 1.6/day |
-| Status | **-2.5 behind** | **-0.7 behind** |
+| Rate Needed | 3.3/day | 1.6/day |
+| Status | **-1.5 behind** | **-0.7 behind** |
 
 ## Python Syntax Flashcards
 
@@ -113,7 +113,7 @@ See [Problem-Solving Workflow](wiki/Problem-Solving-Workflow.md) for visual diag
 | 6.02 | Base conversion | Ch 6: Strings | [#504](https://leetcode.com/problems/base-7/) | Easy | 🏆 | 2 | 12 min |
 | 6.04 | Replace and remove | Ch 6: Strings |  |  | 🏆 | 2 | 18 min |
 | 7.02 | Reverse a single sublist | Ch 7: Linked Lists | [#92](https://leetcode.com/problems/reverse-linked-list-ii/) | Medium | 🏆 | 2 | 7 min |
-| 7.03 | Test for cyclicity | Ch 7: Linked Lists | [#141](https://leetcode.com/problems/linked-list-cycle/) | Easy | 🏆 | 1 | 8 min |
+| 7.03 | Test for cyclicity | Ch 7: Linked Lists | [#141](https://leetcode.com/problems/linked-list-cycle/) | Easy | 🏆 | 2 | 3 min |
 | 8.06 | Compute binary tree nodes in order of increasing depth | Ch 8: Stacks and Queues | [#102](https://leetcode.com/problems/binary-tree-level-order-traversal/) | Medium | 👍 | 1 |  |
 | 9.04 | Compute the LCA when nodes have parent pointers | Ch 9: Binary Trees |  |  | 👍 | 1 |  |
 | 10.04 | Compute the k closest stars | Ch 10: Heaps | [#973](https://leetcode.com/problems/k-closest-points-to-origin/) | Medium | 👍 | 1 |  |

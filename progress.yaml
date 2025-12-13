@@ -1126,6 +1126,13 @@ problems:
       time_minutes: 8
       used_hints: false
       used_solution: false
+    - date: '2025-12-13T13:30:05.577765'
+      optimal: false
+      solved: true
+      submissions: 1
+      time_minutes: 3
+      used_hints: false
+      used_solution: false
     chapter: 07_linked_lists
     chapter_name: Linked Lists
     file: 1-algorithm-problems/is_list_cyclic.py
