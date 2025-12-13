@@ -8,9 +8,9 @@ My journey through Elements of Programming Interviews in Python.
 
 | Metric | Exposure | Mastery |
 |--------|----------|---------|
-| Remaining | 34 | 26 |
+| Remaining | 55 | 26 |
 | Target Date | Dec 24 (11d) | Dec 31 (18d) |
-| Rate Needed | 3.1/day | 1.4/day |
+| Rate Needed | 5.0/day | 1.4/day |
 | Status | **+0.5 ahead** | **+2.3 ahead** |
 
 ## Python Syntax Flashcards

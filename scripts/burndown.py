@@ -2,7 +2,7 @@
 """Generate burndown chart for EPI problem progress tracking.
 
 Two burndowns:
-1. Exposure: Problems with < 2 attempts -> target 0 by Dec 24
+1. Exposure: Total attempts remaining to reach 2 per problem (capped at 2) -> target 0 by Dec 24
 2. Mastery: 90% of P0-P2 at mastery tier -> target by Dec 31
 """
 
@@ -47,7 +47,7 @@ def calculate_burndown_stats(problems):
     """Calculate burndown statistics for P0-P2 problems."""
     stats = {
         'total_problems': 0,
-        'needs_exposure': 0,
+        'needs_exposure': 0,  # Total attempts remaining to reach 2 per problem
         'mastered': 0,
         'problems_detail': [],
     }
@@ -64,8 +64,10 @@ def calculate_burndown_stats(problems):
         stats['total_problems'] += 1
         analysis = analyze_problem_for_burndown(problem_data)
 
-        if analysis['attempts'] < 2:
-            stats['needs_exposure'] += 1
+        # Count attempts remaining to reach 2 (capped at 2 per problem)
+        # 0 attempts -> +2, 1 attempt -> +1, 2+ attempts -> +0
+        attempts_remaining = max(0, 2 - analysis['attempts'])
+        stats['needs_exposure'] += attempts_remaining
 
         if analysis['is_mastered']:
             stats['mastered'] += 1
@@ -83,7 +85,10 @@ def calculate_burndown_stats(problems):
     stats['needs_mastery'] = max(0, stats['mastery_target'] - stats['mastered'])
 
     # Starting values (as of START_DATE)
-    stats['start_exposure'] = 38  # Fixed: what we had on Dec 13
+    # Exposure: attempts remaining to reach 2 per problem
+    # On Dec 13 (commit b86a6fa): 22 had 0 attempts, 17 had 1 attempt, 20 had 2+
+    # So: (22*2) + (17*1) + (20*0) = 44 + 17 + 0 = 61 attempts remaining
+    stats['start_exposure'] = 61  # Fixed: attempts remaining on Dec 13
     stats['start_mastery'] = 30   # Fixed: what we needed on Dec 13
 
     return stats
@@ -195,7 +200,7 @@ def generate_burndown_chart(stats, output_path):
     exp_ahead = calculate_ahead_behind(exp_current, exp_start, START_DATE, exp_target_date)
     exp_status = f"+{exp_ahead:.1f} ahead" if exp_ahead >= 0 else f"{exp_ahead:.1f} behind"
 
-    ax1.set_title(f'Exposure (2+ attempts)\n{exp_status}', fontsize=12)
+    ax1.set_title(f'Exposure (attempts to 2 each)\n{exp_status}', fontsize=12)
     ax1.set_xlabel('Date')
     ax1.set_ylabel('Problems Remaining')
     ax1.set_ylim(bottom=0, top=exp_start + 5)
