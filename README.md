@@ -8,10 +8,10 @@ My journey through Elements of Programming Interviews in Python.
 
 | Metric | Exposure | Mastery |
 |--------|----------|---------|
-| Remaining | 51 | 24 |
+| Remaining | 49 | 23 |
 | Target Date | Dec 24 (10d) | Dec 31 (17d) |
-| Rate Needed | 5.1/day | 1.4/day |
-| Status | **-1.1 behind** | **+2.7 ahead** |
+| Rate Needed | 4.9/day | 1.4/day |
+| Status | **+0.9 ahead** | **+3.7 ahead** |
 
 ## Python Syntax Flashcards
 
@@ -41,19 +41,19 @@ My journey through Elements of Programming Interviews in Python.
 
 ## Algorithm Problems
 
-**Attempted:** 42/59 (71%)
+**Attempted:** 43/59 (73%)
 
 ☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️
 
 ☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️
 
-☑️☑️⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+☑️☑️☑️⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 
-**Mastered:** 29/59 (49%)
+**Mastered:** 30/59 (51%)
 
 🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆
 
-🏆🏆🏆🏆🏆🏆🏆🏆🏆⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 
@@ -132,9 +132,9 @@ See [Problem-Solving Workflow](wiki/Problem-Solving-Workflow.md) for visual diag
 
 ### 🟡 Priority 2 (Medium)
 
-**Attempted:** 6/23 (26%) ☑️☑️☑️☑️☑️☑️⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜  ⬜⬜⬜
+**Attempted:** 7/23 (30%) ☑️☑️☑️☑️☑️☑️☑️⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜  ⬜⬜⬜
 
-**Mastered:** 4/23 (17%) 🏆🏆🏆🏆⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜  ⬜⬜⬜
+**Mastered:** 5/23 (22%) 🏆🏆🏆🏆🏆⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜  ⬜⬜⬜
 
 | # | Problem | Chapter | LeetCode | Difficulty | Status | Attempts | Best Time |
 |---|---------|---------|----------|------------|--------|----------|-----------|
@@ -143,7 +143,7 @@ See [Problem-Solving Workflow](wiki/Problem-Solving-Workflow.md) for visual diag
 | 5.17 | The Sudoku checker problem | Ch 5: Arrays | [#36](https://leetcode.com/problems/valid-sudoku/) | Medium | 🏆 | 1 | 16 min |
 | 6.05 | Test palindromicity | Ch 6: Strings | [#125](https://leetcode.com/problems/valid-palindrome/) | Easy | 🏆 | 1 | 9 min |
 | 6.06 | Reverse all the words in a sentence | Ch 6: Strings | [#151](https://leetcode.com/problems/reverse-words-in-a-string/) | Medium | 👍 | 1 |  |
-| 7.04 | Test for overlapping lists---lists are cycle-free | Ch 7: Linked Lists | [#160](https://leetcode.com/problems/intersection-of-two-linked-lists/) | Easy |  |  |  |
+| 7.04 | Test for overlapping lists---lists are cycle-free | Ch 7: Linked Lists | [#160](https://leetcode.com/problems/intersection-of-two-linked-lists/) | Easy | 🏆 | 2 | 11 min |
 | 7.07 | Remove the kth last element from a list | Ch 7: Linked Lists | [#19](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | Medium |  |  |  |
 | 8.02 | Evaluate RPN expressions | Ch 8: Stacks and Queues | [#150](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | Medium |  |  |  |
 | 8.07 | Implement a circular queue | Ch 8: Stacks and Queues | [#622](https://leetcode.com/problems/design-circular-queue/) | Medium |  |  |  |

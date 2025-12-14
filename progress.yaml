@@ -715,7 +715,21 @@ problems:
     name: Test for overlapping lists---lists may have cycles
     problem_number: '7.05'
   do_terminated_lists_overlap:
-    attempts: []
+    attempts:
+    - date: '2025-12-14T14:51:19.594096'
+      optimal: false
+      solved: true
+      submissions: 1
+      time_minutes: 11
+      used_hints: false
+      used_solution: false
+    - date: '2025-12-14T14:51:52.108852'
+      optimal: true
+      solved: true
+      submissions: 1
+      time_minutes: 11
+      used_hints: false
+      used_solution: false
     chapter: 07_linked_lists
     chapter_name: Linked Lists
     file: 1-algorithm-problems/do_terminated_lists_overlap.py
