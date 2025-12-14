@@ -17,7 +17,7 @@ import matplotlib.dates as mdates
 START_DATE = date(2025, 12, 13)
 EXPOSURE_TARGET_DATE = date(2025, 12, 24)
 MASTERY_TARGET_DATE = date(2025, 12, 31)
-MASTERY_TARGET_PERCENT = 90
+MASTERY_TARGET_PERCENT = 100
 MASTERY_TIME_THRESHOLD = 20  # minutes
 
 
@@ -109,7 +109,8 @@ def calculate_burndown_stats(problems, as_of_date=None):
     # On Dec 13 (commit b86a6fa): 22 had 0 attempts, 17 had 1 attempt, 20 had 2+
     # So: (22*2) + (17*1) + (20*0) = 44 + 17 + 0 = 61 attempts remaining
     stats['start_exposure'] = 61  # Fixed: attempts remaining on Dec 13
-    stats['start_mastery'] = 30   # Fixed: what we needed on Dec 13
+    # On Dec 13: 23 mastered, target 100% = 59, so needed 36
+    stats['start_mastery'] = 36   # Fixed: what we needed on Dec 13
 
     return stats
 
@@ -283,7 +284,7 @@ def generate_burndown_chart(stats, output_path, problems=None):
     mast_ahead = calculate_ahead_behind(mast_current, mast_start, START_DATE, mast_target_date)
     mast_status = f"+{mast_ahead:.1f} ahead" if mast_ahead >= 0 else f"{mast_ahead:.1f} behind"
 
-    ax2.set_title(f'Mastery (90% at mastery tier)\n{mast_status}', fontsize=12)
+    ax2.set_title(f'Mastery (100% at mastery tier)\n{mast_status}', fontsize=12)
     ax2.set_xlabel('Date')
     ax2.set_ylabel('Problems Remaining')
     ax2.set_ylim(bottom=0, top=mast_start + 5)
