@@ -669,7 +669,14 @@ problems:
     name: 'Bootcamp: Linked Lists'
     problem_number: '7.00'
   delete_kth_last_from_list:
-    attempts: []
+    attempts:
+    - date: '2025-12-14T15:04:08.704231'
+      optimal: true
+      solved: true
+      submissions: 1
+      time_minutes: 8
+      used_hints: false
+      used_solution: false
     chapter: 07_linked_lists
     chapter_name: Linked Lists
     file: 1-algorithm-problems/delete_kth_last_from_list.py
