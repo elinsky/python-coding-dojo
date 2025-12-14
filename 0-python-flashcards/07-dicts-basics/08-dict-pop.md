@@ -1,6 +1,6 @@
 # Dictionary Pop
 
-**Q:** How do I remove and return a value from a dictionary?
+**Q:** How do I remove and return a value by key from a dictionary?
 
 **A:** Use pop() method
 
