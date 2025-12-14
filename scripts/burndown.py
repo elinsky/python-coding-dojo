@@ -6,7 +6,7 @@ Two burndowns:
 2. Mastery: 90% of P0-P2 at mastery tier -> target by Dec 31
 """
 
-from datetime import date, timedelta
+from datetime import date, datetime, timedelta
 from pathlib import Path
 import yaml
 import matplotlib.pyplot as plt
@@ -21,9 +21,26 @@ MASTERY_TARGET_PERCENT = 90
 MASTERY_TIME_THRESHOLD = 20  # minutes
 
 
-def analyze_problem_for_burndown(problem_data, threshold=MASTERY_TIME_THRESHOLD):
-    """Analyze a problem for burndown metrics."""
+def analyze_problem_for_burndown(problem_data, threshold=MASTERY_TIME_THRESHOLD, as_of_date=None):
+    """Analyze a problem for burndown metrics.
+
+    If as_of_date is provided, only count attempts with date <= as_of_date.
+    """
     attempts = problem_data.get('attempts', [])
+
+    # Filter attempts by date if as_of_date is provided
+    if as_of_date is not None:
+        filtered_attempts = []
+        for attempt in attempts:
+            attempt_date_str = attempt.get('date', '')
+            if attempt_date_str:
+                # Parse ISO format date string
+                attempt_dt = datetime.fromisoformat(attempt_date_str)
+                attempt_date = attempt_dt.date()
+                if attempt_date <= as_of_date:
+                    filtered_attempts.append(attempt)
+        attempts = filtered_attempts
+
     attempt_count = len(attempts)
 
     is_mastered = False
@@ -43,8 +60,11 @@ def analyze_problem_for_burndown(problem_data, threshold=MASTERY_TIME_THRESHOLD)
     }
 
 
-def calculate_burndown_stats(problems):
-    """Calculate burndown statistics for P0-P2 problems."""
+def calculate_burndown_stats(problems, as_of_date=None):
+    """Calculate burndown statistics for P0-P2 problems.
+
+    If as_of_date is provided, only count attempts with date <= as_of_date.
+    """
     stats = {
         'total_problems': 0,
         'needs_exposure': 0,  # Total attempts remaining to reach 2 per problem
@@ -62,7 +82,7 @@ def calculate_burndown_stats(problems):
             continue
 
         stats['total_problems'] += 1
-        analysis = analyze_problem_for_burndown(problem_data)
+        analysis = analyze_problem_for_burndown(problem_data, as_of_date=as_of_date)
 
         # Count attempts remaining to reach 2 (capped at 2 per problem)
         # 0 attempts -> +2, 1 attempt -> +1, 2+ attempts -> +0
@@ -92,6 +112,20 @@ def calculate_burndown_stats(problems):
     stats['start_mastery'] = 30   # Fixed: what we needed on Dec 13
 
     return stats
+
+
+def calculate_historical_stats(problems, start_date, end_date):
+    """Calculate burndown stats for each day from start_date to end_date.
+
+    Returns list of (date, exposure_remaining, mastery_remaining) tuples.
+    """
+    history = []
+    current_date = start_date
+    while current_date <= end_date:
+        stats = calculate_burndown_stats(problems, as_of_date=current_date)
+        history.append((current_date, stats['needs_exposure'], stats['needs_mastery']))
+        current_date += timedelta(days=1)
+    return history
 
 
 def calculate_ahead_behind(current_remaining, start_remaining, start_date, target_date):
@@ -158,9 +192,14 @@ def generate_staircase_target(start_remaining, start_date, target_date):
     return dates, values
 
 
-def generate_burndown_chart(stats, output_path):
+def generate_burndown_chart(stats, output_path, problems=None):
     """Generate matplotlib burndown chart with staircase style."""
     today = date.today()
+
+    # Get historical data if problems provided
+    history = []
+    if problems is not None:
+        history = calculate_historical_stats(problems, START_DATE, today)
 
     # Create figure with two subplots
     fig, (ax1, ax2) = plt.subplots(1, 2, figsize=(14, 5))
@@ -176,25 +215,24 @@ def generate_burndown_chart(stats, output_path):
         exp_start, START_DATE, exp_target_date
     )
 
-    # Actual line: horizontal from start of today, current position is where we are
-    # Start of today we had exp_start (for day 1) or previous day's end value
     days_elapsed = (today - START_DATE).days
     daily_rate = exp_start / (exp_target_date - START_DATE).days
-    start_of_today_target = exp_start - (daily_rate * days_elapsed)
-
-    # Actual staircase: for past days, assume we hit target (we don't have historical data)
-    # For today: show horizontal line at current value
-    exp_actual_dates = [START_DATE, today, today]
-    exp_actual_values = [exp_start, exp_start, exp_current]
 
     ax1.plot(exp_target_dates, exp_target_values, 'b--', linewidth=2, label='Target', alpha=0.7)
 
-    # Just show dot for current position (no horizontal line until day ends)
-    ax1.scatter([today], [exp_current], color='green', s=150, zorder=5,
-                edgecolors='darkgreen', linewidths=2, label='Actual')
-
-    # Target for today
-    exp_target_today = exp_start - (daily_rate * (days_elapsed + 1))
+    # Plot actual line with dots for each day
+    if history:
+        hist_dates = [h[0] for h in history]
+        hist_exposure = [h[1] for h in history]
+        # Line connecting dots
+        ax1.plot(hist_dates, hist_exposure, 'g-', linewidth=2, alpha=0.7)
+        # Dots for each day
+        ax1.scatter(hist_dates, hist_exposure, color='green', s=100, zorder=5,
+                    edgecolors='darkgreen', linewidths=2, label='Actual')
+    else:
+        # Fallback: just show today's dot
+        ax1.scatter([today], [exp_current], color='green', s=150, zorder=5,
+                    edgecolors='darkgreen', linewidths=2, label='Actual')
 
     # Ahead/behind calculation
     exp_ahead = calculate_ahead_behind(exp_current, exp_start, START_DATE, exp_target_date)
@@ -225,17 +263,21 @@ def generate_burndown_chart(stats, output_path):
         mast_start, START_DATE, mast_target_date
     )
 
-    days_elapsed_m = (today - START_DATE).days
-    daily_rate_m = mast_start / (mast_target_date - START_DATE).days
-
     ax2.plot(mast_target_dates, mast_target_values, 'b--', linewidth=2, label='Target', alpha=0.7)
 
-    # Just show dot for current position (no horizontal line until day ends)
-    ax2.scatter([today], [mast_current], color='green', s=150, zorder=5,
-                edgecolors='darkgreen', linewidths=2, label='Actual')
-
-    # Target for today
-    mast_target_today = mast_start - (daily_rate_m * (days_elapsed_m + 1))
+    # Plot actual line with dots for each day
+    if history:
+        hist_dates = [h[0] for h in history]
+        hist_mastery = [h[2] for h in history]
+        # Line connecting dots
+        ax2.plot(hist_dates, hist_mastery, 'g-', linewidth=2, alpha=0.7)
+        # Dots for each day
+        ax2.scatter(hist_dates, hist_mastery, color='green', s=100, zorder=5,
+                    edgecolors='darkgreen', linewidths=2, label='Actual')
+    else:
+        # Fallback: just show today's dot
+        ax2.scatter([today], [mast_current], color='green', s=150, zorder=5,
+                    edgecolors='darkgreen', linewidths=2, label='Actual')
 
     # Ahead/behind calculation
     mast_ahead = calculate_ahead_behind(mast_current, mast_start, START_DATE, mast_target_date)
@@ -330,8 +372,13 @@ def generate_chart(progress_file=None, output_path=None):
     # Ensure images directory exists
     output_path.parent.mkdir(parents=True, exist_ok=True)
 
+    # Load problems for historical data
+    with open(progress_file, 'r') as f:
+        data = yaml.safe_load(f)
+    problems = data.get('problems', {})
+
     stats = get_burndown_stats(progress_file)
-    return generate_burndown_chart(stats, output_path)
+    return generate_burndown_chart(stats, output_path, problems=problems)
 
 
 def main():
@@ -340,11 +387,16 @@ def main():
     progress_file = repo_root / 'progress.yaml'
     output_path = repo_root / 'images' / 'burndown.png'
 
+    # Load problems for historical data
+    with open(progress_file, 'r') as f:
+        data = yaml.safe_load(f)
+    problems = data.get('problems', {})
+
     stats = get_burndown_stats(progress_file)
 
     # Generate chart
     output_path.parent.mkdir(parents=True, exist_ok=True)
-    status = generate_burndown_chart(stats, output_path)
+    status = generate_burndown_chart(stats, output_path, problems=problems)
 
     print(f"Generated: {output_path}")
     print(f"\nExposure: {stats['needs_exposure']} remaining", end="")
