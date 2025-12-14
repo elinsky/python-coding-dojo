@@ -1311,7 +1311,14 @@ problems:
     priority: P3
     problem_number: '8.03'
   is_valid_sudoku:
-    attempts: []
+    attempts:
+    - date: '2025-12-14T13:40:26.915613'
+      optimal: true
+      solved: true
+      submissions: 1
+      time_minutes: 16
+      used_hints: false
+      used_solution: false
     chapter: 05_arrays
     chapter_name: Arrays
     file: 1-algorithm-problems/is_valid_sudoku.py
