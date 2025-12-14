@@ -26,7 +26,7 @@ My journey through Elements of Programming Interviews in Python.
 | 05-stacks-queues | ✅ | 16/16 | 16/16 | 8:00 | 3:00 | 2025-12-05 |
 | 06-binary-trees | ✅ | 21/21 | 21/21 | 10:30 | 3:42 | 2025-12-13 |
 | 07-dicts-basics | ⬜ | 23/23 | 22/23 | 11:30 | 5:24 | 2025-12-14 |
-| 08-ordereddict | ⬜ | 5/5 | 4/5 | 2:30 | 1:58 | 2025-12-13 |
+| 08-ordereddict | ⬜ | 5/5 | 4/5 | 2:30 | 2:18 | 2025-12-14 |
 | 09-counter | ✅ | 11/11 | 11/11 | 5:30 | 2:24 | 2025-12-13 |
 | 10-sortedcontainers | ✅ | 13/13 | 13/13 | 6:30 | 3:12 | 2025-12-13 |
 | 11-functools | ✅ | 7/7 | 7/7 | 3:00 | 2:56 | 2025-12-13 |

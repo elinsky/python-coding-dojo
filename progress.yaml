@@ -187,6 +187,11 @@ flashcards:
   ordereddict:
     attempts:
     - count: 5
+      date: '2025-12-14T13:07:31.338386'
+      notes: 'Missed: Q5'
+      score: 4
+      time_seconds: 138
+    - count: 5
       date: '2025-12-13T09:52:27.831320'
       notes: 'Missed: Q5'
       score: 4
