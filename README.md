@@ -8,10 +8,10 @@ My journey through Elements of Programming Interviews in Python.
 
 | Metric | Exposure | Mastery |
 |--------|----------|---------|
-| Remaining | 48 | 22 |
+| Remaining | 47 | 22 |
 | Target Date | Dec 24 (10d) | Dec 31 (17d) |
-| Rate Needed | 4.8/day | 1.3/day |
-| Status | **+1.9 ahead** | **+4.7 ahead** |
+| Rate Needed | 4.7/day | 1.3/day |
+| Status | **+2.9 ahead** | **+4.7 ahead** |
 
 ## Python Syntax Flashcards
 
@@ -41,13 +41,13 @@ My journey through Elements of Programming Interviews in Python.
 
 ## Algorithm Problems
 
-**Attempted:** 44/59 (75%)
+**Attempted:** 45/59 (76%)
 
 ☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️
 
 ☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️
 
-☑️☑️☑️☑️⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+☑️☑️☑️☑️☑️⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 
 **Mastered:** 31/59 (53%)
 
@@ -132,7 +132,7 @@ See [Problem-Solving Workflow](wiki/Problem-Solving-Workflow.md) for visual diag
 
 ### 🟡 Priority 2 (Medium)
 
-**Attempted:** 8/23 (35%) ☑️☑️☑️☑️☑️☑️☑️☑️⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜  ⬜⬜⬜
+**Attempted:** 9/23 (39%) ☑️☑️☑️☑️☑️☑️☑️☑️☑️⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜  ⬜⬜⬜
 
 **Mastered:** 6/23 (26%) 🏆🏆🏆🏆🏆🏆⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜  ⬜⬜⬜
 
@@ -145,7 +145,7 @@ See [Problem-Solving Workflow](wiki/Problem-Solving-Workflow.md) for visual diag
 | 6.06 | Reverse all the words in a sentence | Ch 6: Strings | [#151](https://leetcode.com/problems/reverse-words-in-a-string/) | Medium | 👍 | 1 |  |
 | 7.04 | Test for overlapping lists---lists are cycle-free | Ch 7: Linked Lists | [#160](https://leetcode.com/problems/intersection-of-two-linked-lists/) | Easy | 🏆 | 2 | 11 min |
 | 7.07 | Remove the kth last element from a list | Ch 7: Linked Lists | [#19](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | Medium | 🏆 | 1 | 8 min |
-| 8.02 | Evaluate RPN expressions | Ch 8: Stacks and Queues | [#150](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | Medium |  |  |  |
+| 8.02 | Evaluate RPN expressions | Ch 8: Stacks and Queues | [#150](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | Medium | 👍 | 1 |  |
 | 8.07 | Implement a circular queue | Ch 8: Stacks and Queues | [#622](https://leetcode.com/problems/design-circular-queue/) | Medium |  |  |  |
 | 9.02 | Test if a binary tree is symmetric | Ch 9: Binary Trees | [#101](https://leetcode.com/problems/symmetric-tree/) | Easy |  |  |  |
 | 9.12 | Reconstruct a binary tree from a preorder traversal with markers | Ch 9: Binary Trees | [#1028](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/) | Hard |  |  |  |
