@@ -515,7 +515,14 @@ problems:
     name: Render a calendar
     problem_number: '13.06'
   circular_queue:
-    attempts: []
+    attempts:
+    - date: '2025-12-15T14:52:38.439210'
+      optimal: false
+      solved: true
+      submissions: 1
+      time_minutes: 28
+      used_hints: true
+      used_solution: false
     chapter: 08_stacks_and_queues
     chapter_name: Stacks and Queues
     file: 1-algorithm-problems/circular_queue.py
