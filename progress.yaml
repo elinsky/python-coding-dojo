@@ -98,6 +98,11 @@ flashcards:
   dicts-basics:
     attempts:
     - count: 23
+      date: '2025-12-15T13:45:25.789335'
+      notes: Perfect score
+      score: 23
+      time_seconds: 277
+    - count: 23
       date: '2025-12-14T13:01:00.571300'
       notes: 'Missed: Q8'
       score: 22

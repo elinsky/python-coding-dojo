@@ -15,7 +15,7 @@ My journey through Elements of Programming Interviews in Python.
 
 ## Python Syntax Flashcards
 
-**Mastered:** 10/19 (53%) ✅✅✅✅✅✅✅✅✅✅⬜⬜⬜⬜⬜⬜⬜⬜⬜
+**Mastered:** 11/19 (58%) ✅✅✅✅✅✅✅✅✅✅✅⬜⬜⬜⬜⬜⬜⬜⬜
 
 | Category | Status | Target Score | Actual Score | Target Time | Actual Time | Last Drilled |
 |----------|--------|--------------|--------------|-------------|-------------|--------------|
@@ -25,7 +25,7 @@ My journey through Elements of Programming Interviews in Python.
 | 04-linked-lists | ✅ | 15/15 | 15/15 | 7:30 | 7:11 | 2025-12-03 |
 | 05-stacks-queues | ✅ | 16/16 | 16/16 | 8:00 | 3:00 | 2025-12-05 |
 | 06-binary-trees | ✅ | 21/21 | 21/21 | 10:30 | 3:42 | 2025-12-13 |
-| 07-dicts-basics | ⬜ | 23/23 | 22/23 | 11:30 | 5:24 | 2025-12-14 |
+| 07-dicts-basics | ✅ | 23/23 | 23/23 | 11:30 | 4:37 | 2025-12-15 |
 | 08-ordereddict | ⬜ | 5/5 | 4/5 | 2:30 | 2:18 | 2025-12-14 |
 | 09-counter | ✅ | 11/11 | 11/11 | 5:30 | 2:24 | 2025-12-13 |
 | 10-sortedcontainers | ✅ | 13/13 | 13/13 | 6:30 | 3:12 | 2025-12-13 |
