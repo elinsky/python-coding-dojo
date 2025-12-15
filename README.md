@@ -8,10 +8,10 @@ My journey through Elements of Programming Interviews in Python.
 
 | Metric | Exposure | Mastery |
 |--------|----------|---------|
-| Remaining | 47 | 22 |
-| Target Date | Dec 24 (10d) | Dec 31 (17d) |
-| Rate Needed | 4.7/day | 1.3/day |
-| Status | **+2.9 ahead** | **+4.7 ahead** |
+| Remaining | 47 | 28 |
+| Target Date | Dec 24 (9d) | Dec 31 (16d) |
+| Rate Needed | 5.2/day | 1.8/day |
+| Status | **-2.6 behind** | **+2.0 ahead** |
 
 ## Python Syntax Flashcards
 
@@ -221,4 +221,4 @@ See [Problem-Solving Workflow](wiki/Problem-Solving-Workflow.md) for visual diag
 ---
 
 
-*Last updated: 2025-12-14*
+*Last updated: 2025-12-15*
