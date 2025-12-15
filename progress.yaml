@@ -1076,6 +1076,13 @@ problems:
       time_minutes: 14
       used_hints: true
       used_solution: false
+    - date: '2025-12-15T14:17:25.262595'
+      optimal: true
+      solved: true
+      submissions: 1
+      time_minutes: 4
+      used_hints: false
+      used_solution: false
     chapter: 11_searching
     chapter_name: Searching
     file: 1-algorithm-problems/int_square_root.py
