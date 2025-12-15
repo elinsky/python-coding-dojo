@@ -8,10 +8,10 @@ My journey through Elements of Programming Interviews in Python.
 
 | Metric | Exposure | Mastery |
 |--------|----------|---------|
-| Remaining | 44 | 26 |
+| Remaining | 43 | 26 |
 | Target Date | Dec 24 (9d) | Dec 31 (16d) |
-| Rate Needed | 4.9/day | 1.6/day |
-| Status | **+0.4 ahead** | **+4.0 ahead** |
+| Rate Needed | 4.8/day | 1.6/day |
+| Status | **+1.4 ahead** | **+4.0 ahead** |
 
 ## Python Syntax Flashcards
 
@@ -41,13 +41,13 @@ My journey through Elements of Programming Interviews in Python.
 
 ## Algorithm Problems
 
-**Attempted:** 46/59 (78%)
+**Attempted:** 47/59 (80%)
 
 ☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️
 
 ☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️
 
-☑️☑️☑️☑️☑️☑️⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+☑️☑️☑️☑️☑️☑️☑️⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 
 **Mastered:** 33/59 (56%)
 
@@ -132,7 +132,7 @@ See [Problem-Solving Workflow](wiki/Problem-Solving-Workflow.md) for visual diag
 
 ### 🟡 Priority 2 (Medium)
 
-**Attempted:** 10/23 (43%) ☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜  ⬜⬜⬜
+**Attempted:** 11/23 (48%) ☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️⬜⬜⬜⬜⬜⬜⬜⬜⬜  ⬜⬜⬜
 
 **Mastered:** 6/23 (26%) 🏆🏆🏆🏆🏆🏆⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜  ⬜⬜⬜
 
@@ -147,7 +147,7 @@ See [Problem-Solving Workflow](wiki/Problem-Solving-Workflow.md) for visual diag
 | 7.07 | Remove the kth last element from a list | Ch 7: Linked Lists | [#19](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | Medium | 🏆 | 1 | 8 min |
 | 8.02 | Evaluate RPN expressions | Ch 8: Stacks and Queues | [#150](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | Medium | 👍 | 1 |  |
 | 8.07 | Implement a circular queue | Ch 8: Stacks and Queues | [#622](https://leetcode.com/problems/design-circular-queue/) | Medium | 👍 | 1 |  |
-| 9.02 | Test if a binary tree is symmetric | Ch 9: Binary Trees | [#101](https://leetcode.com/problems/symmetric-tree/) | Easy |  |  |  |
+| 9.02 | Test if a binary tree is symmetric | Ch 9: Binary Trees | [#101](https://leetcode.com/problems/symmetric-tree/) | Easy | 👍 | 1 |  |
 | 9.12 | Reconstruct a binary tree from a preorder traversal with markers | Ch 9: Binary Trees | [#1028](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/) | Hard |  |  |  |
 | 10.03 | Sort an almost-sorted array | Ch 10: Heaps |  |  |  |  |  |
 | 11.03 | Search a cyclically sorted array | Ch 11: Searching | [#33](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Medium |  |  |  |
