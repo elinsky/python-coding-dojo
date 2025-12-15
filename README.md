@@ -8,10 +8,10 @@ My journey through Elements of Programming Interviews in Python.
 
 | Metric | Exposure | Mastery |
 |--------|----------|---------|
-| Remaining | 47 | 28 |
+| Remaining | 46 | 27 |
 | Target Date | Dec 24 (9d) | Dec 31 (16d) |
-| Rate Needed | 5.2/day | 1.8/day |
-| Status | **-2.6 behind** | **+2.0 ahead** |
+| Rate Needed | 5.1/day | 1.7/day |
+| Status | **-1.6 behind** | **+3.0 ahead** |
 
 ## Python Syntax Flashcards
 
@@ -49,11 +49,11 @@ My journey through Elements of Programming Interviews in Python.
 
 ☑️☑️☑️☑️☑️⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 
-**Mastered:** 31/59 (53%)
+**Mastered:** 32/59 (54%)
 
 🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆
 
-🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆⬜⬜⬜⬜⬜⬜⬜⬜⬜
+🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆⬜⬜⬜⬜⬜⬜⬜⬜
 
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 
@@ -103,7 +103,7 @@ See [Problem-Solving Workflow](wiki/Problem-Solving-Workflow.md) for visual diag
 
 **Attempted:** 20/20 (100%) ☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️
 
-**Mastered:** 11/20 (55%) 🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆⬜⬜⬜⬜⬜⬜⬜⬜⬜
+**Mastered:** 12/20 (60%) 🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆⬜⬜⬜⬜⬜⬜⬜⬜
 
 | # | Problem | Chapter | LeetCode | Difficulty | Status | Attempts | Best Time |
 |---|---------|---------|----------|------------|--------|----------|-----------|
@@ -116,7 +116,7 @@ See [Problem-Solving Workflow](wiki/Problem-Solving-Workflow.md) for visual diag
 | 7.03 | Test for cyclicity | Ch 7: Linked Lists | [#141](https://leetcode.com/problems/linked-list-cycle/) | Easy | 🏆 | 2 | 3 min |
 | 8.06 | Compute binary tree nodes in order of increasing depth | Ch 8: Stacks and Queues | [#102](https://leetcode.com/problems/binary-tree-level-order-traversal/) | Medium | 🏆 | 2 | 13 min |
 | 9.04 | Compute the LCA when nodes have parent pointers | Ch 9: Binary Trees |  |  | 🏆 | 2 | 8 min |
-| 10.04 | Compute the k closest stars | Ch 10: Heaps | [#973](https://leetcode.com/problems/k-closest-points-to-origin/) | Medium | 👍 | 1 |  |
+| 10.04 | Compute the k closest stars | Ch 10: Heaps | [#973](https://leetcode.com/problems/k-closest-points-to-origin/) | Medium | 🏆 | 2 | 7 min |
 | 11.04 | Compute the integer square root | Ch 11: Searching | [#69](https://leetcode.com/problems/sqrtx/) | Easy | 👍 | 1 |  |
 | 11.08 | Find the kth largest element | Ch 11: Searching | [#215](https://leetcode.com/problems/kth-largest-element-in-an-array/) | Medium | 👍 | 1 |  |
 | 12.03 | Implement an ISBN cache | Ch 12: Hash Tables | [#146](https://leetcode.com/problems/lru-cache/) | Medium | 👍 | 1 |  |

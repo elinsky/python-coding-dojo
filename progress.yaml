@@ -1389,6 +1389,13 @@ problems:
       time_minutes: 18
       used_hints: true
       used_solution: false
+    - date: '2025-12-15T14:08:59.911216'
+      optimal: true
+      solved: true
+      submissions: 1
+      time_minutes: 7
+      used_hints: false
+      used_solution: false
     chapter: 10_heaps
     chapter_name: Heaps
     file: 1-algorithm-problems/k_closest_stars.py
