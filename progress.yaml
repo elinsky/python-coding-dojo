@@ -3019,7 +3019,7 @@ problems:
     leetcode_name: Construct Binary Tree from Preorder and Inorder Traversal
     leetcode_num: '105'
     name: Reconstruct a binary tree from traversal data
-    priority: P3
+    priority: P2
     problem_number: '9.12'
   tree_from_preorder_with_null:
     attempts: []
@@ -3030,7 +3030,7 @@ problems:
     leetcode_name: Recover a Tree From Preorder Traversal
     leetcode_num: '1028'
     name: Reconstruct a binary tree from a preorder traversal with markers
-    priority: P2
+    priority: P4
     problem_number: '9.13'
   tree_inorder:
     attempts: []
@@ -3083,6 +3083,7 @@ problems:
     chapter_name: Binary Trees
     file: 1-algorithm-problems/tree_right_sibling.py
     name: Compute the right sibling tree
+    priority: P4
     problem_number: '9.16'
   tree_with_parent_inorder:
     attempts: []
@@ -3090,6 +3091,7 @@ problems:
     chapter_name: Binary Trees
     file: 1-algorithm-problems/tree_with_parent_inorder.py
     name: Implement an inorder traversal with constant space
+    priority: P3
     problem_number: '9.11'
   two_sorted_arrays_merge:
     attempts:
