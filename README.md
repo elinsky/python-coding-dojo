@@ -8,10 +8,10 @@ My journey through Elements of Programming Interviews in Python.
 
 | Metric | Exposure | Mastery |
 |--------|----------|---------|
-| Remaining | 41 | 25 |
+| Remaining | 40 | 24 |
 | Target Date | Dec 24 (8d) | Dec 31 (15d) |
-| Rate Needed | 5.1/day | 1.7/day |
-| Status | **-2.2 behind** | **+3.0 ahead** |
+| Rate Needed | 5.0/day | 1.6/day |
+| Status | **-1.2 behind** | **+4.0 ahead** |
 
 ## Python Syntax Flashcards
 
@@ -49,11 +49,11 @@ My journey through Elements of Programming Interviews in Python.
 
 ☑️☑️☑️☑️☑️☑️☑️☑️⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 
-**Mastered:** 34/59 (58%)
+**Mastered:** 35/59 (59%)
 
 🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆
 
-🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆⬜⬜⬜⬜⬜⬜
+🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆⬜⬜⬜⬜⬜
 
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 
@@ -103,7 +103,7 @@ See [Problem-Solving Workflow](wiki/Problem-Solving-Workflow.md) for visual diag
 
 **Attempted:** 20/20 (100%) ☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️
 
-**Mastered:** 14/20 (70%) 🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆⬜⬜⬜⬜⬜⬜
+**Mastered:** 15/20 (75%) 🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆⬜⬜⬜⬜⬜
 
 | # | Problem | Chapter | LeetCode | Difficulty | Status | Attempts | Best Time |
 |---|---------|---------|----------|------------|--------|----------|-----------|
@@ -119,7 +119,7 @@ See [Problem-Solving Workflow](wiki/Problem-Solving-Workflow.md) for visual diag
 | 10.04 | Compute the k closest stars | Ch 10: Heaps | [#973](https://leetcode.com/problems/k-closest-points-to-origin/) | Medium | 🏆 | 2 | 7 min |
 | 11.04 | Compute the integer square root | Ch 11: Searching | [#69](https://leetcode.com/problems/sqrtx/) | Easy | 🏆 | 2 | 4 min |
 | 11.08 | Find the kth largest element | Ch 11: Searching | [#215](https://leetcode.com/problems/kth-largest-element-in-an-array/) | Medium | 🏆 | 2 | 12 min |
-| 12.03 | Implement an ISBN cache | Ch 12: Hash Tables | [#146](https://leetcode.com/problems/lru-cache/) | Medium | 👍 | 1 |  |
+| 12.03 | Implement an ISBN cache | Ch 12: Hash Tables | [#146](https://leetcode.com/problems/lru-cache/) | Medium | 🏆 | 2 | 14 min |
 | 13.02 | Merge two sorted arrays | Ch 13: Sorting | [#88](https://leetcode.com/problems/merge-sorted-array/) | Easy | 🏆 | 1 | 9 min |
 | 14.02 | Find the first key greater than a given value in a BST | Ch 14: Binary Search Trees |  |  | 🏆 | 1 | 3 min |
 | 14.03 | Find the k largest elements in a BST | Ch 14: Binary Search Trees | [#230](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | Medium | 🏆 | 1 | 3 min |

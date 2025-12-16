@@ -1753,6 +1753,13 @@ problems:
       time_minutes: 21
       used_hints: true
       used_solution: false
+    - date: '2025-12-16T12:57:42.902195'
+      optimal: true
+      solved: true
+      submissions: 1
+      time_minutes: 14
+      used_hints: false
+      used_solution: false
     chapter: 12_hash_tables
     chapter_name: Hash Tables
     file: 1-algorithm-problems/lru_cache.py
