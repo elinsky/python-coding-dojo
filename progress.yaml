@@ -2708,7 +2708,14 @@ problems:
     priority: P4
     problem_number: '6.11'
   sort_almost_sorted_array:
-    attempts: []
+    attempts:
+    - date: '2025-12-16T13:20:42.850547'
+      optimal: true
+      solved: true
+      submissions: 1
+      time_minutes: 16
+      used_hints: false
+      used_solution: false
     chapter: 10_heaps
     chapter_name: Heaps
     file: 1-algorithm-problems/sort_almost_sorted_array.py

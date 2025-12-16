@@ -8,10 +8,10 @@ My journey through Elements of Programming Interviews in Python.
 
 | Metric | Exposure | Mastery |
 |--------|----------|---------|
-| Remaining | 40 | 24 |
+| Remaining | 39 | 23 |
 | Target Date | Dec 24 (8d) | Dec 31 (15d) |
-| Rate Needed | 5.0/day | 1.6/day |
-| Status | **-1.2 behind** | **+4.0 ahead** |
+| Rate Needed | 4.9/day | 1.5/day |
+| Status | **-0.2 behind** | **+5.0 ahead** |
 
 ## Python Syntax Flashcards
 
@@ -41,19 +41,19 @@ My journey through Elements of Programming Interviews in Python.
 
 ## Algorithm Problems
 
-**Attempted:** 48/59 (81%)
+**Attempted:** 49/59 (83%)
 
 ☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️
 
 ☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️
 
-☑️☑️☑️☑️☑️☑️☑️☑️⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+☑️☑️☑️☑️☑️☑️☑️☑️☑️⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 
-**Mastered:** 35/59 (59%)
+**Mastered:** 36/59 (61%)
 
 🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆
 
-🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆⬜⬜⬜⬜⬜
+🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆⬜⬜⬜⬜
 
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 
@@ -132,9 +132,9 @@ See [Problem-Solving Workflow](wiki/Problem-Solving-Workflow.md) for visual diag
 
 ### 🟡 Priority 2 (Medium)
 
-**Attempted:** 12/23 (52%) ☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️⬜⬜⬜⬜⬜⬜⬜⬜  ⬜⬜⬜
+**Attempted:** 13/23 (57%) ☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️⬜⬜⬜⬜⬜⬜⬜  ⬜⬜⬜
 
-**Mastered:** 6/23 (26%) 🏆🏆🏆🏆🏆🏆⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜  ⬜⬜⬜
+**Mastered:** 7/23 (30%) 🏆🏆🏆🏆🏆🏆🏆⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜  ⬜⬜⬜
 
 | # | Problem | Chapter | LeetCode | Difficulty | Status | Attempts | Best Time |
 |---|---------|---------|----------|------------|--------|----------|-----------|
@@ -149,7 +149,7 @@ See [Problem-Solving Workflow](wiki/Problem-Solving-Workflow.md) for visual diag
 | 8.07 | Implement a circular queue | Ch 8: Stacks and Queues | [#622](https://leetcode.com/problems/design-circular-queue/) | Medium | 👍 | 1 |  |
 | 9.02 | Test if a binary tree is symmetric | Ch 9: Binary Trees | [#101](https://leetcode.com/problems/symmetric-tree/) | Easy | 👍 | 1 |  |
 | 9.12 | Reconstruct a binary tree from traversal data | Ch 9: Binary Trees | [#105](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium | 👍 | 1 |  |
-| 10.03 | Sort an almost-sorted array | Ch 10: Heaps |  |  |  |  |  |
+| 10.03 | Sort an almost-sorted array | Ch 10: Heaps |  |  | 🏆 | 1 | 16 min |
 | 11.03 | Search a cyclically sorted array | Ch 11: Searching | [#33](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Medium |  |  |  |
 | 11.09 | Find the missing IP address | Ch 11: Searching |  |  |  |  |  |
 | 12.01 | Test for palindromic permutations | Ch 12: Hash Tables |  |  |  |  |  |
