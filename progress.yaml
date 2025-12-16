@@ -226,6 +226,11 @@ flashcards:
   pathlib-basics:
     attempts:
     - count: 16
+      date: '2025-12-16T11:57:34.648550'
+      notes: 'Missed: Q2, Q3, Q4, Q5, Q9, Q11, Q15'
+      score: 9
+      time_seconds: 482
+    - count: 16
       date: '2025-12-06T18:33:21.539277'
       notes: 'Missed: Q3, Q4, Q9, Q15'
       score: 12
