@@ -240,6 +240,11 @@ flashcards:
   pathlib-ops:
     attempts:
     - count: 12
+      date: '2025-12-16T12:07:08.366105'
+      notes: 'Missed: Q1, Q2, Q3, Q4, Q6, Q7, Q11, Q12'
+      score: 4
+      time_seconds: 259
+    - count: 12
       date: '2025-12-06T18:37:35.607905'
       notes: 'Missed: Q1, Q2, Q3, Q4, Q6, Q7, Q10, Q11, Q12'
       score: 4
