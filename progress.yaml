@@ -351,7 +351,14 @@ problems:
     priority: P4
     problem_number: '14.07'
   absent_value_array:
-    attempts: []
+    attempts:
+    - date: '2025-12-16T14:15:43.759429'
+      optimal: false
+      solved: false
+      submissions: 1
+      time_minutes: 15
+      used_hints: false
+      used_solution: true
     chapter: 11_searching
     chapter_name: Searching
     file: 1-algorithm-problems/absent_value_array.py

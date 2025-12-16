@@ -8,10 +8,10 @@ My journey through Elements of Programming Interviews in Python.
 
 | Metric | Exposure | Mastery |
 |--------|----------|---------|
-| Remaining | 38 | 22 |
+| Remaining | 37 | 22 |
 | Target Date | Dec 24 (8d) | Dec 31 (15d) |
-| Rate Needed | 4.8/day | 1.5/day |
-| Status | **+0.8 ahead** | **+6.0 ahead** |
+| Rate Needed | 4.6/day | 1.5/day |
+| Status | **+1.8 ahead** | **+6.0 ahead** |
 
 ## Python Syntax Flashcards
 
@@ -42,13 +42,13 @@ My journey through Elements of Programming Interviews in Python.
 
 ## Algorithm Problems
 
-**Attempted:** 50/59 (85%)
+**Attempted:** 51/59 (86%)
 
 ☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️
 
 ☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️
 
-☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️⬜⬜⬜⬜⬜⬜⬜⬜⬜
+☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️⬜⬜⬜⬜⬜⬜⬜⬜
 
 **Mastered:** 37/59 (63%)
 
@@ -133,7 +133,7 @@ See [Problem-Solving Workflow](wiki/Problem-Solving-Workflow.md) for visual diag
 
 ### 🟡 Priority 2 (Medium)
 
-**Attempted:** 14/23 (61%) ☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️⬜⬜⬜⬜⬜⬜  ⬜⬜⬜
+**Attempted:** 15/23 (65%) ☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️⬜⬜⬜⬜⬜  ⬜⬜⬜
 
 **Mastered:** 8/23 (35%) 🏆🏆🏆🏆🏆🏆🏆🏆⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜  ⬜⬜⬜
 
@@ -152,7 +152,7 @@ See [Problem-Solving Workflow](wiki/Problem-Solving-Workflow.md) for visual diag
 | 9.12 | Reconstruct a binary tree from traversal data | Ch 9: Binary Trees | [#105](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium | 👍 | 1 |  |
 | 10.03 | Sort an almost-sorted array | Ch 10: Heaps |  |  | 🏆 | 1 | 16 min |
 | 11.03 | Search a cyclically sorted array | Ch 11: Searching | [#33](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Medium | 🏆 | 1 | 15 min |
-| 11.09 | Find the missing IP address | Ch 11: Searching |  |  |  |  |  |
+| 11.09 | Find the missing IP address | Ch 11: Searching |  |  | ☑️ | 1 |  |
 | 12.01 | Test for palindromic permutations | Ch 12: Hash Tables |  |  |  |  |  |
 | 12.05 | Find the nearest repeated entries in an array | Ch 12: Hash Tables | [#219](https://leetcode.com/problems/contains-duplicate-ii/) | Easy | 🏆 | 1 | 12 min |
 | 13.05 | Smallest nonconstructible value | Ch 13: Sorting |  |  |  |  |  |
