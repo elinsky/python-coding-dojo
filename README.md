@@ -15,7 +15,7 @@ My journey through Elements of Programming Interviews in Python.
 
 ## Python Syntax Flashcards
 
-**Mastered:** 12/19 (63%) ✅✅✅✅✅✅✅✅✅✅✅✅⬜⬜⬜⬜⬜⬜⬜
+**Mastered:** 12/20 (60%) ✅✅✅✅✅✅✅✅✅✅✅✅⬜⬜⬜⬜⬜⬜⬜⬜
 
 | Category | Status | Target Score | Actual Score | Target Time | Actual Time | Last Drilled |
 |----------|--------|--------------|--------------|-------------|-------------|--------------|
@@ -38,6 +38,7 @@ My journey through Elements of Programming Interviews in Python.
 | 17-regex-python | ⬜ | 8/8 | 3/8 | 4:00 | 2:38 | 2025-12-06 |
 | 18-heaps | ⬜ | 23/23 | 21/23 | 11:30 | 6:59 | 2025-12-09 |
 | 19-sets | ⬜ | 25/25 | 23/25 | 12:30 | 5:03 | 2025-12-09 |
+| 20-itertools | ⬜ | — | — | 10:00 | — | — |
 
 ## Algorithm Problems
 

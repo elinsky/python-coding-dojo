@@ -186,6 +186,10 @@ flashcards:
       time_seconds: 419
     name: 18-heaps
     target_seconds: 690
+  itertools:
+    attempts: []
+    name: 20-itertools
+    target_seconds: 600
   linked-lists:
     attempts:
     - count: 15
