@@ -8,10 +8,10 @@ My journey through Elements of Programming Interviews in Python.
 
 | Metric | Exposure | Mastery |
 |--------|----------|---------|
-| Remaining | 39 | 23 |
+| Remaining | 38 | 22 |
 | Target Date | Dec 24 (8d) | Dec 31 (15d) |
-| Rate Needed | 4.9/day | 1.5/day |
-| Status | **-0.2 behind** | **+5.0 ahead** |
+| Rate Needed | 4.8/day | 1.5/day |
+| Status | **+0.8 ahead** | **+6.0 ahead** |
 
 ## Python Syntax Flashcards
 
@@ -41,19 +41,19 @@ My journey through Elements of Programming Interviews in Python.
 
 ## Algorithm Problems
 
-**Attempted:** 49/59 (83%)
+**Attempted:** 50/59 (85%)
 
 ☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️
 
 ☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️
 
-☑️☑️☑️☑️☑️☑️☑️☑️☑️⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️⬜⬜⬜⬜⬜⬜⬜⬜⬜
 
-**Mastered:** 36/59 (61%)
+**Mastered:** 37/59 (63%)
 
 🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆
 
-🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆⬜⬜⬜⬜
+🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆⬜⬜⬜
 
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 
@@ -132,9 +132,9 @@ See [Problem-Solving Workflow](wiki/Problem-Solving-Workflow.md) for visual diag
 
 ### 🟡 Priority 2 (Medium)
 
-**Attempted:** 13/23 (57%) ☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️⬜⬜⬜⬜⬜⬜⬜  ⬜⬜⬜
+**Attempted:** 14/23 (61%) ☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️⬜⬜⬜⬜⬜⬜  ⬜⬜⬜
 
-**Mastered:** 7/23 (30%) 🏆🏆🏆🏆🏆🏆🏆⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜  ⬜⬜⬜
+**Mastered:** 8/23 (35%) 🏆🏆🏆🏆🏆🏆🏆🏆⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜  ⬜⬜⬜
 
 | # | Problem | Chapter | LeetCode | Difficulty | Status | Attempts | Best Time |
 |---|---------|---------|----------|------------|--------|----------|-----------|
@@ -150,7 +150,7 @@ See [Problem-Solving Workflow](wiki/Problem-Solving-Workflow.md) for visual diag
 | 9.02 | Test if a binary tree is symmetric | Ch 9: Binary Trees | [#101](https://leetcode.com/problems/symmetric-tree/) | Easy | 👍 | 1 |  |
 | 9.12 | Reconstruct a binary tree from traversal data | Ch 9: Binary Trees | [#105](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium | 👍 | 1 |  |
 | 10.03 | Sort an almost-sorted array | Ch 10: Heaps |  |  | 🏆 | 1 | 16 min |
-| 11.03 | Search a cyclically sorted array | Ch 11: Searching | [#33](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Medium |  |  |  |
+| 11.03 | Search a cyclically sorted array | Ch 11: Searching | [#33](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Medium | 🏆 | 1 | 15 min |
 | 11.09 | Find the missing IP address | Ch 11: Searching |  |  |  |  |  |
 | 12.01 | Test for palindromic permutations | Ch 12: Hash Tables |  |  |  |  |  |
 | 12.05 | Find the nearest repeated entries in an array | Ch 12: Hash Tables | [#219](https://leetcode.com/problems/contains-duplicate-ii/) | Easy | 🏆 | 1 | 12 min |

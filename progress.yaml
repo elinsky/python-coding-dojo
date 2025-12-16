@@ -2649,7 +2649,14 @@ problems:
     priority: P4
     problem_number: '11.06'
   search_shifted_sorted_array:
-    attempts: []
+    attempts:
+    - date: '2025-12-16T13:39:41.479573'
+      optimal: true
+      solved: true
+      submissions: 1
+      time_minutes: 15
+      used_hints: false
+      used_solution: false
     chapter: 11_searching
     chapter_name: Searching
     file: 1-algorithm-problems/search_shifted_sorted_array.py
