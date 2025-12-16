@@ -9,9 +9,9 @@ My journey through Elements of Programming Interviews in Python.
 | Metric | Exposure | Mastery |
 |--------|----------|---------|
 | Remaining | 42 | 26 |
-| Target Date | Dec 24 (9d) | Dec 31 (16d) |
-| Rate Needed | 4.7/day | 1.6/day |
-| Status | **+2.4 ahead** | **+4.0 ahead** |
+| Target Date | Dec 24 (8d) | Dec 31 (15d) |
+| Rate Needed | 5.2/day | 1.7/day |
+| Status | **-3.2 behind** | **+2.0 ahead** |
 
 ## Python Syntax Flashcards
 
@@ -31,7 +31,7 @@ My journey through Elements of Programming Interviews in Python.
 | 10-sortedcontainers | ✅ | 13/13 | 13/13 | 6:30 | 3:12 | 2025-12-13 |
 | 11-functools | ✅ | 7/7 | 7/7 | 3:00 | 2:56 | 2025-12-13 |
 | 12-file-io | ✅ | 13/13 | 13/13 | 6:30 | 3:47 | 2025-12-13 |
-| 13-csv | ⬜ | 23/23 | 15/23 | 11:30 | 10:54 | 2025-12-06 |
+| 13-csv | ⬜ | 23/23 | 17/23 | 11:30 | 12:11 | 2025-12-16 |
 | 14-pathlib-basics | ⬜ | 16/16 | 12/16 | 8:00 | 4:02 | 2025-12-06 |
 | 15-pathlib-ops | ⬜ | 12/12 | 4/12 | 6:00 | 2:56 | 2025-12-06 |
 | 16-regex | ⬜ | 21/21 | 15/21 | 10:30 | 4:29 | 2025-12-06 |
@@ -221,4 +221,4 @@ See [Problem-Solving Workflow](wiki/Problem-Solving-Workflow.md) for visual diag
 ---
 
 
-*Last updated: 2025-12-15*
+*Last updated: 2025-12-16*

@@ -89,6 +89,11 @@ flashcards:
   csv:
     attempts:
     - count: 23
+      date: '2025-12-16T11:39:17.766499'
+      notes: 'Missed: Q1, Q2, Q7, Q12, Q15, Q20, Q22'
+      score: 17
+      time_seconds: 731
+    - count: 23
       date: '2025-12-06T18:12:57.602566'
       notes: 'Missed: Q1, Q2, Q11, Q12, Q13, Q15, Q20, Q21'
       score: 15
