@@ -8,10 +8,10 @@ My journey through Elements of Programming Interviews in Python.
 
 | Metric | Exposure | Mastery |
 |--------|----------|---------|
-| Remaining | 37 | 22 |
-| Target Date | Dec 24 (8d) | Dec 31 (15d) |
-| Rate Needed | 4.6/day | 1.5/day |
-| Status | **+1.8 ahead** | **+6.0 ahead** |
+| Remaining | 36 | 22 |
+| Target Date | Dec 24 (7d) | Dec 31 (14d) |
+| Rate Needed | 5.1/day | 1.6/day |
+| Status | **-2.7 behind** | **+4.0 ahead** |
 
 ## Python Syntax Flashcards
 
@@ -121,7 +121,7 @@ See [Problem-Solving Workflow](wiki/Problem-Solving-Workflow.md) for visual diag
 | 11.04 | Compute the integer square root | Ch 11: Searching | [#69](https://leetcode.com/problems/sqrtx/) | Easy | 🏆 | 2 | 4 min |
 | 11.08 | Find the kth largest element | Ch 11: Searching | [#215](https://leetcode.com/problems/kth-largest-element-in-an-array/) | Medium | 🏆 | 2 | 12 min |
 | 12.03 | Implement an ISBN cache | Ch 12: Hash Tables | [#146](https://leetcode.com/problems/lru-cache/) | Medium | 🏆 | 2 | 14 min |
-| 13.02 | Merge two sorted arrays | Ch 13: Sorting | [#88](https://leetcode.com/problems/merge-sorted-array/) | Easy | 🏆 | 1 | 9 min |
+| 13.02 | Merge two sorted arrays | Ch 13: Sorting | [#88](https://leetcode.com/problems/merge-sorted-array/) | Easy | 🏆 | 2 | 6 min |
 | 14.02 | Find the first key greater than a given value in a BST | Ch 14: Binary Search Trees |  |  | 🏆 | 1 | 3 min |
 | 14.03 | Find the k largest elements in a BST | Ch 14: Binary Search Trees | [#230](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | Medium | 🏆 | 1 | 3 min |
 | 15.02 | Generate all nonattacking placements of n-Queens | Ch 15: Recursion | [#51](https://leetcode.com/problems/n-queens/) | Hard | 👍 | 1 |  |
@@ -222,4 +222,4 @@ See [Problem-Solving Workflow](wiki/Problem-Solving-Workflow.md) for visual diag
 ---
 
 
-*Last updated: 2025-12-16*
+*Last updated: 2025-12-17*

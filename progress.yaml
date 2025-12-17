@@ -3156,6 +3156,13 @@ problems:
       time_minutes: 9
       used_hints: false
       used_solution: false
+    - date: '2025-12-17T11:43:51.327800'
+      optimal: true
+      solved: true
+      submissions: 1
+      time_minutes: 6
+      used_hints: false
+      used_solution: false
     chapter: 13_sorting
     chapter_name: Sorting
     file: 1-algorithm-problems/two_sorted_arrays_merge.py
