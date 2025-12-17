@@ -534,12 +534,20 @@ problems:
     name: Buy and sell a stock twice
     problem_number: '5.07'
   calendar_rendering:
-    attempts: []
+    attempts:
+    - date: '2025-12-17T13:25:49.371503'
+      optimal: true
+      solved: true
+      submissions: 2
+      time_minutes: 18
+      used_hints: false
+      used_solution: false
     chapter: 13_sorting
     chapter_name: Sorting
     file: 1-algorithm-problems/calendar_rendering.py
     name: Render a calendar
-    problem_number: '13.06'
+    priority: P2
+    problem_number: '13.05'
   circular_queue:
     attempts:
     - date: '2025-12-15T14:52:38.439210'
@@ -940,7 +948,7 @@ problems:
     chapter_name: Sorting
     file: 1-algorithm-problems/find_salary_threshold.py
     name: Compute a salary threshold
-    problem_number: '13.12'
+    problem_number: '13.11'
   first_missing_positive_entry:
     attempts: []
     chapter: 24_honors_class
@@ -1007,17 +1015,8 @@ problems:
     chapter_name: Sorting
     file: 1-algorithm-problems/group_equal_entries.py
     name: Partitioning and sorting an array with many repeated entries
-    problem_number: '13.09'
-  h_index:
-    attempts: []
-    chapter: 13_sorting
-    chapter_name: Sorting
-    file: 1-algorithm-problems/h_index.py
-    leetcode_difficulty: Medium
-    leetcode_name: H-Index
-    leetcode_num: '274'
-    name: Computing the h-index
-    problem_number: '13.03'
+    priority: P4
+    problem_number: '13.08'
   hanoi:
     attempts:
     - date: '2025-11-25'
@@ -1159,8 +1158,7 @@ problems:
     leetcode_name: Merge Intervals
     leetcode_num: '56'
     name: Merging intervals
-    priority: P3
-    problem_number: '13.07'
+    problem_number: '13.06'
   intervals_union:
     attempts: []
     chapter: 13_sorting
@@ -1170,8 +1168,8 @@ problems:
     leetcode_name: Merge Intervals
     leetcode_num: '56'
     name: Compute the union of intervals
-    priority: P4
-    problem_number: '13.08'
+    priority: P3
+    problem_number: '13.07'
   is_anonymous_letter_constructible:
     attempts:
     - date: '2025-11-23T21:28:30.441197'
@@ -1203,8 +1201,7 @@ problems:
     chapter_name: Sorting
     file: 1-algorithm-problems/is_array_dominated.py
     name: Team photo day---1
-    priority: P3
-    problem_number: '13.10'
+    problem_number: '13.09'
   is_circuit_wirable:
     attempts: []
     chapter: 18_graphs
@@ -2378,7 +2375,7 @@ problems:
     chapter_name: Sorting
     file: 1-algorithm-problems/remove_duplicates.py
     name: Remove first-name duplicates
-    problem_number: '13.04'
+    problem_number: '13.03'
   remove_duplicates_from_sorted_list:
     attempts: []
     chapter: 07_linked_lists
@@ -2711,8 +2708,7 @@ problems:
     chapter_name: Sorting
     file: 1-algorithm-problems/smallest_nonconstructible_value.py
     name: Smallest nonconstructible value
-    priority: P2
-    problem_number: '13.05'
+    problem_number: '13.04'
   smallest_subarray_covering_all_values:
     attempts: []
     chapter: 12_hash_tables
@@ -2770,7 +2766,8 @@ problems:
     leetcode_name: Sort List
     leetcode_num: '148'
     name: Implement a fast sorting algorithm for lists
-    problem_number: '13.11'
+    priority: P3
+    problem_number: '13.10'
   sorted_array_remove_dups:
     attempts: []
     chapter: 05_arrays

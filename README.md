@@ -8,10 +8,10 @@ My journey through Elements of Programming Interviews in Python.
 
 | Metric | Exposure | Mastery |
 |--------|----------|---------|
-| Remaining | 34 | 21 |
+| Remaining | 33 | 20 |
 | Target Date | Dec 24 (7d) | Dec 31 (14d) |
-| Rate Needed | 4.9/day | 1.5/day |
-| Status | **-0.7 behind** | **+5.0 ahead** |
+| Rate Needed | 4.7/day | 1.4/day |
+| Status | **+0.3 ahead** | **+6.0 ahead** |
 
 ## Python Syntax Flashcards
 
@@ -42,19 +42,19 @@ My journey through Elements of Programming Interviews in Python.
 
 ## Algorithm Problems
 
-**Attempted:** 52/59 (88%)
+**Attempted:** 53/59 (90%)
 
 ☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️
 
 ☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️
 
-☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️⬜⬜⬜⬜⬜⬜⬜
+☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️⬜⬜⬜⬜⬜⬜
 
-**Mastered:** 38/59 (64%)
+**Mastered:** 39/59 (66%)
 
 🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆
 
-🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆⬜⬜
+🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆⬜
 
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 
@@ -133,9 +133,9 @@ See [Problem-Solving Workflow](wiki/Problem-Solving-Workflow.md) for visual diag
 
 ### 🟡 Priority 2 (Medium)
 
-**Attempted:** 16/23 (70%) ☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️⬜⬜⬜⬜  ⬜⬜⬜
+**Attempted:** 17/23 (74%) ☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️⬜⬜⬜  ⬜⬜⬜
 
-**Mastered:** 9/23 (39%) 🏆🏆🏆🏆🏆🏆🏆🏆🏆⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜  ⬜⬜⬜
+**Mastered:** 10/23 (43%) 🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜  ⬜⬜⬜
 
 | # | Problem | Chapter | LeetCode | Difficulty | Status | Attempts | Best Time |
 |---|---------|---------|----------|------------|--------|----------|-----------|
@@ -155,7 +155,7 @@ See [Problem-Solving Workflow](wiki/Problem-Solving-Workflow.md) for visual diag
 | 11.09 | Find the missing IP address | Ch 11: Searching |  |  | ☑️ | 1 |  |
 | 12.01 | Test for palindromic permutations | Ch 12: Hash Tables |  |  | 🏆 | 1 | 5 min |
 | 12.05 | Find the nearest repeated entries in an array | Ch 12: Hash Tables | [#219](https://leetcode.com/problems/contains-duplicate-ii/) | Easy | 🏆 | 1 | 12 min |
-| 13.05 | Smallest nonconstructible value | Ch 13: Sorting |  |  |  |  |  |
+| 13.05 | Render a calendar | Ch 13: Sorting |  |  | 🏆 | 1 | 18 min |
 | 14.04 | Compute the LCA in a BST | Ch 14: Binary Search Trees | [#235](https://leetcode.com/problems/lowest-common-ancestor-of-a-bst/) | Medium |  |  |  |
 | 15.03 | Generate permutations | Ch 15: Recursion | [#46](https://leetcode.com/problems/permutations/) | Medium |  |  |  |
 | 16.03 | Count the number of ways to traverse a 2D array | Ch 16: Dynamic Programming | [#62](https://leetcode.com/problems/unique-paths/) | Medium |  |  |  |
