@@ -8,10 +8,10 @@ My journey through Elements of Programming Interviews in Python.
 
 | Metric | Exposure | Mastery |
 |--------|----------|---------|
-| Remaining | 35 | 22 |
+| Remaining | 34 | 21 |
 | Target Date | Dec 24 (7d) | Dec 31 (14d) |
-| Rate Needed | 5.0/day | 1.6/day |
-| Status | **-1.7 behind** | **+4.0 ahead** |
+| Rate Needed | 4.9/day | 1.5/day |
+| Status | **-0.7 behind** | **+5.0 ahead** |
 
 ## Python Syntax Flashcards
 
@@ -42,19 +42,19 @@ My journey through Elements of Programming Interviews in Python.
 
 ## Algorithm Problems
 
-**Attempted:** 51/59 (86%)
+**Attempted:** 52/59 (88%)
 
 ☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️
 
 ☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️
 
-☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️⬜⬜⬜⬜⬜⬜⬜⬜
+☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️⬜⬜⬜⬜⬜⬜⬜
 
-**Mastered:** 37/59 (63%)
+**Mastered:** 38/59 (64%)
 
 🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆
 
-🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆⬜⬜⬜
+🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆🏆⬜⬜
 
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 
@@ -133,9 +133,9 @@ See [Problem-Solving Workflow](wiki/Problem-Solving-Workflow.md) for visual diag
 
 ### 🟡 Priority 2 (Medium)
 
-**Attempted:** 15/23 (65%) ☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️⬜⬜⬜⬜⬜  ⬜⬜⬜
+**Attempted:** 16/23 (70%) ☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️☑️⬜⬜⬜⬜  ⬜⬜⬜
 
-**Mastered:** 8/23 (35%) 🏆🏆🏆🏆🏆🏆🏆🏆⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜  ⬜⬜⬜
+**Mastered:** 9/23 (39%) 🏆🏆🏆🏆🏆🏆🏆🏆🏆⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜  ⬜⬜⬜
 
 | # | Problem | Chapter | LeetCode | Difficulty | Status | Attempts | Best Time |
 |---|---------|---------|----------|------------|--------|----------|-----------|
@@ -153,7 +153,7 @@ See [Problem-Solving Workflow](wiki/Problem-Solving-Workflow.md) for visual diag
 | 10.03 | Sort an almost-sorted array | Ch 10: Heaps |  |  | 🏆 | 1 | 16 min |
 | 11.03 | Search a cyclically sorted array | Ch 11: Searching | [#33](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Medium | 🏆 | 1 | 15 min |
 | 11.09 | Find the missing IP address | Ch 11: Searching |  |  | ☑️ | 1 |  |
-| 12.01 | Test for palindromic permutations | Ch 12: Hash Tables |  |  |  |  |  |
+| 12.01 | Test for palindromic permutations | Ch 12: Hash Tables |  |  | 🏆 | 1 | 5 min |
 | 12.05 | Find the nearest repeated entries in an array | Ch 12: Hash Tables | [#219](https://leetcode.com/problems/contains-duplicate-ii/) | Easy | 🏆 | 1 | 12 min |
 | 13.05 | Smallest nonconstructible value | Ch 13: Sorting |  |  |  |  |  |
 | 14.04 | Compute the LCA in a BST | Ch 14: Binary Search Trees | [#235](https://leetcode.com/problems/lowest-common-ancestor-of-a-bst/) | Medium |  |  |  |
